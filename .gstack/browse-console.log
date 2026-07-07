@@ -1,0 +1,149 @@
+[2026-07-07T16:14:36.928Z] [error] Failed to load resource: the server responded with a status of 405 ()
+[2026-07-07T16:14:44.237Z] [error] Failed to load resource: the server responded with a status of 405 ()
+[2026-07-07T16:14:50.956Z] [log] page_container begin
+[2026-07-07T16:14:51.163Z] [log] start require EntryPoint
+[2026-07-07T16:14:51.163Z] [log] end require EntryPoint
+[2026-07-07T16:14:51.163Z] [log] begin react render
+[2026-07-07T16:14:51.677Z] [log] end react render
+[2026-07-07T16:15:01.214Z] [log] %c数星埋点初始化成功 color: #00bebd
+[2026-07-07T16:15:03.256Z] [log] %c current is rspck版本 color: #00bebd
+[2026-07-07T16:15:04.764Z] [log] %c数星埋点初始化成功 color: #00bebd
+[2026-07-07T16:15:06.334Z] [log] JSHandle@node
+[2026-07-07T16:15:06.335Z] [log] Tue Jul 07 2026 16:15:05 GMT+0000 (GMT)
+[2026-07-07T16:15:06.335Z] [clear] console.clear
+[2026-07-07T16:15:06.336Z] [log] ()=>{}
+[2026-07-07T16:15:06.336Z] [clear] console.clear
+[2026-07-07T16:15:06.436Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:06.436Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:06.436Z] [clear] console.clear
+[2026-07-07T16:15:06.436Z] [clear] console.clear
+[2026-07-07T16:15:06.825Z] [log] JSHandle@node
+[2026-07-07T16:15:06.825Z] [log] Tue Jul 07 2026 16:15:05 GMT+0000 (GMT)
+[2026-07-07T16:15:06.825Z] [clear] console.clear
+[2026-07-07T16:15:06.825Z] [log] ()=>{}
+[2026-07-07T16:15:06.825Z] [clear] console.clear
+[2026-07-07T16:15:06.908Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:06.908Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:06.908Z] [clear] console.clear
+[2026-07-07T16:15:06.972Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:06.973Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:06.973Z] [clear] console.clear
+[2026-07-07T16:15:07.038Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:07.038Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:07.038Z] [clear] console.clear
+[2026-07-07T16:15:07.100Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:07.100Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:07.100Z] [clear] console.clear
+[2026-07-07T16:15:07.106Z] [warning] Scripts may close only the windows that were opened by them.
+[2026-07-07T16:15:07.106Z] [clear] console.clear
+[2026-07-07T16:15:07.226Z] [log] %c数星埋点初始化成功 color: #00bebd
+[2026-07-07T16:15:07.733Z] [log] %c current is rspck版本 color: #00bebd
+[2026-07-07T16:15:08.658Z] [log] JSHandle@node
+[2026-07-07T16:15:08.658Z] [log] Tue Jul 07 2026 16:15:07 GMT+0000 (GMT)
+[2026-07-07T16:15:08.658Z] [clear] console.clear
+[2026-07-07T16:15:08.658Z] [log] ()=>{}
+[2026-07-07T16:15:08.658Z] [clear] console.clear
+[2026-07-07T16:15:08.748Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:08.748Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:08.748Z] [clear] console.clear
+[2026-07-07T16:15:08.748Z] [clear] console.clear
+[2026-07-07T16:15:09.183Z] [log] JSHandle@node
+[2026-07-07T16:15:09.183Z] [log] Tue Jul 07 2026 16:15:07 GMT+0000 (GMT)
+[2026-07-07T16:15:09.183Z] [clear] console.clear
+[2026-07-07T16:15:09.183Z] [log] ()=>{}
+[2026-07-07T16:15:09.183Z] [clear] console.clear
+[2026-07-07T16:15:09.274Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.274Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.274Z] [clear] console.clear
+[2026-07-07T16:15:09.330Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.330Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.330Z] [clear] console.clear
+[2026-07-07T16:15:09.394Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.394Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.394Z] [clear] console.clear
+[2026-07-07T16:15:09.465Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.466Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:09.466Z] [clear] console.clear
+[2026-07-07T16:15:09.466Z] [warning] Scripts may close only the windows that were opened by them.
+[2026-07-07T16:15:09.608Z] [clear] console.clear
+[2026-07-07T16:15:10.275Z] [log] page_container begin
+[2026-07-07T16:15:10.386Z] [log] start require EntryPoint
+[2026-07-07T16:15:10.387Z] [log] end require EntryPoint
+[2026-07-07T16:15:10.388Z] [log] begin react render
+[2026-07-07T16:15:10.433Z] [log] end react render
+[2026-07-07T16:15:13.494Z] [log] %c数星埋点初始化成功 color: #00bebd
+[2026-07-07T16:15:14.181Z] [log] %c current is rspck版本 color: #00bebd
+[2026-07-07T16:15:14.725Z] [log] JSHandle@node
+[2026-07-07T16:15:14.726Z] [log] Tue Jul 07 2026 16:15:14 GMT+0000 (GMT)
+[2026-07-07T16:15:14.726Z] [clear] console.clear
+[2026-07-07T16:15:14.726Z] [log] ()=>{}
+[2026-07-07T16:15:14.726Z] [clear] console.clear
+[2026-07-07T16:15:14.826Z] [table] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:14.826Z] [log] [Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object]
+[2026-07-07T16:15:14.827Z] [clear] console.clear
+[2026-07-07T16:15:14.827Z] [clear] console.clear
+[2026-07-07T16:15:16.075Z] [log] %c数星埋点初始化成功 color: #00bebd
+[2026-07-07T16:15:16.601Z] [log] %c current is rspck版本 color: #00bebd
+[2026-07-07T16:15:45.374Z] [error] Failed to load resource: the server responded with a status of 403 ()
+[2026-07-07T16:15:46.465Z] [debug] Error
+[2026-07-07T16:15:47.155Z] [warning] [.WebGL-0xc4400157800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-07-07T16:15:56.688Z] [info] Connecting to 'wss://cstm.baidu.com/log/index' violates the following Content Security Policy directive: "default-src https: 'unsafe-inline' 'unsafe-eval' data: blob:". Note that 'connect-src' was not explicitly set, so 'default-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken.
+[2026-07-07T16:16:26.722Z] [error] Failed to load resource: net::ERR_TIMED_OUT
+[2026-07-07T16:16:49.188Z] [warning] The resource https://html.duckduckgo.com/font/ProximaNova-Sbold-webfont.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2026-07-07T16:16:49.188Z] [warning] The resource https://html.duckduckgo.com/font/ProximaNova-Reg-webfont.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2026-07-07T16:16:52.703Z] [warning] The resource https://html.duckduckgo.com/font/ProximaNova-Sbold-webfont.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2026-07-07T16:16:52.703Z] [warning] The resource https://html.duckduckgo.com/font/ProximaNova-Reg-webfont.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2026-07-07T16:16:54.866Z] [error] Failed to load resource: the server responded with a status of 429 ()
+[2026-07-07T16:16:56.158Z] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+[2026-07-07T16:16:57.862Z] [warning] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+[2026-07-07T16:17:05.045Z] [warning] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.
+[2026-07-07T16:17:05.261Z] [warning] VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead.
+[2026-07-07T16:17:05.261Z] [warning] VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead.
+[2026-07-07T16:17:09.858Z] [error] Failed to load resource: net::ERR_CONNECTION_CLOSED
+[2026-07-07T16:17:09.991Z] [error] Moment Timezone found Etc/Unknown from the Intl api, but did not have that data loaded.
+[2026-07-07T16:17:23.949Z] [warning] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.
+[2026-07-07T16:17:23.963Z] [warning] VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead.
+[2026-07-07T16:17:23.963Z] [warning] VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead.
+[2026-07-07T16:17:25.953Z] [error] Moment Timezone found Etc/Unknown from the Intl api, but did not have that data loaded.
+[2026-07-07T16:17:26.922Z] [warning] [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.
+https://goo.gle/gpt-message#170
+[2026-07-07T16:18:10.102Z] [error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[2026-07-07T16:19:02.125Z] [error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[2026-07-07T16:19:20.663Z] [log] [nowcoder] AISearch Start
+[2026-07-07T16:19:21.450Z] [log] [pathname] /search/all
+[2026-07-07T16:19:21.450Z] [log] this.isLogin false
+[2026-07-07T16:19:21.450Z] [log] [PathMap[pathname]] undefined
+[2026-07-07T16:19:21.604Z] [log] 需登录
+[2026-07-07T16:19:21.633Z] [log] https://mnowpick.nowcoder.com/m/download?fromPut=mobileB&enterType=11 share
+[2026-07-07T16:19:21.652Z] [error] {msg: 用户未登录, code: 999}
+[2026-07-07T16:19:22.310Z] [log] 需登录
+[2026-07-07T16:19:22.310Z] [error] {success: false, code: 999, msg: need login, data: null}
+[2026-07-07T16:19:22.311Z] [log] 需登录
+[2026-07-07T16:19:22.311Z] [error] {success: false, code: 999, msg: need login, data: null}
+[2026-07-07T16:19:22.379Z] [log] 需登录
+[2026-07-07T16:19:22.379Z] [error] {success: false, code: 999, msg: need login, data: null}
+[2026-07-07T16:19:22.839Z] [error] {success: false, code: -1, msg: 二维码未被扫描, data: null}
+[2026-07-07T16:19:25.840Z] [error] {success: false, code: -1, msg: 二维码未被扫描, data: null}
+[2026-07-07T16:19:29.319Z] [error] Failed to load resource: the server responded with a status of 403 ()
+[2026-07-07T16:19:38.397Z] [log] production
+[2026-07-07T16:19:38.873Z] [log] [pathname] /creation/subject/9b7382be5f92428ab65557ddf5c5d188
+[2026-07-07T16:19:38.873Z] [log] this.isLogin false
+[2026-07-07T16:19:38.873Z] [log] [PathMap[pathname]] undefined
+[2026-07-07T16:19:39.054Z] [log] 需登录
+[2026-07-07T16:19:39.063Z] [log] https://mnowpick.nowcoder.com/m/download?fromPut=mobileB&enterType=11 share
+[2026-07-07T16:19:39.084Z] [error] {msg: 用户未登录, code: 999}
+[2026-07-07T16:19:39.138Z] [log] 需登录
+[2026-07-07T16:19:39.138Z] [error] {msg: 请登录, code: 999}
+[2026-07-07T16:19:39.145Z] [log] 需登录
+[2026-07-07T16:19:39.145Z] [error] {msg: 请登录, code: 999}
+[2026-07-07T16:19:39.152Z] [log] 需登录
+[2026-07-07T16:19:39.152Z] [error] {success: false, code: 999, msg: need login, data: null}
+[2026-07-07T16:19:39.153Z] [error] {success: false, code: 999, msg: need login, data: null}
+[2026-07-07T16:19:39.198Z] [log] 需登录
+[2026-07-07T16:19:39.198Z] [error] {success: false, code: 999, msg: need login, data: null}
+[2026-07-07T16:19:39.774Z] [error] {success: false, code: -1, msg: 二维码未被扫描, data: null}
+[2026-07-07T16:19:42.784Z] [error] {success: false, code: -1, msg: 二维码未被扫描, data: null}
+[2026-07-07T16:19:44.038Z] [warning] 已声明Arms, 请勿重复声明!
+[2026-07-07T16:19:44.094Z] [log] [pathname] /school/salary
+[2026-07-07T16:19:44.094Z] [log] this.isLogin false
+[2026-07-07T16:19:44.094Z] [log] [PathMap[pathname]] undefined
