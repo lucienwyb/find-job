@@ -12,6 +12,8 @@
 - `companies.md` —— 公司清单与调研结果（最终汇总表）
 - `applications.md` —— 投递进展跟踪表
 - `interview-cheatsheet.md` —— 面试讲点速查表
+- `interview_qa_rehearsal.md` —— 面试技术问答预演集（6家高频追问+答题要点）
+- `outreach-messages.md` —— 6家内推私信+Boss招呼语
 - `*-assessment.md` / `*-report.md` —— 各公司岗位深度评估报告
 - `memory.md` —— 循环状态记录（避免重复抓取）
 
