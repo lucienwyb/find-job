@@ -7,8 +7,12 @@
 3. **工资越高越好**（在满足 1、2 之后）。
 
 ## 目录结构
-- `resume.md` —— 简历存档
-- `companies.md` —— 公司清单与调研结果（持续更新）
+- `resume.md` —— 原始简历存档
+- `resume-航天版.md` / `resume-机器人版.md` / `resume-大模型Infra版.md` / `resume-01ai平台版.md` —— 4份针对性简历变体
+- `companies.md` —— 公司清单与调研结果（最终汇总表）
+- `applications.md` —— 投递进展跟踪表
+- `interview-cheatsheet.md` —— 面试讲点速查表
+- `*-assessment.md` / `*-report.md` —— 各公司岗位深度评估报告
 - `memory.md` —— 循环状态记录（避免重复抓取）
 
 ## 循环说明
