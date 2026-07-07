@@ -7,50 +7,45 @@
 - 现职百度云 IaaS 镜像/软件源研发（2025.7–在职）。
 - 住北京北医三院附近，10km 内优先中关村。
 - 不接受 996/大小周/7\*24 on-call。工资越高越好（但距离与强度优先）。
+- 简历全文见 `resume.md`，勿重复粘贴。
 
-## 抓取优先级队列（按方向 + 是否已抓）
-状态：`todo` / `doing` / `done`
+## 网络环境（重要，复用）
+- **外网必须走代理**：`export https_proxy=http://100.66.66.64:8765 http_proxy=http://100.66.66.64:8765`
+- WebFetch 工具不通（socket closed / SSL 错），改用 curl/python+代理。
+- qcc/tianyancha 返回 200 但 **JS 渲染，静态 HTML 无地址**，基本无效。
+- baidu/bing/ddg 搜索页经代理常返回空/反爬。
+- 官网静态页有时有 ICP/版权地址线索（如 horizon.cc 京公网安备110108=海淀）。
+- 策略：优先抓官网"关于/联系"页；其次脉脉/看准网查加班；最后高德测距。
 
-### 机器人 / 人形
-- [done] 银河通用机器人 Galactic General（用户已知，大融城旁）
-- [todo] 星动纪元 Robot Era
-- [todo] 加速进化 Booster Robotics
-- [todo] 星尘智能 Astribot
-- [todo] 逐际动力 LimX（北京办公点?）
-- [todo] 宇树 Unitree（北京办公点）
-- [todo] 智元 Agibot（北京办公点）
-- [todo] 质子机器人 / 千寻智能 / 等
+## 距离参考（北医三院=花园北路）
+- 学院路/五道口/清华科技园 ≈2-3km（最优）
+- 知春路 ≈3km / 苏州街 ≈4-5km / 中关村核心 ≈5-6km
+- 中关村软件园/西北旺 ≈9-11km 边界 / 上地 ≈9-10km 边界 / 西二旗 ≈11-12km 超出
 
-### 大模型 / LLM
-- [todo] 月之暗面 Moonshot
-- [todo] 智谱 Zhipu
-- [todo] 百川 Baichuan
-- [todo] 阶跃星辰 StepFun
-- [todo] 零一万物 01.AI（北京?）
+## 抓取状态（todo/doing/done）
 
-### 智能驾驶
-- [todo] 小马智行 Pony.ai
-- [todo] 地平线 Horizon
-- [todo] 文远知行 WeRide（北京点）
-- [todo] 轻舟智航 Qcraft
-- [todo] 主线科技 TrunkTech
-- [todo] 禾多科技 HoloMart
-- [todo] 毫末智行 HAOMO（北京?）
+### 第1轮 (2026-07-07) — DONE
+- 初始化仓库 + 简历存档 + README + companies 骨架 + memory，已 push 到 github。
+- 用领域知识填了候选清单与置信度，均标 🟡/❓ 待核实。
+- 网络 web 抓取受代理+反爬限制，精确地址未拿到。
 
-### 类星链 / 卫星互联网 / 商业航天
-- [todo] 银河航天 GalaxySpace（★最像星链，北京）
-- [todo] 千乘探索
-- [todo] 九天微星
-- [todo] 蓝箭航天 LandSpace / 星河动力 GalacticEnergy（火箭，北京）
-- [todo] 中科宇航（北京?）
-
-## 本轮（第 1 轮，2026-07-07）
-- 初始化仓库、简历存档、README、memory、companies 骨架。
-- 下一轮：从 银河通用 + 银河航天 + 星动纪元 + 月之暗面 + 小马智行 + 地平线 开始逐个核实地址/距离/工作强度/招聘情况。
+### 下一轮优先级（按顺序逐个核实，勿重复）
+1. [ ] 银河通用 Galactic General：确认"大融城旁"是哪个大融城 → 算距离
+2. [ ] 银河航天 GalaxySpace：北京具体区/地址 → 是否≤10km（⭐最像星链）
+3. [ ] 星动纪元 Robot Era：北京精确地址
+4. [ ] 智谱 Zhipu：是否在清华科技园
+5. [ ] 月之暗面 Moonshot：北京楼宇
+6. [ ] 小马智行 Pony.ai：北京总部地址
+7. [ ] 地平线 Horizon：中关村壹号 or 软件园
+8. [ ] 加速进化/星尘智能：北京点？
+9. [ ] 逐际动力/宇树/智元：是否有北京办公（否则剔除）
+10. [ ] 阶跃星辰/零一万物：是否北京（否则剔除）
+11. [ ] 各公司加班文化（脉脉/看准网）
+12. [ ] 匹配岗位在招情况（Boss直聘/官网）
 
 ## 已确认地址 & 距离（累积）
-（待填，见 companies.md）
+（待填，核实一条记一条）
 
 ## 遗留 / 风险
-- GitHub push 走 SSH 已通（lucienwyb）。
-- 外网抓取若不稳，用代理 http://100.66.66.64:8765。
+- GitHub push 走 SSH 已通（lucienwyb），仓库 https://github.com/lucienwyb/find-job
+- 每轮只增量更新 companies.md / memory.md，commit+push。
