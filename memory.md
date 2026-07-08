@@ -132,6 +132,14 @@
 - **真实加班画像**：猎聘标注"周末双休、弹性工作"——8家里最符合"不忙"硬约束，比之前判断更优。
 - 投递入口确认：galaxy.zhiye.com社招门户 / 猎聘liepin.com/company/9614836 / hr@yinhe.ht / 脉脉内推。
 
+### 第30轮 (2026-07-07) — 自研agent runtime项目规格书
+- 起agent设计M2核心项目"自研轻量agent runtime",存独立文件 `kagent-runtime-spec.md`。这是投Agent编排架构岗的硬通货(没项目投了被当套壳用)。
+- 项目`kagent`：内核级可观测agent runtime。Python+Rust,无LangChain依赖(非套壳)。
+- ★**两个杀手锏复用内核功底做差异化壁垒**：①eBPF agent trace(syscall级观测LLM调用链,别人埋点到函数他到内核事件,面试demo火焰图) ②cgroup v2硬隔离(agent跑飞OOM kill不拖垮宿主)。
+- 8核心模块+10周里程碑+端到端demo(自动化内核bug triage agent,用eBPF/crash经验做工具)+3行简历bullet。
+- **关键意义**：把"7年底层"从"要扔的包袱"变成"agent runtime差异化壁垒",对冲第27轮"Infra换皮底层"担忧——这里底层是杀手锏非日常活。
+- v2工具链补齐:方向论证(10视角511行)+市场地图(8家)+作战计划+核心项目规格书(kagent)。候选人照做3月出MVP即可投架构岗。
+
 ### 第29轮 (2026-07-07) — Agent编排岗北京市场地图(结合市场)
 - 前28轮论证"选哪个方向",本轮落地"哪些公司真在招"。起agent做北京Agent编排岗市场地图。追加career-direction-debate.md(现511行,10视角v2)。
 - **真架构层4家**(自研runtime/协议/评估,非套壳)：字节扣子架构组(规模最大最真)、智谱GLM Agent工程岗、百度文心智能体平台、面壁。偏应用层套壳：月之暗面/百川/腾讯元宝。
