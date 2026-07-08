@@ -132,6 +132,15 @@
 - **真实加班画像**：猎聘标注"周末双休、弹性工作"——8家里最符合"不忙"硬约束，比之前判断更优。
 - 投递入口确认：galaxy.zhiye.com社招门户 / 猎聘liepin.com/company/9614836 / hr@yinhe.ht / 脉脉内推。
 
+### 第31轮 (2026-07-07) — ★v2计划魔鬼代言人(反方验证)
+- 前30轮都在论证"该做什么",本轮起1个agent专门找v2计划漏洞。追加career-direction-debate.md(现569行)。这可能比30轮正向论证更重要。
+- **找到5个失败模式**:①kagent"自研runtime"可能被读成"玩具/not-invented-here"(星<50,资深岗红旗) ②3月学4栈不现实(Python+LLM+Rust+agent架构) ③★杀手锏打错房间(Agent岗考编排/LLM失败模式/评估,不是eBPF/cgroup内核可观测——内核壁垒在agent岗是"用不上的壁垒") ④<50 HC非高流动,3月项目跳不过有2-3年LLM实战的在职者 ⑤百度内部转岗过度乐观(跨域大跳/可能塞回infra/西二旗违反≤10km偏好)。
+- **最尖锐洞察(前30轮集体遗漏)**:他厌的是"优化型+长反馈+低可见度"——agent runtime编排同样是系统优化问题,反馈稍快但度量仍是成功率/成本/延迟,可能半触发同一厌根。真正创意密度可能在"从0到1设计agent行为"(应用层)非"设计runtime"(又一层系统)。v2选runtime恰好踩进这个坑——用对的技术壁垒打错了岗位。
+- **回音室效应警告**:5+agent都默认"内核能迁移agent",但市场信号(<50 HC+偏好LLM实战)在说反话。null hypothesis从未被检验。v2建立在"未经验证的心理假设"上。
+- **退路预案**:kagent项目可改嫁训推Infra——eBPF改GPU可观测、cgroup改显存隔离,投vLLM/SGLang团队,内核技能直接估值命中率更高。同一代码换故事。
+- 修正后:首要先跑第27轮2周实验(v2唯一未验证地基)。若实验确认厌底层抽象层级→agent runtime也排除;若只是厌重复→训推Infra反而是对的,kagent改嫁GPU可观测。
+- 新增待用户回答2问:⑦"底层腻了"是厌抽象层级还是厌"优化型+长反馈+低可见度"体感? ⑧愿先做2周实验再定方向,还是直接commit kagent+agent runtime?
+
 ### 第30轮 (2026-07-07) — 自研agent runtime项目规格书
 - 起agent设计M2核心项目"自研轻量agent runtime",存独立文件 `kagent-runtime-spec.md`。这是投Agent编排架构岗的硬通货(没项目投了被当套壳用)。
 - 项目`kagent`：内核级可观测agent runtime。Python+Rust,无LangChain依赖(非套壳)。
