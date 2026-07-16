@@ -595,3 +595,10 @@
 - 投递执行清单齐备:星动纪元Linux BSP(飞书直投95+)+清程极智智能计算研发(飞书本科+不卡学历)+月之暗面(脉脉内推6月3岗eBPF存储+Coding Agent+Infra系统应用)+银河通用(mokahr5岗OS研发95)+云杉DeepFlow(hr@yunshan.net+GitHub PR)+深势HPC(飞书Hire)+寒武纪(mokahr cambricon)+智谱Agent Infra(mokahr zphz)+百图生科(talent@biomap.com)。
 - 循环进入纯监控态:仅跟踪已投递反馈+银河航天猎聘换IP+CETC zhaopin.cetc.com.cn。不再广撒网发现新公司(边际价值极低,50轮已穷尽)。
 - ★下一步真正该动手投递:进取型从①星动纪元Linux BSP(飞书直投95+量身定制最简单)②清程极智智能计算研发(本科+不卡学历飞书直投)③月之暗面(脉脉内推eBPF命中)开始。情报调研使命彻底完成。
+
+### 第51轮 (2026-07-16) — 躺平型循环饱和,无新增量
+- 情报库1771行companies.md,躺平型已穷尽:外企(红帽清零作废/NVIDIA JR2015006不卡学历50-80万+RSU/安谋SOC Driver量身定制mokahr内推/ARM·TI·Intel融科集群/施耐德·爱立信·西门子965)+国企央企(工行5.8km·中行9.8km数据中心不卡学历非211首选/建信金科卡985/中兴3.5km/中科曙光9.71km/龙芯10.4km/联想/高通3.9km)+事业编(ISCAS软件所OS工程师JD量身定制3.0km本科可投不卡年龄最稳一手/ICT计算所2.7km项目聘用/事业编对非博士门槛高)+运营商研究院(电信9km/移动联通)+银行金融科技全表(建信金科/工行/中行/北京银行/邮储/中信/银联闹市口7.8km)。
+- 地址全部核实可信:银联西城闹市口7.8km/烽火武汉作废/IBM关闭作废/第四范式上地西路7.3km/知存辉煌时代4.81km/必示东升大厦3.11km/工行西三旗5.8km/中行黑山扈9.8km。
+- 投递执行清单齐备:ISCAS OS工程师(jiran@iscas.ac.cn JD量身定制命中率最高)+NVIDIA JR2015006(英文简历不卡学历)+安谋SOC Driver(mokahr内推不卡学历)+工行数据中心(job.icbc.com.cn保底)+中行数据中心+微软MSRA Researcher(120-180万不卡学历需AI Systems叙事内推)。
+- 循环纯监控态:仅跟踪已投递反馈+CETC zhaopin.cetc.com.cn+银河航天猎聘换IP。不再广撒网(边际价值极低,51轮已穷尽)。
+- ★下一步动手投递:躺平型从①ISCAS OS工程师(jiran@iscas.ac.cn JD量身定制bpf1000补丁完全对口本周内发命中率最高)②NVIDIA JR2015006(英文简历不卡学历50-80万+RSU)③安谋SOC Driver(mokahr内推绕HR)开始。情报调研使命彻底完成。
