@@ -923,3 +923,35 @@
 - Broadcom官网SPA未提取地址;百度百科验证码;Bing分词"博通"失败;天眼查/企查查反爬。
 - **LinkedIn核实:Broadcom全球538活跃职位全部位于美国,中国区/北京0个**。美国有匹配的"OS kernel system software development engineer"/"Firmware Engineer"但均不在中国。
 - **结论:剔除**(中国无招聘)。2023收购VMware后全球裁员重组,北京团队可能缩减。broadcom.cn存在但careers需浏览器。建议候选人若考虑relocation可看美国岗。
+
+## 躺平型·L. AMD/Xilinx北京深挖（第39轮，2026-07-16）
+> AMD官方招聘API(careers.amd.com)职位数据实抓。地址+岗位+薪资均官方一手。
+
+### 两个北京办公点（均≤4km）
+| 办公点 | 地址 | 来源 | 距离 |
+|---|---|---|---|
+| **A 融科资讯中心HQ(销售市场)** | 海淀中关村融科资讯中心C座北楼19层 | AMD招聘API req87332/86295 + 维基印证 | **3.95km** |
+| **B 安定路5号院WFOE(工程研发)** | 朝阳安定路5号院5号楼 | AMD招聘API req87501/81040/88483 | **2.77km** |
+- Xilinx收购后:北京团队已合并入AMD安定路办公室,未保留独立点(安定路CQE岗提到"X86或FPGA质量应用支持是加分"承接FPGA/Xilinx产品线)。
+
+### 北京在招岗位(5个,API实抓薪资)
+| 岗位 | 地点 | 年薪CNY | 匹配度 |
+|---|---|---|---|
+| GPU Compiler Development Engineer(req87501) | 安定路 | 41.2-58.8万(34-49K/月) | 中高(C/C++/MLIR/LLVM/Linux,但偏GPU编译器) |
+| Senior GPU Kernel Optimization Engineer(req81040) | 安定路 | 41.2-58.8万 | 中高(C++/CUDA/HIP/Triton,偏AI训推) |
+| Customer Quality Engineer(req88483) | 安定路 | 21.2-30.3万(18-25K/月) | 中低(IC失效分析/FPGA质量支持,非开发) |
+| Sr.Manager Partner Marketing | — | 58.4-83.5万 | — |
+| Business Development Manager | — | 74.8-106.8万 | — |
+
+### ★关键发现:最匹配的Linux内核岗不在北京
+- **Linux Kernel & OS Enablement Engineer(req87894)**=候选人最理想岗,但地点明确写"LOCATION: Shenzhen or Shanghai, China"。
+- 要求:8-15年Linux kernel/OS、内核开发backport、KVM/QEMU虚拟化、openEuler/OpenAnulis国产发行版适配——与候选人**高度匹配**但不在北京。
+- 薪资41.2-58.8万。
+
+### 综合评估
+- 地址确认:两办公室均≤4km通勤便利。
+- **北京岗位匹配度偏低**:北京只有GPU编译器/GPU kernel优化(偏AI/GPU方向,非传统Linux驱动/嵌入式),候选人最匹配的Linux内核岗在深圳/上海。
+- **FPGA底层**:北京有FPGA质量支持(非开发岗),无独立FPGA底层开发岗。
+- 薪资:北京工程岗41-59万/年(34-49K/月),与上海同级持平。
+- **建议**:若愿考虑上海/深圳,Linux Kernel&OS Enablement Engineer(req87894)是最佳匹配;若必须留北京,GPU Compiler/Kernel Optimization是较接近选择(但偏AI/GPU,需评估是否愿转方向)。
+- 修正第36轮"AMD/Xilinx北京50-100万+":北京工程岗实际41-59万(非50-100万+),50-100万+是含管理/BD岗或Senior Staff级别。
