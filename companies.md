@@ -1479,3 +1479,68 @@
 - 潞晨注意:注册大兴26km超限,但海淀有研发点需核实(若海淀则~4km可投)。
 - 5家MEDIUM地址待天眼查核实(清程/松应/视星/光轮/星海图)。
 - 这8家补全"具身数据/仿真/AI训练基础设施"赛道,与云杉DeepFlow/必示(AIOps)形成AI基础设施赛道矩阵。
+
+## ★★躺平型外企投递执行清单（第43轮，2026-07-16）— NVIDIA+安谋科技
+> Workday API+mokahr渲染核实JD原文+投递流程。从"知道有岗"推进到"可直接投递"。
+
+### NVIDIA英伟达 — 4对口岗,JD原文已抓,不卡学历
+**对口岗位(Workday API实抓)**:
+- **JR2015006 Sr Software Engineer-Networking(北京,5+年)★最对口** — JD原文:"C/C++ in Linux(user and/or **kernel modes**);**Kernel&DPDK strongly preferred**;L2/L3/VLAN/STP/OSPF/BGP;优势RDMA/DPDK/NCCL/DeepEP/SONiC/vLLM/SGlang"——匹配极高
+- **JR2015012 Sr SWE-RDMA and DOCA(北京/上海,6+年)** — JD:"C/C++ Linux kernel modes;RDMA/拥塞控制/collective communication/kernel"——极高
+- JR2014724 Sr SWE-Networking and Virtualization(上海,5+年)高 — VIRTIO/SRIOV/DPDK
+- JR1997487 Sr System Software Architect HPC and AI Networking(北京,5+年)中 — 偏AI/DNN
+
+**★不卡学历**:JD原文"Bachelor or above **or equivalent experience**"——明确允许同等经验替代学历,NVIDIA美国公司全球统一标准不设211/985门槛。7年内核+bpf~1000补丁足以过学历关。
+
+**Workday投递流程(已渲染验证)**:
+1. nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite 搜JR编号(如JR2015006)
+2. 点岗位→"Apply"→Workday登录(Google或邮箱注册)
+3. 上传PDF简历(英文优先)→填个人信息/教育/工作/项目
+4. EEO问卷自愿自认表(性别族裔),不填不影响录用,非强制
+5. 无需作品集→提交→门户跟踪状态
+
+**内推渠道**:脉脉搜"NVIDIA内推"(大量在职发帖)+LinkedIn搜NVIDIA Beijing Networking/DPDK员工+一亩三分地/知乎"NVIDIA内推DPDK kernel"+careers@nvidia.com(通用)+公众号"NVIDIA英伟达招聘"。内推流程:员工内部Workday搜JR编号+上传简历推荐语→候选人收邀请邮件→优先筛选进面试。
+
+**简历侧重要点(JR2015006/012)**:英文简历,首页突出"Linux Kernel Developer(7yr)|BPF~1000 patches|DPDK|Ultra-low-latency Networking"。
+| JD要求 | 简历突出 |
+|---|---|
+| C/C++ Linux kernel modes | 统信4年内核,bpf~1000补丁主线,C精通 |
+| Kernel&DPDK strongly preferred | DPDK/gazelle用户态网络,百度云IaaS网络栈 |
+| L2/L3 networking | 上交所UDP15万并发<100us,协议栈深度优化 |
+| RDMA advantage | 百度云RDMA/RoCE,上交所低延迟 |
+| multi-arch | ARM/x86/Zynq多架构内核适配 |
+| debugging | crash/perf精通,内核调试 |
+
+### 安谋科技ARM中国 — 2对口岗,mokahr流程,大概率不卡学历建议内推
+**对口岗位(mokahr渲染JD全文)**:
+- **Sr/Staff SOC Driver Engineer(北京/深/沪,2026-07-01发布,5+年)★量身定制级** — JD:"ARM服务器CPU Linux内核模块+设备驱动;platform code/**Device Tree/ACPI**;PCIe/I2C/SPI/GPIO/watchdog/sensors驱动;**KVM虚拟化VFIO直通**虚拟中断注入;性能SPEC/Stream/Fio/Netperf/**perf**;**silicon bring-up on FPGA/emulation/silicon**;5+年;C精通+ARM架构内核适配设备树编写;调试kgdb/kdump/ftrace/dynamic debug/perf;ARM SystemReady/ServerReady"——匹配极高,JD为候选人量身定制
+- Sr/Staff SOC Software Engineer(多城市,7+年)高 — 7年要求正好匹配
+
+**mokahr投递流程(已渲染验证)**:
+1. app.mokahr.com/apply/armchina/885 顶部三Tab:社会招聘/校园招聘/**内推入口**
+2. 选城市(北京21岗)→点"Sr/Staff SOC Driver Engineer"→看JD→"申请职位"
+3. 登录(手机号验证码或邮箱)→上传PDF简历→填信息/教育/工作→提交
+4. 与银河通用/月之暗面同流程(mokahr统一SaaS)
+
+**内推渠道**:mokahr门户"内推入口"Tab(需内推码找在职员工)+recruitment@armchina.com+脉脉"安谋科技内推"。
+
+**★学历(西安理工非211)**:JD原文"B.Sc./M.Sc./Ph.D. in CS/CE/EE"**未提211/985**无显式门槛。安谋科技合资实体(ARM持股中方主导)介于外企国企间。社招远比校招灵活看经验。7年内核+bpf~1000补丁+上交所/百度云战绩远超普通211应届。**风险**:HR初筛可能学历过滤(非211降权),但**走内推入口可绕过HR直接到部门面试官**。建议优先内推。
+
+**简历侧重要点(SOC Driver)**:中文简历(安谋中国实体),首页突出"ARM Linux内核驱动|7年|Zynq全栈bring-up|BPF~1000补丁"。
+| JD要求 | 简历突出 |
+|---|---|
+| ARM架构内核适配,设备树编写 | 闻翔Zynq(ARM SoC)全栈bring-up,ARM设备树开发 |
+| Linux内核模块设备驱动 | 统信4年内核驱动,C精通,内核子系统深度参与 |
+| PCIe/I2C/SPI/GPIO驱动 | Zynq平台外设驱动,统信多硬件平台驱动适配 |
+| KVM虚拟化VFIO直通 | 内核虚拟化,统信KVM适配 |
+| silicon bring-up on FPGA | 闻翔Zynq FPGA bring-up全流程,硬件调试 |
+| perf/kgdb/kdump/ftrace | perf/crash精通,内核调试实战 |
+| ARM SystemReady/ServerReady | ARM多架构适配,服务器级内核优化 |
+| C精通 | 7年C内核,1000+补丁 |
+★重点强调Zynq ARM FPGA bring-up+设备树/平台代码(该岗最稀缺能力)。
+
+### 投递优先级
+1. **NVIDIA JR2015006**(北京5+年Networking)——最对口Kernel+DPDK+网络协议全匹配,不卡学历
+2. **NVIDIA JR2015012**(北京/沪6+年RDMA/DOCA)——高度对口
+3. **安谋科技SOC Driver**(北京5+年)——量身定制级,Zynq bring-up+ARM内核驱动完美匹配(建议内推)
+4. NVIDIA JR2014724(上海Networking+Virtualization)——备选

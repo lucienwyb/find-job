@@ -533,6 +533,12 @@
   - 5家MEDIUM地址待天眼查(清程/松应/视星/光轮/星海图)。
   - 补全"具身数据/仿真/AI训练基础设施"赛道,与云杉DeepFlow/必示(AIOps)形成AI基础设施赛道矩阵。
 - 第44轮2 agent在跑:深挖云杉/深势/硅基投递细节+复查8家7家新岗位动态。
+- **★★躺平型外企投递执行清单已落盘**(第43轮,NVIDIA+安谋,Workday API+mokahr渲染核实JD原文+投递流程):
+  - NVIDIA 4对口岗(JR2015006 Networking北京5+年最对口/JR2015012 RDMA北京沪6+年/JR2014724上海Net+Virt/JR1997487北京HPC架构)。**★不卡学历**——JD原文"or equivalent experience"明确允许同等经验替代,美国公司全球统一不设211/985。Workday流程:搜JR编号→Apply→登录→英文简历PDF→EEO问卷非强制→提交。内推:脉脉"NVIDIA内推"+LinkedIn。简历首页突出"Linux Kernel Developer 7yr|BPF~1000 patches|DPDK|Ultra-low-latency"。
+  - 安谋科技2对口岗(SOC Driver北京5+年2026-07-01发布★量身定制级JD:ARM服务器CPU内核驱动+设备树/ACPI+PCIe/I2C/SPI+KVM VFIO直通+perf+FPGA bring-up/SOC Software 7+年)。mokahr流程同银河通用。**★大概率不卡学历**——JD未提211/985,合资实体社招看经验,但HR初筛可能学历过滤,**走mokahr内推入口Tab可绕过HR直接部门面试官**,建议优先内推。recruitment@armchina.com。简历中文突出"ARM Linux内核驱动|Zynq全栈bring-up|BPF~1000补丁",重点Zynq ARM FPGA bring-up+设备树(该岗最稀缺)。
+  - 投递优先级:①NVIDIA JR2015006②NVIDIA JR2015012③安谋SOC Driver(内推)④NVIDIA JR2014724。
+  - ★关键:NVIDIA/安谋都不卡学历,是候选人(西安理工非211)躺平型外企高薪对口真路径(此前工行/中行数据中心不卡但薪资低15-30w;NVIDIA50-80万+RSU/安谋40-80万更高且对口)。
+- 第45轮1 agent在跑:核实5家仿真公司(清程/松应/视星/光轮/星海图)+银联北京精确地址。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。
