@@ -409,6 +409,7 @@
   - ★地平线257岗(hotjob.cn API明文JSON非加密):芯片平台驱动Linux/BSP、MCU操作系统、SoC系统软件Boot&DDR、Agent全栈开发工程师(地瓜)、具身智能云AI Infra架构师、模型推理Infra等26高匹配。入口wecruit.hotjob.cn。
   - 方法学:mokahr两路径(apply/social-recruitment);necromancer加密但前端解密渲染DOM即明文;hotjob API明文;银河航天zhiye门户已死(停放页)改猎聘193岗;智谱mokahr slug失效;星动/零一/千乘未突破(HR邮箱/内推)。原始数据存r36b_*.txt/json。
 - **躺平型I节烽火通信坐实已落盘**:海淀学院路40号大唐电信集团园区烽火科技大厦(百度suggestion交叉验证),距北医三院**1.5-2km极近**。但烽火主力研发在武汉,北京对口eBPF高端岗未必常设,Moka筛北京岗确认。央企WLB好薪资25-40万中等偏下卡211/985。社招Moka:app.mokahr.com/social-recruitment/whfhtx/73921。
+- **躺平型J节高通Qualcomm北京已落盘**:3办公点(法人实体PDF+Ventures官网+Wayback交叉验证),最近中关村大厦(中关村路27号)3.9km同海淀。匹配Linux驱动/嵌入式BSP/ARM底层/perf。WLB TeamBlind 3.2/5中偏下。薪资Levels.fyi中国区Senior46.7万/Staff63万/Senior Staff104万,7年对应Senior-Staff 47-63万,稀缺eBPF可谈Staff+。入口careers.qualcomm.com搜Linux+Beijing。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。

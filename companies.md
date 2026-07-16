@@ -868,3 +868,21 @@
 - **薪资**：通信央企中等偏下，7年社招北京粗估25-40万/年总包。低置信(无北京实据)。
 - **学历**：校招偏好211/985，社招看项目但7年仍可能卡211/985本科，央企体系尤甚。
 - **结论**：地址坐实学院路40号1.5-2km极近，但烽火主力研发在武汉，北京对口高端eBPF岗未必常设。Moka筛北京岗确认。央企WLB好但薪资中等偏下+卡学历。
+
+## 躺平型·J. 高通Qualcomm北京（第36轮核实，2026-07-16）
+> 3个办公点官方法人实体PDF+Ventures官网+Wayback交叉验证。地址置信度高。
+
+### 3个北京办公点
+| 办公点 | 地址 | 法人实体 | 距北医三院 |
+|---|---|---|---|
+| **A 中关村大厦(最近)** | 海淀中关村路27号中关村大厦16层 | Qualcomm Wireless Comm Tech (China) | **3.9km**✅(同海淀) |
+| B 北京环球贸易中心(主办公室) | 东城北三环东路36号环球贸易中心C座6层 | Qualcomm International(含Ventures) | 4.4km |
+| C 北京嘉里中心 | 朝阳光华路1号嘉里中心北楼21层 | Qualcomm Wireless Semi Conductor Tech | 11.4km |
+
+- 3点通勤均可接受，最近A点骑行约15min。来源:Qualcomm官方法人实体PDF+Ventures官网+Wayback 2018精确坐标(39.967145,116.409817)。
+
+### 匹配/WLB/薪资
+- **匹配岗位**：招聘站careers.qualcomm.com用Eightfold全JS渲染curl抓不到,需浏览器搜"Linux+Beijing"。基于背景判断高度匹配:Linux驱动(Adreno GPU/显示/Camera-ISP/Modem外设)、嵌入式底层固件(Snapdragon BSP/TrustZone安全启动/bootloader)、内核性能调优/perf、ARM架构底层。候选7年内核/eBPF/ARM/Zynq/C精通直接对口。
+- **WLB**：TeamBlind 1520条评价,WLB 3.2/5中等偏下(外企中不突出),中国区通常比美国总部稍好但芯片项目节点期有加班。中置信。
+- **薪资(Levels.fyi中国区,北京为最高薪城市之一,中高置信)**：Engineer~35.8万/Senior~46.7万/Staff~63万/Senior Staff~104万。候选人7年对应Senior-Staff,预计47-63万,稀缺eBPF技能可谈Staff+(63万+)。
+- **入口**：careers.qualcomm.com/careers/SearchJobs 搜 Linux + Beijing China。
