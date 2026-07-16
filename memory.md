@@ -410,6 +410,16 @@
   - 方法学:mokahr两路径(apply/social-recruitment);necromancer加密但前端解密渲染DOM即明文;hotjob API明文;银河航天zhiye门户已死(停放页)改猎聘193岗;智谱mokahr slug失效;星动/零一/千乘未突破(HR邮箱/内推)。原始数据存r36b_*.txt/json。
 - **躺平型I节烽火通信坐实已落盘**:海淀学院路40号大唐电信集团园区烽火科技大厦(百度suggestion交叉验证),距北医三院**1.5-2km极近**。但烽火主力研发在武汉,北京对口eBPF高端岗未必常设,Moka筛北京岗确认。央企WLB好薪资25-40万中等偏下卡211/985。社招Moka:app.mokahr.com/social-recruitment/whfhtx/73921。
 - **躺平型J节高通Qualcomm北京已落盘**:3办公点(法人实体PDF+Ventures官网+Wayback交叉验证),最近中关村大厦(中关村路27号)3.9km同海淀。匹配Linux驱动/嵌入式BSP/ARM底层/perf。WLB TeamBlind 3.2/5中偏下。薪资Levels.fyi中国区Senior46.7万/Staff63万/Senior Staff104万,7年对应Senior-Staff 47-63万,稀缺eBPF可谈Staff+。入口careers.qualcomm.com搜Linux+Beijing。
+- **进取型新赛道9家已落盘**(companies.md"进取型·新赛道未收录"节)。★新发现:
+  - 龙芯中科(东北旺西路8号软件园10.41km,LoongArch自主CPU中科院计算所孵化,Linux内核/编译器/驱动/BSP与7年eBPF/内核完美对口,"内核工程师终极战场")
+  - 文远知行(知春路6号锦秋1.39km,确认北京海淀点)——与第34轮"智驾Infra"agent报告一致交叉验证
+  - 硅基流动3.18km/无问芯穹2.8km(AI Infra)——硅基与第36轮大模型Infra agent报告一致
+  - 小米汽车(安宁庄小米科技园5.9km,注:工厂亦庄但R&D海淀,修正第34轮"亦庄31km"为工厂地址,R&D实际5.9km)——地址冲突需校验
+  - 知存科技(上地信息路9号7.95km,存算一体,与第35轮子agent"学院路35号世宁大厦1-2km"地址冲突,需校验哪个是实际办公)
+  - 统信软件(9.6km前东家)、滴滴(10.2km)、蔚来(10.35km朝阳)
+  - 剔除潞晨(实际亦庄25km,再次修正)、后摩(南京)/亿铸/本源(合肥)/OpenCloudOS(亦庄)/理想(顺义)。
+- **躺平型K节博通Broadcom剔除**:LinkedIn核实全球538岗全在美国,中国区0岗,2023收购VMware后裁员重组北京团队缩减。剔除。
+- ⚠️地址冲突累计待校验:小米汽车(5.9km R&D vs 31km工厂)、知存科技(7.95km vs 1-2km)、第四范式(两地址)。下轮聚焦校验。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。
