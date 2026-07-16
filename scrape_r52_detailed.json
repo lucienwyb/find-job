@@ -1,0 +1,310 @@
+{
+  "moonshot": [
+    {
+      "name": "隐私协议",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "100100434"
+    }
+  ],
+  "yinhe": [
+    {
+      "name": "隐私协议",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "100134018"
+    }
+  ],
+  "zhipu": [
+    {
+      "name": "隐私协议",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "100113266"
+    }
+  ],
+  "cambricon": [],
+  "horizon": [],
+  "robotera": [
+    {
+      "name": "captcha.zip",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "js_error",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "http",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "performance",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "resource_error",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "resource",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "custom",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "performance_timing",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "performance_longtask",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "pageview",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "action",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "blank_screen",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "机械设计 / 制造 / 维修",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791698585115511048"
+    },
+    {
+      "name": "产品 / 策划 / 项目",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615409933"
+    },
+    {
+      "name": "职能 / 支持",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615311629"
+    },
+    {
+      "name": "高级云服务开发工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7597643247405582619"
+    },
+    {
+      "name": "北京市海淀区中关村东路1号院7号楼威盛大厦7层",
+      "department": "",
+      "city": "{'city_code': 'CT_11', 'name': '北京', 'en_name': 'Beijing', 'i18n_name': '北京', 'py_name': 'beijing'}",
+      "updateTime": "",
+      "id": "7537645455594160132"
+    },
+    {
+      "name": "机器人强化学习（灵巧手方向）",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7595512286324787506"
+    },
+    {
+      "name": "遥操作系统工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7595512081555212571"
+    },
+    {
+      "name": "机器人规控算法工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7595511597217450259"
+    },
+    {
+      "name": " 成本BP",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7574996680383252772"
+    },
+    {
+      "name": "技术产品经理",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7573601627207141674"
+    },
+    {
+      "name": "Linux系统软件及BSP驱动工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7571785644297521459"
+    },
+    {
+      "name": "MCU嵌入式软件工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7571783296507824435"
+    },
+    {
+      "name": "产品市场经理",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7567317808872737033"
+    },
+    {
+      "name": "具身智能大模型算法工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "7550252790111750427"
+    }
+  ],
+  "chitu": [
+    {
+      "name": "captcha.zip",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    }
+  ],
+  "01ai": [
+    {
+      "name": "captcha.zip",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "js_error",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "http",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "performance",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "resource_error",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "resource",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "custom",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "performance_timing",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "performance_longtask",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "pageview",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "action",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    },
+    {
+      "name": "blank_screen",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": ""
+    }
+  ]
+}
