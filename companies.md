@@ -1585,3 +1585,51 @@
 1. **DeepFlow**:现在发hr@yunshan.net(附GitHub PR最佳)
 2. **深势**:现在飞书Hire门户注册投HPC工程师岗+发hr@dp.tech
 3. **硅基流动**:脉脉找内推人+发contact@siliconflow.cn试探
+
+## ★★躺平型·微软+中科院投递执行（第47轮，2026-07-16）
+> careers.microsoft.com Eightfold API+ict.ac.cn/iscas.ac.cn招聘栏+搜狗微信核实。
+
+### ★中科院软件所ISCAS — OS工程师岗(2人)JD量身定制,最稳一手(首选)
+- **地址**:海淀中关村南四街4号(3.0km)
+- **招聘**:智能软件研究中心操作系统工程师(2人),公告iscas.ac.cn/rcdw2016/rczp2016/202605/t20260515_8202616.html(2026-05发布招到为止)
+- **投递**:**jiran@iscas.ac.cn**(主题:应聘职位+姓名),info@iscas.ac.cn,010-62661012
+- **岗1 OS功能定义/核心组件/安全增强** JD要求:①在GCC/LLVM/Glibc/**Linux内核**等核心组件上游有影响力 ②在openEuler/Debian/Ubuntu/Fedora等发行版有长期贡献 ③软件供应链理解 ④熟悉RISC-V/ARM/X86 ⑤**计算机相关专业本科以上学历,有相关工作经历者优先**
+  → ★几乎为候选人量身定制:bpf~1000补丁命中①,统信openEuler贡献命中②,Zynq ARM+x86命中④
+- **岗2 OS硬件支持/启动流程/标准化** JD要求:U-Boot/GRUB2/EDKII/Linux内核实践经验,板级设计调试,固件规范。→闻翔Zynq全栈bring-up(uboot/kernel/rootfs)命中。**本科以上学历有相关工作经历者优先**。
+- **★门槛**:明确"本科以上学历有相关工作经历者优先",**无年龄限制,不卡211**,完全符合。事业编仅博士(优青/优秀学者)给编,候选人大概率项目聘用/合同制,薪资20-30万/年+五险一金+补充医疗+周转公寓+班车+午餐+带薪休假。
+- **简历要点**:量化bpf~1000补丁(具体子系统/贡献);突出openEuler/统信UOS社区贡献与维护角色;显式列GCC/LLVM/Glibc经验;强调RISC-V/ARM/X86指令集;措辞"向Linux内核BPF子系统提交并合入约1000个补丁"+上交所"系统级性能优化/内核网络栈/<100us"。
+- **★结论**:ISCAS OS工程师是躺平型最稳一手(JD直接要内核上游+openEuler贡献,候选人1000补丁完全对口,本科不卡无年龄限制,3.0km近,WLB强事业编单位)。建议本周内发jiran@iscas.ac.cn。
+
+### 中科院计算所ICT — 工程师类岗(2.7km,项目聘用)
+- **地址**:科学院南路6号(2.7km)。招聘ict.ac.cn/rczp/202510/t20251015_7989499.html(2026年度常年有效扫码投递),hr@ict.ac.cn,010-62601207。
+- **岗位分两类**:①特别研究助理(需博士≤35岁A类30万起——候选人不符)②**工程师类(硕士可社招可无年龄限制不卡211——可投)**
+- **ICT对口岗位**:
+  | 岗位 | 部门 | 学历 | 联系人 | 匹配 |
+  |---|---|---|---|---|
+  | 二进制翻译工程师#5 | 处理器芯片重点实验室 | 硕士 | wangyadi@ict.ac.cn | 编译优化/eBPF交集 |
+  | 系统软件工程师#25(专项项目聘) | 先进计算机系统研究中心ACS | 硕士 | majiangning@ict.ac.cn | 内核/系统软件 |
+  | 芯片I/O工程师Linux/FPGA/C++#27 | ACS | 硕士 | 同上 | IC验证(闻翔Zynq对口) |
+  | 分布式系统软件工程师#82(专项项目聘) | 分布式系统研究中心 | 硕士 | liuhuizhen@ict.ac.cn | 上交所高并发/云计算交集 |
+- 注:HPC中心2026年仅招特别研究助理(需博士)候选人不满足。工程师类"富有竞争力薪酬"面议,项目聘用硕士约20-30万/年。
+- **门槛**:工程师类硕士最低无年龄不卡211。本科+7年建议直接联系hr@ict.ac.cn确认本科可投(部分岗如#105写本科)。
+- **简历要点**:#5二进制翻译突出编译优化/指令集翻译/eBPF;#82分布式突出上交所高并发系统编程;#25 ACS突出内核/系统软件/FPGA。
+
+### 微软MSRA — Researcher岗(钱最多120-180万,需AI Systems叙事转换)
+- **实拉careers.microsoft.com Eightfold API**:微软中国全境在招24岗(北京17),全集中在AI研究/销售/咨询。搜kernel/linux/OS中国区**命中0个**(反映微软在华研发收缩、MSRA转向AI)。无纯内核/OS岗位。
+- **对口岗2个**:
+  - **A Researcher(研究员)MSRA首选** — apply.careers.microsoft.com/careers/job/1970393556929043,北京MSRA Technology&Research。JD方向LLM/多模态/Agentic AI/**AI Systems/Infrastructure**(候选人切入点)。学历"Bachelor's,Master's,or PhD"**明确接受本科不卡211**。优选顶会+AI Systems/Infrastructure研究经验。Senior Researcher总包预估**¥120-180万**(现金60-90万+MSFT股票4年vest),965不加班。
+  - B Principal Applied Scientist(Copilot团队) — 1970393556937646,北京兼苏州。JD 70%编码性能优化/瓶颈调优/基础设施。本科/硕士可但**经验硬门槛10+年**(候选人7年偏紧需合并三段经历撑足)。对口度低于Researcher。
+- **投递**:careers.microsoft.com官方直投(Workday/Eightfold注册Microsoft账号+中英文简历)。★内推优先(微软中国常态化内推,脉脉搜"微软内推"找MSRA Systems Research Group现任研究员内推,过筛率远高于海投)。流程recruiter screen→技术面4-6轮→AA面→offer。
+- **MSRA vs工程部门**:MSRA Systems Research Group(组页microsoft.com/en-us/research/group/systems-research-group-asia/)做computing tools/platforms/infrastructures,Researcher岗属此,内核/eBPF/性能/低延迟网络栈可平移到AI训练/推理基础设施,接受本科待遇天花板高。微软中国工程部门北京当前**无任何内核/OS/Azure底层系统工程师岗在招**(API实证)。结论:**MSRA Researcher(Senior档走AI Systems/Infrastructure方向)是当前唯一既接受本科又能承接候选人系统深度的岗**。
+- **★不卡学历**:美国公司"or equivalent experience",Workday不按211过滤,西安理工本科可过筛。但MSRA研究track竞争者多PhD——候选人差异化在**AI Systems/Infrastructure track**(看系统/基础设施工程深度非PhD硬门槛)。bpf~1000补丁+15万并发<100us是稀缺对口工程履历。
+- **简历要点**:①内核/eBPF重构为"AI系统基础设施能力"(1000+bpf补丁→可观测性/内核态迁移到AI训练集群GPU调度/RDMA/eBPF观测训练性能)②上交所UDP15万并发<100us→对标AI推理低延迟高并发③百度云IaaS→分布式/云原生大规模基础设施④crash/perf/eBPF是AI系统性能调优稀缺技能⑤弱化学历用可量化工程产出盖过,有OSDI/SOSP/EuroSys或bpf talk务必突出⑥补个人陈述:为何从内核转向AI Systems(趋势+技能迁移),避免被视为"纯传统内核不懂AI"。
+
+### 躺平型投递优先级(就近+WLB+不卡学历)
+| 优先 | 目标 | 岗位 | 入口 | 关键点 |
+|---|---|---|---|---|
+| 1 | **ISCAS软件所** | OS工程师(2人) | jiran@iscas.ac.cn | ★JD量身定制,本科可投不卡211无年龄,3.0km,WLB强,先发简历 |
+| 2 | ICT计算所 | #5/#25/#82工程师 | hr@ict.ac.cn+各联系人 | 2.7km项目聘用,联系ACS/分布式中心确认本科可投 |
+| 3 | 微软MSRA | Researcher(Senior) | careers.microsoft.com+内推 | 钱最多120-180万965,需AI Systems叙事转换,找内推 |
+
+### ★关键:ISCAS是躺平型"非211+内核对口+不卡年龄"最稳一手
+- 之前躺平型在非211约束下:工行/中行数据中心不卡但薪资低15-30万;NVIDIA/安谋不卡学历高薪50-80万;ISCAS OS工程师岗**JD直接要内核上游+openEuler贡献(候选人1000补丁完全对口),本科可投不卡211不卡年龄,3.0km事业编单位WLB强**——是学历约束下最稳的内核对口岗。

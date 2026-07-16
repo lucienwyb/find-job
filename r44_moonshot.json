@@ -1,10 +1,9 @@
 {
-  "scrape_time": "2026-07-16 11:47:53",
-  "total_expected": 98,
-  "total_scraped": 57,
+  "scrape_time": "2026-07-16 11:58:35",
+  "total_jobs": 93,
   "jobs": [
     {
-      "title": "请选择适合的职位进行投递 立即投递 高性能分布式存储工程师",
+      "title": "高性能分布式存储工程师",
       "publish_date": "2026-07-16",
       "location": "技术类",
       "department": "技术类",
@@ -16,160 +15,61 @@
       "is_new": true
     },
     {
-      "title": "高性能分布式存储工程师",
-      "publish_date": "2026-07-16",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/4f904813-b256-4e0e-b14d-22b77e1cd47e",
-      "description_snippet": "【使命】 在AGI浪潮中，我们致力于打造大模型时代的极致数据底座。我们的目标不是简单的“存数据”，而是通过软硬协同的底层突破，将存储转化为决定AI成本与体验的核心竞争力，让每一次推理与训练都快且便宜。 【我们要做什么】 1. 研发面向大模型推理服务的高性能KVCache存储系统，解决海量增长的上下文长度和推理并发请求数下的成本与性能问题。 2. 深度配合推理业务，在存储架构和推理业务之间寻找出最佳协同设计，持续不断优化和支撑模型推理对存储的需求。 3. 深度应用各种高性能技术，挑战硬件的物理性能极限。 【希望你具备】 1. 扎实的 C++/Rust/Go 编程能力，熟悉多线程、无锁、异步、内存",
-      "matched_keywords": [
-        "存储",
-        "分布式",
-        "高性能"
-      ],
-      "is_new": true
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 数据安全专家",
+      "title": "数据安全专家",
       "publish_date": "2026-07-14",
       "location": "上海市",
       "department": "技术类"
     },
     {
-      "title": "数据安全专家",
-      "publish_date": "2026-07-14",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/5e739454-1a64-4023-91ec-655ec627b82f",
-      "description_snippet": "职位描述 1. 主导 Kimi 产品数据全生命周期安全能力的设计、落地与持续迭代，建立敏感数据识别与分级分类体系，推动自动化识别、标签化、策略化能力在生产环境落地； 2. 设计并实施数据加密、静态/动态脱敏、数据最小化使用等技术方案，解决数据在存储、计算、流转、使用过程中的安全与效率平衡问题，构建数据血缘、访问路径与使用行为的可视化能力； 3. 结合 Zero Trust、最小授权、按需授权、Just-in-Time 等理念，推动精细化、自动化的数据访问控制体系建设，覆盖多云环境； 4. 深度参与大模型（LLM）训练与推理场景下的数据安全与隐私保护，包括训练数据脱敏、Prompt 注入防护、模"
-    },
-    {
-      "title": "全栈极客工程师（AI-Native 方向）",
-      "publish_date": "2026-07-13",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/750e5cb2-e24c-4338-a087-ea5c9c37bf6d",
-      "description_snippet": "我们在找什么样的人？ 我们在寻找 产品构建者（Product Builder） 。我们希望你把 AI 玩出花来，在不同客户端技术栈之间无缝切换。你对 Desktop / Web / Android 都要有“能上手”的底气，而不是被特定的系统或框架框住。 职位要求 211 本科及以上学历，5年以上开发经验（特别优秀者年龄不限）。 全栈交付（大前端视角）： 不设边界。今天可能在折腾 Electron/Tauri 桌面端，明天可能在撸 KMP (Kotlin Multiplatform) 实现逻辑复用，后天可能在实现 Windows/macOS 原生层（Win32/AppKit/C++ 等）的深度系"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 GPU算力采购经理",
-      "publish_date": "2026-07-10",
-      "location": "北京市",
-      "department": "运营类"
-    },
-    {
       "title": "GPU算力采购经理",
       "publish_date": "2026-07-10",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/b148c59d-c393-41e4-b6ca-c2bb190bceaa",
-      "description_snippet": "职位概述 负责公司GPU及相关AI算力硬件的供应商开发与采购执行。需在供应紧张期通过多元渠道保障交付，同时持续优化算力采购成本。 核心职责 1.供应商开发与关系管理 全球供应商管理：开发并维护GPU厂商、服务器OEM/OD、代理商及租赁市场的渠道关系 国产GPU布局：建立与国产芯片厂商的采购合作，支持公司国产化替代战略 供应商分级管理：建立评估体系（交付能力、价格竞争力、技术支持、合规记录），定期审核并优化供应商池 2.采购执行与供应保障 全渠道采购执行：根据技术需求，完成GPU服务器、加速卡、高速网卡（IB/RoCE）、NVMe存储的寻源、比价、谈判、下单及交付跟进 供应风险管理：监控全球G"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 客服运营（境内外）",
-      "publish_date": "2026-07-09",
       "location": "北京市",
       "department": "运营类"
     },
     {
       "title": "客服运营（境内外）",
       "publish_date": "2026-07-09",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/a2a633e5-2e48-4b55-9664-cb18b52cf159",
-      "description_snippet": "**岗位定位** 加入 Kimi 运营团队，负责境内外客服体系的完善与日常管理。确保用户问题被高效解决的同时，将客服打造为公司理解用户需求、驱动产品优化的核心渠道。 **工作内容** 1. 完善现有客服体系，包括服务流程、分级响应机制（SLA）、质量标准与考核，补齐当前体系缺口； 2. 负责境内外用户问题的高效解决与闭环，管理日常客服运营，确保响应时效和用户满意度达标； 3. 建设和维护客服知识库，推进AI chatbot等工具在客服场景的合理应用，提升处理效率和一致性； 4. 具备产品意识，能从用户反馈中主动、精准地捕捉产品优化点，结构化输出给产品和模型团队驱动改进，而非被动等待产品来问； "
+      "location": "北京市",
+      "department": "运营类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 国际化综合运营（合规方向）",
+      "title": "国际化综合运营（合规方向）",
       "publish_date": "2026-07-03",
       "location": "岗位定位加入",
       "department": "运营类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 线下活动策划（海外）",
+      "title": "线下活动策划（海外）",
       "publish_date": "2026-07-03",
       "location": "职位描述",
       "department": "运营类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 营销媒介（商务）",
+      "title": "营销媒介（商务）",
       "publish_date": "2026-07-03",
       "location": "关于我们",
       "department": "市场类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 海外商务合作专家",
+      "title": "海外商务合作专家",
       "publish_date": "2026-07-03",
       "location": "你要做的事负责苹果",
       "department": "市场类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 用户增长专家- SEO与内容策略",
+      "title": "用户增长专家- SEO与内容策略",
       "publish_date": "2026-07-03",
       "location": "职位描述我们是一家充满活力的",
       "department": "市场类"
     },
     {
-      "title": "国际化综合运营（合规方向）",
-      "publish_date": "2026-07-03",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/53cb4b45-f8f4-4fdf-ae47-05489bb1f5de",
-      "description_snippet": "岗位定位 加入 Kimi 国际化运营团队，负责海外业务的合规风控与运营支撑，确保产品在全球市场的合规落地与稳健运营。 工作内容 跟踪并解读目标市场（欧美、东南亚、日韩等）的法律法规与监管动态，包括数据隐私（GDPR/CCPA）、AI伦理、内容安全、未成年人保护等，输出合规风险评估与应对建议； 搭建并维护国际化合规框架与SOP，协同法务、安全、产品团队推进合规要求的产品化落地； 负责海外内容审核策略的制定与优化，平衡用户体验与合规安全，处理敏感案例与 escalation； 支持海外用户运营与社群管理中的合规事务，包括用户协议、隐私政策、投诉处理、数据跨境传输等； 对接外部合规审计与认证，准备合"
-    },
-    {
-      "title": "线下活动策划（海外）",
-      "publish_date": "2026-07-03",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/93e45c79-3fe7-4231-89fa-8ef46ba83c22",
-      "description_snippet": "职位描述： 独立负责公司品牌线下活动的全周期策划与执行，包括但不限于技术沙龙、开发者大会、行业峰会、校园宣讲、品牌快闪等 主导活动方案撰写、预算制定与管控、供应商筛选与谈判，确保活动成本可控、效果最大化 统筹活动现场全流程，包括嘉宾接待、流程把控、危机处理，对活动最终呈现效果负责 建立并维护供应商、场地方、合作伙伴资源库，持续优化合作生态 输出活动传播素材（邀请函、海报文案、活动通稿等），协同市场团队完成活动前后的品牌曝光 搭建活动数据评估体系，定期进行ROI复盘，用数据驱动活动策略迭代 职位要求： 5年以上线下活动策划与执行经验，有科技/互联网/AI行业活动经验者；有境外活动经验 具备完整的"
-    },
-    {
-      "title": "营销媒介（商务）",
-      "publish_date": "2026-07-03",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/627842a2-157a-42ce-9b0c-9b2214a397eb",
-      "description_snippet": "关于我们： 我们是一家处于高速发展阶段的人工智能（AI）公司，汇聚了众多业界顶尖人才，拥有超高人才密度。在这里，你将有机会与在顶刊署名的优秀同事并肩作战，一起站在AI浪潮的前沿。 【你的职责 Your Responsibilities】 - 达人营销商务：根据品牌调性与推广需求，进行社媒达人发掘、筛选、建联、商务谈判全流程，与KOL或其MCN机构建立联系，对结果负责。 - 投放渠道管理：对接国内主流投放渠道，获取并落地潜在的扶持与行业政策、优质库存、测试资格等资源。包括但不限于： - 主导巨量引擎、磁力引擎、腾讯广告等代理的寻源、谈判、合同签署，争取最优条款/账期； - 与抖音、快手、B站、小"
-    },
-    {
-      "title": "海外商务合作专家",
-      "publish_date": "2026-07-03",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/71bebf06-f606-4bb9-9ec1-50b5fe6b39c0",
-      "description_snippet": "你要做的事 负责苹果，Google等关键平台合作，推动产品合作等具体项目落地 拓展全球战略合作伙伴网络：识别并建立与海外各个地区重点渠道，平台，合作方的战略关系 推动 S 级项目全周期落地：作为项目负责人，协调产品、工程、法务、财务、市场等跨职能团队，负责把项目从立项到落地全链路完成带给产品真实收益 我们希望你具备的 5 年以上 海外商务拓展 / 战略合作伙伴 / 平台生态合作经验，有与 Apple、Google或同等全球平台方直接合作经验 能定义合作模式、谈出首发/独家/深度集成，而不只是走标准流程 英语是工作语言，能独立进行高阶商务谈判、撰写战略合作提案，并推动跨国团队落地 对 AI 产品"
-    },
-    {
-      "title": "用户增长专家- SEO与内容策略",
-      "publish_date": "2026-07-03",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/e76a1776-9f98-4d0a-961c-26f18d003efb",
-      "description_snippet": "职位描述 我们是一家充满活力的 AI 创业公司，正在积极寻找具有创业者精神、敢于面对不确定性、主动创新的用户增长专家加入我们的增长团队，一起探索同向 AGI 的道路。 你将通过全漏斗的方法让自然增长（SEO）、转化率优化与Web端内容策略成为可复用的增长发发轮，系统性提升自然流量、关键功能转化与业务指标。 我们的人才观：通用智能 单一技能；进化速度 过去履历；使用 AI Scale 单线程努力；独立思考的审美 跟随共识的安全感；追求真相的好奇心 我一直是对的。 岗位职责 端到端负责 SEO 与 Web 增长：从关键词策略、信息架构、技术实现、内容与模板，到部署、检测与持续迭代。 以 SEO 专"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 Agentic Growth Engineer",
+      "title": "Agentic Growth Engineer",
       "publish_date": "2026-07-01",
       "location": "北京市",
       "department": "技术类",
       "matched_keywords": [
         "Agent"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "Agentic Growth Engineer",
-      "publish_date": "2026-07-01",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/d8c3cd02-15c3-434c-9305-d8fdda83df0e",
-      "description_snippet": "成为一束光，照亮月之暗面。 人们总是看到增长数字的波澜壮阔、曲线昂扬的一面，却鲜有人知增长背后的精细操盘与漫长等待。我们所理解的「增长」比它通常的样子要广义得多 - 它是传播、是实验，是开源的代码，是萌芽的产品，是 Agentic Growth 从研究到复盘之间那条尚未被走通的路。当 AI 开始重塑一切学科，我们想成为最早动手、也走得最远的那群人。 我们用业务结果和持续进化的能力来衡量一个人，用「做对的事情」和「用正确的方法」来定义高效。氛围轻松、沟通直接。我们的人才观：通用智能 单一技能；进化速度 过去履历；使用 AI Scale 单线程努力；独立思考的审美 跟随共识的安全感；追求真相的好奇",
-      "matched_keywords": [
-        "Agent"
-      ],
-      "is_new": false
+      ]
     },
     {
       "title": "Kimi Code",
@@ -178,191 +78,265 @@
       "department": "技术类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 开放平台产品经理",
+      "title": "开放平台产品经理",
       "publish_date": "2026-06-25",
       "location": "岗位职责开放平台产品规划",
       "department": "产品类",
       "matched_keywords": [
         "平台"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "开放平台产品经理",
-      "publish_date": "2026-06-25",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/17fe105b-470b-4a3b-949c-b783df163898",
-      "description_snippet": "岗位职责 开放平台产品规划：负责开放平台整体产品架构设计，承接商业化战略需求，推动AI能力产品化与平台化落地，不依赖既有平台稳定资源，具备独立从0到1搭建产品体系的能力。 AI Agent产品建设：负责 Agents API 商业化产品从0到1的规划设计，构建AI Agent能力体系，支撑B端客户快速构建和部署智能体应用。 MaaS API产品：负责模型即服务（MaaS）API产品能力建设，设计模型推理、评估、监控等全生命周期API体系，打造面向开发者的标准化AI能力输出平台。 商业化支撑：深入理解AI Agent和MaaS API的商业化场景，设计定价策略、接入方案、开发者生态体系，推动产品",
-      "matched_keywords": [
-        "平台"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 Kimi 品牌设计师（Brand Designer）",
+      "title": "Kimi 品牌设计师（Brand Designer）",
       "publish_date": "2026-06-24",
       "location": "职位描述",
       "department": "设计类"
     },
     {
-      "title": "Kimi 品牌设计师（Brand Designer）",
-      "publish_date": "2026-06-24",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/5f21607d-cbef-4423-920e-35ce16c09cbc",
-      "description_snippet": "职位描述： 你将作为设计师，定义新一代 AI 品牌的情感与视觉认知； 全链路参与 Kimi 品牌视觉体系的构建与迭代，与最前沿的大模型团队一起，将 AGI 的技术理想转化为纯粹、有态度、有温度的视觉语言； 共同创造 AI-native 的品牌表达方式，突破传统品牌设计的边界，探索 AI 时代面向大众与企业的品牌触达路径； Taste is a skill. Bring your perspective. 我们珍视你的审美直觉与品牌敏感性，你的设计 sensibility 将直接定义千万级用户对 AGI 品牌的真实感受。 职位要求： 扎实的品牌设计功底，本科及以上学历，4 年以上设计经验，对字体"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 用户增长运营（达人营销方向）",
+      "title": "用户增长运营（达人营销方向）",
       "publish_date": "2026-06-18",
       "location": "主要职责",
       "department": "运营类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 国内PR专家",
+      "title": "国内PR专家",
       "publish_date": "2026-06-18",
       "location": "为什么需要这个角色",
       "department": "市场类"
     },
     {
-      "title": "用户增长运营（达人营销方向）",
-      "publish_date": "2026-06-18",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/569ddd44-5514-46fa-9068-1682489e4c60",
-      "description_snippet": "主要职责： 负责Kimi产品的国内用户增长体系搭建与策略落地，对拉新，促活，留存，转化，复购全链路设计增长策略和方案，并落地； 对用户、内容有理解与判断，能洞察用户需求，围绕产品定位与核心卖点进行内容放大。有策略能力，能结合流量词打磨内容范式；并对效果数据做追踪，完成独立分析和迭代。 自闭环完成数据分析提升增长效率，能深度分析用户行为数据、产品数据，业务数据等，挖掘增长机会点，并完成落地； 独立跟进达人合作全流程，覆盖选号、内容共创、发布排期及投后数据追踪与优化； 职位要求： 本科及以上学历，计算机、市场营销、互联网相关专业优先；AI产品/互联网增长&运营经验优先；有主流媒体达人投放合作经验优"
-    },
-    {
-      "title": "国内PR专家",
-      "publish_date": "2026-06-18",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/c766bf8a-c9b8-4731-8996-192db824623e",
-      "description_snippet": "为什么需要这个角色 Kimi 正在探寻将能源转换为智能的最优解，我们希望把AGI 的可能性翻译让世界听见的那个叙事，人人都听得懂的故事。 我们要做的事 写出让人想转发的故事， 不是通稿，不是软文，是那种让读者读完觉得“我理解 AI 了”的内容——从一条推文到一篇深度长文，从一条短视频脚本到一场发布会的叙事线 在复杂议题中找到简洁的表达。 把模型能力、技术理念、产品哲学变成公众能理解、行业愿引用、用户会记住的句子 构建并守护 Kimi 的公共叙事，让正确的叙事在市场上持续流动，主动设置议题。 在危机中冷静、快速、真诚地回应。 我们不遮掩问题，但我们需要把事实和立场讲清楚的人 我们希望你具备的 3"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 国内用户增长专家（投放方向）",
+      "title": "国内用户增长专家（投放方向）",
       "publish_date": "2026-06-17",
       "location": "职位描述",
       "department": "市场类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 海外用户增长专家（投放方向）",
+      "title": "海外用户增长专家（投放方向）",
       "publish_date": "2026-06-17",
       "location": "职位描述",
       "department": "市场类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 AI数据平台工程师",
+      "title": "AI数据平台工程师",
       "publish_date": "2026-06-17",
       "location": "北京市",
       "department": "技术类",
       "matched_keywords": [
         "平台"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "国内用户增长专家（投放方向）",
-      "publish_date": "2026-06-17",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/318d3a0b-ef39-4361-a27b-9c086933b7fe",
-      "description_snippet": "职位描述： 负责公司产品在各类国内广告渠道（包括但不限于主流信息流、厂商、搜索）的推广投放；如果有小众渠道从0到1的成功增长经验加分 根据产品计划和市场情况，及时调整广告投放计划，完成目标KPI 定期对在投渠道的效果进行整体分析，优化广告投放策略/产品详情页，控制预算和成本，确保广告效果最大化 与创意团队紧密沟通，确保广告创意及素材文案与市场策略相匹配， 对广告创意表现进行数据分析与总结， 对接广告平台和内部技术部门，确保广告投放流程的顺畅。 职位要求： 本科以上学历 3年以上广告投放相关工作经验（包含web端），熟悉各大广告平台的运作机制，有应用工具类或者有AI行业背景加分 有一定的文案和美"
-    },
-    {
-      "title": "海外用户增长专家（投放方向）",
-      "publish_date": "2026-06-17",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/cd42cf26-518a-4dd6-bbd0-1cdfa1ece6f9",
-      "description_snippet": "职位描述： 负责公司产品在各类境外广告渠道（包括但不限于主流信息流、厂商、搜索）的推广投放；如果有小众渠道从0到1的成功增长经验加分 根据产品计划和市场情况，及时调整广告投放计划，完成目标KPI 定期对在投渠道的效果进行整体分析，优化广告投放策略/产品详情页，控制预算和成本，确保广告效果最大化 与创意团队紧密沟通，确保广告创意及素材文案与市场策略相匹配， 对广告创意表现进行数据分析与总结， 对接广告平台和内部技术部门，确保广告投放流程的顺畅。 职位要求： 本科以上学历，有留学经验加分 3年以上境外投放经验，熟悉各大广告平台的运作机制，有应用工具类或者有AI行业背景加分 对海外市场，用户行为等有"
-    },
-    {
-      "title": "AI数据平台工程师",
-      "publish_date": "2026-06-17",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/9e476b2f-fa31-4afc-b4c2-c4ab4d082ecd",
-      "description_snippet": "岗位职责 负责数据智能 Agent 开发，支持自然语言查数、Text2SQL、智能归因等场景，推动 LLM 与数据平台深度联动 协助数仓语义层建设，配合指标平台与血缘系统实现语义资产标准化 负责统一数据 API 服务层开发，将数仓资产（表/指标/标签）封装为标准化接口，建设网关、权限与缓存体系 深入业务用数场景，独立或协作开发提效工具，推动工具平台化 参与数据架构设计与治理工具开发，推动数仓规范、资产目录及性能优化落地 任职要求 本科及以上学历，3年及以上数据平台开发经验，扎实的 coding能力（java、python或go至少精通一个） 熟悉大数据生态体系，具备 SQL 优化与数据建模能力",
-      "matched_keywords": [
-        "平台"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 Business Builder & Ecosystem",
+      "title": "Business Builder & Ecosystem",
       "publish_date": "2026-06-16",
       "location": "广东",
       "department": "市场类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 Solution Architect",
+      "title": "Solution Architect",
       "publish_date": "2026-06-16",
       "location": "美国",
       "department": "技术类"
     },
     {
-      "title": "Business Builder & Ecosystem",
-      "publish_date": "2026-06-16",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/7e79b93b-25ec-4545-88b4-09754ec9bb79",
-      "description_snippet": "AI技术正在重塑商业的底层逻辑，但商业化路径远未定型。这是一个开放式命题：参与定义AI时代\"如何把技术转化为价值\"的方法论。我们不寻找标准答案，只寻找既懂AI原生逻辑、又有商业敏锐度的人，期待你能把探索转化为pipeline和revenue，对quota负责，用你的数据证明路径有效。 希望你做什么 探索多元路径。设计并验证商业化假设——客户可能藏在传统产业的数字化转型里，也可能诞生在下一个爆火的开源项目早期贡献者名单中；合作可能是一笔标准订单，也可能是一次生态共建。潜入技术前沿与商业现场的交叉地带，在趋势成为共识前完成卡位。 构建复合能力。既能写严谨的提案，也能写有感染力的技术内容；既能推进标"
-    },
-    {
-      "title": "Solution Architect",
-      "publish_date": "2026-06-16",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/5d13f42e-8c37-4d25-a27e-b6c12d8c6f34",
-      "description_snippet": "这个岗位的核心价值，是 成为客户成功和内部产品之间的翻译器与放大器 。你需要既懂模型底层的技术逻辑，又懂企业客户的业务语言，还能在两者之间找到那条最短路径。你简历上的title是\"研发\"还是\"SA\"还是\"架构师\"其实完全open——我们在乎的是， 你能不能在不确定的场景里，自己找到确定的价值 。 这个岗位做什么 技术对话的\"定海神针\"： 你是客户有技术问题的第一道入口。你的专业度直接决定客户愿不愿意继续往下谈。必要时拉通内部资源，但你是那个让客户觉得\"这个人懂行\"的人。 方案宣讲的价值放大器： 面对不同的角色，你知道大家希望听到什么。你的技术可信度决定了客户愿不愿意听，你的商业敏锐度决定了客户"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 资深资金专家 / Treasury Manager",
+      "title": "资深资金专家 / Treasury Manager",
       "publish_date": "2026-06-15",
       "location": "北京市",
       "department": "职能类"
     },
     {
-      "title": "资深资金专家 / Treasury Manager",
-      "publish_date": "2026-06-15",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/264fc83f-bc0c-4685-a2cc-a03e83f81d71",
-      "description_snippet": "岗位职责 统筹集团全球资金管理体系，直接管理大规模资金头寸，在保障资金安全与流动性的前提下，持续优化闲置资金收益率，对资金成本与收益高度敏感 主导设计并落地结构化融资方案，优化集团资本结构与财务杠杆，支持业务战略扩张 统筹跨境资金池搭建与运营，管理外汇套期保值及利率风险对冲策略，确保跨境资金合规、高效流转 建立并完善资金预测、流动性管理及风险预警机制，提升资金使用效率 对接银行、金融机构及投资人，维护并拓展核心融资渠道与合作关系 任职要求 5-8年资金管理、企业融资或投资银行相关经验，具备直接管理大规模资金的实操经历 精通结构化融资设计，有成功主导大型项目融资或复杂融资方案落地的案例 熟悉跨境"
+      "title": "Harness 研究工程师",
+      "publish_date": "2026-06-12",
+      "location": "北京市",
+      "department": "技术类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 资深后端工程师-商业化",
+      "title": "预训练数据工程师",
+      "publish_date": "2026-06-09",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "数据安全研发工程师",
+      "publish_date": "2026-06-04",
+      "location": "上海市",
+      "department": "技术类"
+    },
+    {
+      "title": "Agent Engineer / Agent 工程师",
+      "publish_date": "2026-06-03",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "评估系统工程师（Eval Engineer）",
+      "publish_date": "2026-06-03",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "业务攻防技术专家",
+      "publish_date": "2026-06-02",
+      "location": "上海市",
+      "department": "技术类"
+    },
+    {
+      "title": "机器学习平台 SRE 工程师",
+      "publish_date": "2026-05-28",
+      "location": "广东",
+      "department": "技术类",
+      "matched_keywords": [
+        "SRE",
+        "平台"
+      ]
+    },
+    {
+      "title": "高级网络工程师 Senior Network Engineer",
+      "publish_date": "2026-05-28",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "AI C端产品经理",
+      "publish_date": "2026-05-27",
+      "location": "上海市",
+      "department": "产品类"
+    },
+    {
+      "title": "机器学习平台工程师（Kubernetes / GPU 基础设施方向）",
+      "publish_date": "2026-05-27",
+      "location": "广东",
+      "department": "技术类",
+      "matched_keywords": [
+        "平台",
+        "基础设施"
+      ]
+    },
+    {
+      "title": "Kubernetes 调度器开发工程师",
+      "publish_date": "2026-05-27",
+      "location": "广东",
+      "department": "技术类",
+      "matched_keywords": [
+        "调度"
+      ]
+    },
+    {
+      "title": "AI 战略用研专家",
+      "publish_date": "2026-05-25",
+      "location": "职位描述主导",
+      "department": "职能类"
+    },
+    {
+      "title": "资深后端工程师-商业化",
       "publish_date": "2026-05-18",
       "location": "北京市",
       "department": "技术类"
     },
     {
-      "title": "资深后端工程师-商业化",
-      "publish_date": "2026-05-18",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/0079d23b-912d-4033-b9a4-22d7d970ba08",
-      "description_snippet": "职位描述 我们是一家充满活力的 AI 创业公司，正在积极寻找具有创业者精神、敢于面对不确定性、主动创新的开发工程师加入我们的增长团队，一起探索通向 AGI 的道路。 岗位职责 负责主导商业化内核与支付适配的总体设计、开发、落地及演进，支撑跨市场、高可用的会员订阅式商业化平台的管理与优化。 依据公司与部门的战略以及业务实际需求，制定研发路线图并把控各子系统的优先级。 构建数据口径、对账与审计、运营管理后台等，提升ARR。 与其他研发、业务运营、后台支持团队紧密协作，制定并达成 SLO/SLI，保障关键业务零中断、用户体验卓越。 职位要求 5 年以上会员商业化领域（订阅/支付/订单等）的后端开发经"
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 AI 数据资源运营/采购经理",
+      "title": "AI 数据资源运营/采购经理",
       "publish_date": "2026-05-17",
       "location": "北京市",
       "department": "运营类"
     },
     {
-      "title": "AI 数据资源运营/采购经理",
+      "title": "大模型Eval评测（工程方向/产品方向）",
       "publish_date": "2026-05-17",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/0651d956-1b9f-47a3-9568-03afb140f3d9",
-      "description_snippet": "岗位职责 1. 全球数据资源调研与 Sourcing 深度理解 Kimi 模型训练的数据需求（ 预训练、SFT、RL、多模态 ），拆解数据类型、质量标准与分布目标，开展全球市场情报扫描，追踪 AI 数据产业趋势与供应商情况； 同步海内外定向发掘优质数据供应商 ，建立横跨海内外的供应商筛选与准入机制，精准匹配模型训练需求，持续扩充全球化供应商池； 提炼全球市场洞察与数据资源洞察，为模型训练 数据采买 提供决策依据。 2. 供应商交付与全生命周期管理 负责新引入供应商（ 含海外供应商 ）的项目落地，主导技术测试、资质审查与能力验证，推动供应商高效接入内部数据 pipeline； 主导商务前置流程工"
+      "location": "产品类",
+      "department": "产品类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 Post-Training Algorithm Researcher/Engineer",
+      "title": "内容安全负责人",
+      "publish_date": "2026-05-12",
+      "location": "工作职责",
+      "department": "技术类"
+    },
+    {
+      "title": "RL infra",
+      "publish_date": "2026-05-11",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "Infra",
+        "infra"
+      ]
+    },
+    {
+      "title": "业务攻防技术专家",
+      "publish_date": "2026-05-11",
+      "location": "广东",
+      "department": "技术类"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "publish_date": "2026-05-06",
+      "location": "你做什么与海外客户和渠道伙伴深度协作",
+      "department": "技术类"
+    },
+    {
+      "title": "API开放平台工程师",
+      "publish_date": "2026-04-23",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "平台"
+      ]
+    },
+    {
+      "title": "数据开发工程师",
+      "publish_date": "2026-04-21",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "数据开发",
+      "publish_date": "2026-04-19",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "KIMI产品设计师",
+      "publish_date": "2026-04-16",
+      "location": "上海市",
+      "department": "设计类"
+    },
+    {
+      "title": "AI Coding Mentor",
+      "publish_date": "2026-04-14",
+      "location": "技术类",
+      "department": "技术类"
+    },
+    {
+      "title": "AI Native 产品经理（C端 / Agent方向）",
+      "publish_date": "2026-04-10",
+      "location": "职位定位",
+      "department": "产品类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "用户增长专家 - SEO与内容策略",
+      "publish_date": "2026-04-09",
+      "location": "职位描述我们是一家充满活力的",
+      "department": "市场类"
+    },
+    {
+      "title": "Agent产品工程师（multi-agent 方向）",
+      "publish_date": "2026-04-08",
+      "location": "产品类",
+      "department": "产品类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "Post-Training Algorithm Researcher/Engineer",
       "publish_date": "2026-04-03",
       "location": "算法类",
       "department": "算法类"
@@ -376,117 +350,345 @@
         "Agent",
         "Infra",
         "infra"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "Post-Training Algorithm Researcher/Engineer",
-      "publish_date": "2026-04-03",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/faf002c6-3b8b-4154-912d-ec109001c28b",
-      "description_snippet": "Job Description: 1. Deeply participate in data processing, cleaning, and optimization for CodeLLM; scientifically improve, filter, and balance the data quality used in LLM pre-training and alignment to enhance the model’s code and agent capabilities during the Pretrain and SFT stages. 2. Actively en"
+      "title": "LLM推理优化工程师",
+      "publish_date": "2026-04-01",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "推理"
+      ]
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 RL Infra 研究工程师",
+      "title": "Infra 系统工程师 - 训练平台",
+      "publish_date": "2026-04-01",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统",
+        "Infra",
+        "infra",
+        "平台"
+      ]
+    },
+    {
+      "title": "KIMI前端开发工程师（主站方向）",
+      "publish_date": "2026-03-28",
+      "location": "职位描述与产品",
+      "department": "技术类"
+    },
+    {
+      "title": "开放平台测试工程师",
+      "publish_date": "2026-03-23",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "平台"
+      ]
+    },
+    {
+      "title": "多语言海外增长营销",
+      "publish_date": "2026-03-17",
+      "location": "我们正在寻找一位具有实战经验和战略视角的小语种市场创意增长专家",
+      "department": "市场类"
+    },
+    {
+      "title": "海外PR专家",
+      "publish_date": "2026-03-12",
+      "location": "岗位职责",
+      "department": "市场类"
+    },
+    {
+      "title": "iOS Architect",
+      "publish_date": "2026-03-06",
+      "location": "上海市",
+      "department": "技术类"
+    },
+    {
+      "title": "iOS Engineer",
+      "publish_date": "2026-02-26",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "大数据处理工程师（模型训练数据方向）",
+      "publish_date": "2026-02-26",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "coding engineer",
+      "publish_date": "2026-02-26",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "Kimi For Coding 系统工程师",
+      "publish_date": "2026-02-25",
+      "location": "工作内容",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "高级 SRE 工程师 Senior Site Reliability Engineer",
+      "publish_date": "2026-02-23",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "SRE"
+      ]
+    },
+    {
+      "title": "系统工程师-LLM 推理系统",
+      "publish_date": "2026-01-30",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统",
+        "推理"
+      ]
+    },
+    {
+      "title": "RL Infra 研究工程师",
       "publish_date": "2026-01-19",
       "location": "北京市",
       "department": "算法类",
       "matched_keywords": [
         "Infra",
         "infra"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "RL Infra 研究工程师",
-      "publish_date": "2026-01-19",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/6a3ff164-ebcc-4b2f-97ac-0f21ed8327d4",
-      "description_snippet": "职位描述： 主要负责维护和开发Moonshot内部的强化学习后训练框架，支持万亿参数模型reasoning、agentic等方向的文本&多模态RL后训练； 与训练推理引擎方向的团队合作，探索算法、框架、硬件的协同设计，提升大规模强化学习训练的稳定性和效率； 职位要求： 有扎实的工程算法基础和工程实现能力，熟悉Python等语言，熟练掌握Pytorch等深度学习框架和常见性能调试/分析工具； 对Megatron-LM/vLLM等主流训推引擎有深入的了解，对大模型RL训练中的实际问题（如训推不一致、Rollout长尾等）排查和解决有经验； 有扎实的强化学习算法基础和实际RL训练经验； 加分项：有出",
-      "matched_keywords": [
-        "Infra",
-        "infra"
-      ],
-      "is_new": false
+      "title": "内容安全运营专家",
+      "publish_date": "2026-01-04",
+      "location": "北京市",
+      "department": "运营类"
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 Coding 系统工程师",
+      "title": "HRBP",
+      "publish_date": "2026-01-04",
+      "location": "岗位职责一",
+      "department": "职能类"
+    },
+    {
+      "title": "Coding 系统工程师",
       "publish_date": "2025-12-02",
       "location": "人们总是看到",
       "department": "技术类",
       "matched_keywords": [
         "系统"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 大规模推理系统工程师",
-      "publish_date": "2025-12-02",
-      "location": "工作职责",
-      "department": "技术类",
-      "matched_keywords": [
-        "系统",
-        "推理"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 Infra 系统应用工程师",
-      "publish_date": "2025-12-02",
-      "location": "工作职责",
-      "department": "技术类",
-      "matched_keywords": [
-        "系统",
-        "Infra",
-        "infra"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "Coding 系统工程师",
-      "publish_date": "2025-12-02",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/5802f8af-f3f3-42bb-b9e6-0bf281017ff4",
-      "description_snippet": "人们总是看到 Coding 产物恢弘靓丽、惊世骇俗的一面，却鲜有人知 Coding 背后的艰辛，我们希望你能和我们一起负重前行，让我们的用户更加岁月静好。 工作内容： 1. 基建：构造一个完整的用于评估模型代码能力的基础设施 2. 出题：构造一批能体现真实编码任务的评估测试集 3. 移花接木：把不同世界的运行规则恰当地连接起来 我们想找的人： 1. 不需要从小热爱写代码，现在热爱写代码就可以 2. 想做就做，该造轮子就造轮子 3. 能理解代码的美感，能讲究，也能将就 4. 各种 Benchmark 都跑过，能跑起来就更好了 人们总是看到 Coding 产物恢弘靓丽、惊世骇俗的一面，却鲜有人知 ",
-      "matched_keywords": [
-        "系统"
-      ],
-      "is_new": false
+      ]
     },
     {
       "title": "大规模推理系统工程师",
       "publish_date": "2025-12-02",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/3844381e-116a-46a5-a76c-c607c131ff39",
-      "description_snippet": "工作职责： 设计稳健运行的分布式服务架构； 优化超大规模线上推理集群运行效率； 任职需求: 985/211高校研究生以上学历或优秀本科生 热爱写代码，熟悉编译原理、操作系统、计算机网络等计算机基础知识 熟练掌握一种编程语言，python，golang，rust，typescript优先 对AI技术和分布式系统有强烈的学习热情 具备良好的团队协作能力和沟通能力 加分项: 有自己精心维护、参与的github开源项目 熟练使用各种AI编码工具，同时保持优秀的代码质量 有大模型推理系统、分布式、网络、数据库相关研究经验 有相关方向的项目或实习经验 工作职责： 设计稳健运行的分布式服务架构； 优化超大规",
+      "location": "工作职责",
+      "department": "技术类",
       "matched_keywords": [
         "系统",
         "推理"
-      ],
-      "is_new": false
+      ]
     },
     {
       "title": "Infra 系统应用工程师",
       "publish_date": "2025-12-02",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/ab9bb466-4f4e-4562-86f3-8306531b1481",
-      "description_snippet": "工作职责： 熟悉主流模型开放平台（Kimi、DeepSeek、Anthropic、OpenAI 等），精通 OpenAI API 标准。 大模型技术落地：将 Function Call、MCP、Agent 等能力融入产品功能，推动多场景高效应用。 Prompt 优化：精通 Prompt 写作，持续优化产品交互中的 Prompt 设计，提升用户与大模型交互的流畅性、准确性和智能性，打造卓越的用户体验。 设计并维护 LLM 生产管线：网关、任务流、后台页面，保证稳定、高效、可观测 一线对接开发者或者客户，深刻了解用户痛点并持续提出改进建议 任职要求： 拥有良好的代码开发习惯，熟练掌握至少一种编程语",
+      "location": "工作职责",
+      "department": "技术类",
       "matched_keywords": [
         "系统",
         "Infra",
         "infra"
-      ],
-      "is_new": false
+      ]
+    },
+    {
+      "title": "资深AI产品测试工程师",
+      "publish_date": "2025-12-02",
+      "location": "职位描述",
+      "department": "技术类"
+    },
+    {
+      "title": "Agent Development Engineer",
+      "publish_date": "2025-12-02",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "数据项目经理（代码方向）Agent coding PMO",
+      "publish_date": "2025-11-11",
+      "location": "北京市",
+      "department": "管理类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "Kimi Agent 全栈算法工程师",
+      "publish_date": "2025-11-10",
+      "location": "职位详情",
+      "department": "算法类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "数据标注项目经理（base成都）",
+      "publish_date": "2025-11-03",
+      "location": "四川",
+      "department": "运营类"
+    },
+    {
+      "title": "开发者社区运营",
+      "publish_date": "2025-10-21",
+      "location": "运营类",
+      "department": "运营类"
+    },
+    {
+      "title": "高性能计算工程师",
+      "publish_date": "2025-09-15",
+      "location": "上海市",
+      "department": "技术类",
+      "matched_keywords": [
+        "高性能"
+      ]
+    },
+    {
+      "title": "VLM预训练研究员-视频方向",
+      "publish_date": "2025-07-24",
+      "location": "上海市",
+      "department": "算法类"
+    },
+    {
+      "title": "资深系统开发工程师",
+      "publish_date": "2025-07-21",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "Research Scientist / Engineer - Agentic RL/Infra",
+      "publish_date": "2025-07-15",
+      "location": "算法类",
+      "department": "算法类",
+      "matched_keywords": [
+        "Agent",
+        "Infra",
+        "infra"
+      ]
+    },
+    {
+      "title": "用户增长专家（投放方向）",
+      "publish_date": "2025-07-11",
+      "location": "职位描述",
+      "department": "市场类"
+    },
+    {
+      "title": "资深产品经理 - 商业化方向",
+      "publish_date": "2025-06-24",
+      "location": "北京市",
+      "department": "产品类"
+    },
+    {
+      "title": "前端开发工程师",
+      "publish_date": "2025-06-05",
+      "location": "职位描述",
+      "department": "全职"
+    },
+    {
+      "title": "多模态强化学习研究员",
+      "publish_date": "2025-05-09",
+      "location": "参与开发多模态大模型对齐及强化学习算法研发",
+      "department": "全职"
+    },
+    {
+      "title": "AI infra 推理工程师",
+      "publish_date": "2025-04-18",
+      "location": "北京市",
+      "department": "上海市",
+      "matched_keywords": [
+        "Infra",
+        "infra",
+        "推理"
+      ]
+    },
+    {
+      "title": "Infra 系统工程师 - 推理系统",
+      "publish_date": "2025-02-24",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统",
+        "Infra",
+        "infra",
+        "推理"
+      ]
+    },
+    {
+      "title": "HR岗位（招聘）",
+      "publish_date": "2025-02-21",
+      "location": "北京市",
+      "department": "职能类"
+    },
+    {
+      "title": "多模态算法工程师",
+      "publish_date": "2025-02-07",
+      "location": "广东",
+      "department": "算法类"
+    },
+    {
+      "title": "推理框架工程师",
+      "publish_date": "2025-02-07",
+      "location": "上海市",
+      "department": "技术类",
+      "matched_keywords": [
+        "推理"
+      ]
+    },
+    {
+      "title": "大模型算法研究员/工程师（预训练）",
+      "publish_date": "2025-02-06",
+      "location": "职位描述深度参与",
+      "department": "全职"
+    },
+    {
+      "title": "大规模数据处理工程师（模型训练数据方向）",
+      "publish_date": "2025-02-05",
+      "location": "广东",
+      "department": "技术类"
+    },
+    {
+      "title": "高级算法系统工程师",
+      "publish_date": "2025-02-05",
+      "location": "广东",
+      "department": "算法类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "大语言模型架构研究员（预训练方向）",
+      "publish_date": "2025-02-05",
+      "location": "北京市",
+      "department": "技术类"
+    },
+    {
+      "title": "商业产品经理-会员方向",
+      "publish_date": "2025-02-05",
+      "location": "产品类",
+      "department": "产品类"
     }
   ],
   "matching_or_new": [
     {
-      "title": "请选择适合的职位进行投递 立即投递 高性能分布式存储工程师",
+      "title": "高性能分布式存储工程师",
       "publish_date": "2026-07-16",
       "location": "技术类",
       "department": "技术类",
@@ -498,84 +700,115 @@
       "is_new": true
     },
     {
-      "title": "高性能分布式存储工程师",
-      "publish_date": "2026-07-16",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/4f904813-b256-4e0e-b14d-22b77e1cd47e",
-      "description_snippet": "【使命】 在AGI浪潮中，我们致力于打造大模型时代的极致数据底座。我们的目标不是简单的“存数据”，而是通过软硬协同的底层突破，将存储转化为决定AI成本与体验的核心竞争力，让每一次推理与训练都快且便宜。 【我们要做什么】 1. 研发面向大模型推理服务的高性能KVCache存储系统，解决海量增长的上下文长度和推理并发请求数下的成本与性能问题。 2. 深度配合推理业务，在存储架构和推理业务之间寻找出最佳协同设计，持续不断优化和支撑模型推理对存储的需求。 3. 深度应用各种高性能技术，挑战硬件的物理性能极限。 【希望你具备】 1. 扎实的 C++/Rust/Go 编程能力，熟悉多线程、无锁、异步、内存",
-      "matched_keywords": [
-        "存储",
-        "分布式",
-        "高性能"
-      ],
-      "is_new": true
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 Agentic Growth Engineer",
+      "title": "Agentic Growth Engineer",
       "publish_date": "2026-07-01",
       "location": "北京市",
       "department": "技术类",
       "matched_keywords": [
         "Agent"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "Agentic Growth Engineer",
-      "publish_date": "2026-07-01",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/d8c3cd02-15c3-434c-9305-d8fdda83df0e",
-      "description_snippet": "成为一束光，照亮月之暗面。 人们总是看到增长数字的波澜壮阔、曲线昂扬的一面，却鲜有人知增长背后的精细操盘与漫长等待。我们所理解的「增长」比它通常的样子要广义得多 - 它是传播、是实验，是开源的代码，是萌芽的产品，是 Agentic Growth 从研究到复盘之间那条尚未被走通的路。当 AI 开始重塑一切学科，我们想成为最早动手、也走得最远的那群人。 我们用业务结果和持续进化的能力来衡量一个人，用「做对的事情」和「用正确的方法」来定义高效。氛围轻松、沟通直接。我们的人才观：通用智能 单一技能；进化速度 过去履历；使用 AI Scale 单线程努力；独立思考的审美 跟随共识的安全感；追求真相的好奇",
-      "matched_keywords": [
-        "Agent"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 开放平台产品经理",
+      "title": "开放平台产品经理",
       "publish_date": "2026-06-25",
       "location": "岗位职责开放平台产品规划",
       "department": "产品类",
       "matched_keywords": [
         "平台"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "开放平台产品经理",
-      "publish_date": "2026-06-25",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/17fe105b-470b-4a3b-949c-b783df163898",
-      "description_snippet": "岗位职责 开放平台产品规划：负责开放平台整体产品架构设计，承接商业化战略需求，推动AI能力产品化与平台化落地，不依赖既有平台稳定资源，具备独立从0到1搭建产品体系的能力。 AI Agent产品建设：负责 Agents API 商业化产品从0到1的规划设计，构建AI Agent能力体系，支撑B端客户快速构建和部署智能体应用。 MaaS API产品：负责模型即服务（MaaS）API产品能力建设，设计模型推理、评估、监控等全生命周期API体系，打造面向开发者的标准化AI能力输出平台。 商业化支撑：深入理解AI Agent和MaaS API的商业化场景，设计定价策略、接入方案、开发者生态体系，推动产品",
-      "matched_keywords": [
-        "平台"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 AI数据平台工程师",
+      "title": "AI数据平台工程师",
       "publish_date": "2026-06-17",
       "location": "北京市",
       "department": "技术类",
       "matched_keywords": [
         "平台"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "AI数据平台工程师",
-      "publish_date": "2026-06-17",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/9e476b2f-fa31-4afc-b4c2-c4ab4d082ecd",
-      "description_snippet": "岗位职责 负责数据智能 Agent 开发，支持自然语言查数、Text2SQL、智能归因等场景，推动 LLM 与数据平台深度联动 协助数仓语义层建设，配合指标平台与血缘系统实现语义资产标准化 负责统一数据 API 服务层开发，将数仓资产（表/指标/标签）封装为标准化接口，建设网关、权限与缓存体系 深入业务用数场景，独立或协作开发提效工具，推动工具平台化 参与数据架构设计与治理工具开发，推动数仓规范、资产目录及性能优化落地 任职要求 本科及以上学历，3年及以上数据平台开发经验，扎实的 coding能力（java、python或go至少精通一个） 熟悉大数据生态体系，具备 SQL 优化与数据建模能力",
+      "title": "Agent Engineer / Agent 工程师",
+      "publish_date": "2026-06-03",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "评估系统工程师（Eval Engineer）",
+      "publish_date": "2026-06-03",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "机器学习平台 SRE 工程师",
+      "publish_date": "2026-05-28",
+      "location": "广东",
+      "department": "技术类",
+      "matched_keywords": [
+        "SRE",
+        "平台"
+      ]
+    },
+    {
+      "title": "机器学习平台工程师（Kubernetes / GPU 基础设施方向）",
+      "publish_date": "2026-05-27",
+      "location": "广东",
+      "department": "技术类",
+      "matched_keywords": [
+        "平台",
+        "基础设施"
+      ]
+    },
+    {
+      "title": "Kubernetes 调度器开发工程师",
+      "publish_date": "2026-05-27",
+      "location": "广东",
+      "department": "技术类",
+      "matched_keywords": [
+        "调度"
+      ]
+    },
+    {
+      "title": "RL infra",
+      "publish_date": "2026-05-11",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "Infra",
+        "infra"
+      ]
+    },
+    {
+      "title": "API开放平台工程师",
+      "publish_date": "2026-04-23",
+      "location": "北京市",
+      "department": "技术类",
       "matched_keywords": [
         "平台"
-      ],
-      "is_new": false
+      ]
+    },
+    {
+      "title": "AI Native 产品经理（C端 / Agent方向）",
+      "publish_date": "2026-04-10",
+      "location": "职位定位",
+      "department": "产品类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "Agent产品工程师（multi-agent 方向）",
+      "publish_date": "2026-04-08",
+      "location": "产品类",
+      "department": "产品类",
+      "matched_keywords": [
+        "Agent"
+      ]
     },
     {
       "title": "Agentic RL/Infra",
@@ -586,104 +819,202 @@
         "Agent",
         "Infra",
         "infra"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "请选择适合的职位进行投递 立即投递 急 RL Infra 研究工程师",
+      "title": "LLM推理优化工程师",
+      "publish_date": "2026-04-01",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "推理"
+      ]
+    },
+    {
+      "title": "Infra 系统工程师 - 训练平台",
+      "publish_date": "2026-04-01",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统",
+        "Infra",
+        "infra",
+        "平台"
+      ]
+    },
+    {
+      "title": "开放平台测试工程师",
+      "publish_date": "2026-03-23",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "平台"
+      ]
+    },
+    {
+      "title": "Kimi For Coding 系统工程师",
+      "publish_date": "2026-02-25",
+      "location": "工作内容",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "高级 SRE 工程师 Senior Site Reliability Engineer",
+      "publish_date": "2026-02-23",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "SRE"
+      ]
+    },
+    {
+      "title": "系统工程师-LLM 推理系统",
+      "publish_date": "2026-01-30",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统",
+        "推理"
+      ]
+    },
+    {
+      "title": "RL Infra 研究工程师",
       "publish_date": "2026-01-19",
       "location": "北京市",
       "department": "算法类",
       "matched_keywords": [
         "Infra",
         "infra"
-      ],
-      "is_new": false
+      ]
     },
     {
-      "title": "RL Infra 研究工程师",
-      "publish_date": "2026-01-19",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/6a3ff164-ebcc-4b2f-97ac-0f21ed8327d4",
-      "description_snippet": "职位描述： 主要负责维护和开发Moonshot内部的强化学习后训练框架，支持万亿参数模型reasoning、agentic等方向的文本&多模态RL后训练； 与训练推理引擎方向的团队合作，探索算法、框架、硬件的协同设计，提升大规模强化学习训练的稳定性和效率； 职位要求： 有扎实的工程算法基础和工程实现能力，熟悉Python等语言，熟练掌握Pytorch等深度学习框架和常见性能调试/分析工具； 对Megatron-LM/vLLM等主流训推引擎有深入的了解，对大模型RL训练中的实际问题（如训推不一致、Rollout长尾等）排查和解决有经验； 有扎实的强化学习算法基础和实际RL训练经验； 加分项：有出",
-      "matched_keywords": [
-        "Infra",
-        "infra"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 Coding 系统工程师",
+      "title": "Coding 系统工程师",
       "publish_date": "2025-12-02",
       "location": "人们总是看到",
       "department": "技术类",
       "matched_keywords": [
         "系统"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 大规模推理系统工程师",
-      "publish_date": "2025-12-02",
-      "location": "工作职责",
-      "department": "技术类",
-      "matched_keywords": [
-        "系统",
-        "推理"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "请选择适合的职位进行投递 立即投递 急 Infra 系统应用工程师",
-      "publish_date": "2025-12-02",
-      "location": "工作职责",
-      "department": "技术类",
-      "matched_keywords": [
-        "系统",
-        "Infra",
-        "infra"
-      ],
-      "is_new": false
-    },
-    {
-      "title": "Coding 系统工程师",
-      "publish_date": "2025-12-02",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/5802f8af-f3f3-42bb-b9e6-0bf281017ff4",
-      "description_snippet": "人们总是看到 Coding 产物恢弘靓丽、惊世骇俗的一面，却鲜有人知 Coding 背后的艰辛，我们希望你能和我们一起负重前行，让我们的用户更加岁月静好。 工作内容： 1. 基建：构造一个完整的用于评估模型代码能力的基础设施 2. 出题：构造一批能体现真实编码任务的评估测试集 3. 移花接木：把不同世界的运行规则恰当地连接起来 我们想找的人： 1. 不需要从小热爱写代码，现在热爱写代码就可以 2. 想做就做，该造轮子就造轮子 3. 能理解代码的美感，能讲究，也能将就 4. 各种 Benchmark 都跑过，能跑起来就更好了 人们总是看到 Coding 产物恢弘靓丽、惊世骇俗的一面，却鲜有人知 ",
-      "matched_keywords": [
-        "系统"
-      ],
-      "is_new": false
+      ]
     },
     {
       "title": "大规模推理系统工程师",
       "publish_date": "2025-12-02",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/3844381e-116a-46a5-a76c-c607c131ff39",
-      "description_snippet": "工作职责： 设计稳健运行的分布式服务架构； 优化超大规模线上推理集群运行效率； 任职需求: 985/211高校研究生以上学历或优秀本科生 热爱写代码，熟悉编译原理、操作系统、计算机网络等计算机基础知识 熟练掌握一种编程语言，python，golang，rust，typescript优先 对AI技术和分布式系统有强烈的学习热情 具备良好的团队协作能力和沟通能力 加分项: 有自己精心维护、参与的github开源项目 熟练使用各种AI编码工具，同时保持优秀的代码质量 有大模型推理系统、分布式、网络、数据库相关研究经验 有相关方向的项目或实习经验 工作职责： 设计稳健运行的分布式服务架构； 优化超大规",
+      "location": "工作职责",
+      "department": "技术类",
       "matched_keywords": [
         "系统",
         "推理"
-      ],
-      "is_new": false
+      ]
     },
     {
       "title": "Infra 系统应用工程师",
       "publish_date": "2025-12-02",
-      "location": "登录",
-      "department": "职位",
-      "url": "https://app.mokahr.com/apply/moonshot/148506#/job/ab9bb466-4f4e-4562-86f3-8306531b1481",
-      "description_snippet": "工作职责： 熟悉主流模型开放平台（Kimi、DeepSeek、Anthropic、OpenAI 等），精通 OpenAI API 标准。 大模型技术落地：将 Function Call、MCP、Agent 等能力融入产品功能，推动多场景高效应用。 Prompt 优化：精通 Prompt 写作，持续优化产品交互中的 Prompt 设计，提升用户与大模型交互的流畅性、准确性和智能性，打造卓越的用户体验。 设计并维护 LLM 生产管线：网关、任务流、后台页面，保证稳定、高效、可观测 一线对接开发者或者客户，深刻了解用户痛点并持续提出改进建议 任职要求： 拥有良好的代码开发习惯，熟练掌握至少一种编程语",
+      "location": "工作职责",
+      "department": "技术类",
       "matched_keywords": [
         "系统",
         "Infra",
         "infra"
-      ],
-      "is_new": false
+      ]
+    },
+    {
+      "title": "Agent Development Engineer",
+      "publish_date": "2025-12-02",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "数据项目经理（代码方向）Agent coding PMO",
+      "publish_date": "2025-11-11",
+      "location": "北京市",
+      "department": "管理类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "Kimi Agent 全栈算法工程师",
+      "publish_date": "2025-11-10",
+      "location": "职位详情",
+      "department": "算法类",
+      "matched_keywords": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "高性能计算工程师",
+      "publish_date": "2025-09-15",
+      "location": "上海市",
+      "department": "技术类",
+      "matched_keywords": [
+        "高性能"
+      ]
+    },
+    {
+      "title": "资深系统开发工程师",
+      "publish_date": "2025-07-21",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统"
+      ]
+    },
+    {
+      "title": "Research Scientist / Engineer - Agentic RL/Infra",
+      "publish_date": "2025-07-15",
+      "location": "算法类",
+      "department": "算法类",
+      "matched_keywords": [
+        "Agent",
+        "Infra",
+        "infra"
+      ]
+    },
+    {
+      "title": "AI infra 推理工程师",
+      "publish_date": "2025-04-18",
+      "location": "北京市",
+      "department": "上海市",
+      "matched_keywords": [
+        "Infra",
+        "infra",
+        "推理"
+      ]
+    },
+    {
+      "title": "Infra 系统工程师 - 推理系统",
+      "publish_date": "2025-02-24",
+      "location": "北京市",
+      "department": "技术类",
+      "matched_keywords": [
+        "系统",
+        "Infra",
+        "infra",
+        "推理"
+      ]
+    },
+    {
+      "title": "推理框架工程师",
+      "publish_date": "2025-02-07",
+      "location": "上海市",
+      "department": "技术类",
+      "matched_keywords": [
+        "推理"
+      ]
+    },
+    {
+      "title": "高级算法系统工程师",
+      "publish_date": "2025-02-05",
+      "location": "广东",
+      "department": "算法类",
+      "matched_keywords": [
+        "系统"
+      ]
     }
   ]
 }

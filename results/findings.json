@@ -1,0 +1,132 @@
+{
+  "check_date": "2026-07-16",
+  "galaxy_space": {
+    "name": "银河航天(北京)科技有限公司",
+    "liepin_company_id": "9614836",
+    "liepin_url": "https://www.liepin.com/company/9614836/",
+    "total_positions_on_liepin": 193,
+    "lagou_positions": 0,
+    "matching_positions_visible": [
+      {
+        "title": "嵌入式开发",
+        "salary": "15-25k·15薪",
+        "location": "西安-长安区",
+        "experience": "经验不限",
+        "education": "统招本科"
+      },
+      {
+        "title": "嵌入式软件开发",
+        "salary": "18-35k·15薪",
+        "location": "未显示",
+        "experience": "未显示",
+        "education": "未显示"
+      },
+      {
+        "title": "FPGA工程师",
+        "salary": "15-25k·15薪",
+        "location": "西安-长安区",
+        "experience": "经验不限",
+        "education": "统招本科"
+      }
+    ],
+    "other_visible_positions": [
+      "卫星产线技术总监 (35-45k·15薪, 北京-通州区, 10年以上, 本科)",
+      "单机质量产保工程师（成都）(8-12k·15薪, 成都-郫都区)",
+      "空间电源系统产品解决方案 (30-45k·15薪, 上海-闵行区)",
+      "质量检验员（来料）(6-9k·15薪, 西安-长安区)",
+      "电子工艺工程师 (15-22k·15薪)",
+      "结构工艺工程师 (15-22k·15薪)",
+      "光学工艺工程师 (15-22k·15薪)",
+      "卫星试验技术工程师（热试验方向）(20-30k·15薪)",
+      "相控阵天线结构工艺工程师 (30-45k·15薪)",
+      "结构外协工程师（供应链）(10-15k·15薪)",
+      "研发总监 / 研发负责人（量产型系统工程与质量交付方向）"
+    ],
+    "note": "Liepin blocked after first successful access. Only ~15 of 193 positions were visible. No publication dates available. Embedded positions are in Xi'an, not Beijing. HR email: hr@yinhe.ht"
+  },
+  "robotera": {
+    "name": "北京星动纪元科技股份有限公司",
+    "feishu_jobs_url": "https://k0fqxcszc9.jobs.feishu.cn/index",
+    "total_positions": 19,
+    "matching_positions": [
+      {
+        "title": "Linux系统软件及BSP驱动工程师",
+        "location": "北京",
+        "type": "全职",
+        "feishu_url": "https://k0fqxcszc9.jobs.feishu.cn/index/position/7571785644297521459/detail",
+        "position_id": "7571785644297521459",
+        "id_rank_newest": "13 of 19 (relatively recent)",
+        "requirements": "本科+, 3年+ 嵌入式Linux内核/BSP/驱动开发经验, C/C++/Shell, 熟悉NVIDIA/地平线/瑞芯微/高通SoC, Linux内核与驱动模型/设备树, 系统裁剪/性能分析, 硬件联调能力",
+        "bonus": "NVIDIA Orin/Thor, ROS 2, RTOS, GPU加速",
+        "match_level": "EXCELLENT - direct match for 7-year Linux kernel/eBPF engineer"
+      },
+      {
+        "title": "MCU嵌入式软件工程师",
+        "location": "北京",
+        "type": "全职",
+        "feishu_url": "https://k0fqxcszc9.jobs.feishu.cn/index/position/7571783296507824435/detail",
+        "position_id": "7571783296507824435",
+        "id_rank_newest": "12 of 19 (relatively recent)",
+        "match_level": "GOOD - embedded software, MCU focus"
+      },
+      {
+        "title": "高级电机嵌入式软件工程师",
+        "location": "北京",
+        "type": "全职",
+        "feishu_url": "https://k0fqxcszc9.jobs.feishu.cn/index/position/7342699402580936997/detail",
+        "position_id": "7342699402580936997",
+        "id_rank_newest": "1 of 19 (oldest position)",
+        "match_level": "MODERATE - embedded but motor control focused"
+      }
+    ],
+    "all_positions": [
+      "高级云服务开发工程师", "机器人强化学习（灵巧手方向）", "遥操作系统工程师",
+      "机器人规控算法工程师", "成本BP", "技术产品经理",
+      "Linux系统软件及BSP驱动工程师", "MCU嵌入式软件工程师", "产品市场经理",
+      "具身智能大模型算法工程师", "市场公关(媒介及市场活动方向)",
+      "运动控制算法工程师", "具身大模型算法工程师", "大模型部署和加速工程师",
+      "MPC算法工程师", "机械结构工程师-人形机器人", "机械工程师-人形机器人关节结构",
+      "高级电机控制算法工程师", "高级电机嵌入式软件工程师"
+    ],
+    "note": "No publication dates shown on Feishu. Position IDs suggest Linux BSP and MCU embedded are relatively recent (rank 12-13 of 19). All positions are in Beijing."
+  },
+  "qiansheng": {
+    "name": "北京千乘探索科技有限公司",
+    "official_website": "http://www.uni-explore.com (403 Forbidden)",
+    "qxwq_url": "https://www.qxwq.org.cn/work/position/show/21589",
+    "liepin_company_id": "9663406",
+    "ncss_url": "https://job.ncss.cn/student/jobs/MJbgj4N99WVgGC3J1GCvot/corp.html",
+    "total_positions_qxwq": 3,
+    "positions": [
+      {
+        "title": "天线、射频和微波工程师",
+        "salary": "10K-面议",
+        "location": "北京市",
+        "date": "2026-03-07",
+        "experience": "不限",
+        "education": "研究生及以上"
+      },
+      {
+        "title": "电气系统工程师",
+        "salary": "10K-面议",
+        "location": "北京市",
+        "date": "2026-03-08",
+        "experience": "不限",
+        "education": "研究生及以上"
+      },
+      {
+        "title": "综合电子总体工程师",
+        "salary": "10K-面议",
+        "location": "北京市",
+        "date": "2026-03-08",
+        "experience": "不限",
+        "education": "研究生及以上"
+      }
+    ],
+    "matching_positions": "NONE - no kernel/system/embedded/Linux positions found",
+    "hr_email": "hr@uni-explore.com",
+    "hr_contact": "刘女士 010-82672692",
+    "company_size": "50-99人",
+    "note": "All 3 positions last updated March 2026. No new positions after 2026-07-16. Official website returns 403. NCSS platform shows 0 active positions."
+  }
+}

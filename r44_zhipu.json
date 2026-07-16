@@ -2,6 +2,1143 @@
   "company": "智谱 (Zhipu)",
   "portal": "https://app.mokahr.com/social-recruitment/zphz/148983",
   "scrapeDate": "2026-07-16",
-  "totalJobs": 0,
-  "jobs": []
+  "totalJobs": 142,
+  "jobs": [
+    {
+      "title": "市场商务采购经理",
+      "publishDate": "2026-07-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "PMO项目管理",
+      "publishDate": "2026-07-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "iOS 开发工程师",
+      "publishDate": "2026-07-07",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "27届校招GLM算法工程师（Agentic Coding）",
+      "publishDate": "2026-07-06",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "AI解决方案实习生",
+      "publishDate": "2026-07-01",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "AI应用工程师实习生",
+      "publishDate": "2026-07-01",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "社交游戏化产品经理",
+      "publishDate": "2026-06-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "大客户销售经理（数字人方向）",
+      "publishDate": "2026-06-25",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "海外财务主管",
+      "publishDate": "2026-06-16",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "数据资源采购与运营经理",
+      "publishDate": "2026-06-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "多模态数据训练工程师",
+      "publishDate": "2026-06-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "多模态数据算法（音视频方向）",
+      "publishDate": "2026-06-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "投标支持实习生",
+      "publishDate": "2026-06-10",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "Agent Infra 开发工程师",
+      "publishDate": "2026-06-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "资深后端开发工程师",
+      "publishDate": "2026-06-05",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "【2027届校招/实习】多模态训练数据工程师",
+      "publishDate": "2026-06-03",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "AI4Research 数据与能力工程实习生",
+      "publishDate": "2026-06-03",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "业务增长负责人",
+      "publishDate": "2026-05-28",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "解决方案负责人",
+      "publishDate": "2026-05-28",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "Applied AI Engineer负责人",
+      "publishDate": "2026-05-28",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "SEO/SEM运营实习生",
+      "publishDate": "2026-05-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "内控经理",
+      "publishDate": "2026-05-26",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "Partner Success Director",
+      "publishDate": "2026-05-25",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "项目管理实习生",
+      "publishDate": "2026-05-22",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "HRBP（商业化）",
+      "publishDate": "2026-05-20",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "HRBP（算法）",
+      "publishDate": "2026-05-20",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "Harness 产品经理",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "Business Development—北京",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "Overseas sales",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "Business Development—Singapore",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "Applied AI Architect-Southeast Asia",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "解决方案架构师-北京",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "Applied AI Architect",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "Overseas sales-上海",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "HRBP/HRD-深圳",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "AI产品经理",
+      "publishDate": "2026-05-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "市场与内容实习生",
+      "publishDate": "2026-05-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "市场实习生（国际方向 / AI Native）",
+      "publishDate": "2026-05-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "用户中台 & 风控研发工程师",
+      "publishDate": "2026-05-14",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "AI-Native 全栈工程师（偏后端）",
+      "publishDate": "2026-05-13",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "GLM团队-模型代码后训练算法工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "机器学习平台研发工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "GLM团队-预训练算法工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "AI Native UI设计师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "GLM团队-模型代码预训练算法工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "GLM团队-后训练算法工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "AI Native 全栈工程师（偏前端）",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "GLM团队-SRE运维工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 2
+    },
+    {
+      "title": "AI Native 产品经理",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "GLM团队-大模型后训练算法工程师（Coding Agent 方向）",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "Agent Infra 运维开发工程师",
+      "publishDate": "2026-05-12",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "大模型C端内容运营专家",
+      "publishDate": "2026-05-11",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "科技平台运营专家",
+      "publishDate": "2026-05-11",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "内容运营实习生W2601",
+      "publishDate": "2026-05-11",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "采购经理",
+      "publishDate": "2026-05-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "大模型算法博后（清华联培）",
+      "publishDate": "2026-05-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "大模型 Agent 研发实习生（Auto Research 方向）",
+      "publishDate": "2026-05-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "AI产品经理实习生（偏教育方向）",
+      "publishDate": "2026-05-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "内容运营实习生",
+      "publishDate": "2026-05-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "MaaS-HRBP",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "财务BP",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "GLM Coding Agent 数据与自动化迭代体系专家 / 工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "HRIS",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "HRSSC",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "AI动画设计师",
+      "publishDate": "2026-04-22",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "资深法务经理",
+      "publishDate": "2026-04-16",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "算力采购",
+      "publishDate": "2026-04-16",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "后端开发工程师（公司信息化建设）",
+      "publishDate": "2026-04-16",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "品牌视觉设计师",
+      "publishDate": "2026-04-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "法务（IPR & 合规）",
+      "publishDate": "2026-04-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "MaaS-AI产品经理",
+      "publishDate": "2026-04-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "MaaS-平台产品运营",
+      "publishDate": "2026-04-15",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "财务BP-杭州",
+      "publishDate": "2026-04-13",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "AI产品实习生（toB）",
+      "publishDate": "2026-04-10",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "数据专家",
+      "publishDate": "2026-04-10",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "算法工程师",
+      "publishDate": "2026-04-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "大模型应用算法工程师",
+      "publishDate": "2026-04-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "AI 院--大模型评测算法研究员(实习)",
+      "publishDate": "2026-04-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "高性能推理优化算法工程师",
+      "publishDate": "2026-04-09",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "AI院--算法工程师-基模Agentic评测",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "架构师（稳定性方向）",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "测试开发工程师（稳定性方向）",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "数据开发工程师（风控相关）",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "推理Infra工程师（量化算法研究/推理框架优化/GPU优化）",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "训练Infra工程师",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "数据分析师",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 3
+    },
+    {
+      "title": "项目经理",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "SRE工程师",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "UI/UX 设计师（AI/大模型方向）",
+      "publishDate": "2026-04-08",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "X-lab-机器人导航规划算法工程师",
+      "publishDate": "2026-04-07",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "Business Development",
+      "publishDate": "2026-04-07",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "API销售-深圳",
+      "publishDate": "2026-04-07",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "大模型训练优化算法实习生",
+      "publishDate": "2026-04-03",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI产品海外游戏运营（AI+模拟经营方向）",
+      "publishDate": "2026-04-03",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI院-GLM后训练-算法工程师（Agent RL方向）",
+      "publishDate": "2026-04-03",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI院--多模态团队--多模态生成算法研究员",
+      "publishDate": "2026-04-03",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI院-多模态生成-算法实习生",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI院-大模型算法实习生（Coding Agent应用）",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI院-多模态理解-算法实习生",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI院-多模态音频-算法实习生",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "26届校招-推理Infra工程师",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "具身智能算法工程师",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI 院--多模态团队--多模态理解算法研究员",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI 院--多模态音频团队--音频生成算法工程师（社招）",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "多模态大模型系统研发实习生",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI 院--多模态理解--训练框架算法工程师",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "HR 实习生",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "X-lab-机器人导航规划算法工程师",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI 院--AIGC内容创意实习生（图片/视频方向）",
+      "publishDate": "2026-04-02",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "大模型C端产品运营专家",
+      "publishDate": "2026-03-31",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "海外产品运营专家",
+      "publishDate": "2026-03-31",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "GLM大模型算法研究员（推理/规划/Agent方向）",
+      "publishDate": "2026-03-31",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "AI产品实习生C2604",
+      "publishDate": "2026-03-31",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "MaaS-DBA/SRE",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "MaaS-AI Native 研发工程师（后端 / 全栈 / 平台）",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "MaaS-平台产品专家",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 4
+    },
+    {
+      "title": "MaaS-生态运营/BD",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "MaaS-资深UI设计师",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "MaaS-数据开发工程师（风控）",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "MaaS-产品解决方案架构师（PDSA）",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "MaaS-服务体验运营专家",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "MaaS-大客户技术服务经理",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "MaaS-测试开发工程师",
+      "publishDate": "2026-03-27",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "HR实习生",
+      "publishDate": "2026-03-24",
+      "department": "实习\n实习",
+      "type": "职能专业\n职能专业",
+      "category": "北",
+      "page": 1
+    },
+    {
+      "title": "MaaS-技术支持工程师",
+      "publishDate": "2026-03-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "AI院-训练Infra工程师",
+      "publishDate": "2026-03-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "AI院-推理Infra工程师（量化算法研究/推理框架优化/GPU优化）",
+      "publishDate": "2026-03-19",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "交付项目经理",
+      "publishDate": "2026-03-13",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "大模型销售",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "大模型产品经理-海外",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 1
+    },
+    {
+      "title": "业务拓展实习生-深圳",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "大模型技术实习生-深圳",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "AI产品经理",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "UX设计实习生",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "公共事务与国际活动实习生",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "业务拓展实习生-国际业务",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "AI产品经理/解决方案实习生-厦门",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "海外社媒内容运营实习生",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "实习生",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "运营助理实习生（国际化团队）",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "算法实习生-厦门",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    },
+    {
+      "title": "产品实习生",
+      "publishDate": "2026-01-30",
+      "department": "",
+      "type": "",
+      "category": "",
+      "page": 5
+    }
+  ]
 }

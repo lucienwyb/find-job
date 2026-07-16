@@ -1,0 +1,130 @@
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <title>猎聘安全中心</title>
+    <script src="//mconcat.lietou-static.com/fe-lib-h5/v6/apm/0.2.3/apm.min.84645ab9.js"></script>
+    <script>
+        ;(function (n, e, r, t, a, o, s, i, c, l, f, m, p, u) {
+            o = 'precollect'
+            s = 'getAttribute'
+            i = 'addEventListener'
+            c = 'PerformanceObserver'
+            l = function (e) {
+                f = [].slice.call(arguments)
+                f.push(Date.now(), location.href)
+                ;(e == o ? l.p.a : l.q).push(f)
+            }
+            l.q = []
+            l.p = { a: [] }
+            n[a] = l
+            m = document.createElement('script')
+            m.src = r + '?aid=' + t + '&globalName=' + a
+            m.crossorigin = 'anonymous'
+            e.getElementsByTagName('head')[0].appendChild(m)
+            if (i in n) {
+                l.pcErr = function (e) {
+                    e = e || n.event
+                    p = e.target || e.srcElement
+                    if (p instanceof Element || p instanceof HTMLElement) {
+                        n[a](o, 'st', { tagName: p.tagName, url: p[s]('href') || p[s]('src') })
+                    } else {
+                        n[a](o, 'err', e.error || e.message)
+                    }
+                }
+                l.pcRej = function (e) {
+                    e = e || n.event
+                    n[a](o, 'reject', e.reason || (e.detail && e.detail.reason))
+                }
+                n[i]('error', l.pcErr, true)
+                n[i]('unhandledrejection', l.pcRej, true)
+            }
+            if ('PerformanceLongTaskTiming' in n) {
+                u = l.pp = { entries: [] }
+                u.observer = new PerformanceObserver(function (e) {
+                    u.entries = u.entries.concat(e.getEntries())
+                })
+                u.observer.observe({
+                    entryTypes: ['longtask', 'largest-contentful-paint', 'layout-shift']
+                })
+            }
+        })(
+            window,
+            document,
+            'https://apm.volccdn.com/mars-web/apmplus/web/browser.cn.js',
+            0,
+            'apmPlus'
+        )
+    </script>
+    <script>
+        window.apmPlus('init', {
+            aid: 501190,
+            token: '54a6dd819dad42d5b26747709b3faf99',
+            env: 'production',
+            plugins: {
+                resource: false, // 静态资源性能插件，设置为false
+                ajax: false, // ajax请求fasle
+                fetch: false // fetch 请求fasle
+            },
+            sample: {
+                rules: {
+                    pageview: {
+                        enable: true,
+                        sample_rate: 0.1
+                    }
+                }
+            }
+        })
+        window.apmPlus('start')
+    </script>
+    <link rel="icon" href="//mconcat.lietou-static.com/fe-security-h5/v6/static/images/favicon.e6edbc00.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="//mconcat.lietou-static.com/fe-security-h5/v6/css/common.a8cd712f.css" />
+    <link rel="stylesheet" href="//mconcat.lietou-static.com/fe-security-h5/v6/css/pages/main.874a7012.css" />
+</head>
+
+<body>
+<div id="main-container"></div>
+
+<script crossorigin="anonymous" src="//mconcat.lietou-static.com/fe-security-h5/v6/js/polyfill-vendors.87495836.js"></script>
+<script crossorigin="anonymous" src="//mconcat.lietou-static.com/fe-security-h5/v6/js/react-vendors.9d8b6563.js"></script>
+<script crossorigin="anonymous" src="//mconcat.lietou-static.com/fe-security-h5/v6/js/runtime.726411ac.js"></script>
+<script crossorigin="anonymous" src="//mconcat.lietou-static.com/fe-security-h5/v6/js/common.00375762.js"></script>
+<script crossorigin="anonymous" src="//mconcat.lietou-static.com/fe-security-h5/v6/js/pages/main.554ed06d.js"></script>
+<script type="text/javascript">
+    var userAgent = navigator.userAgent;
+    if (userAgent.indexOf('AlipayClient') > -1) {
+        // 支付宝小程序的 JS-SDK 防止 404 需要动态加载，如果不需要兼容支付宝小程序，则无需引用此 JS 文件。
+        document.writeln('<script src="https://appx/web-view.min.js"' + '>' + '<' + '/' + 'script>');
+    } else if (/micromessenger/i.test(userAgent)) {
+        // 微信小程序 JS-SDK 如果不需要兼容微信小程序，则无需引用此 JS 文件。
+        document.write('<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"><\/script>');
+    } else if (/swan/i.test(userAgent)) {
+        // 百度小程序 JS-SDK 如果不需要兼容百度小程序，则无需引用此 JS 文件。
+        document.write(
+            '<script type="text/javascript" src="https://b.bdstatic.com/searchbox/icms/searchbox/js/swan-2.0.18.js"><\/script>'
+        );
+    } else if (/toutiaomicroapp/i.test(userAgent)) {
+        // 头条小程序 JS-SDK 如果不需要兼容头条小程序，则无需引用此 JS 文件。
+        document.write(
+            '<script type="text/javascript" src="https://s3.pstatp.com/toutiao/tmajssdk/jssdk-1.0.1.js"><\/script>');
+    }
+</script>
+
+<!-- uni 的 SDK -->
+<script type="text/javascript" src="https://concat.lietou-static.com/fe-lib-h5/v6/uni-webview/1.5.4/uni.webview.min.3be24c14.js"></script>
+<script>
+    window.tlg = {
+        accountId: '15378aab5b9'
+    }
+</script>
+<script src="//mconcat.lietou-static.com/fe-lib-h5/v6/tlog/5.0.12/tlog.min.07a8dd47.js"></script>
+<script>
+    // web apm初始化
+    window.lpApm && window.lpApm.init({
+        appId: '308617afeae22076',
+    })
+</script>
+</body>
+</html>

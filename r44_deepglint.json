@@ -1,32 +1,67 @@
 {
-  "company": "格灵深瞳 (Deepglint)",
-  "key": "deepglint",
-  "urls_tried": [
+  "url": "https://deepglint.zhiye.com/social/jobs",
+  "status": "ok",
+  "title": "社招职位",
+  "body_text": "首页\n社会招聘\n校园招聘\n登录/注册\n搜索职位\n\n工作地点\n\n不限\n\n发布时间\n\n不限\n三天内\n一周内\n一个月内\n三个月内\n半年内\n一年内\n全部职位（共 0 个）\n暂时没有符合条件的职位~\n热招职位\n查看更多\n暂无热招职位\n©2026 格灵深瞳京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+  "links": [
     {
-      "url": "https://www.deepglint.com/joinus/",
-      "status": "ok",
-      "title": "加入我们_格灵深瞳",
-      "body_length": 2621
+      "text": "京ICP备05051632号-16",
+      "href": "https://beian.miit.gov.cn/#/Integrated/index"
+    },
+    {
+      "text": "京公网安备 11010802032024号",
+      "href": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802032024"
+    },
+    {
+      "text": "隐私政策",
+      "href": "https://deepglint.zhiye.com/privacy"
     }
   ],
-  "portal_accessible": true,
-  "body_text": "首页\n深瞳能力\n深瞳能力\n坚持创新，持续探索，引领人工智能想象力\n深瞳大脑\n多模态大模型\n核心技术\n核心算法\n深瞳产品\n深瞳产品\n格灵深瞳为众多企业提供AI赋能的数字化产品及体验\n大模型一体机\nMetaLoop AI 开发平台\n深瞳灵犀数据智能平台\n深瞳边缘计算平台\n深瞳列车巡检机器人\n深瞳轨道巡检机器人\n智能自主飞行负载系统\n解决方案\nAI 赋能产业数字化变革\n深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航\n智慧金融\n智慧金融解决方案\n城市管理\n车路协同解决方案\n智慧交管解决方案\n智慧商业\n智慧加能站解决方案\n智慧地产解决方案\n轨交运维\n深瞳列车智能运维解决方案\n深瞳线路智能巡检解决方案\n体育健康\n智慧校园体育解决方案\n元宇宙\n空间型XR解决方案\n客户案例\n客户案例\n以持续可信赖的服务，赋能企业智慧经营管理\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n资源中心\n资源中心\n关注AI科技最新动向，分享AI前瞻洞察与最佳实践\nAI 知识库\n视频中心\n资料下载\nGlint-MVT\n关于我们\n关于我们\n赋能智慧管理，引导健康生活，推动可持续发展\n关于我们\n加入我们\n新闻中心\n投资者关系\n投资者关系\n致力于为股东创造更大价值\n最新公告\n定期报告\n联系方式\n天真纯粹，不自量力\n天真地相信，纯粹地热爱，不自量力地改变世界\n简历投递\n社会招聘\n校园招聘\n北京总部\n上海\n成都\n合肥\n北京延庆基地\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n灵活周到的假期安排\n法定假期、公司福利性假期一应俱全，为员工调整状态、缓解疲劳、学习充电提供保障；育儿假、护理假等假期应有尽有，保障员工承担家庭责任、社会责任不缺席。\n贴心细致的节日关怀\n我们在重要节日、公司节日、员工生日等重要的日子里，提供贴心的节日礼物和祝福，共同分享每一刻美好瞬间。\n丰富多彩的业余生活\n多种多样的俱乐部活动、团建活动、每周一次的TGIF、每月生日会，形式不限、惊喜不断；公司内部主题社群百花齐放。\n轻松愉悦的工作氛围\n扁平的组织结构，优秀的同事，温馨的办公场所，轻松的工作氛围。我们努力打造优秀人才聚集的工作环境，让更多志同道合的伙伴在这里相聚。\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n灵活周到的假期安排\n法定假期、公司福利性假期一应俱全，为员工调整状态、缓解疲劳、学习充电提供保障；育儿假、护理假等假期应有尽有，保障员工承担家庭责任、社会责任不缺席。\n贴心细致的节日关怀\n我们在重要节日、公司节日、员工生日等重要的日子里，提供贴心的节日礼物和祝福，共同分享每一刻美好瞬间。\n丰富多彩的业余生活\n多种多样的俱乐部活动、团建活动、每周一次的TGIF、每月生日会，形式不限、惊喜不断；公司内部主题社群百花齐放。\n轻松愉悦的工作氛围\n扁平的组织结构，优秀的同事，温馨的办公场所，轻松的工作氛围。我们努力打造优秀人才聚集的工作环境，让更多志同道合的伙伴在这里相聚。\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n晏冉\n我叫晏冉，自2013年加入格灵深瞳以来，已经陪伴格灵深瞳走过了十年多时光。犹然记得在北大攻读研究生期间，我们几个志同道合的小伙伴成立了开发团队，一起在学业上交流，一起参加比赛...\n查看更多\n常轩\n我是常轩，大学毕业后在一个科研院所工作过两年，于 2021 年加入公司。现在在 Alpha Space 部门主要从事将公司AI能力商业化相关的研发工作。\n查看更多\n胡开先\n因为《我们只招牛人》这篇“成功”的文章与格灵深瞳结缘，已经8年时间了。8年前，怀揣着创业的理想和对公司创新自由氛围的向往，我在同学和朋友的惊讶声中加入了公司。...\n查看更多\n刘彤\n2013年7月15日，那天下着小雨，潮湿泥土的香气至今还记忆犹新，我和在北大时的另外三名同学拖着行李箱来到惠新西街附近的一个民宅里，这是我第一次踏进“格灵深瞳”的大门。\n查看更多\n晏冉\n我叫晏冉，自2013年加入格灵深瞳以来，已经陪伴格灵深瞳走过了十年多时光。犹然记得在北大攻读研究生期间，我们几个志同道合的小伙伴成立了开发团队，一起在学业上交流，一起参加比赛...\n查看更多\n常轩\n我是常轩，大学毕业后在一个科研院所工作过两年，于 2021 年加入公司。现在在 Alpha Space 部门主要从事将公司AI能力商业化相关的研发工作。\n查看更多\n胡开先\n因为《我们只招牛人》这篇“成功”的文章与格灵深瞳结缘，已经8年时间了。8年前，怀揣着创业的理想和对公司创新自由氛围的向往，我在同学和朋友的惊讶声中加入了公司。...\n查看更多\n刘彤\n2013年7月15日，那天下着小雨，潮湿泥土的香气至今还记忆犹新，我和在北大时的另外三名同学拖着行李箱来到惠新西街附近的一个民宅里，这是我第一次踏进“格灵深瞳”的大门。\n查看更多\n \n年会\n年会\n周年庆\n周年庆\nTGIF\nTGIF\n俱乐部\n俱乐部\n员工培训\n员工培训\n节日\n节日\n预约咨询\n企业微信\n深瞳能力\n深瞳大脑\n多模态大模型\n核心技术\n核心算法\n深瞳产品\n大模型一体机\nMetaLoop AI 开发平台\n深瞳灵犀数据智能平台\n深瞳边缘计算平台\n深瞳列车巡检机器人\n深瞳轨道巡检机器人\n智能自主飞行负载系统\n解决方案\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n客户案例\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n资源中心\nAI 知识库\n视频中心\n资料下载\nGlint-MVT\n关于我们\n关于我们\n加入我们\n新闻中心\n投资者关系\n最新公告\n定期报告\n联系方式\n北京成都合肥南京\n北京市海淀区东升科技园北街6号院中关村科学城东升科技园10号楼8层\n \n商务合作媒体合作人才招聘\nbd@deepglint.com\n联系电话\n010-62950616\n\n企业微信\n\n微信公众号\n\n法律声明 隐私政策\nCopyright ©2024 北京格灵深瞳信息技术股份有限公司 京公网安备11010802044354号 京ICP备14024496号-1",
-  "api_data": [],
-  "analysis": {
-    "keyword_matches": [
-      {
-        "keyword": "系统",
-        "context": "产品 格灵深瞳为众多企业提供AI赋能的数字化产品及体验 大模型一体机 MetaLoop AI 开发平台 深瞳灵犀数据智能平台 深瞳边缘计算平台 深瞳列车巡检机器人 深瞳轨道巡检机器人 智能自主飞行负载系统 解决方案 AI 赋能产业数字化变革 深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航 智慧金融 智慧金融解决方案 城市管理 车路协同解决方案 智慧交管解决方案 智慧商业 智慧加能站解决方案 智慧地产解决方案 轨交运维 深瞳列车智能运维解决方案 深瞳线路智能巡检解决方案 体育健康 智慧校园体育解决方案 元宇宙 空间型XR解决方案 客户案例 客户案例"
-      },
-      {
-        "keyword": "边缘",
-        "context": "智能想象力 深瞳大脑 多模态大模型 核心技术 核心算法 深瞳产品 深瞳产品 格灵深瞳为众多企业提供AI赋能的数字化产品及体验 大模型一体机 MetaLoop AI 开发平台 深瞳灵犀数据智能平台 深瞳边缘计算平台 深瞳列车巡检机器人 深瞳轨道巡检机器人 智能自主飞行负载系统 解决方案 AI 赋能产业数字化变革 深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航 智慧金融 智慧金融解决方案 城市管理 车路协同解决方案 智慧交管解决方案 智慧商业 智慧加能站解决方案 智慧地产解决方案 轨交运维 深瞳列车智能运维解决方案 深瞳线路智能巡检解决方案 体育健康"
-      },
-      {
-        "keyword": "平台",
-        "context": "力 坚持创新，持续探索，引领人工智能想象力 深瞳大脑 多模态大模型 核心技术 核心算法 深瞳产品 深瞳产品 格灵深瞳为众多企业提供AI赋能的数字化产品及体验 大模型一体机 MetaLoop AI 开发平台 深瞳灵犀数据智能平台 深瞳边缘计算平台 深瞳列车巡检机器人 深瞳轨道巡检机器人 智能自主飞行负载系统 解决方案 AI 赋能产业数字化变革 深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航 智慧金融 智慧金融解决方案 城市管理 车路协同解决方案 智慧交管解决方案 智慧商业 智慧加能站解决方案 智慧地产解决方案 轨交运维 深瞳列车智能运维解决方案 深"
-      }
-    ],
-    "estimated_total_positions": 0
-  }
+  "api_data": [
+    {
+      "url": "https://deepglint.zhiye.com/api/Common/GetPortalAIRobot?_timestamp=5691784202965321",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":null,\"TipType\":null,\"Count\":0,\"ReturnUrl\":null,\"Data\":{\"IsOpen\":false,\"PubKey\":null},\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Template/GetPageGlobalModules",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":null,\"MoreMessage\":null,\"TipType\":null,\"Count\":0,\"ReturnUrl\":null,\"Data\":\"{\\\"screenPopup\\\":{\\\"CN\\\":{\\\"isOpen\\\":false,\\\"fontFamily\\\":\\\"默认\\\",\\\"layout\\\":{\\\"size\\\":\\\"small\\\",\\\"background\\\":{\\\"type\\\":\\\"no\\\",\\\"value\\\":\\\"\\\"}},\\\"content\\\":{\\\"displayTitle\\\":true,\\\"buttonText\\\":\\\"我已阅读并同意\\\",\\\"buttonCountdown\\\":3},\\\"title\\\":\\\"请输入标题\\\",\\\"contentText\\\":\\\"请输入内容\\\"},\\\"EN\\\":{\\\"isOpen\\\":false,\\\"fontFamily\\\":\\\"默认\\\",\\\"layout\\\":{\\\"size\\\":\\\"small\\\",\\\"background\\\":{\\\"type\\\":\\\"no\\\",\\\"value\\\":\\\"\\\"}},\\\"content\\\":{\\\"displayTitle\\\":true,\\\"buttonText\\\":\\\"I have read and agree\\\",\\\"buttonCountdown\\\":3},\\\"title\\\":\\\"Please enter a title\\\",\\\"contentText\\\":\\\"Please enter the content\\\"}}}\",\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/GetJobAdPageList",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":\"\",\"TipType\":\"Success\",\"Count\":0,\"ReturnUrl\":null,\"Data\":[],\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/GetSpecialJobAdList?_timestamp=3981784202965621&category=1&type=1&langType=zh_CN",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":\"\",\"TipType\":\"Success\",\"Count\":0,\"ReturnUrl\":null,\"Data\":[],\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/GetSpecialJobAdList?_timestamp=9541784202965658&category=1&type=1&langType=zh_CN",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":\"\",\"TipType\":\"Success\",\"Count\":0,\"ReturnUrl\":null,\"Data\":[],\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/GetSpecialJobAdList?_timestamp=4821784202965782&category=1&type=1&langType=zh_CN",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":\"\",\"TipType\":\"Success\",\"Count\":0,\"ReturnUrl\":null,\"Data\":[],\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/GetJobAdSearchConditions",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":null,\"TipType\":null,\"Count\":0,\"ReturnUrl\":null,\"Data\":[{\"HasMore\":false,\"Name\":\"工作地点\",\"Value\":\"LocId\",\"Type\":0,\"Sort\":0,\"Data\":[],\"IDS\":null}],\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/GetJobAdSearchConditions",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":null,\"TipType\":null,\"Count\":0,\"ReturnUrl\":null,\"Data\":[{\"HasMore\":false,\"Name\":\"工作地点\",\"Value\":\"LocId\",\"Type\":0,\"Sort\":0,\"Data\":[],\"IDS\":null}],\"Total\":0}"
+    },
+    {
+      "url": "https://deepglint.zhiye.com/api/Jobad/SearchAreasTreeConditions?_timestamp=9081784202965963&categoryId=1",
+      "status": 200,
+      "body": "{\"Code\":200,\"Message\":\"operation success\",\"MoreMessage\":null,\"TipType\":null,\"Count\":0,\"ReturnUrl\":null,\"Data\":[],\"Total\":0}"
+    }
+  ]
 }

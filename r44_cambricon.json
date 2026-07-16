@@ -1,44 +1,193 @@
 {
-  "company": "寒武纪 (Cambricon)",
-  "key": "cambricon",
-  "urls_tried": [
+  "company": "cambricon",
+  "total_positions": 0,
+  "total_job_links": 20,
+  "matching_positions": [
     {
-      "url": "https://www.cambricon.com/",
-      "status": "ok",
-      "title": "寒武纪",
-      "body_length": 521
+      "title": "急高性能计算库研发工程师\n基础软件部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27d9945d-21a9-47f5-9503-3b473d7daed5",
+      "matched_keywords": [
+        "高性能计算"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "急高性能算法库工程师\n分布式软件部\n陕西·西安市  上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7936afd8-54b3-4708-aaff-787e2883431a",
+      "matched_keywords": [
+        "分布式"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "急大模型算法应用工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/3cfbe59c-f71a-423a-a77c-d3017a19873f",
+      "matched_keywords": [
+        "分布式"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "急高性能计算库研发工程师\n基础软件部\n北京市·海淀区  上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/f5be78f2-cf94-46f8-83c5-de8b23b56f7f",
+      "matched_keywords": [
+        "高性能计算"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "急AIGC推理解决方案工程师\n基础软件部\n北京市·海淀区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/2eb86ce6-d13b-4334-9fe2-fae2e7a5770f",
+      "matched_keywords": [
+        "推理"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "芯片可靠性工程师\n产品部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/91963236-64e9-4a2b-b5dc-b8d5e090764b",
+      "matched_keywords": [
+        "芯片"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "芯片封装工程师-工艺\n产品部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/1947f8c0-a9c7-44d8-97ed-a568088de1c7",
+      "matched_keywords": [
+        "芯片"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "芯片量产工程师\n产品部",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/edb7903a-c5b2-4743-bc45-2be2c4674a6b",
+      "matched_keywords": [
+        "芯片"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "资深涉外法务经理（AI芯片/半导体）\n法律与合规部\n北京市·海淀区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27f7d8b1-5216-43fb-b2fb-176bc40659e5",
+      "matched_keywords": [
+        "芯片"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "急AI编译器研发工程师",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff",
+      "matched_keywords": [
+        "编译器"
+      ],
+      "source": "link"
+    },
+    {
+      "title": "急模拟芯片设计工程师",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b",
+      "matched_keywords": [
+        "芯片"
+      ],
+      "source": "link"
     }
   ],
-  "portal_accessible": true,
-  "body_text": "产品技术\n \n开放平台\n \n开发者\n \n新闻中心\n \n加入我们\n \n关于我们\n「思元220」边缘端AI芯片\n了解更多\n寒武纪® AIDC® MLU370®-X8云端训练AI加速卡\n面向中高端训练场景\n\n　采用双芯思元370及MLU-Link配置\n\n了解更多\n「思元370」推训一体芯片\n寒武纪第三代云端AI芯片\n\n先进chiplet技术，最新MLUarch03架构，AI性能全面升级\n\n了解更多\n寒武纪® AIDC® MLU370®-S4云端AI加速卡\n面向高密度云端推理需求\n\n　能效出色，体积小巧，高密度部署\n\n了解更多\n寒武纪® AIDC® MLU370®-X4云端AI加速卡\n面向云端AI业务需求\n\n　推训一体，性能卓越\n\n了解更多\n「思元220」边缘端AI芯片\n了解更多\n寒武纪® AIDC® MLU370®-X8云端训练AI加速卡\n面向中高端训练场景\n\n　采用双芯思元370及MLU-Link配置\n\n了解更多\n0102030405\n公司新闻\n更多\n品牌资料\n开放平台\n开发者\n关于我们\n用户协议\n法律声明\n隐私政策\n\n版权所有 © 2016-2026 Cambricon.com 备案/许可证号: 京ICP备17003415号-1",
-  "api_data": [],
-  "analysis": {
-    "keyword_matches": [
-      {
-        "keyword": "架构",
-        "context": "云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，高密度部署  了解更多 寒武纪® AIDC® MLU370®-X4云端AI加速卡 面向云端AI业务需求  　推训一体，性能卓越  了解更多 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场"
-      },
-      {
-        "keyword": "边缘",
-        "context": "产品技术   开放平台   开发者   新闻中心   加入我们   关于我们 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，"
-      },
-      {
-        "keyword": "平台",
-        "context": "产品技术   开放平台   开发者   新闻中心   加入我们   关于我们 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC®"
-      },
-      {
-        "keyword": "推理",
-        "context": "0」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，高密度部署  了解更多 寒武纪® AIDC® MLU370®-X4云端AI加速卡 面向云端AI业务需求  　推训一体，性能卓越  了解更多 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 0102030405 公司新闻 更多 品牌资料"
-      },
-      {
-        "keyword": "芯片",
-        "context": "产品技术   开放平台   开发者   新闻中心   加入我们   关于我们 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，"
-      },
-      {
-        "keyword": "chip",
-        "context": "寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，高密度部署  了解更多 寒武纪® AIDC® MLU370®-X4云端AI加速卡 面向云端AI业务需求  　推训一体，性能卓越  了解更多 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®"
-      }
-    ],
-    "estimated_total_positions": 0
-  }
+  "all_jobs": [],
+  "job_links": [
+    {
+      "title": "急高性能计算库研发工程师\n基础软件部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27d9945d-21a9-47f5-9503-3b473d7daed5"
+    },
+    {
+      "title": "急AI应用工程师\n应用与生态部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/ab061ed6-9484-4bc9-8667-62a0e4bde066"
+    },
+    {
+      "title": "急高级IT工程师\nIT部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/023be3b5-f85e-43ab-a5fd-126789ef8f69"
+    },
+    {
+      "title": "急高性能算法库工程师\n分布式软件部\n陕西·西安市  上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7936afd8-54b3-4708-aaff-787e2883431a"
+    },
+    {
+      "title": "急大模型算法应用工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/3cfbe59c-f71a-423a-a77c-d3017a19873f"
+    },
+    {
+      "title": "急深度学习框架工程师\n基础软件部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/a63c6a58-4f62-4904-b03c-0eec066c8e23"
+    },
+    {
+      "title": "急高性能计算库研发工程师\n基础软件部\n北京市·海淀区  上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/f5be78f2-cf94-46f8-83c5-de8b23b56f7f"
+    },
+    {
+      "title": "急大模型性能优化工程师\n基础软件部\n北京市·海淀区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/e9b01fa4-fc14-4982-884b-d873df20d458"
+    },
+    {
+      "title": "急AIGC推理解决方案工程师\n基础软件部\n北京市·海淀区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/2eb86ce6-d13b-4334-9fe2-fae2e7a5770f"
+    },
+    {
+      "title": "芯片可靠性工程师\n产品部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/91963236-64e9-4a2b-b5dc-b8d5e090764b"
+    },
+    {
+      "title": "芯片封装工程师-工艺\n产品部\n上海市·浦东新区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/1947f8c0-a9c7-44d8-97ed-a568088de1c7"
+    },
+    {
+      "title": "芯片量产工程师\n产品部",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/edb7903a-c5b2-4743-bc45-2be2c4674a6b"
+    },
+    {
+      "title": "资深涉外法务经理（AI芯片/半导体）\n法律与合规部\n北京市·海淀区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27f7d8b1-5216-43fb-b2fb-176bc40659e5"
+    },
+    {
+      "title": "客户支持工程师\n产品部\n北京市·海淀区",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/a9a78920-ef3a-4ac8-baf8-0c98a5ad2b7f"
+    },
+    {
+      "title": "封装设计工程师\n产品部\n陕西·西安市  北京市·海淀区  广东·深圳市  等4个地点",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/179d7e8e-1d78-4543-a6d6-3dc50adfea1d"
+    },
+    {
+      "title": "急行政专员",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/8806e265-440b-4cf4-9eef-7f8a4b09821b"
+    },
+    {
+      "title": "急ATE测试工程师",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/d1881322-e63a-47f5-90e5-2e5e193bd8d6"
+    },
+    {
+      "title": "急深度学习框架图编译工程师",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/e4039f7b-0ca0-4a2b-a1b7-758fba259e6d"
+    },
+    {
+      "title": "急AI编译器研发工程师",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff"
+    },
+    {
+      "title": "急模拟芯片设计工程师",
+      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b"
+    }
+  ],
+  "body_text": "社招首页社会招聘开放职位丰富的活动返回官网首页\n校园招聘\n职位筛选\n分享到 \n搜索职位\n急高性能计算库研发工程师\n基础软件部\n上海市·浦东新区\n急AI应用工程师\n应用与生态部\n上海市·浦东新区\n急高级IT工程师\nIT部\n上海市·浦东新区\n急高性能算法库工程师\n分布式软件部\n陕西·西安市  上海市·浦东新区\n急大模型算法应用工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区\n急深度学习框架工程师\n基础软件部\n上海市·浦东新区\n急高性能计算库研发工程师\n基础软件部\n北京市·海淀区  上海市·浦东新区\n急大模型性能优化工程师\n基础软件部\n北京市·海淀区\n急AIGC推理解决方案工程师\n基础软件部\n北京市·海淀区\n芯片可靠性工程师\n产品部\n上海市·浦东新区\n芯片封装工程师-工艺\n产品部\n上海市·浦东新区\n芯片量产工程师\n产品部\n资深涉外法务经理（AI芯片/半导体）\n法律与合规部\n北京市·海淀区\n客户支持工程师\n产品部\n北京市·海淀区\n封装设计工程师\n产品部\n陕西·西安市  北京市·海淀区  广东·深圳市  等4个地点\n1\n2\n3\n4\n5\n最新职位\n更多\n急行政专员\n急ATE测试工程师\n急深度学习框架图编译工程师\n急AI编译器研发工程师\n急模拟芯片设计工程师\n京公网安备 11010802024479号京ICP备15060035号-3",
+  "api_urls": [
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
+    "https://app.mokahr.com/api/outer/ats-apply/website/jobs"
+  ]
 }

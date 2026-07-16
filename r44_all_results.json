@@ -1,262 +1,2329 @@
 {
   "4paradigm": {
-    "company": "第四范式 (4Paradigm)",
-    "key": "4paradigm",
-    "urls_tried": [
+    "company": "4paradigm",
+    "best_result": {
+      "url": "https://www.4paradigm.com/about/",
+      "title": "公司简介-第四范式官网",
+      "body_text": "4Paradigm\n\n \n\nPhancy\n\n \n\n关于范式集团\n\n \n\n投资者关系\n\n未登录\n关于范式\nAI for Everyone\n\n范式智能以“AI for Everyone”为使命，希望通过AI技术、产品及服务，让AI时代的红利惠及每一个组织及个人。\n\n范式智能坚持多元化业务发展，目前拥有企业服务版块及消费电子板块。第四范式面向企业服务，以AI平台解决企业智能化转型中面临的效率、成本、价值问题，提升企业的核心竞争力。Phancy面向消费电子市场，以AI软硬解决方案，让每一个传统设备都能成为AI智慧终端。\n\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2023\n11月\n\n携手合作伙伴，发布“范生态”\n\n09月\n\n在港交所主板正式挂牌上市\n\n06月\n\n大模型技术斩获CVPR世界冠军\n\n02月\n\n推出多模态大模型产品第四范式式说4Paradigm SageGPT\n\n2022\n11月\n\n获国家制造业单项冠军\n\n08月\n\n推出企业转型平台及服务4Paradigm Shift\n\n07月\n\n获中国智能决策市场份额第一\n\n05月\n\n斩获图学习“世界杯”OGB 两项冠军\n\n2021\n06月\n\n成为金融信创生态实验室首个AI合作伙伴\n\n11月\n\n首个人工智能国家职业标准颁布 第四范式为起草单位\n\n06月\n\n推出企业级人工智能应用商店4Paradigm Sage APP Store\n\n04月\n\nAutoML刷新OGB世界纪录\n\n02月\n\n入围Gartner新兴技术与趋势影响力雷达全球代表厂商\n\n01月\n\n获2020年度信创工委会 “卓越贡献成员单位”称号\n\n2020\n12月\n\n获“工业和信息化系统抗击新冠肺炎疫情先进集体”称号\n\n11月\n\n以综合评分第一入选Forrester机器学习平台Wave\n\n11月\n\n入选《麻省理工科技评论》“50家最聪明公司”榜单\n\n08月\n\n夺得KDD CUP 2020世界冠军\n\n08月\n\n发布企业级AI操作系统Sage AIOS\n\n06月\n\n入选IDC《中国人工智能软件及应用跟踪》报告，蝉联中国机器学习平台市场份额第一\n\n03月\n\n第四范式AutoML入选Gartner2020十大战略技术趋势报告\n\n02月\n\n第四范式先知（Sage）AI平台率先通过欧盟GDPR（通用数据保护条例）认证\n\n2019\n08月\n\n与永辉超市达成战略合作，共同打造智慧零售业务\n\n08月\n\n第四范式先知平台夺得IDC MarketScape中国机器学习平台市场份额No.1\n\n06月\n\n连续两次刷新世界物体识别权威标准PASCAL VOC世界纪录\n\n05月\n\n刷新世界OCR权威标准ICDAR世界纪录\n\n04月\n\n第四范式签约中电科\n\n03月\n\n第四范式签约中石油\n\n03月\n\n签约人民日报，AI助力媒体内容智能分发\n\n02月\n\n上榜CB Insights独角兽榜单，成为全球309家独角兽之一\n\n2018\n12月\n\nAI顶会NeurIPS中主办国际首个AutoML大赛\n\n10月\n\n签约国内最大的餐饮零售企业，AI全栈式探索布局，加快零售智能化进程\n\n09月\n\n英特尔 x 第四范式人工智能联合实验室成立\n\n08月\n\n与瑞金医院达成战略合作，发布AI慢性病预测与管理产品\n\n07月\n\n签约工商银行，树立全球“金融+AI”标杆\n\n03月\n\n签约PICC，在AI+保险领域取得突破\n\n2017\n12月\n\n获法国巴黎银行“国际金融黑客松大赛”冠军，该赛事历史上首个来自亚洲的世界冠军\n\n08月\n\n获首届迁移学习算法大赛冠军\n\n05月\n\n入选“Gartner东亚最具代表性的5家AI公司” , 国内唯一入榜的AI平台公司\n\n01月\n\n签约中信建投，AI助力传统券商转型升级\n\n2016\n11月\n\n与光大成立联合实验室，国内首个AI+金融实验室\n\n12月\n\n获 “吴文俊奖”创新一等奖，首个获国家级AI最高奖的企业\n\n2015\n08月\n\n签约招行，率先在金融领域应用AI并产生巨大价值\n\n2014\n9月\n\n第四范式成立\n\n重要荣誉\n第四范式获中国智能决策市场份额第一\n2023年07月\n第四范式斩获CVPR挑战赛世界冠军 核心技术已应用于「式说」大模型\n2023年06月\n第四范式「式说」大模型入选北京市首批7家模型伙伴\n2023年05月\n第四范式获国家制造业“单项冠军”\n2022年11月\n第四范式AutoML再次斩获图学习“世界杯”OGB 两项冠军\n2022年05月\n第四范式荣获2020年度信创工委会 “卓越贡献成员单位”称号。\n2021年01月\n入选全球范围内最权威的技术商业型榜单——《麻省理工科技评论》“50家聪明公司”榜单。\n2020年11月\n第四范式以综合评分第一入围Forrester Wave：预测分析与机器学习中国市场评测报告位列领导者行列。\n2020年11月\n第四范式夺得KDD CUP 2020世界冠军。\n2020年08月\nGartner发布2020年十大战略技术趋势报告，第四范式入选全球AutoML平台代表厂商。\n2020年03月\n第四范式先知（4ParadigmSage）AI平台率先通GDPR（通用数据保护条例）认证。\n2020年02月\n第四范式在国际顶级赛事PASCAL VOC 2012 挑战赛通用物体检测 Competition 4 中，连续两次刷新该任务世界纪录。\n2019年06月\n第四范式在世界OCR权威标准ICDAR数据集挑战赛中刷新了ICDAR2017多国语言场景文字检测任务的世界纪录，排名该项任务榜单世界第一。\n2019年05月\n第四范式入选 CB Insights 2019年度AI独角兽俱乐部，为全球32家AI独角兽之一。\n2019年02月\n第四范式入选麻省理工科技评论(MIT TR)“全球十大突破性技术”代表公司。\n2018年02月\n戴文渊入选MIT TR35位35岁以下科技创新杰出精英。本次评选由中美双方共同举办，是MIT TR35历史上规模最大、评委级别最高的国际榜单。 \n2018年01月\n第四范式团队获得首个迁移学习算法大赛冠军。\n2017年08月\n2021年荣誉\n01月\n\n第四范式4Paradigm HyperCycle获评2021年度AI生产力创新奖。\n\n01月\n\n第四范式4Paradigm SageOne入选算力智库2020“算力20”榜单。\n\n2020年荣誉\n12月\n\n第四范式获2020年度信息技术应用创新工作委员会卓越贡献成员单位。\n\n12月\n\n第四范式 4ParadigmSage AIOS获2020 EDGE AWARDS 全球创新评选年度前沿科技应用2020中国人工智能最佳产品TOP10。\n\n12月\n\n第四范式 4ParadigmSage AIOS2020中国人工智能最佳产品TOP10。\n\n12月\n\n第四范式天枢2020年度CMO\"金匠奖\"年度AI营销技术服务奖。\n\n12月\n\n第四范式 4ParadigmSage AIOS入选极客公园中国创新产品评选社会效率推动力榜单。\n\n11月\n\n第四范式入选《中欧商业评论》中国组能力标杆企业20强。\n\n11月\n\n第四范式入选36氪中国新基建之王TOP50企业榜单。\n\n09月\n\n第四范式获北大光华管理学院“2020年度新锐雇主”。\n\n08月\n\n第四范式联邦迁移学习获联邦学习先锋奖。\n\n08月\n\n第四范式天枢入选毕马威首届“领先消费科技50”榜单。\n\n07月\n\n第四范式AutoML入选Forrester中国机器学习Now Tech™报告。\n\n07月\n\n第四范式入选CB Insights 首届中国金融科技榜单。\n\n06月\n\n第四范式智能风控入选中国银行业协会金融科技专业委员会“金融数据智能风控创新优秀解决方案”。\n\n04月\n\n第四范式创始人、首席执行官戴文渊获评科技部创新人才推进计划科技创新创业人才。\n\n04月\n\n第四范式创始人、首席执行官戴文渊荣膺北京青年五四奖章。\n\n2019年荣誉\n12月\n\n第四范式获评WIM2019全球科技新领袖50公司。\n\n10月\n\n入围Gartner Competitive Landscape: AI Startups in China，为五大代表性厂商。\n\n09月\n\n第四范式被评为2019顶尖创业公司排行榜，排名第6位。\n\n08月\n\n第四范式4Paradigm SageOne获得SAIL AWORD——2019卓越人工智能引领者奖。\n\n07月\n\n第四范式获评《中国企业家》年度最具成长性新兴企业。\n\n06月\n\n第四范式风控解决方案获《银行家》“十佳智能风控创新奖”。\n\n04月\n\n第四范式联合创始人、首席研究科学家陈雨强入选中国数据科学50人。\n\n01月\n\n第四范式上榜极客公园INNO AWARDS 2018“前沿探索力榜单”。\n\n01月\n\n入选IDC Innovators“亚太地区下一代高级大数据分析”榜单。\n\n01月\n\n第四范式荣获机器之心年度奖项Synced Machine Intelligence Awards“全球三十大最佳 AI 创业公司”。\n\n01月\n\n入选IDC Innovators《中国人工智能金融反欺诈》报告。\n\n2018年荣誉\n12月\n\n入选创业邦“2018企业服务产业独角兽”。\n\n12月\n\n荣膺凤凰网金融领域“行业贡献 | 年度杰出机构”。\n\n11月\n\n荣膺凤凰网金融领域“行业贡献 | 年度杰出机构”。\n\n11月\n\n第四范式入选德勤中国2018高科技高成长中国50强“明日之星”。\n\n10月\n\n作为AI平台提供商代表，入选中国人工智能产业发展联盟、中国电子工业标准化技术协会信息技术服务分会发布的“2018数据智能生态百强”榜。\n\n09月\n\n于2018世界经济论坛（夏季达沃斯）入选中金投X“中国 AI 50强”。\n\n09月\n\n第四范式入选中金人工智能产业报告AI in China: How Technologies Reshape Industries，成为在“AI+金融”领域唯一被报告推荐的企业。\n\n09月\n\n第四范式凭借供应链金融智能服务平台，荣获中国金融四十人论坛“2018金融科技创新十佳案例”奖。\n\n07月\n\n第四范式入选“2018中国人工智能独角兽”榜单。\n\n06月\n\n第四范式入选Lux Research发布的AI in China报告，成为机器学习平台类别中唯一的代表企业。\n\n05月\n\n第四范式创始人、首席执行官戴文渊入选“中国计算机协会2018青竹奖”，被中国计算机协会表彰为2018年推动人工智能科研进步的杰出代表。\n\n04月\n\n第四范式入选艾瑞咨询《2018年中国人工智能行业研究报告》，是除国际科技巨头外，唯一入选机器学习引擎层的创业公司。\n\n01月\n\n英国首相特蕾莎·梅参观了由第四范式和瑞金医院联合开发的糖尿病预测软件“瑞宁知糖”。\n\n01月\n\n“第二届中国金融科技创新大会”在京召开，第四范式获双料大奖——“AI交易欺诈侦测解决方案”获“2017年度优秀解决方案奖”；第四范式创始人、首席执行官戴文渊获“2017年度创新人物”。\n\n01月\n\n第四范式荣获机器之心年度奖项Synced Machine Intelligence Awards“全球三十大最佳 AI 创业公司”。\n\n01月\n\n第四范式“交易欺诈侦测解决方案”获机器之心年度奖项Synced Machine Intelligence Awards“三十大最佳 AI 应用案例”。\n\n2017年荣誉\n12月\n\n“第四范式先知”3.0企业AI核心系统喜获《金融电子化》“2017年度金融科技优秀产品创新奖”，为唯一获奖AI类产品。\n\n12月\n\n第四范式“交易欺诈侦测解决方案”获《金融电子化》“2017年度金融科技优秀产品创新奖”。\n\n12月\n\n第四范式创始人、首席执行官戴文渊荣誉登网易《2017中国AI英雄风云榜》“商业创新人物”Top10。\n\n12月\n\n第四范式成功斩获“人工智能产业十大领军企业”奖，系该领域唯一获奖的通用人工智能平台类企业。\n\n12月\n\n第四范式获“JDD-2017京东金融全球数据探索者大赛”冠军。\n\n12月\n\n第四范式获评亿欧网“人工智能产业十大成长力企业”。\n\n12月\n\n“第四范式先知”企业核心系统入选极客公园年度创新产品“发展潜力榜单”。\n\n12月\n\n第四范式创始人、首席执行官戴文渊入选“2017年艾问未来人工智能影响力人物”榜单。\n\n08月\n\n第四范式联合创始人、首席科学家杨强当选为IJCAI Trustee (IJCAI 理事会)主席。这是IJCAI创办以来，首次由华人学者担任大会理事会主席。\n\n08月\n\n第四范式团队获得迁移学习算法大赛前海征信“好信杯”算法竞赛冠军。\n\n2016年荣誉\n05月\n\n首席科学家杨强教授当选为国际人工智能协会执行委员会委员，是首位获此殊荣的华人。\n\n企业智能化转型，第四范式助您一臂之力\n咨询售前顾问\n 咨询热线：400-898-7788\n4Paradigm\n4ParadigmSage\n4Paradigm SHIFT\n4Paradigm AlGS\nPhancy\n关于范式集团\n公司简介\n新闻与资讯\n技术研究\n招贤纳士\n联系我们\n投资者关系\n联系我们\n商务合作与售后：business@4paradigm.com\n市场公关：pr_co@4paradigm.com\n投资者关系：ir@4paradigm.com\n \n\n用户协议 隐私条款 第四范式官网 ｜版权所有 © 2014—2025 第四范式（北京）技术有限公司 保留所有权利 京ICP备16062885号-1  京公网安备11010802024074 号\n\n联系我们",
+      "api_data": [],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.phancy.tech/"
+        },
+        {
+          "text": "",
+          "href": "https://www.phancy.tech/"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "4Paradigm",
+          "href": "https://www.4paradigm.com/index.html"
+        },
+        {
+          "text": "4ParadigmSage",
+          "href": "https://www.4paradigm.com/product/4ParadigmSage.html"
+        },
+        {
+          "text": "4Paradigm SHIFT",
+          "href": "https://www.4paradigm.com/special/zx.html"
+        },
+        {
+          "text": "银行",
+          "href": "https://www.4paradigm.com/industry/banking.html"
+        },
+        {
+          "text": "保险",
+          "href": "https://www.4paradigm.com/industry/insurance.html"
+        },
+        {
+          "text": "证券",
+          "href": "https://www.4paradigm.com/industry/stock.html"
+        },
+        {
+          "text": "零售",
+          "href": "https://www.4paradigm.com/industry/retail.html"
+        },
+        {
+          "text": "能源",
+          "href": "https://www.4paradigm.com/industry/energy.html"
+        },
+        {
+          "text": "医疗",
+          "href": "https://www.4paradigm.com/industry/healthcare.html"
+        },
+        {
+          "text": "制造",
+          "href": "https://www.4paradigm.com/industry/manufacturing.html"
+        },
+        {
+          "text": "4Paradigm AlGS",
+          "href": "https://www.4paradigm.com/product/SageGPT.html"
+        },
+        {
+          "text": "Phancy",
+          "href": "https://www.phancy.mobi/"
+        },
+        {
+          "text": "关于范式集团",
+          "href": "https://www.4paradigm.com/about/index.html"
+        },
+        {
+          "text": "公司简介",
+          "href": "https://www.4paradigm.com/about/index.html"
+        },
+        {
+          "text": "新闻与资讯",
+          "href": "https://www.4paradigm.com/about/news.html"
+        },
+        {
+          "text": "技术研究",
+          "href": "https://www.4paradigm.com/about/research.html"
+        },
+        {
+          "text": "招贤纳士",
+          "href": "https://www.4paradigm.com/about/hr.html"
+        },
+        {
+          "text": "联系我们",
+          "href": "https://www.4paradigm.com/about/contact.html"
+        },
+        {
+          "text": "投资者关系",
+          "href": "http://ir.4paradigm.com/sc/index.html"
+        },
+        {
+          "text": "咨询热线： 400-898-7788",
+          "href": "tel: 400-898-7788"
+        },
+        {
+          "text": "4Paradigm",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "4ParadigmSage",
+          "href": "https://www.4paradigm.com/product/4ParadigmSage.html"
+        },
+        {
+          "text": "4Paradigm SHIFT",
+          "href": "https://www.4paradigm.com/special/zx.html"
+        },
+        {
+          "text": "银行",
+          "href": "https://www.4paradigm.com/industry/banking.html"
+        },
+        {
+          "text": "保险",
+          "href": "https://www.4paradigm.com/industry/insurance.html"
+        },
+        {
+          "text": "证券",
+          "href": "https://www.4paradigm.com/industry/stock.html"
+        },
+        {
+          "text": "零售",
+          "href": "https://www.4paradigm.com/industry/retail.html"
+        },
+        {
+          "text": "能源",
+          "href": "https://www.4paradigm.com/industry/energy.html"
+        },
+        {
+          "text": "医疗",
+          "href": "https://www.4paradigm.com/industry/healthcare.html"
+        },
+        {
+          "text": "制造",
+          "href": "https://www.4paradigm.com/industry/manufacturing.html"
+        },
+        {
+          "text": "4Paradigm AlGS",
+          "href": "https://www.4paradigm.com/product/SageGPT.html"
+        },
+        {
+          "text": "Phancy",
+          "href": "https://www.phancy.mobi/"
+        },
+        {
+          "text": "关于范式集团",
+          "href": "javascript:;"
+        },
+        {
+          "text": "公司简介",
+          "href": "https://www.4paradigm.com/about/index.html"
+        },
+        {
+          "text": "新闻与资讯",
+          "href": "https://www.4paradigm.com/about/news.html"
+        },
+        {
+          "text": "技术研究",
+          "href": "https://www.4paradigm.com/about/research.html"
+        },
+        {
+          "text": "招贤纳士",
+          "href": "https://www.4paradigm.com/about/hr.html"
+        },
+        {
+          "text": "联系我们",
+          "href": "https://www.4paradigm.com/about/contact.html"
+        },
+        {
+          "text": "投资者关系",
+          "href": "http://ir.4paradigm.com/sc/index.html"
+        },
+        {
+          "text": "简体中文",
+          "href": "https://www.4paradigm.com/"
+        },
+        {
+          "text": "English",
+          "href": "https://en.4paradigm.com/"
+        },
+        {
+          "text": "未登录",
+          "href": "https://www.4paradigm.com/other/login.html?redirect=https://www.4paradigm.com/about/"
+        },
+        {
+          "text": "个人信息",
+          "href": "https://www.4paradigm.com/member/info.html"
+        },
+        {
+          "text": "选择感兴趣的内容",
+          "href": "https://www.4paradigm.com/member/select.html"
+        },
+        {
+          "text": "意见反馈",
+          "href": "https://www.4paradigm.com/member/msg.html"
+        },
+        {
+          "text": "退出登录",
+          "href": "javascript:;"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "咨询售前顾问",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "咨询热线：400-898-7788",
+          "href": "tel:400-898-7788"
+        },
+        {
+          "text": "4Paradigm",
+          "href": "https://www.4paradigm.com/"
+        },
+        {
+          "text": "4ParadigmSage",
+          "href": "https://www.4paradigm.com/product/4ParadigmSage.html"
+        },
+        {
+          "text": "4Paradigm SHIFT",
+          "href": "https://www.4paradigm.com/special/zx.html"
+        },
+        {
+          "text": "4Paradigm AlGS",
+          "href": "https://www.4paradigm.com/product/SageGPT.html"
+        },
+        {
+          "text": "Phancy",
+          "href": "https://www.phancy.mobi/"
+        },
+        {
+          "text": "关于范式集团",
+          "href": "https://www.4paradigm.com/about/index.html"
+        },
+        {
+          "text": "公司简介",
+          "href": "https://www.4paradigm.com/about/index.html"
+        },
+        {
+          "text": "新闻与资讯",
+          "href": "https://www.4paradigm.com/about/news.html"
+        },
+        {
+          "text": "技术研究",
+          "href": "https://www.4paradigm.com/about/research.html"
+        },
+        {
+          "text": "招贤纳士",
+          "href": "https://www.4paradigm.com/about/hr.html"
+        },
+        {
+          "text": "联系我们",
+          "href": "https://www.4paradigm.com/about/contact.html"
+        },
+        {
+          "text": "投资者关系",
+          "href": "http://ir.4paradigm.com/sc/index.html"
+        },
+        {
+          "text": "business@4paradigm.com",
+          "href": "mailto:business@4paradigm.com"
+        },
+        {
+          "text": "pr_co@4paradigm.com",
+          "href": "mailto:pr_co@4paradigm.com"
+        },
+        {
+          "text": "ir@4paradigm.com",
+          "href": "mailto:ir@4paradigm.com"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/4paradigm/"
+        },
+        {
+          "text": "用户协议",
+          "href": "https://www.4paradigm.com/other/agreement.html"
+        },
+        {
+          "text": "隐私条款",
+          "href": "https://www.4paradigm.com/other/privacy.html"
+        },
+        {
+          "text": "京ICP备16062885号-1",
+          "href": "https://beian.miit.gov.cn/"
+        },
+        {
+          "text": "",
+          "href": "tel:400-898-7788"
+        },
+        {
+          "text": "",
+          "href": "mailto:business@4paradigm.com"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0);"
+        },
+        {
+          "text": "联系我们",
+          "href": "javascript:;"
+        },
+        {
+          "text": "",
+          "href": "javascript:;"
+        },
+        {
+          "text": "首页",
+          "href": "https://www.4paradigm.com/"
+        },
+        {
+          "text": "关于范式集团",
+          "href": "https://www.4paradigm.com/about/index.html"
+        }
+      ]
+    },
+    "all_attempts": [
       {
         "url": "https://www.4paradigm.com/about/",
+        "click_text": "加入我们",
         "status": "ok",
         "title": "公司简介-第四范式官网",
+        "error": "",
         "body_length": 5643
-      }
-    ],
-    "portal_accessible": true,
-    "body_text": "4Paradigm\n\n \n\nPhancy\n\n \n\n关于范式集团\n\n \n\n投资者关系\n\n未登录\n关于范式\nAI for Everyone\n\n范式智能以“AI for Everyone”为使命，希望通过AI技术、产品及服务，让AI时代的红利惠及每一个组织及个人。\n\n范式智能坚持多元化业务发展，目前拥有企业服务版块及消费电子板块。第四范式面向企业服务，以AI平台解决企业智能化转型中面临的效率、成本、价值问题，提升企业的核心竞争力。Phancy面向消费电子市场，以AI软硬解决方案，让每一个传统设备都能成为AI智慧终端。\n\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2023\n11月\n\n携手合作伙伴，发布“范生态”\n\n09月\n\n在港交所主板正式挂牌上市\n\n06月\n\n大模型技术斩获CVPR世界冠军\n\n02月\n\n推出多模态大模型产品第四范式式说4Paradigm SageGPT\n\n2022\n11月\n\n获国家制造业单项冠军\n\n08月\n\n推出企业转型平台及服务4Paradigm Shift\n\n07月\n\n获中国智能决策市场份额第一\n\n05月\n\n斩获图学习“世界杯”OGB 两项冠军\n\n2021\n06月\n\n成为金融信创生态实验室首个AI合作伙伴\n\n11月\n\n首个人工智能国家职业标准颁布 第四范式为起草单位\n\n06月\n\n推出企业级人工智能应用商店4Paradigm Sage APP Store\n\n04月\n\nAutoML刷新OGB世界纪录\n\n02月\n\n入围Gartner新兴技术与趋势影响力雷达全球代表厂商\n\n01月\n\n获2020年度信创工委会 “卓越贡献成员单位”称号\n\n2020\n12月\n\n获“工业和信息化系统抗击新冠肺炎疫情先进集体”称号\n\n11月\n\n以综合评分第一入选Forrester机器学习平台Wave\n\n11月\n\n入选《麻省理工科技评论》“50家最聪明公司”榜单\n\n08月\n\n夺得KDD CUP 2020世界冠军\n\n08月\n\n发布企业级AI操作系统Sage AIOS\n\n06月\n\n入选IDC《中国人工智能软件及应用跟踪》报告，蝉联中国机器学习平台市场份额第一\n\n03月\n\n第四范式AutoML入选Gartner2020十大战略技术趋势报告\n\n02月\n\n第四范式先知（Sage）AI平台率先通过欧盟GDPR（通用数据保护条例）认证\n\n2019\n08月\n\n与永辉超市达成战略合作，共同打造智慧零售业务\n\n08月\n\n第四范式先知平台夺得IDC MarketScape中国机器学习平台市场份额No.1\n\n06月\n\n连续两次刷新世界物体识别权威标准PASCAL VOC世界纪录\n\n05月\n\n刷新世界OCR权威标准ICDAR世界纪录\n\n04月\n\n第四范式签约中电科\n\n03月\n\n第四范式签约中石油\n\n03月\n\n签约人民日报，AI助力媒体内容智能分发\n\n02月\n\n上榜CB Insights独角兽榜单，成为全球309家独角兽之一\n\n2018\n12月\n\nAI顶会NeurIPS中主办国际首个AutoML大赛\n\n10月\n\n签约国内最大的餐饮零售企业，AI全栈式探索布局，加快零售智能化进程\n\n09月\n\n英特尔 x 第四范式人工智能联合实验室成立\n\n08月\n\n与瑞金医院达成战略合作，发布AI慢性病预测与管理产品\n\n07月\n\n签约工商银行，树立全球“金融+AI”标杆\n\n03月\n\n签约PICC，在AI+保险领域取得突破\n\n2017\n12月\n\n获法国巴黎银行“国际金融黑客松大赛”冠军，该赛事历史上首个来自亚洲的世界冠军\n\n08月\n\n获首届迁移学习算法大赛冠军\n\n05月\n\n入选“Gartner东亚最具代表性的5家AI公司” , 国内唯一入榜的AI平台公司\n\n01月\n\n签约中信建投，AI助力传统券商转型升级\n\n2016\n11月\n\n与光大成立联合实验室，国内首个AI+金融实验室\n\n12月\n\n获 “吴文俊奖”创新一等奖，首个获国家级AI最高奖的企业\n\n2015\n08月\n\n签约招行，率先在金融领域应用AI并产生巨大价值\n\n2014\n9月\n\n第四范式成立\n\n重要荣誉\n第四范式获中国智能决策市场份额第一\n2023年07月\n第四范式斩获CVPR挑战赛世界冠军 核心技术已应用于「式说」大模型\n2023年06月\n第四范式「式说」大模型入选北京市首批7家模型伙伴\n2023年05月\n第四范式获国家制造业“单项冠军”\n2022年11月\n第四范式AutoML再次斩获图学习“世界杯”OGB 两项冠军\n2022年05月\n第四范式荣获2020年度信创工委会 “卓越贡献成员单位”称号。\n2021年01月\n入选全球范围内最权威的技术商业型榜单——《麻省理工科技评论》“50家聪明公司”榜单。\n2020年11月\n第四范式以综合评分第一入围Forrester Wave：预测分析与机器学习中国市场评测报告位列领导者行列。\n2020年11月\n第四范式夺得KDD CUP 2020世界冠军。\n2020年08月\nGartner发布2020年十大战略技术趋势报告，第四范式入选全球AutoML平台代表厂商。\n2020年03月\n第四范式先知（4ParadigmSage）AI平台率先通GDPR（通用数据保护条例）认证。\n2020年02月\n第四范式在国际顶级赛事PASCAL VOC 2012 挑战赛通用物体检测 Competition 4 中，连续两次刷新该任务世界纪录。\n2019年06月\n第四范式在世界OCR权威标准ICDAR数据集挑战赛中刷新了ICDAR2017多国语言场景文字检测任务的世界纪录，排名该项任务榜单世界第一。\n2019年05月\n第四范式入选 CB Insights 2019年度AI独角兽俱乐部，为全球32家AI独角兽之一。\n2019年02月\n第四范式入选麻省理工科技评论(MIT TR)“全球十大突破性技术”代表公司。\n2018年02月\n戴文渊入选MIT TR35位35岁以下科技创新杰出精英。本次评选由中美双方共同举办，是MIT TR35历史上规模最大、评委级别最高的国际榜单。 \n2018年01月\n第四范式团队获得首个迁移学习算法大赛冠军。\n2017年08月\n2021年荣誉\n01月\n\n第四范式4Paradigm HyperCycle获评2021年度AI生产力创新奖。\n\n01月\n\n第四范式4Paradigm SageOne入选算力智库2020“算力20”榜单。\n\n2020年荣誉\n12月\n\n第四范式获2020年度信息技术应用创新工作委员会卓越贡献成员单位。\n\n12月\n\n第四范式 4ParadigmSage AIOS获2020 EDGE AWARDS 全球创新评选年度前沿科技应用2020中国人工智能最佳产品TOP10。\n\n12月\n\n第四范式 4ParadigmSage AIOS2020中国人工智能最佳产品TOP10。\n\n12月\n\n第四范式天枢2020年度CMO\"金匠奖\"年度AI营销技术服务奖。\n\n12月\n\n第四范式 4ParadigmSage AIOS入选极客公园中国创新产品评选社会效率推动力榜单。\n\n11月\n\n第四范式入选《中欧商业评论》中国组能力标杆企业20强。\n\n11月\n\n第四范式入选36氪中国新基建之王TOP50企业榜单。\n\n09月\n\n第四范式获北大光华管理学院“2020年度新锐雇主”。\n\n08月\n\n第四范式联邦迁移学习获联邦学习先锋奖。\n\n08月\n\n第四范式天枢入选毕马威首届“领先消费科技50”榜单。\n\n07月\n\n第四范式AutoML入选Forrester中国机器学习Now Tech™报告。\n\n07月\n\n第四范式入选CB Insights 首届中国金融科技榜单。\n\n06月\n\n第四范式智能风控入选中国银行业协会金融科技专业委员会“金融数据智能风控创新优秀解决方案”。\n\n04月\n\n第四范式创始人、首席执行官戴文渊获评科技部创新人才推进计划科技创新创业人才。\n\n04月\n\n第四范式创始人、首席执行官戴文渊荣膺北京青年五四奖章。\n\n2019年荣誉\n12月\n\n第四范式获评WIM2019全球科技新领袖50公司。\n\n10月\n\n入围Gartner Competitive Landscape: AI Startups in China，为五大代表性厂商。\n\n09月\n\n第四范式被评为2019顶尖创业公司排行榜，排名第6位。\n\n08月\n\n第四范式4Paradigm SageOne获得SAIL AWORD——2019卓越人工智能引领者奖。\n\n07月\n\n第四范式获评《中国企业家》年度最具成长性新兴企业。\n\n06月\n\n第四范式风控解决方案获《银行家》“十佳智能风控创新奖”。\n\n04月\n\n第四范式联合创始人、首席研究科学家陈雨强入选中国数据科学50人。\n\n01月\n\n第四范式上榜极客公园INNO AWARDS 2018“前沿探索力榜单”。\n\n01月\n\n入选IDC Innovators“亚太地区下一代高级大数据分析”榜单。\n\n01月\n\n第四范式荣获机器之心年度奖项Synced Machine Intelligence Awards“全球三十大最佳 AI 创业公司”。\n\n01月\n\n入选IDC Innovators《中国人工智能金融反欺诈》报告。\n\n2018年荣誉\n12月\n\n入选创业邦“2018企业服务产业独角兽”。\n\n12月\n\n荣膺凤凰网金融领域“行业贡献 | 年度杰出机构”。\n\n11月\n\n荣膺凤凰网金融领域“行业贡献 | 年度杰出机构”。\n\n11月\n\n第四范式入选德勤中国2018高科技高成长中国50强“明日之星”。\n\n10月\n\n作为AI平台提供商代表，入选中国人工智能产业发展联盟、中国电子工业标准化技术协会信息技术服务分会发布的“2018数据智能生态百强”榜。\n\n09月\n\n于2018世界经济论坛（夏季达沃斯）入选中金投X“中国 AI 50强”。\n\n09月\n\n第四范式入选中金人工智能产业报告AI in China: How Technologies Reshape Industries，成为在“AI+金融”领域唯一被报告推荐的企业。\n\n09月\n\n第四范式凭借供应链金融智能服务平台，荣获中国金融四十人论坛“2018金融科技创新十佳案例”奖。\n\n07月\n\n第四范式入选“2018中国人工智能独角兽”榜单。\n\n06月\n\n第四范式入选Lux Research发布的AI in China报告，成为机器学习平台类别中唯一的代表企业。\n\n05月\n\n第四范式创始人、首席执行官戴文渊入选“中国计算机协会2018青竹奖”，被中国计算机协会表彰为2018年推动人工智能科研进步的杰出代表。\n\n04月\n\n第四范式入选艾瑞咨询《2018年中国人工智能行业研究报告》，是除国际科技巨头外，唯一入选机器学习引擎层的创业公司。\n\n01月\n\n英国首相特蕾莎·梅参观了由第四范式和瑞金医院联合开发的糖尿病预测软件“瑞宁知糖”。\n\n01月\n\n“第二届中国金融科技创新大会”在京召开，第四范式获双料大奖——“AI交易欺诈侦测解决方案”获“2017年度优秀解决方案奖”；第四范式创始人、首席执行官戴文渊获“2017年度创新人物”。\n\n01月\n\n第四范式荣获机器之心年度奖项Synced Machine Intelligence Awards“全球三十大最佳 AI 创业公司”。\n\n01月\n\n第四范式“交易欺诈侦测解决方案”获机器之心年度奖项Synced Machine Intelligence Awards“三十大最佳 AI 应用案例”。\n\n2017年荣誉\n12月\n\n“第四范式先知”3.0企业AI核心系统喜获《金融电子化》“2017年度金融科技优秀产品创新奖”，为唯一获奖AI类产品。\n\n12月\n\n第四范式“交易欺诈侦测解决方案”获《金融电子化》“2017年度金融科技优秀产品创新奖”。\n\n12月\n\n第四范式创始人、首席执行官戴文渊荣誉登网易《2017中国AI英雄风云榜》“商业创新人物”Top10。\n\n12月\n\n第四范式成功斩获“人工智能产业十大领军企业”奖，系该领域唯一获奖的通用人工智能平台类企业。\n\n12月\n\n第四范式获“JDD-2017京东金融全球数据探索者大赛”冠军。\n\n12月\n\n第四范式获评亿欧网“人工智能产业十大成长力企业”。\n\n12月\n\n“第四范式先知”企业核心系统入选极客公园年度创新产品“发展潜力榜单”。\n\n12月\n\n第四范式创始人、首席执行官戴文渊入选“2017年艾问未来人工智能影响力人物”榜单。\n\n08月\n\n第四范式联合创始人、首席科学家杨强当选为IJCAI Trustee (IJCAI 理事会)主席。这是IJCAI创办以来，首次由华人学者担任大会理事会主席。\n\n08月\n\n第四范式团队获得迁移学习算法大赛前海征信“好信杯”算法竞赛冠军。\n\n2016年荣誉\n05月\n\n首席科学家杨强教授当选为国际人工智能协会执行委员会委员，是首位获此殊荣的华人。\n\n企业智能化转型，第四范式助您一臂之力\n咨询售前顾问\n 咨询热线：400-898-7788\n4Paradigm\n4ParadigmSage\n4Paradigm SHIFT\n4Paradigm AlGS\nPhancy\n关于范式集团\n公司简介\n新闻与资讯\n技术研究\n招贤纳士\n联系我们\n投资者关系\n联系我们\n商务合作与售后：business@4paradigm.com\n市场公关：pr_co@4paradigm.com\n投资者关系：ir@4paradigm.com\n \n\n用户协议 隐私条款 第四范式官网 ｜版权所有 © 2014—2025 第四范式（北京）技术有限公司 保留所有权利 京ICP备16062885号-1  京公网安备11010802024074 号\n\n联系我们",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [
-        {
-          "keyword": "系统",
-          "context": "utoML刷新OGB世界纪录  02月  入围Gartner新兴技术与趋势影响力雷达全球代表厂商  01月  获2020年度信创工委会 “卓越贡献成员单位”称号  2020 12月  获“工业和信息化系统抗击新冠肺炎疫情先进集体”称号  11月  以综合评分第一入选Forrester机器学习平台Wave  11月  入选《麻省理工科技评论》“50家最聪明公司”榜单  08月  夺得KDD CUP 2020世界冠军  08月  发布企业级AI操作系统Sage AIOS  06月  入选IDC《中国人工智能软件及应用跟踪》报告，蝉联中国机器学习平台市场份额第一  03月  第四范式AutoML入选"
-        },
-        {
-          "keyword": "edge",
-          "context": "力智库2020“算力20”榜单。  2020年荣誉 12月  第四范式获2020年度信息技术应用创新工作委员会卓越贡献成员单位。  12月  第四范式 4ParadigmSage AIOS获2020 EDGE AWARDS 全球创新评选年度前沿科技应用2020中国人工智能最佳产品TOP10。  12月  第四范式 4ParadigmSage AIOS2020中国人工智能最佳产品TOP10。  12月  第四范式天枢2020年度CMO\"金匠奖\"年度AI营销技术服务奖。  12月  第四范式 4ParadigmSage AIOS入选极客公园中国创新产品评选社会效率推动力榜单。  11月  第四范式"
-        },
-        {
-          "keyword": "平台",
-          "context": "for Everyone”为使命，希望通过AI技术、产品及服务，让AI时代的红利惠及每一个组织及个人。  范式智能坚持多元化业务发展，目前拥有企业服务版块及消费电子板块。第四范式面向企业服务，以AI平台解决企业智能化转型中面临的效率、成本、价值问题，提升企业的核心竞争力。Phancy面向消费电子市场，以AI软硬解决方案，让每一个传统设备都能成为AI智慧终端。  2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2023 11月  携手合作伙伴，发布“范生态”  09月  在港交所主板正式挂牌上市  06月  大模型技术斩获CVPR世界冠军"
-        },
-        {
-          "keyword": "OS",
-          "context": "Forrester机器学习平台Wave  11月  入选《麻省理工科技评论》“50家最聪明公司”榜单  08月  夺得KDD CUP 2020世界冠军  08月  发布企业级AI操作系统Sage AIOS  06月  入选IDC《中国人工智能软件及应用跟踪》报告，蝉联中国机器学习平台市场份额第一  03月  第四范式AutoML入选Gartner2020十大战略技术趋势报告  02月  第四范式先知（Sage）AI平台率先通过欧盟GDPR（通用数据保护条例）认证  2019 08月  与永辉超市达成战略合作，共同打造智慧零售业务  08月  第四范式先知平台夺得IDC MarketScape中"
-        },
-        {
-          "keyword": "操作系统",
-          "context": "以综合评分第一入选Forrester机器学习平台Wave  11月  入选《麻省理工科技评论》“50家最聪明公司”榜单  08月  夺得KDD CUP 2020世界冠军  08月  发布企业级AI操作系统Sage AIOS  06月  入选IDC《中国人工智能软件及应用跟踪》报告，蝉联中国机器学习平台市场份额第一  03月  第四范式AutoML入选Gartner2020十大战略技术趋势报告  02月  第四范式先知（Sage）AI平台率先通过欧盟GDPR（通用数据保护条例）认证  2019 08月  与永辉超市达成战略合作，共同打造智慧零售业务  08月  第四范式先知平台夺得IDC M"
-        }
-      ],
-      "estimated_total_positions": 0
-    }
-  },
-  "modelbest": {
-    "company": "面壁智能 (ModelBest)",
-    "key": "modelbest",
-    "urls_tried": [
-      {
-        "url": "https://www.modelbest.cn/",
-        "status": "error",
-        "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.modelbest.cn/\", waiting until \"domcontentloaded\"\n"
       },
       {
+        "url": "https://www.4paradigm.com/careers",
+        "click_text": null,
+        "status": "ok",
+        "title": "",
+        "error": "",
+        "body_length": 1
+      },
+      {
+        "url": "https://www.4paradigm.com/join",
+        "click_text": null,
+        "status": "ok",
+        "title": "",
+        "error": "",
+        "body_length": 1
+      },
+      {
+        "url": "https://app.mokahr.com/social-recruitment/4paradigm",
+        "click_text": null,
+        "status": "ok",
+        "title": "第四范式（北京）技术有限公司 - 社会招聘",
+        "error": "",
+        "body_length": 127
+      },
+      {
+        "url": "https://app.mokahr.com/apply/4paradigm",
+        "click_text": null,
+        "status": "ok",
+        "title": "第四范式（北京）技术有限公司 - 社会招聘",
+        "error": "",
+        "body_length": 127
+      }
+    ]
+  },
+  "modelbest": {
+    "company": "modelbest",
+    "best_result": {
+      "url": "https://www.modelbest.cn/about",
+      "title": "面壁智能",
+      "body_text": "高效模型\n解决方案\n技术Blog\n了解我们\n新闻动态\nOpenBMB开源社区\n加入我们\n模型产品\n中文\n把大模型放到离用户最近的地方\n做高效的端侧智能\n高效\n手机\n高效\nAIPC\n高效\n智能座舱\n高效\n具身机器人\n高效\n可穿戴设备\n\n旗舰端侧大模型系列\n大模型科学化结晶\n\n了解更多\n\n全球领先的轻量高性能大模型，可有效运行在日常生活中主流消费电子和各类终端上，覆盖不同的芯片和系统平台。\nMiniCPM系列端侧模型，拥有极致的算力和内存使用效率，参数量更小、推理速度更快、性能越级比肩、部署高度灵活和简洁。\n「模型制程」也在持续提升中，大模型科学化不断向更深更远的无人区探索，不断地惊喜收获。\n\n极致以小搏大 + 极致高效低成本\n旗舰基座模型 MiniCPM\n4B\n2.4B\n1.2B、极速版\n越级超越 全球标杆之作\n8B | 0.5B\n4B\n2.4B\n1.2B、极速版\n8B 稀疏闪电版 + 0.5B 以小博大\n百倍提速\n开启端侧长文本时代！\n\n\n快！\n推理速度 220 倍极限加速\n5 倍常规加速\n\n\n顺！\n高效双频丝滑换挡\n长文本用稀疏\n短文本用稠密\n\n\n强！\n以小博大的旗舰性能\n训练开销仅需 22%\n\n\n小！\n25% 极低存储空间\n量化版 90% 瘦身\n端侧部署友好\n\n视频、多图、单图，全面超越 GPT-4o\n旗舰多模态模型 MiniCPM-V\n8B全模态\n8B实时视频\n8B\n2.8B\n最强端侧多模态通用能力\n8B全模态\n8B实时视频\n8B\n2.8B\n实时流式，端到端，全模态\n\n持续看、实时听、自然说\n最强多模态实时流式交互\n最强端侧视觉通用模型\n最强语音通用模型\n\n\n持续看，真流式，贴近人眼自然视觉交互\n实时听，真流畅，具备抗噪能力，可识别背景音情境\n自然说，带感情，超拟人情感对话，真人质感语音生成、语音克隆，可实时打断，更自然更连贯\n全实力，端到端\n小参数，全模态，端侧简单部署维护\n真流式视频，端到端语音，高性能、低延迟\n了解更多\n查看各个版本的功能对比\n\n全球合作伙伴\n\n纯端侧！超性能！全场景！首个纯端侧智能助手\n了解更多\n端侧座舱\nGUI Agent\n\n首个纯端侧智能座舱产品\n\n全面对齐云端，端到端 感知—决策—执行\n\n低功耗高性能\n全场景全功能端到端\n弱网断网\n突破环境限制\n信息安全\n点滴用心记忆，主动服务\n\n创造智能座舱\n\n「原生端侧体验」\n\n全场景原子产品\n\n个性化选配\n\n主流汽车芯片\n\n全适配\n\nAI Native OA\n\n播放视频\nAI+法律=高质量法治和高水平司法\n全国首个接入法院\n办案流程的大模型\n每份案件后面，都是一份沉甸甸的期待。如何让正义，更快来到人们身边？同时让从业人员从繁琐流程中获得解脱？\n\n高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。\n\n法律行业权威知识库深度合作，赋予我们更强的专业性。我们致力于通过提供高效可落地的大模型解决方案，以及自主可控的大模型能力，为法律业务赋能增效。\n全球前沿Agent技术\n迈向IoA\n智能互联时代\n互联网将全世界所有信息带到用户面前，物联网让所有设备相互连接共享信息。\n\n在未来，通过大模型驱动的Agent平台，可以在更多用户、信息和设备之间建立连接，创造全新智能应用场景，进一步解放生产力，加速迈向“Internet of Agents”新时代。\n\n我们已创建了 ChatDev、 X-Agent、AgentVerse 等多个单体智能、群体智能、智能协作方面的Agent明星项目。\n技术Blog\n\n大模型\nAgent\nInfra\nUltra对齐\n其他\n高效大模型 就是面壁智能\n高效，源于对大模型科学化的不懈追求\n以知识密度为核心的「面壁定律」，指引我们进行更高效的大模型科学化探索。在ScalingLaw之外，探索出前瞻、独特的大模型方法论。\n围绕提升大模型知识密度这一本质，面壁通过数据、模型的架构以及相关成长算法方面的探索，做到同等参数、性能更强，持续提升大模型制程，将更小更强更高效的模型放到端侧，放到离用户最近的地方！\n面壁定律\n摩尔定律\n模型能⼒密度随时间呈指数级增强，达到特定智能水平的模型参数量每 3.3 个月 下降⼀半。\n基线模型（如 MiniCPM）为实现目标性能所需的参数数量与实际参数数量的比值。\n新闻动态\n\nA G I  F O R  L I V E S\n  智 周 万 物\nbusiness@modelbest.cn\n北京市 海淀区 清华科技园 科建大厦 3F\n媒体合作\npr@modelbest.cn\n投融资\nir@modelbest.cn\n加入我们\ncareer@modelbest.cn\n高效模型\n解决方案\n技术Blog\n新闻动态\n了解我们\nCopyright © 2024 北京⾯壁智能科技有限责任公司\n京ICP备2023004350号-1\n京公网安备 11010802040079号",
+      "api_data": [],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.modelbest.cn/"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://modelbest.feishu.cn/wiki/D2tFw8Pcsi5CIzkaHNacLK64npg?from=message&source_type=message"
+        },
+        {
+          "text": "极致以小搏大 + 极致高效低成本\n旗舰基座模型 MiniCPM\n4B\n2.4B\n1.2B、极速版\n越级超越 全球标杆之作",
+          "href": "https://github.com/OpenBMB/MiniCPM"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB"
+        },
+        {
+          "text": "",
+          "href": "https://huggingface.co/openbmb"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB"
+        },
+        {
+          "text": "",
+          "href": "https://huggingface.co/openbmb"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://mp.weixin.qq.com/s/axYQOKjYUZKbQnO7UTkjSQ"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB/MiniCPM"
+        },
+        {
+          "text": "",
+          "href": "https://huggingface.co/openbmb/MiniCPM-2B-sft-bf16"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://mp.weixin.qq.com/s/EY0239EH0NQHdkrgFIIRtg"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB/MiniCPM"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://mp.weixin.qq.com/s/BOlGwDYHjqePFDfvqm1xiQ"
+        },
+        {
+          "text": "视频、多图、单图，全面超越 GPT-4o\n旗舰多模态模型 MiniCPM-V\n8B全模态\n8B实时视频\n8B\n2.8B\n最强端侧多模态通用能力",
+          "href": "https://github.com/OpenBMB/MiniCPM-V"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB/MiniCPM-o"
+        },
+        {
+          "text": "",
+          "href": "https://huggingface.co/openbmb/MiniCPM-o-2_6"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://mp.weixin.qq.com/s/JhVZSVwzmTdCzcQX4O9wdQ"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB/MiniCPM-V"
+        },
+        {
+          "text": "",
+          "href": "https://huggingface.co/openbmb/MiniCPM-V-2_6"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://modelbest.feishu.cn/wiki/LZxLwp4Lzi29vXklYLFchwN5nCf"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB/MiniCPM-V"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://mp.weixin.qq.com/s/qhzNcZeao7_wQ225lc8RUg"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB/MiniCPM-V"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://mp.weixin.qq.com/s/BOlGwDYHjqePFDfvqm1xiQ"
+        },
+        {
+          "text": "了解更多",
+          "href": "https://www.modelbest.cn/#"
+        },
+        {
+          "text": "",
+          "href": "https://openbmb.cn/"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/OpenBMB"
+        },
+        {
+          "text": "",
+          "href": "https://huggingface.co/openbmb"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "",
+          "href": "https://www.zhihu.com/org/mian-bi-zhi-neng"
+        },
+        {
+          "text": "",
+          "href": "javascript:void(0)"
+        },
+        {
+          "text": "",
+          "href": "https://space.bilibili.com/3546570985310425"
+        },
+        {
+          "text": "京ICP备2023004350号-1",
+          "href": "https://beian.miit.gov.cn/"
+        },
+        {
+          "text": "京公网安备 11010802040079号",
+          "href": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802040079"
+        }
+      ]
+    },
+    "all_attempts": [
+      {
         "url": "https://www.modelbest.cn/about",
+        "click_text": "加入我们",
         "status": "ok",
         "title": "面壁智能",
+        "error": "",
         "body_length": 2059
+      },
+      {
+        "url": "https://www.modelbest.cn/joinus",
+        "click_text": null,
+        "status": "ok",
+        "title": "面壁智能",
+        "error": "",
+        "body_length": 16
+      },
+      {
+        "url": "https://www.modelbest.cn/careers",
+        "click_text": null,
+        "status": "ok",
+        "title": "面壁智能",
+        "error": "",
+        "body_length": 2059
+      },
+      {
+        "url": "https://www.modelbest.cn/join-us",
+        "click_text": null,
+        "status": "ok",
+        "title": "面壁智能",
+        "error": "",
+        "body_length": 2059
+      },
+      {
+        "url": "https://www.modelbest.cn/recruit",
+        "click_text": null,
+        "status": "ok",
+        "title": "面壁智能",
+        "error": "",
+        "body_length": 16
       }
-    ],
-    "portal_accessible": true,
-    "body_text": "高效模型\n解决方案\n技术Blog\n了解我们\n新闻动态\nOpenBMB开源社区\n加入我们\n模型产品\n中文\n把大模型放到离用户最近的地方\n做高效的端侧智能\n高效\n手机\n高效\nAIPC\n高效\n智能座舱\n高效\n具身机器人\n高效\n可穿戴设备\n\n旗舰端侧大模型系列\n大模型科学化结晶\n\n了解更多\n\n全球领先的轻量高性能大模型，可有效运行在日常生活中主流消费电子和各类终端上，覆盖不同的芯片和系统平台。\nMiniCPM系列端侧模型，拥有极致的算力和内存使用效率，参数量更小、推理速度更快、性能越级比肩、部署高度灵活和简洁。\n「模型制程」也在持续提升中，大模型科学化不断向更深更远的无人区探索，不断地惊喜收获。\n\n极致以小搏大 + 极致高效低成本\n旗舰基座模型 MiniCPM\n4B\n2.4B\n1.2B、极速版\n越级超越 全球标杆之作\n8B | 0.5B\n4B\n2.4B\n1.2B、极速版\n8B 稀疏闪电版 + 0.5B 以小博大\n百倍提速\n开启端侧长文本时代！\n\n\n快！\n推理速度 220 倍极限加速\n5 倍常规加速\n\n\n顺！\n高效双频丝滑换挡\n长文本用稀疏\n短文本用稠密\n\n\n强！\n以小博大的旗舰性能\n训练开销仅需 22%\n\n\n小！\n25% 极低存储空间\n量化版 90% 瘦身\n端侧部署友好\n\n视频、多图、单图，全面超越 GPT-4o\n旗舰多模态模型 MiniCPM-V\n8B全模态\n8B实时视频\n8B\n2.8B\n最强端侧多模态通用能力\n8B全模态\n8B实时视频\n8B\n2.8B\n实时流式，端到端，全模态\n\n持续看、实时听、自然说\n最强多模态实时流式交互\n最强端侧视觉通用模型\n最强语音通用模型\n\n\n持续看，真流式，贴近人眼自然视觉交互\n实时听，真流畅，具备抗噪能力，可识别背景音情境\n自然说，带感情，超拟人情感对话，真人质感语音生成、语音克隆，可实时打断，更自然更连贯\n全实力，端到端\n小参数，全模态，端侧简单部署维护\n真流式视频，端到端语音，高性能、低延迟\n了解更多\n查看各个版本的功能对比\n\n全球合作伙伴\n\n纯端侧！超性能！全场景！首个纯端侧智能助手\n了解更多\n端侧座舱\nGUI Agent\n\n首个纯端侧智能座舱产品\n\n全面对齐云端，端到端 感知—决策—执行\n\n低功耗高性能\n全场景全功能端到端\n弱网断网\n突破环境限制\n信息安全\n点滴用心记忆，主动服务\n\n创造智能座舱\n\n「原生端侧体验」\n\n全场景原子产品\n\n个性化选配\n\n主流汽车芯片\n\n全适配\n\nAI Native OA\n\n播放视频\nAI+法律=高质量法治和高水平司法\n全国首个接入法院\n办案流程的大模型\n每份案件后面，都是一份沉甸甸的期待。如何让正义，更快来到人们身边？同时让从业人员从繁琐流程中获得解脱？\n\n高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。\n\n法律行业权威知识库深度合作，赋予我们更强的专业性。我们致力于通过提供高效可落地的大模型解决方案，以及自主可控的大模型能力，为法律业务赋能增效。\n全球前沿Agent技术\n迈向IoA\n智能互联时代\n互联网将全世界所有信息带到用户面前，物联网让所有设备相互连接共享信息。\n\n在未来，通过大模型驱动的Agent平台，可以在更多用户、信息和设备之间建立连接，创造全新智能应用场景，进一步解放生产力，加速迈向“Internet of Agents”新时代。\n\n我们已创建了 ChatDev、 X-Agent、AgentVerse 等多个单体智能、群体智能、智能协作方面的Agent明星项目。\n技术Blog\n\n大模型\nAgent\nInfra\nUltra对齐\n其他\n高效大模型 就是面壁智能\n高效，源于对大模型科学化的不懈追求\n以知识密度为核心的「面壁定律」，指引我们进行更高效的大模型科学化探索。在ScalingLaw之外，探索出前瞻、独特的大模型方法论。\n围绕提升大模型知识密度这一本质，面壁通过数据、模型的架构以及相关成长算法方面的探索，做到同等参数、性能更强，持续提升大模型制程，将更小更强更高效的模型放到端侧，放到离用户最近的地方！\n面壁定律\n摩尔定律\n模型能⼒密度随时间呈指数级增强，达到特定智能水平的模型参数量每 3.3 个月 下降⼀半。\n基线模型（如 MiniCPM）为实现目标性能所需的参数数量与实际参数数量的比值。\n新闻动态\n\nA G I  F O R  L I V E S\n  智 周 万 物\nbusiness@modelbest.cn\n北京市 海淀区 清华科技园 科建大厦 3F\n媒体合作\npr@modelbest.cn\n投融资\nir@modelbest.cn\n加入我们\ncareer@modelbest.cn\n高效模型\n解决方案\n技术Blog\n新闻动态\n了解我们\nCopyright © 2024 北京⾯壁智能科技有限责任公司\n京ICP备2023004350号-1\n京公网安备 11010802040079号",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [
-        {
-          "keyword": "系统",
-          "context": "高效 智能座舱 高效 具身机器人 高效 可穿戴设备  旗舰端侧大模型系列 大模型科学化结晶  了解更多  全球领先的轻量高性能大模型，可有效运行在日常生活中主流消费电子和各类终端上，覆盖不同的芯片和系统平台。 MiniCPM系列端侧模型，拥有极致的算力和内存使用效率，参数量更小、推理速度更快、性能越级比肩、部署高度灵活和简洁。 「模型制程」也在持续提升中，大模型科学化不断向更深更远的无人区探索，不断地惊喜收获。  极致以小搏大 + 极致高效低成本 旗舰基座模型 MiniCPM 4B 2.4B 1.2B、极速版 越级超越 全球标杆之作 8B | 0.5B 4B 2.4B 1.2B、极速版 8B"
-        },
-        {
-          "keyword": "infra",
-          "context": "of Agents”新时代。  我们已创建了 ChatDev、 X-Agent、AgentVerse 等多个单体智能、群体智能、智能协作方面的Agent明星项目。 技术Blog  大模型 Agent Infra Ultra对齐 其他 高效大模型 就是面壁智能 高效，源于对大模型科学化的不懈追求 以知识密度为核心的「面壁定律」，指引我们进行更高效的大模型科学化探索。在ScalingLaw之外，探索出前瞻、独特的大模型方法论。 围绕提升大模型知识密度这一本质，面壁通过数据、模型的架构以及相关成长算法方面的探索，做到同等参数、性能更强，持续提升大模型制程，将更小更强更高效的模型放到端侧，放到离用户最"
-        },
-        {
-          "keyword": "架构",
-          "context": "学化的不懈追求 以知识密度为核心的「面壁定律」，指引我们进行更高效的大模型科学化探索。在ScalingLaw之外，探索出前瞻、独特的大模型方法论。 围绕提升大模型知识密度这一本质，面壁通过数据、模型的架构以及相关成长算法方面的探索，做到同等参数、性能更强，持续提升大模型制程，将更小更强更高效的模型放到端侧，放到离用户最近的地方！ 面壁定律 摩尔定律 模型能⼒密度随时间呈指数级增强，达到特定智能水平的模型参数量每 3.3 个月 下降⼀半。 基线模型（如 MiniCPM）为实现目标性能所需的参数数量与实际参数数量的比值。 新闻动态  A G I  F O R  L I V E S   智 周 万"
-        },
-        {
-          "keyword": "驱动",
-          "context": "解决方案，以及自主可控的大模型能力，为法律业务赋能增效。 全球前沿Agent技术 迈向IoA 智能互联时代 互联网将全世界所有信息带到用户面前，物联网让所有设备相互连接共享信息。  在未来，通过大模型驱动的Agent平台，可以在更多用户、信息和设备之间建立连接，创造全新智能应用场景，进一步解放生产力，加速迈向“Internet of Agents”新时代。  我们已创建了 ChatDev、 X-Agent、AgentVerse 等多个单体智能、群体智能、智能协作方面的Agent明星项目。 技术Blog  大模型 Agent Infra Ultra对齐 其他 高效大模型 就是面壁智能 高效，源于"
-        },
-        {
-          "keyword": "平台",
-          "context": "效 智能座舱 高效 具身机器人 高效 可穿戴设备  旗舰端侧大模型系列 大模型科学化结晶  了解更多  全球领先的轻量高性能大模型，可有效运行在日常生活中主流消费电子和各类终端上，覆盖不同的芯片和系统平台。 MiniCPM系列端侧模型，拥有极致的算力和内存使用效率，参数量更小、推理速度更快、性能越级比肩、部署高度灵活和简洁。 「模型制程」也在持续提升中，大模型科学化不断向更深更远的无人区探索，不断地惊喜收获。  极致以小搏大 + 极致高效低成本 旗舰基座模型 MiniCPM 4B 2.4B 1.2B、极速版 越级超越 全球标杆之作 8B | 0.5B 4B 2.4B 1.2B、极速版 8B 稀"
-        },
-        {
-          "keyword": "agent",
-          "context": "小参数，全模态，端侧简单部署维护 真流式视频，端到端语音，高性能、低延迟 了解更多 查看各个版本的功能对比  全球合作伙伴  纯端侧！超性能！全场景！首个纯端侧智能助手 了解更多 端侧座舱 GUI Agent  首个纯端侧智能座舱产品  全面对齐云端，端到端 感知—决策—执行  低功耗高性能 全场景全功能端到端 弱网断网 突破环境限制 信息安全 点滴用心记忆，主动服务  创造智能座舱  「原生端侧体验」  全场景原子产品  个性化选配  主流汽车芯片  全适配  AI Native OA  播放视频 AI+法律=高质量法治和高水平司法 全国首个接入法院 办案流程的大模型 每份案件后面，都是一"
-        },
-        {
-          "keyword": "推理",
-          "context": "科学化结晶  了解更多  全球领先的轻量高性能大模型，可有效运行在日常生活中主流消费电子和各类终端上，覆盖不同的芯片和系统平台。 MiniCPM系列端侧模型，拥有极致的算力和内存使用效率，参数量更小、推理速度更快、性能越级比肩、部署高度灵活和简洁。 「模型制程」也在持续提升中，大模型科学化不断向更深更远的无人区探索，不断地惊喜收获。  极致以小搏大 + 极致高效低成本 旗舰基座模型 MiniCPM 4B 2.4B 1.2B、极速版 越级超越 全球标杆之作 8B | 0.5B 4B 2.4B 1.2B、极速版 8B 稀疏闪电版 + 0.5B 以小博大 百倍提速 开启端侧长文本时代！   快！ 推"
-        },
-        {
-          "keyword": "芯片",
-          "context": "IPC 高效 智能座舱 高效 具身机器人 高效 可穿戴设备  旗舰端侧大模型系列 大模型科学化结晶  了解更多  全球领先的轻量高性能大模型，可有效运行在日常生活中主流消费电子和各类终端上，覆盖不同的芯片和系统平台。 MiniCPM系列端侧模型，拥有极致的算力和内存使用效率，参数量更小、推理速度更快、性能越级比肩、部署高度灵活和简洁。 「模型制程」也在持续提升中，大模型科学化不断向更深更远的无人区探索，不断地惊喜收获。  极致以小搏大 + 极致高效低成本 旗舰基座模型 MiniCPM 4B 2.4B 1.2B、极速版 越级超越 全球标杆之作 8B | 0.5B 4B 2.4B 1.2B、极速版"
-        },
-        {
-          "keyword": "存储",
-          "context": "长文本时代！   快！ 推理速度 220 倍极限加速 5 倍常规加速   顺！ 高效双频丝滑换挡 长文本用稀疏 短文本用稠密   强！ 以小博大的旗舰性能 训练开销仅需 22%   小！ 25% 极低存储空间 量化版 90% 瘦身 端侧部署友好  视频、多图、单图，全面超越 GPT-4o 旗舰多模态模型 MiniCPM-V 8B全模态 8B实时视频 8B 2.8B 最强端侧多模态通用能力 8B全模态 8B实时视频 8B 2.8B 实时流式，端到端，全模态  持续看、实时听、自然说 最强多模态实时流式交互 最强端侧视觉通用模型 最强语音通用模型   持续看，真流式，贴近人眼自然视觉交互 实时听，"
-        }
-      ],
-      "estimated_total_positions": 0
-    }
+    ]
   },
   "deepglint": {
-    "company": "格灵深瞳 (Deepglint)",
-    "key": "deepglint",
-    "urls_tried": [
+    "company": "deepglint",
+    "best_result": {
+      "url": "https://www.deepglint.com/joinus/",
+      "title": "加入我们_格灵深瞳",
+      "body_text": "首页\n深瞳能力\n深瞳能力\n坚持创新，持续探索，引领人工智能想象力\n深瞳大脑\n多模态大模型\n核心技术\n核心算法\n深瞳产品\n深瞳产品\n格灵深瞳为众多企业提供AI赋能的数字化产品及体验\n大模型一体机\nMetaLoop AI 开发平台\n深瞳灵犀数据智能平台\n深瞳边缘计算平台\n深瞳列车巡检机器人\n深瞳轨道巡检机器人\n智能自主飞行负载系统\n解决方案\nAI 赋能产业数字化变革\n深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航\n智慧金融\n智慧金融解决方案\n城市管理\n车路协同解决方案\n智慧交管解决方案\n智慧商业\n智慧加能站解决方案\n智慧地产解决方案\n轨交运维\n深瞳列车智能运维解决方案\n深瞳线路智能巡检解决方案\n体育健康\n智慧校园体育解决方案\n元宇宙\n空间型XR解决方案\n客户案例\n客户案例\n以持续可信赖的服务，赋能企业智慧经营管理\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n资源中心\n资源中心\n关注AI科技最新动向，分享AI前瞻洞察与最佳实践\nAI 知识库\n视频中心\n资料下载\nGlint-MVT\n关于我们\n关于我们\n赋能智慧管理，引导健康生活，推动可持续发展\n关于我们\n加入我们\n新闻中心\n投资者关系\n投资者关系\n致力于为股东创造更大价值\n最新公告\n定期报告\n联系方式\n天真纯粹，不自量力\n天真地相信，纯粹地热爱，不自量力地改变世界\n简历投递\n社会招聘\n校园招聘\n北京总部\n上海\n成都\n合肥\n北京延庆基地\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n灵活周到的假期安排\n法定假期、公司福利性假期一应俱全，为员工调整状态、缓解疲劳、学习充电提供保障；育儿假、护理假等假期应有尽有，保障员工承担家庭责任、社会责任不缺席。\n贴心细致的节日关怀\n我们在重要节日、公司节日、员工生日等重要的日子里，提供贴心的节日礼物和祝福，共同分享每一刻美好瞬间。\n丰富多彩的业余生活\n多种多样的俱乐部活动、团建活动、每周一次的TGIF、每月生日会，形式不限、惊喜不断；公司内部主题社群百花齐放。\n轻松愉悦的工作氛围\n扁平的组织结构，优秀的同事，温馨的办公场所，轻松的工作氛围。我们努力打造优秀人才聚集的工作环境，让更多志同道合的伙伴在这里相聚。\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n灵活周到的假期安排\n法定假期、公司福利性假期一应俱全，为员工调整状态、缓解疲劳、学习充电提供保障；育儿假、护理假等假期应有尽有，保障员工承担家庭责任、社会责任不缺席。\n贴心细致的节日关怀\n我们在重要节日、公司节日、员工生日等重要的日子里，提供贴心的节日礼物和祝福，共同分享每一刻美好瞬间。\n丰富多彩的业余生活\n多种多样的俱乐部活动、团建活动、每周一次的TGIF、每月生日会，形式不限、惊喜不断；公司内部主题社群百花齐放。\n轻松愉悦的工作氛围\n扁平的组织结构，优秀的同事，温馨的办公场所，轻松的工作氛围。我们努力打造优秀人才聚集的工作环境，让更多志同道合的伙伴在这里相聚。\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n晏冉\n我叫晏冉，自2013年加入格灵深瞳以来，已经陪伴格灵深瞳走过了十年多时光。犹然记得在北大攻读研究生期间，我们几个志同道合的小伙伴成立了开发团队，一起在学业上交流，一起参加比赛...\n查看更多\n常轩\n我是常轩，大学毕业后在一个科研院所工作过两年，于 2021 年加入公司。现在在 Alpha Space 部门主要从事将公司AI能力商业化相关的研发工作。\n查看更多\n胡开先\n因为《我们只招牛人》这篇“成功”的文章与格灵深瞳结缘，已经8年时间了。8年前，怀揣着创业的理想和对公司创新自由氛围的向往，我在同学和朋友的惊讶声中加入了公司。...\n查看更多\n刘彤\n2013年7月15日，那天下着小雨，潮湿泥土的香气至今还记忆犹新，我和在北大时的另外三名同学拖着行李箱来到惠新西街附近的一个民宅里，这是我第一次踏进“格灵深瞳”的大门。\n查看更多\n晏冉\n我叫晏冉，自2013年加入格灵深瞳以来，已经陪伴格灵深瞳走过了十年多时光。犹然记得在北大攻读研究生期间，我们几个志同道合的小伙伴成立了开发团队，一起在学业上交流，一起参加比赛...\n查看更多\n常轩\n我是常轩，大学毕业后在一个科研院所工作过两年，于 2021 年加入公司。现在在 Alpha Space 部门主要从事将公司AI能力商业化相关的研发工作。\n查看更多\n胡开先\n因为《我们只招牛人》这篇“成功”的文章与格灵深瞳结缘，已经8年时间了。8年前，怀揣着创业的理想和对公司创新自由氛围的向往，我在同学和朋友的惊讶声中加入了公司。...\n查看更多\n刘彤\n2013年7月15日，那天下着小雨，潮湿泥土的香气至今还记忆犹新，我和在北大时的另外三名同学拖着行李箱来到惠新西街附近的一个民宅里，这是我第一次踏进“格灵深瞳”的大门。\n查看更多\n \n年会\n年会\n周年庆\n周年庆\nTGIF\nTGIF\n俱乐部\n俱乐部\n员工培训\n员工培训\n节日\n节日\n预约咨询\n企业微信\n深瞳能力\n深瞳大脑\n多模态大模型\n核心技术\n核心算法\n深瞳产品\n大模型一体机\nMetaLoop AI 开发平台\n深瞳灵犀数据智能平台\n深瞳边缘计算平台\n深瞳列车巡检机器人\n深瞳轨道巡检机器人\n智能自主飞行负载系统\n解决方案\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n客户案例\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n资源中心\nAI 知识库\n视频中心\n资料下载\nGlint-MVT\n关于我们\n关于我们\n加入我们\n新闻中心\n投资者关系\n最新公告\n定期报告\n联系方式\n北京成都合肥南京\n北京市海淀区东升科技园北街6号院中关村科学城东升科技园10号楼8层\n \n商务合作媒体合作人才招聘\nbd@deepglint.com\n联系电话\n010-62950616\n\n企业微信\n\n微信公众号\n\n法律声明 隐私政策\nCopyright ©2024 北京格灵深瞳信息技术股份有限公司 京公网安备11010802044354号 京ICP备14024496号-1",
+      "api_data": [],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.deepglint.com/"
+        },
+        {
+          "text": "首页",
+          "href": "https://www.deepglint.com/"
+        },
+        {
+          "text": "深瞳能力",
+          "href": "https://www.deepglint.com/DeepPupils/index.html"
+        },
+        {
+          "text": "深瞳大脑",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p1"
+        },
+        {
+          "text": "多模态大模型",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p2"
+        },
+        {
+          "text": "核心技术",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p3"
+        },
+        {
+          "text": "核心算法",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p4"
+        },
+        {
+          "text": "深瞳产品",
+          "href": "javascript:;"
+        },
+        {
+          "text": "大模型一体机",
+          "href": "https://www.deepglint.com/Product/list_itemid_739.html"
+        },
+        {
+          "text": "MetaLoop AI 开发平台",
+          "href": "https://www.deepglint.com/Product/list_itemid_229.html"
+        },
+        {
+          "text": "深瞳灵犀数据智能平台",
+          "href": "https://www.deepglint.com/Product/list_itemid_148.html"
+        },
+        {
+          "text": "深瞳边缘计算平台",
+          "href": "https://www.deepglint.com/Product/info_itemid_227.html"
+        },
+        {
+          "text": "深瞳列车巡检机器人",
+          "href": "https://www.deepglint.com/Product/info_itemid_228.html"
+        },
+        {
+          "text": "深瞳轨道巡检机器人",
+          "href": "https://www.deepglint.com/Product/info_itemid_230.html"
+        },
+        {
+          "text": "智能自主飞行负载系统",
+          "href": "https://www.deepglint.com/Product/list_itemid_231.html"
+        },
+        {
+          "text": "解决方案",
+          "href": "javascript:;"
+        },
+        {
+          "text": "智慧金融解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_180.html"
+        },
+        {
+          "text": "车路协同解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_272.html"
+        },
+        {
+          "text": "智慧交管解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_323.html"
+        },
+        {
+          "text": "智慧加能站解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_274.html"
+        },
+        {
+          "text": "智慧地产解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_324.html"
+        },
+        {
+          "text": "深瞳列车智能运维解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_273.html"
+        },
+        {
+          "text": "深瞳线路智能巡检解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_271.html"
+        },
+        {
+          "text": "智慧校园体育解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_181.html"
+        },
+        {
+          "text": "空间型XR解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_269.html"
+        },
+        {
+          "text": "客户案例",
+          "href": "https://www.deepglint.com/UseCases/list.html"
+        },
+        {
+          "text": "智慧金融",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_19.html"
+        },
+        {
+          "text": "城市管理",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_21.html"
+        },
+        {
+          "text": "智慧商业",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_20.html"
+        },
+        {
+          "text": "轨交运维",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_18.html"
+        },
+        {
+          "text": "体育健康",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_17.html"
+        },
+        {
+          "text": "元宇宙",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_16.html"
+        },
+        {
+          "text": "资源中心",
+          "href": "https://www.deepglint.com/AIKnowledgeBase/list.html"
+        },
+        {
+          "text": "AI 知识库",
+          "href": "https://www.deepglint.com/AIKnowledgeBase/list.html"
+        },
+        {
+          "text": "视频中心",
+          "href": "https://www.deepglint.com/Video/index.html"
+        },
+        {
+          "text": "资料下载",
+          "href": "https://www.deepglint.com/Datadownload/index.html"
+        },
+        {
+          "text": "Glint-MVT",
+          "href": "https://glint-mvt.com/"
+        },
+        {
+          "text": "关于我们",
+          "href": "https://www.deepglint.com/AboutUs/index.html"
+        },
+        {
+          "text": "关于我们",
+          "href": "https://www.deepglint.com/AboutUs/index.html"
+        },
+        {
+          "text": "加入我们",
+          "href": "https://www.deepglint.com/JoinUs/index.html"
+        },
+        {
+          "text": "新闻中心",
+          "href": "https://www.deepglint.com/News/list.html"
+        },
+        {
+          "text": "投资者关系",
+          "href": "https://www.deepglint.com/Investor/index.html"
+        },
+        {
+          "text": "最新公告",
+          "href": "http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688207"
+        },
+        {
+          "text": "定期报告",
+          "href": "https://www.deepglint.com/ReportsList/index_lcid_50.html"
+        },
+        {
+          "text": "联系方式",
+          "href": "https://www.deepglint.com/Investor/index.html#contact"
+        },
+        {
+          "text": "社会招聘",
+          "href": "https://deepglint.zhiye.com/social"
+        },
+        {
+          "text": "校园招聘",
+          "href": "https://deepglint.zhiye.com/campus"
+        },
+        {
+          "text": "",
+          "href": "https://www.deepglint.com/Consultation/index.aspx"
+        },
+        {
+          "text": "预约咨询",
+          "href": "https://www.deepglint.com/Consultation/index.aspx"
+        },
+        {
+          "text": "深瞳能力",
+          "href": "https://www.deepglint.com/DeepPupils/index.html"
+        },
+        {
+          "text": "深瞳大脑",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p1"
+        },
+        {
+          "text": "多模态大模型",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p2"
+        },
+        {
+          "text": "核心技术",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p3"
+        },
+        {
+          "text": "核心算法",
+          "href": "https://www.deepglint.com/DeepPupils/index.html#p4"
+        },
+        {
+          "text": "深瞳产品",
+          "href": "https://www.deepglint.com/Product/list_itemid_229.html"
+        },
+        {
+          "text": "大模型一体机",
+          "href": "https://www.deepglint.com/Product/list_itemid_739.html"
+        },
+        {
+          "text": "MetaLoop AI 开发平台",
+          "href": "https://www.deepglint.com/Product/list_itemid_229.html"
+        },
+        {
+          "text": "深瞳灵犀数据智能平台",
+          "href": "https://www.deepglint.com/Product/list_itemid_148.html"
+        },
+        {
+          "text": "深瞳边缘计算平台",
+          "href": "https://www.deepglint.com/Product/info_itemid_227.html"
+        },
+        {
+          "text": "深瞳列车巡检机器人",
+          "href": "https://www.deepglint.com/Product/info_itemid_228.html"
+        },
+        {
+          "text": "深瞳轨道巡检机器人",
+          "href": "https://www.deepglint.com/Product/info_itemid_230.html"
+        },
+        {
+          "text": "智能自主飞行负载系统",
+          "href": "https://www.deepglint.com/Product/list_itemid_231.html"
+        },
+        {
+          "text": "解决方案",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_180.html"
+        },
+        {
+          "text": "智慧金融",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_180.html"
+        },
+        {
+          "text": "城市管理",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_272.html"
+        },
+        {
+          "text": "智慧商业",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_274.html"
+        },
+        {
+          "text": "轨交运维",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_273.html"
+        },
+        {
+          "text": "体育健康",
+          "href": "https://www.deepglint.com/BasicInformation/info_itemid_181.html"
+        },
+        {
+          "text": "元宇宙",
+          "href": "https://www.deepglint.com/BasicInformation/list_itemid_269.html"
+        },
+        {
+          "text": "客户案例",
+          "href": "https://www.deepglint.com/UseCases/list.html"
+        },
+        {
+          "text": "智慧金融",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_19.html"
+        },
+        {
+          "text": "城市管理",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_21.html"
+        },
+        {
+          "text": "智慧商业",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_20.html"
+        },
+        {
+          "text": "轨交运维",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_18.html"
+        },
+        {
+          "text": "体育健康",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_17.html"
+        },
+        {
+          "text": "元宇宙",
+          "href": "https://www.deepglint.com/UseCases/list_lcid_16.html"
+        },
+        {
+          "text": "资源中心",
+          "href": "https://www.deepglint.com/AIKnowledgeBase/list.html"
+        },
+        {
+          "text": "AI 知识库",
+          "href": "https://www.deepglint.com/AIKnowledgeBase/list.html"
+        },
+        {
+          "text": "视频中心",
+          "href": "https://www.deepglint.com/Video/index.html"
+        },
+        {
+          "text": "资料下载",
+          "href": "https://www.deepglint.com/Datadownload/index.html"
+        },
+        {
+          "text": "Glint-MVT",
+          "href": "https://glint-mvt.com/"
+        },
+        {
+          "text": "关于我们",
+          "href": "https://www.deepglint.com/AboutUs/index.html"
+        },
+        {
+          "text": "关于我们",
+          "href": "https://www.deepglint.com/AboutUs/index.html"
+        },
+        {
+          "text": "加入我们",
+          "href": "https://www.deepglint.com/JoinUs/index.html"
+        },
+        {
+          "text": "新闻中心",
+          "href": "https://www.deepglint.com/News/list.html"
+        },
+        {
+          "text": "投资者关系",
+          "href": "https://www.deepglint.com/Investor/index.html"
+        },
+        {
+          "text": "最新公告",
+          "href": "http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688207"
+        },
+        {
+          "text": "定期报告",
+          "href": "https://www.deepglint.com/ReportsList/index_lcid_50.html"
+        },
+        {
+          "text": "联系方式",
+          "href": "https://www.deepglint.com/Investor/index.html#contact"
+        },
+        {
+          "text": "法律声明",
+          "href": "https://www.deepglint.com/LegalNotices/index.html"
+        },
+        {
+          "text": "隐私政策",
+          "href": "https://www.deepglint.com/yszc/index.html"
+        },
+        {
+          "text": "京公网安备11010802044354号",
+          "href": "https://beian.mps.gov.cn/#/query/webSearch?code=11010802044354"
+        },
+        {
+          "text": "京ICP备14024496号-1",
+          "href": "https://beian.miit.gov.cn/"
+        }
+      ]
+    },
+    "all_attempts": [
       {
         "url": "https://www.deepglint.com/joinus/",
+        "click_text": "社会招聘",
+        "status": "ok",
+        "title": "社会招聘",
+        "error": "",
+        "body_length": 158
+      },
+      {
+        "url": "https://www.deepglint.com/joinus/",
+        "click_text": "简历投递",
         "status": "ok",
         "title": "加入我们_格灵深瞳",
+        "error": "",
         "body_length": 2621
+      },
+      {
+        "url": "https://www.deepglint.com/JoinUs/social.html",
+        "click_text": null,
+        "status": "ok",
+        "title": "格灵深瞳_让AI造福人类,让世界更安全更宜居更健康",
+        "error": "",
+        "body_length": 55
+      },
+      {
+        "url": "https://www.deepglint.com/JoinUs/campus.html",
+        "click_text": null,
+        "status": "ok",
+        "title": "格灵深瞳_让AI造福人类,让世界更安全更宜居更健康",
+        "error": "",
+        "body_length": 55
       }
-    ],
-    "portal_accessible": true,
-    "body_text": "首页\n深瞳能力\n深瞳能力\n坚持创新，持续探索，引领人工智能想象力\n深瞳大脑\n多模态大模型\n核心技术\n核心算法\n深瞳产品\n深瞳产品\n格灵深瞳为众多企业提供AI赋能的数字化产品及体验\n大模型一体机\nMetaLoop AI 开发平台\n深瞳灵犀数据智能平台\n深瞳边缘计算平台\n深瞳列车巡检机器人\n深瞳轨道巡检机器人\n智能自主飞行负载系统\n解决方案\nAI 赋能产业数字化变革\n深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航\n智慧金融\n智慧金融解决方案\n城市管理\n车路协同解决方案\n智慧交管解决方案\n智慧商业\n智慧加能站解决方案\n智慧地产解决方案\n轨交运维\n深瞳列车智能运维解决方案\n深瞳线路智能巡检解决方案\n体育健康\n智慧校园体育解决方案\n元宇宙\n空间型XR解决方案\n客户案例\n客户案例\n以持续可信赖的服务，赋能企业智慧经营管理\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n资源中心\n资源中心\n关注AI科技最新动向，分享AI前瞻洞察与最佳实践\nAI 知识库\n视频中心\n资料下载\nGlint-MVT\n关于我们\n关于我们\n赋能智慧管理，引导健康生活，推动可持续发展\n关于我们\n加入我们\n新闻中心\n投资者关系\n投资者关系\n致力于为股东创造更大价值\n最新公告\n定期报告\n联系方式\n天真纯粹，不自量力\n天真地相信，纯粹地热爱，不自量力地改变世界\n简历投递\n社会招聘\n校园招聘\n北京总部\n上海\n成都\n合肥\n北京延庆基地\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n灵活周到的假期安排\n法定假期、公司福利性假期一应俱全，为员工调整状态、缓解疲劳、学习充电提供保障；育儿假、护理假等假期应有尽有，保障员工承担家庭责任、社会责任不缺席。\n贴心细致的节日关怀\n我们在重要节日、公司节日、员工生日等重要的日子里，提供贴心的节日礼物和祝福，共同分享每一刻美好瞬间。\n丰富多彩的业余生活\n多种多样的俱乐部活动、团建活动、每周一次的TGIF、每月生日会，形式不限、惊喜不断；公司内部主题社群百花齐放。\n轻松愉悦的工作氛围\n扁平的组织结构，优秀的同事，温馨的办公场所，轻松的工作氛围。我们努力打造优秀人才聚集的工作环境，让更多志同道合的伙伴在这里相聚。\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n灵活周到的假期安排\n法定假期、公司福利性假期一应俱全，为员工调整状态、缓解疲劳、学习充电提供保障；育儿假、护理假等假期应有尽有，保障员工承担家庭责任、社会责任不缺席。\n贴心细致的节日关怀\n我们在重要节日、公司节日、员工生日等重要的日子里，提供贴心的节日礼物和祝福，共同分享每一刻美好瞬间。\n丰富多彩的业余生活\n多种多样的俱乐部活动、团建活动、每周一次的TGIF、每月生日会，形式不限、惊喜不断；公司内部主题社群百花齐放。\n轻松愉悦的工作氛围\n扁平的组织结构，优秀的同事，温馨的办公场所，轻松的工作氛围。我们努力打造优秀人才聚集的工作环境，让更多志同道合的伙伴在这里相聚。\n全面多维的健康呵护\n提供年度体检和覆盖到员工子女的补充医疗保险，让员工就医不忧心，我们与员工一起共同守护员工家庭成员健康。\n晏冉\n我叫晏冉，自2013年加入格灵深瞳以来，已经陪伴格灵深瞳走过了十年多时光。犹然记得在北大攻读研究生期间，我们几个志同道合的小伙伴成立了开发团队，一起在学业上交流，一起参加比赛...\n查看更多\n常轩\n我是常轩，大学毕业后在一个科研院所工作过两年，于 2021 年加入公司。现在在 Alpha Space 部门主要从事将公司AI能力商业化相关的研发工作。\n查看更多\n胡开先\n因为《我们只招牛人》这篇“成功”的文章与格灵深瞳结缘，已经8年时间了。8年前，怀揣着创业的理想和对公司创新自由氛围的向往，我在同学和朋友的惊讶声中加入了公司。...\n查看更多\n刘彤\n2013年7月15日，那天下着小雨，潮湿泥土的香气至今还记忆犹新，我和在北大时的另外三名同学拖着行李箱来到惠新西街附近的一个民宅里，这是我第一次踏进“格灵深瞳”的大门。\n查看更多\n晏冉\n我叫晏冉，自2013年加入格灵深瞳以来，已经陪伴格灵深瞳走过了十年多时光。犹然记得在北大攻读研究生期间，我们几个志同道合的小伙伴成立了开发团队，一起在学业上交流，一起参加比赛...\n查看更多\n常轩\n我是常轩，大学毕业后在一个科研院所工作过两年，于 2021 年加入公司。现在在 Alpha Space 部门主要从事将公司AI能力商业化相关的研发工作。\n查看更多\n胡开先\n因为《我们只招牛人》这篇“成功”的文章与格灵深瞳结缘，已经8年时间了。8年前，怀揣着创业的理想和对公司创新自由氛围的向往，我在同学和朋友的惊讶声中加入了公司。...\n查看更多\n刘彤\n2013年7月15日，那天下着小雨，潮湿泥土的香气至今还记忆犹新，我和在北大时的另外三名同学拖着行李箱来到惠新西街附近的一个民宅里，这是我第一次踏进“格灵深瞳”的大门。\n查看更多\n \n年会\n年会\n周年庆\n周年庆\nTGIF\nTGIF\n俱乐部\n俱乐部\n员工培训\n员工培训\n节日\n节日\n预约咨询\n企业微信\n深瞳能力\n深瞳大脑\n多模态大模型\n核心技术\n核心算法\n深瞳产品\n大模型一体机\nMetaLoop AI 开发平台\n深瞳灵犀数据智能平台\n深瞳边缘计算平台\n深瞳列车巡检机器人\n深瞳轨道巡检机器人\n智能自主飞行负载系统\n解决方案\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n客户案例\n智慧金融\n城市管理\n智慧商业\n轨交运维\n体育健康\n元宇宙\n资源中心\nAI 知识库\n视频中心\n资料下载\nGlint-MVT\n关于我们\n关于我们\n加入我们\n新闻中心\n投资者关系\n最新公告\n定期报告\n联系方式\n北京成都合肥南京\n北京市海淀区东升科技园北街6号院中关村科学城东升科技园10号楼8层\n \n商务合作媒体合作人才招聘\nbd@deepglint.com\n联系电话\n010-62950616\n\n企业微信\n\n微信公众号\n\n法律声明 隐私政策\nCopyright ©2024 北京格灵深瞳信息技术股份有限公司 京公网安备11010802044354号 京ICP备14024496号-1",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [
-        {
-          "keyword": "系统",
-          "context": "产品 格灵深瞳为众多企业提供AI赋能的数字化产品及体验 大模型一体机 MetaLoop AI 开发平台 深瞳灵犀数据智能平台 深瞳边缘计算平台 深瞳列车巡检机器人 深瞳轨道巡检机器人 智能自主飞行负载系统 解决方案 AI 赋能产业数字化变革 深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航 智慧金融 智慧金融解决方案 城市管理 车路协同解决方案 智慧交管解决方案 智慧商业 智慧加能站解决方案 智慧地产解决方案 轨交运维 深瞳列车智能运维解决方案 深瞳线路智能巡检解决方案 体育健康 智慧校园体育解决方案 元宇宙 空间型XR解决方案 客户案例 客户案例"
-        },
-        {
-          "keyword": "边缘",
-          "context": "智能想象力 深瞳大脑 多模态大模型 核心技术 核心算法 深瞳产品 深瞳产品 格灵深瞳为众多企业提供AI赋能的数字化产品及体验 大模型一体机 MetaLoop AI 开发平台 深瞳灵犀数据智能平台 深瞳边缘计算平台 深瞳列车巡检机器人 深瞳轨道巡检机器人 智能自主飞行负载系统 解决方案 AI 赋能产业数字化变革 深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航 智慧金融 智慧金融解决方案 城市管理 车路协同解决方案 智慧交管解决方案 智慧商业 智慧加能站解决方案 智慧地产解决方案 轨交运维 深瞳列车智能运维解决方案 深瞳线路智能巡检解决方案 体育健康"
-        },
-        {
-          "keyword": "平台",
-          "context": "力 坚持创新，持续探索，引领人工智能想象力 深瞳大脑 多模态大模型 核心技术 核心算法 深瞳产品 深瞳产品 格灵深瞳为众多企业提供AI赋能的数字化产品及体验 大模型一体机 MetaLoop AI 开发平台 深瞳灵犀数据智能平台 深瞳边缘计算平台 深瞳列车巡检机器人 深瞳轨道巡检机器人 智能自主飞行负载系统 解决方案 AI 赋能产业数字化变革 深入行业场景，将核心技术与行业应用深度融合，构建领先的数字化解决方案，为企业的数字变革保驾护航 智慧金融 智慧金融解决方案 城市管理 车路协同解决方案 智慧交管解决方案 智慧商业 智慧加能站解决方案 智慧地产解决方案 轨交运维 深瞳列车智能运维解决方案 深"
-        }
-      ],
-      "estimated_total_positions": 0
-    }
+    ]
   },
   "dptechnology": {
-    "company": "深势科技 (DP Technology)",
-    "key": "dptechnology",
-    "urls_tried": [
+    "company": "dptechnology",
+    "best_result": {
+      "url": "https://www.boyuai.com/",
+      "title": "伯禹教育",
+      "body_text": "课程体系\n人工智能训练师\n青少年AI训练营\n信奥竞赛\n登录\n源自上海交大 ACM 班\n，\n构建 AI 人才基石。\n企业动态与行业洞察\n\n聚焦伯禹最新动态与 AI 行业趋势，分享产品更新、技术实践与教育创新\n\n2026泾彩象限：漕河泾开发区“种子计划”青少年AI创造营圆满落幕\n\nAI视觉 x Vibe Coding漕河泾开发区科创“种子计划”青少年AI创造营顺利收官。作为开发区构建“AI+教育”一体化生态的重要一环，本次活动由上海交通大学3A全球校友中心、伯禹教育与漕河泾开发区共同举办，汇聚了一批对人工智能充满热情与潜力的中小学生。在为期五天的深度研学与创造实践中，学员不仅系统接触了AI前沿技术，更在项目协作中锤炼了创新思维与实践能力，初步展现了未来科创人才的成长风貌。\n\n查看详情 >\n聚首思源，共赴新程 | 上海交通大学130周年校庆3A校友聚会圆满举行\n\n百卅风华，薪火相传。4月6日，值上海交通大学130周年校庆之际，3A校友会全球校友中心迎来了一场难忘的校友聚会。来自AI大模型、芯片设计、量化金融、自动驾驶、机器人等前沿领域的80多位校友们相聚在校友中心，畅谈往昔，展望未来。\n\n查看详情 >\nAI平台经济生态协作大会圆满举行｜AI Agent，不止于工具，生态协作启新章\n\n4月11日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司主办，上海科学技术交流中心共同支持的“AI平台经济生态协作大会”在上海市徐汇区漕河泾会议中心A7元创厅召开。大会以“AI Agent，不止于工具”为主题，汇聚学界、产业界及投资界70多位代表，共同探讨AI Agent在多元行业的落地经验与生态协作路径。\n\n查看详情 >\nAI赋能千行百业，价值共创引领未来——AI全域价值领航共创会成功举办\n\n2026年4月18日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司联合主办的“AI示范场景前沿技术研讨系列活动——AI全域价值领航共创会”在上海市徐汇区漕河泾校友中心圆满举行。\n\n查看详情 >\n202512期青少年AI训练营顺利结营\n\n多组学员完成从创意到原型的项目实践，围绕真实项目通过AI做出解决方案。来看看他们的精彩表现吧\n\n查看详情 >\n2026泾彩象限：漕河泾开发区“种子计划”青少年AI创造营圆满落幕\n\nAI视觉 x Vibe Coding漕河泾开发区科创“种子计划”青少年AI创造营顺利收官。作为开发区构建“AI+教育”一体化生态的重要一环，本次活动由上海交通大学3A全球校友中心、伯禹教育与漕河泾开发区共同举办，汇聚了一批对人工智能充满热情与潜力的中小学生。在为期五天的深度研学与创造实践中，学员不仅系统接触了AI前沿技术，更在项目协作中锤炼了创新思维与实践能力，初步展现了未来科创人才的成长风貌。\n\n查看详情 >\n聚首思源，共赴新程 | 上海交通大学130周年校庆3A校友聚会圆满举行\n\n百卅风华，薪火相传。4月6日，值上海交通大学130周年校庆之际，3A校友会全球校友中心迎来了一场难忘的校友聚会。来自AI大模型、芯片设计、量化金融、自动驾驶、机器人等前沿领域的80多位校友们相聚在校友中心，畅谈往昔，展望未来。\n\n查看详情 >\nAI平台经济生态协作大会圆满举行｜AI Agent，不止于工具，生态协作启新章\n\n4月11日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司主办，上海科学技术交流中心共同支持的“AI平台经济生态协作大会”在上海市徐汇区漕河泾会议中心A7元创厅召开。大会以“AI Agent，不止于工具”为主题，汇聚学界、产业界及投资界70多位代表，共同探讨AI Agent在多元行业的落地经验与生态协作路径。\n\n查看详情 >\nAI赋能千行百业，价值共创引领未来——AI全域价值领航共创会成功举办\n\n2026年4月18日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司联合主办的“AI示范场景前沿技术研讨系列活动——AI全域价值领航共创会”在上海市徐汇区漕河泾校友中心圆满举行。\n\n查看详情 >\n202512期青少年AI训练营顺利结营\n\n多组学员完成从创意到原型的项目实践，围绕真实项目通过AI做出解决方案。来看看他们的精彩表现吧\n\n查看详情 >\n系统化 AI 课程体系\n\n从AI理论基础到实战技能，从职业认证到青少年信息学教育，构建完整的人工智能学习路径\n\n人工智能技术理论\nAI 实战应用课\n信奥编程\n动手学系列\n精品公开课\n人工智能思维创新课\n\n近几年来，高速发展的人工智能落地金融、医疗、安防等各行各业，不仅提升了传统组织效率，也诞生了许多创新的商业模式与应用场景。智能时代，AI不仅是一门技术，也是一种思维。AI知识的普及需求从科研人员到技术开发人员，拓展到了更广泛的人群。理解AI前沿算法的原理思想、构建大数据思维，成为了AI时代人才的必备素养。基于“传播优质AI学习资源、赋能全社会”的使命，伯禹教育携手上海交通大学博士研究生团队，精心制作了这门《AI for All：AI算法与思维极简入门》课程。让每一个人都能读懂人工智能，构建AI思维；助力AI真正赋能每一个行业与组织。 课程特色 极简——人人都能懂的AI课 没有让你眼花缭乱的数学与公式 你每天都会遇到的生活化案例 精美Q萌的手绘与动画 思维——不仅科普知识，更助你构建AI思维 局限性剖析：为你揭秘AI应用的边界 创新应用拓展：激发你的创造思维 未来趋势展望：用发展与辩证的思维看技术发展 前沿——最新应用领域全覆盖 AI前沿算法: 图像、文本、数据挖掘 、强化学习等 AI创新应用：金融 、快消、互联网 、传统等各行业 权威——上海交大教授、博士硕士生教研团队 发起人：国家级教学名师，上海交大特聘教授，ACM班创始人俞勇教授 教研团队：1名博士生导师、1名博士、9名博士硕士生\n\n试学咨询\nElitesAI·深度学习\n\n本课程面向希望较为深入和系统地学习深度学习及其应用相关内容的在校学生及职场人士。\n\n试学咨询\nElitesAI·强化学习\n\n本课程介绍强化学习基础知识和实验方法，包括动态规划、蒙特卡洛方法以及深度强化学习相关前沿技术。\n\n试学咨询\nElitesAI·机器学习基础\n\n”楠哥的讲解清晰明了，有助于机器学习入门者快速了解核心概念，为后续学习进阶内容打下扎实基础。”\n\n试学咨询\n成为专业的人工智能训练师\n\n围绕国家职业标准培养AI模型训练与应用能力\n\n何为人工智能训练师？\n\n人工智能训练师是指使用智能训练软件，在人工智能产品实际使用过程中进行数据库管理、算法参数设置、人机交互设计、性能测试跟踪及其他辅助作业的人员。\n本职业共设 5 个等级，分别为：五级/初级工、四级/中级工、三级/高级工、二级/技师、一级/高级技师。\n人工智能训练师作为数字经济时代催生的新职业，2024年被列入上海市重点支持技能人员职业（工种）目录，可享受政府补贴，上海居住证积分60分的政策福利，全国联网可查。\n\n了解证书及补贴政策\n青少年 AI 训练营\n\n通过AI工具与编程实践培养未来科技能力\n\n由上海交通大学 3A 校友会、伯禹教育与漕河泾开发区联合举办的“青少年 AI 创造营”，在交大 ACM 班创始人俞勇教授的亲自领衔下，为 9-14 岁少年打造了场前沿科创盛宴。\n\n营地秉持“不写一行代码，你的想法 AI 来实现”的先锋理念，旨在培养孩子在人工智能时代的 AI 修养与工具运用能力。在这里，学员们将跳出传统编程的枯燥语法，利用 Vibe Coding 等 AI 工具释放无限创想。\n\n除了系统的 AI 启蒙，孩子们还将走出教室，深度走访上海交大校园、钱学森图书馆及上海市人形机器人创新孵化中心等科创圣地，切身感受从学术研究到产业应用的全链路。在为期五天的沉浸式研学中，通过创客马拉松路演，孩子们将在创新坐标系中定义未来，实现从“AI 使用者”到“未来创造者”的华丽蜕变。\n\n你将学到\nAI 绘画\n\n学习如何用提示词生成图片，理解构图、风格、色彩和角色设计的基本方法。\n从“想到一个画面”到“把创意变成作品”，体验 AI 艺术创作的乐趣。\n\nAI 视频\n\n学习把图片、文字和创意想法变成动态视频，了解分镜、镜头语言、节奏和故事表达。\n亲手完成属于自己的 AI 短片作品。\n\nAI 编程\n\n学习用 AI 工具与编程实践，培养科创能力。\n不用死记硬背语法，也能做出小游戏、小工具或创意应用。\n\n2026冬令营招生中，了解详细信息\n信息学奥赛系统培养计划\n\n从编程基础到算法竞赛进阶\n\n智能时代，编程是与世界对话的基础语言，AI是与时代沟通的底层思维。\n编程学习的目标，远不止游戏化的互动和特定语法的学习。\n我们想要培养，影响世界、改造世界的下一个“黄金一代”\n\n为什么信息学奥赛越来越受重视？\n更多信奥信息\n知名院校与机构合作\n\n商务合作\n\n扫码添加曹老师微信，获取：\n- AI课程体系与教学方案\n- 课程落地与开班指导\n- 师资培训与教学支持\n- 招生与课程运营建议\n\n©2026 boyuai.com 版权所有  沪ICP备18044415号  沪公网安备31011202011260号  沪B2-20200532",
+      "api_data": [],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.boyuai.com/web"
+        },
+        {
+          "text": "课程体系",
+          "href": "https://www.boyuai.com/web/course-system"
+        },
+        {
+          "text": "人工智能训练师",
+          "href": "https://www.boyuai.com/web/ai-trainer"
+        },
+        {
+          "text": "青少年AI训练营",
+          "href": "https://www.boyuai.com/web/ai-bootcamp"
+        },
+        {
+          "text": "信奥竞赛",
+          "href": "https://www.boyuai.com/web/informatics"
+        },
+        {
+          "text": "2026泾彩象限：漕河泾开发区“种子计划”青少年AI创造营圆满落幕\n\nAI视觉 x Vibe Coding漕河泾开发区科创“种子计划”青少年AI创造营顺利收官。作为开发区构建“AI+教育”一体化生态的",
+          "href": "https://mp.weixin.qq.com/s/dM6TCJ2ctF1yLSchSjasNQ"
+        },
+        {
+          "text": "聚首思源，共赴新程 | 上海交通大学130周年校庆3A校友聚会圆满举行\n\n百卅风华，薪火相传。4月6日，值上海交通大学130周年校庆之际，3A校友会全球校友中心迎来了一场难忘的校友聚会。来自AI大模型",
+          "href": "https://mp.weixin.qq.com/s/3pxXvb5tDZmmef1LHA0EMg"
+        },
+        {
+          "text": "AI平台经济生态协作大会圆满举行｜AI Agent，不止于工具，生态协作启新章\n\n4月11日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司主办，上海科学技术交流中心共同支持的“A",
+          "href": "https://mp.weixin.qq.com/s/VDSElS0jCrGvFObMFixSYA"
+        },
+        {
+          "text": "AI赋能千行百业，价值共创引领未来——AI全域价值领航共创会成功举办\n\n2026年4月18日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司联合主办的“AI示范场景前沿技术研讨系列",
+          "href": "https://mp.weixin.qq.com/s/434iaapnav0MMauSiP5uOg"
+        },
+        {
+          "text": "202512期青少年AI训练营顺利结营\n\n多组学员完成从创意到原型的项目实践，围绕真实项目通过AI做出解决方案。来看看他们的精彩表现吧\n\n查看详情 >",
+          "href": "https://camps.boyuai.com/"
+        },
+        {
+          "text": "2026泾彩象限：漕河泾开发区“种子计划”青少年AI创造营圆满落幕\n\nAI视觉 x Vibe Coding漕河泾开发区科创“种子计划”青少年AI创造营顺利收官。作为开发区构建“AI+教育”一体化生态的",
+          "href": "https://mp.weixin.qq.com/s/dM6TCJ2ctF1yLSchSjasNQ"
+        },
+        {
+          "text": "聚首思源，共赴新程 | 上海交通大学130周年校庆3A校友聚会圆满举行\n\n百卅风华，薪火相传。4月6日，值上海交通大学130周年校庆之际，3A校友会全球校友中心迎来了一场难忘的校友聚会。来自AI大模型",
+          "href": "https://mp.weixin.qq.com/s/3pxXvb5tDZmmef1LHA0EMg"
+        },
+        {
+          "text": "AI平台经济生态协作大会圆满举行｜AI Agent，不止于工具，生态协作启新章\n\n4月11日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司主办，上海科学技术交流中心共同支持的“A",
+          "href": "https://mp.weixin.qq.com/s/VDSElS0jCrGvFObMFixSYA"
+        },
+        {
+          "text": "AI赋能千行百业，价值共创引领未来——AI全域价值领航共创会成功举办\n\n2026年4月18日，由上海徐汇思源人工智能研究院、上海市漕河泾新兴技术开发区发展总公司联合主办的“AI示范场景前沿技术研讨系列",
+          "href": "https://mp.weixin.qq.com/s/434iaapnav0MMauSiP5uOg"
+        },
+        {
+          "text": "202512期青少年AI训练营顺利结营\n\n多组学员完成从创意到原型的项目实践，围绕真实项目通过AI做出解决方案。来看看他们的精彩表现吧\n\n查看详情 >",
+          "href": "https://camps.boyuai.com/"
+        },
+        {
+          "text": "了解证书及补贴政策",
+          "href": "https://www.boyuai.com/web/ai-trainer"
+        },
+        {
+          "text": "2026冬令营招生中，了解详细信息",
+          "href": "https://www.boyuai.com/web/ai-bootcamp"
+        },
+        {
+          "text": "更多信奥信息",
+          "href": "https://www.boyuai.com/web/informatics"
+        },
+        {
+          "text": "沪ICP备18044415号",
+          "href": "https://www.boyuai.com/web/#"
+        },
+        {
+          "text": "沪公网安备31011202011260号",
+          "href": "https://www.boyuai.com/web/#"
+        },
+        {
+          "text": "沪B2-20200532",
+          "href": "https://www.boyuai.com/web/#"
+        }
+      ]
+    },
+    "all_attempts": [
       {
         "url": "https://www.dptechnology.com.cn/careers",
+        "click_text": null,
         "status": "error",
-        "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dptechnology.com.cn/careers\nCall log:\n  - navigating to \"https://www.dptechnology.com.cn/careers\", waiting until \"domcontentloaded\"\n"
+        "title": "",
+        "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dptechnology.com.cn/careers\nCall log:\n  - navigating to \"https://www.dptechnology.com.cn/careers\", waiting until \"domcontentloaded\"\n",
+        "body_length": 0
+      },
+      {
+        "url": "https://dp.tech/careers",
+        "click_text": null,
+        "status": "ok",
+        "title": "深势科技-全球AI for Science领导者",
+        "error": "",
+        "body_length": 638
+      },
+      {
+        "url": "https://www.dp.tech/",
+        "click_text": null,
+        "status": "ok",
+        "title": "深势科技-全球AI for Science领导者",
+        "error": "",
+        "body_length": 638
       },
       {
         "url": "https://www.dptechnology.com.cn/",
+        "click_text": null,
         "status": "error",
-        "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dptechnology.com.cn/\nCall log:\n  - navigating to \"https://www.dptechnology.com.cn/\", waiting until \"domcontentloaded\"\n"
+        "title": "",
+        "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dptechnology.com.cn/\nCall log:\n  - navigating to \"https://www.dptechnology.com.cn/\", waiting until \"domcontentloaded\"\n",
+        "body_length": 0
+      },
+      {
+        "url": "https://www.boyuai.com/",
+        "click_text": null,
+        "status": "ok",
+        "title": "伯禹教育",
+        "error": "",
+        "body_length": 3802
       }
-    ],
-    "portal_accessible": false,
-    "body_text": "",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [],
-      "estimated_total_positions": 0
-    }
+    ]
   },
   "geovis": {
-    "company": "中科星图 (GEO)",
-    "key": "geovis",
-    "urls_tried": [
+    "company": "geovis",
+    "best_result": {
+      "url": "https://www.geovis.com.cn/about/",
+      "title": "中科星图致力于成为 全球领先的空天信息服务商",
+      "body_text": "登录\n选择您的语言\n简体中文\nENGLISH\n股票代码\n688568\n产品中心\n一体两翼 创新产品矩阵\n产品中心\n低空经济\n商业航天\n地理信息\n低空经济\n低空在线服务平台\n低空在线服务平台\n低空在线服务平台\n低空规划\n安全保障\n协同监管\n飞行服务\n场景应用\n解决方案\n空天信息赋能千行百业\n解决方案\n低空经济\n商业航天\n地理信息\n低空经济\n面向政府\n面向政府\n低空政务巡检解决方案\n低空应急解决方案\n低空智航自然资源应用平台解决方案\n低空智航林草应用平台解决方案\n低空智航消防救援应用平台解决方案\n低空智航公安警务应用平台解决方案\n面向企业\n面向公众\n科技创新\n打造天基能力和空基能力\n科技创新\n三大创新平台\n五大核心能力\n产业应用研究院\n三大创新平台\n遥感卫星应用国家工程研究中心\n地球智能计算研究中心\n卫星互联与控制技术北京市重点实验室\n生态合伙人\n空天信息大会\n关于星图\n致力于成为全球领先的空天信息服务商\n关于星图\n企业简介\n企业文化\n企业战略\n发展历程\n旗下公司\nESG可持续发展\n荣誉资质\n联系我们\n招贤纳士\n投资者关系\n为投资者创造长远价值\n投资者关系\n公司概况\n公司公告\n交流互动\n实时股价\n400-028-8568\n体验中心\n中科星图集团站群\n旗下公司\n星图测控\n星图地球\n星图资本\n星图低空云\n星图维天信\n星图天辰\n星图亿水\n星图智源\n中科数测\n星图智慧\n空间防务\n星图创奇\n星图金能\n星图慧安\n中科星光\n星图瑞云\n星图深海\n友情链接\n中国科学院空天信息创新研究院\n中科曙光\n海光信息\n预约体验\n预约体验\n体验全流程讲解\n立即咨询\n客服实时在线\n在线客服实时解答问题\n电话咨询\n电话咨询\n(+86) 010-5098 6888\n微信咨询\n添加企业微信\n1V1专属服务\n中科星图致力于成为\n全球领先的空天信息服务商\n企业简介\n企业文化\n企业战略\n发展历程\n旗下公司\nESG可持续发展\n荣誉资质\n联系我们\n中科星图股份有限公司\n股票代码 688568\n创立于2006年，2020年7月在科创板上市；\n智能地球技术创新的引领者、商业航天产业链的整合者、低空经济产业发展的推动者；\n\n中科星图致力于成为全球领先的空天信息服务商，按照“以智能地球为体，商业航天和低空经济为翼”的“一体两翼”总体规划布局，锚定创新驱动发展的战略，不断加大研发投入，加快产品向智能化迭代升级和产业生态合作体系建设。\n\n公司基于自主空天信息基础设施和数字地球平台能力，持续打造空天地一体化业务能力，深度融合人工智能等新一代信息技术，不断建设集数据、计算和应用于一体的空天信息智能服务体系，为用户提供高质量的空天信息服务，包括面向智能地球、商业航天及低空经济主营方向，开展相应领域软件销售与数据服务、技术开发与服务、专用设备及系统集成等业务。\n\n基于深厚的技术积累与清晰的战略布局，中科星图先后荣登地理信息产业百强企业榜单第2名、中国商业航天百强企业榜单第4名，并正式调入上证科创板50成份指数。\n\n\n空\n低空经济产业\n发展的推动者\n天\n商业航天产业\n链条的整合者\n地\n地理信息产业\n创新的引领者\n创新\n星图发展的灵魂\n融合\n星图发展的动力\n奋斗\n星图发展的途径\n幸福\n星图发展的归宿\n业务战略\n集团化\n生态化\n国际化\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nESG可持续发展\n社会责任绩效\nESG治理\nESG战略\n经济绩效\n创新绩效\n治理绩效\n社会绩效\n环境绩效\n325,742.78\n万元\n营业收入\n35,169.85\n万元\n归属于母公司所有者的净利润\n0.65\n元/股\n基本每股收益\n37.19\n%\n现金分红占当年归母净利润的比例\n828,933.02\n万元\n总资产\n25,560.05\n万元\n纳税总额\n关于星图\n企业简介\n企业文化\n企业战略\n星图历程\n旗下公司\nESG可持续发展\n荣誉资质\n新闻与活动\n媒体采访\n新闻报道\n生态大会\n低空大会\n生态沙龙\n生态讲堂\n市场活动\n招标信息\n产品推荐\n智航·低空应用平台（一网统飞）\n星图云开发者平台\n低空在线服务平台\n看天App\n看天API\n购买与咨询\n个性化定制\n获取解决方案\n获取白皮书\n联系我们\n服务与支持\n常见问题\n学习中心\n建议反馈\n友情链接\n中国科学院空天信息创新研究院\n中科曙光\n海光信息\n版权所有 © 2026 中科星图. 保留所有权利\n京ICP备16063641号-1\n网站地图\n微信公众号\n抖音号\n视频号\nB站\n小红书\nCN\n选择您的语言\n简体中文\nENGLISH",
+      "api_data": [],
+      "links": [
+        {
+          "text": "简体中文",
+          "href": "https://www.geovis.com.cn/about/###"
+        },
+        {
+          "text": "ENGLISH",
+          "href": "https://www.geovis.com.cn/about/###"
+        },
+        {
+          "text": "",
+          "href": "https://www.geovis.com.cn/"
+        },
+        {
+          "text": "首页",
+          "href": "https://www.geovis.com.cn/"
+        },
+        {
+          "text": "低空经济",
+          "href": "https://www.geovis.com.cn/products?id=1"
+        },
+        {
+          "text": "商业航天",
+          "href": "https://www.geovis.com.cn/products?id=2"
+        },
+        {
+          "text": "地理信息",
+          "href": "https://www.geovis.com.cn/products?id=3"
+        },
+        {
+          "text": "低空在线服务平台",
+          "href": "https://www.geovis.com.cn/products?id=1&index=0#d2"
+        },
+        {
+          "text": "低空在线服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/1"
+        },
+        {
+          "text": "低空规划",
+          "href": "https://www.geovis.com.cn/products?id=1&index=1#d2"
+        },
+        {
+          "text": "启航·低空规划平台",
+          "href": "https://www.geovis.com.cn/products/detail/2"
+        },
+        {
+          "text": "天演·低空体系仿真平台",
+          "href": "https://www.geovis.com.cn/products/detail/48"
+        },
+        {
+          "text": "安全保障",
+          "href": "https://www.geovis.com.cn/products?id=1&index=2#d2"
+        },
+        {
+          "text": "御航·低空反无平台",
+          "href": "https://www.geovis.com.cn/products/detail/23"
+        },
+        {
+          "text": "天信·低空气象服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/22"
+        },
+        {
+          "text": "天驭·低空智联反制系统",
+          "href": "https://www.geovis.com.cn/products/detail/31"
+        },
+        {
+          "text": "协同监管",
+          "href": "https://www.geovis.com.cn/products?id=1&index=3#d2"
+        },
+        {
+          "text": "军地民协同平台",
+          "href": "https://www.geovis.com.cn/products/detail/4"
+        },
+        {
+          "text": "飞行服务",
+          "href": "https://www.geovis.com.cn/products?id=1&index=4#d2"
+        },
+        {
+          "text": "领航·低空飞行服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/5"
+        },
+        {
+          "text": "低空数字孪生底座",
+          "href": "https://www.geovis.com.cn/products/detail/25"
+        },
+        {
+          "text": "低空地理信息数据底座",
+          "href": "https://www.geovis.com.cn/products/detail/47"
+        },
+        {
+          "text": "低空警务能力中台",
+          "href": "https://www.geovis.com.cn/products/detail/41"
+        },
+        {
+          "text": "场景应用",
+          "href": "https://www.geovis.com.cn/products?id=1&index=5#d2"
+        },
+        {
+          "text": "智航·低空应用平台（一网统飞）",
+          "href": "https://www.geovis.com.cn/products/detail/37"
+        },
+        {
+          "text": "低空云开发者平台",
+          "href": "https://www.geovis.com.cn/products/detail/21"
+        },
+        {
+          "text": "航天电子装备制造",
+          "href": "https://www.geovis.com.cn/products?id=2&index=0#d2"
+        },
+        {
+          "text": "“天箭”系列火箭电子系统",
+          "href": "https://www.geovis.com.cn/products/detail/11"
+        },
+        {
+          "text": "“天星”系列卫星电子系统",
+          "href": "https://www.geovis.com.cn/products/detail/12"
+        },
+        {
+          "text": "太空管理服务",
+          "href": "https://www.geovis.com.cn/products?id=2&index=1#d2"
+        },
+        {
+          "text": "感知星座",
+          "href": "https://www.geovis.com.cn/products/detail/42"
+        },
+        {
+          "text": "地面站网",
+          "href": "https://www.geovis.com.cn/products/detail/43"
+        },
+        {
+          "text": "太空云",
+          "href": "https://www.geovis.com.cn/products/detail/29"
+        },
+        {
+          "text": "天信·商业航天空间天气服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/13"
+        },
+        {
+          "text": "特种领域",
+          "href": "https://www.geovis.com.cn/products?id=3&index=0#d2"
+        },
+        {
+          "text": "特种领域数字地球",
+          "href": "https://www.geovis.com.cn/products/detail/45"
+        },
+        {
+          "text": "星图洛书防务与公共安全大数据智能分析平台",
+          "href": "https://www.geovis.com.cn/products/detail/44"
+        },
+        {
+          "text": "“海鲸”系列自主式水下航行器",
+          "href": "https://www.geovis.com.cn/products/detail/49"
+        },
+        {
+          "text": "民用领域",
+          "href": "https://www.geovis.com.cn/products?id=3&index=1#d2"
+        },
+        {
+          "text": "星图云开发者平台",
+          "href": "https://www.geovis.com.cn/products/detail/14"
+        },
+        {
+          "text": "看天App",
+          "href": "https://www.geovis.com.cn/products/detail/28"
+        },
+        {
+          "text": "看天API",
+          "href": "https://www.geovis.com.cn/products/detail/15"
+        },
+        {
+          "text": "洪水预报分析系统",
+          "href": "https://www.geovis.com.cn/products/detail/46"
+        },
+        {
+          "text": "星瞳大模型",
+          "href": "https://www.geovis.com.cn/products/detail/26"
+        },
+        {
+          "text": "星瞳智能体",
+          "href": "https://www.geovis.com.cn/products/detail/27"
+        },
+        {
+          "text": "星图地球智脑引擎",
+          "href": "https://www.geovis.com.cn/products/detail/20"
+        },
+        {
+          "text": "星图地球今日影像",
+          "href": "https://www.geovis.com.cn/products/detail/17"
+        },
+        {
+          "text": "星图超算云网",
+          "href": "https://www.geovis.com.cn/products/detail/24"
+        },
+        {
+          "text": "星图地球数据云",
+          "href": "https://www.geovis.com.cn/products/detail/19"
+        },
+        {
+          "text": "情指行一体化指令平台",
+          "href": "https://www.geovis.com.cn/products/detail/40"
+        },
+        {
+          "text": "低空经济",
+          "href": "https://www.geovis.com.cn/solutions#dd1"
+        },
+        {
+          "text": "商业航天",
+          "href": "https://www.geovis.com.cn/solutions#dd2"
+        },
+        {
+          "text": "地理信息",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "面向政府",
+          "href": "https://www.geovis.com.cn/solutions#dd1"
+        },
+        {
+          "text": "低空政务巡检解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/7"
+        },
+        {
+          "text": "低空应急解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/3"
+        },
+        {
+          "text": "低空智航自然资源应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/33"
+        },
+        {
+          "text": "低空智航林草应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/32"
+        },
+        {
+          "text": "低空智航消防救援应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/31"
+        },
+        {
+          "text": "低空智航公安警务应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/30"
+        },
+        {
+          "text": "面向企业",
+          "href": "https://www.geovis.com.cn/solutions#dd1"
+        },
+        {
+          "text": "低空物流解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/6"
+        },
+        {
+          "text": "低空农业一体化监测与管理平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/41"
+        },
+        {
+          "text": "低空能源巡检解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/4"
+        },
+        {
+          "text": "面向公众",
+          "href": "https://www.geovis.com.cn/solutions#dd1"
+        },
+        {
+          "text": "低空文旅解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/5"
+        },
+        {
+          "text": "航天电子装备制造",
+          "href": "https://www.geovis.com.cn/solutions#dd2"
+        },
+        {
+          "text": "基于环形网络的火箭测量系统",
+          "href": "https://www.geovis.com.cn/solutions/detail/11"
+        },
+        {
+          "text": "太空管理服务",
+          "href": "https://www.geovis.com.cn/solutions#dd2"
+        },
+        {
+          "text": "太空态势感知解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/34"
+        },
+        {
+          "text": "太空交通管理解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/35"
+        },
+        {
+          "text": "太空在轨服务解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/36"
+        },
+        {
+          "text": "航天数字仿真解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/37"
+        },
+        {
+          "text": "智慧城市",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "智慧城市CIM基础平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/20"
+        },
+        {
+          "text": "智慧时空大数据平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/19"
+        },
+        {
+          "text": "安全应急",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "森林防火解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/23"
+        },
+        {
+          "text": "综合应急管理解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/21"
+        },
+        {
+          "text": "智慧农业",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "智慧农业解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/40"
+        },
+        {
+          "text": "农产品质量安全综合服务解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/22"
+        },
+        {
+          "text": "智慧水利",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "水文现代化建设方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/42"
+        },
+        {
+          "text": "洪水预报系统解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/25"
+        },
+        {
+          "text": "iWater智水平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/24"
+        },
+        {
+          "text": "气象生态",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "气象短时临近监测预报预警系统",
+          "href": "https://www.geovis.com.cn/solutions/detail/39"
+        },
+        {
+          "text": "生态环境监测与督查解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/26"
+        },
+        {
+          "text": "智慧金融",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "遥感金融立体化风险监管解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/28"
+        },
+        {
+          "text": "智慧交通",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "交通综合应用解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/29"
+        },
+        {
+          "text": "智慧能源",
+          "href": "https://www.geovis.com.cn/solutions#dd3"
+        },
+        {
+          "text": "空天一体化电力巡检解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/15"
+        },
+        {
+          "text": "三大创新平台",
+          "href": "https://www.geovis.com.cn/innovation/launch"
+        },
+        {
+          "text": "五大核心能力",
+          "href": "https://www.geovis.com.cn/innovation/core-technology"
+        },
+        {
+          "text": "产业应用研究院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute"
+        },
+        {
+          "text": "遥感卫星应用国家工程研究中心",
+          "href": "https://www.geovis.com.cn/innovation/launch?index=0#d1"
+        },
+        {
+          "text": "地球智能计算研究中心",
+          "href": "https://www.geovis.com.cn/innovation/launch?index=1#d1"
+        },
+        {
+          "text": "卫星互联与控制技术北京市重点实验室",
+          "href": "https://www.geovis.com.cn/innovation/launch?index=2#d1"
+        },
+        {
+          "text": "空天信息数据能力",
+          "href": "https://www.geovis.com.cn/innovation/core-technology?index=0#d1"
+        },
+        {
+          "text": "空天信息计算能力",
+          "href": "https://www.geovis.com.cn/innovation/core-technology?index=1#d1"
+        },
+        {
+          "text": "空天信息服务能力",
+          "href": "https://www.geovis.com.cn/innovation/core-technology?index=2#d1"
+        },
+        {
+          "text": "空天信息运营能力",
+          "href": "https://www.geovis.com.cn/innovation/core-technology?index=3#d1"
+        },
+        {
+          "text": "空天信息创新能力",
+          "href": "https://www.geovis.com.cn/innovation/core-technology?index=4#d1"
+        },
+        {
+          "text": "低空产品研究总院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute/86#d1"
+        },
+        {
+          "text": "洞察太空研究院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute/87#d1"
+        },
+        {
+          "text": "星图云研究院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute/88#d1"
+        },
+        {
+          "text": "数字地球学院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute/89#d1"
+        },
+        {
+          "text": "低空气象研究院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute/373#d1"
+        },
+        {
+          "text": "空间防务创新研究院",
+          "href": "https://www.geovis.com.cn/innovation/research-institute/336#d1"
+        },
+        {
+          "text": "",
+          "href": "https://www.geovis.com.cn/about/#"
+        },
+        {
+          "text": "生态合伙人",
+          "href": "https://www.geovis.com.cn/partners"
+        },
+        {
+          "text": "空天信息大会",
+          "href": "https://www.geovis.com.cn/aerospace-info-conference"
+        },
+        {
+          "text": "企业简介",
+          "href": "https://www.geovis.com.cn/about#d1"
+        },
+        {
+          "text": "企业文化",
+          "href": "https://www.geovis.com.cn/about#d2"
+        },
+        {
+          "text": "企业战略",
+          "href": "https://www.geovis.com.cn/about#d3"
+        },
+        {
+          "text": "发展历程",
+          "href": "https://www.geovis.com.cn/about#d4"
+        },
+        {
+          "text": "旗下公司",
+          "href": "https://www.geovis.com.cn/about#d5"
+        },
+        {
+          "text": "ESG可持续发展",
+          "href": "https://www.geovis.com.cn/about#d6"
+        },
+        {
+          "text": "荣誉资质",
+          "href": "https://www.geovis.com.cn/about#d7"
+        },
+        {
+          "text": "联系我们",
+          "href": "https://www.geovis.com.cn/contact"
+        },
+        {
+          "text": "",
+          "href": "https://www.geovis.com.cn/about/#"
+        },
+        {
+          "text": "招贤纳士",
+          "href": "https://geovis.zhiye.com/home"
+        },
+        {
+          "text": "公司概况",
+          "href": "https://www.geovis.com.cn/investor#d1"
+        },
+        {
+          "text": "公司公告",
+          "href": "https://www.geovis.com.cn/investor#d2"
+        },
+        {
+          "text": "交流互动",
+          "href": "https://www.geovis.com.cn/investor#d3"
+        },
+        {
+          "text": "实时股价",
+          "href": "https://www.geovis.com.cn/investor#d4"
+        },
+        {
+          "text": "",
+          "href": "https://www.geovis.com.cn/about/#"
+        },
+        {
+          "text": "400-028-8568",
+          "href": "tel:400-028-8568"
+        },
+        {
+          "text": "体验中心",
+          "href": "https://www.geovis.com.cn/demo"
+        },
+        {
+          "text": "星图测控",
+          "href": "https://www.spaceinsighter.com/"
+        },
+        {
+          "text": "星图地球",
+          "href": "https://geovisearth.com/"
+        },
+        {
+          "text": "星图低空云",
+          "href": "https://lac.geovisearth.com/#/index"
+        },
+        {
+          "text": "星图维天信",
+          "href": "https://www.etapes.com.cn/"
+        },
+        {
+          "text": "星图亿水",
+          "href": "http://www.ewater-china.com/ewater/index.html"
+        },
+        {
+          "text": "中科数测",
+          "href": "http://zksctest.com/"
+        },
+        {
+          "text": "中国科学院空天信息创新研究院",
+          "href": "http://aircas.ac.cn/"
+        },
+        {
+          "text": "中科曙光",
+          "href": "https://www.sugon.com/"
+        },
+        {
+          "text": "海光信息",
+          "href": "https://www.hygon.cn/index"
+        },
+        {
+          "text": "",
+          "href": "https://www.geovis.com.cn/"
+        },
+        {
+          "text": "简体中文",
+          "href": "https://www.geovis.com.cn/about/index"
+        },
+        {
+          "text": "English",
+          "href": "https://www.geovis.com.cn/about/index"
+        },
+        {
+          "text": "首页",
+          "href": "https://www.geovis.com.cn/"
+        },
+        {
+          "text": "产品中心",
+          "href": "https://www.geovis.com.cn/products"
+        },
+        {
+          "text": "低空经济",
+          "href": "https://www.geovis.com.cn/products?id=1"
+        },
+        {
+          "text": "低空在线服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/1"
+        },
+        {
+          "text": "启航·低空规划平台",
+          "href": "https://www.geovis.com.cn/products/detail/2"
+        },
+        {
+          "text": "天演·低空体系仿真平台",
+          "href": "https://www.geovis.com.cn/products/detail/48"
+        },
+        {
+          "text": "御航·低空反无平台",
+          "href": "https://www.geovis.com.cn/products/detail/23"
+        },
+        {
+          "text": "天信·低空气象服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/22"
+        },
+        {
+          "text": "天驭·低空智联反制系统",
+          "href": "https://www.geovis.com.cn/products/detail/31"
+        },
+        {
+          "text": "军地民协同平台",
+          "href": "https://www.geovis.com.cn/products/detail/4"
+        },
+        {
+          "text": "领航·低空飞行服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/5"
+        },
+        {
+          "text": "低空数字孪生底座",
+          "href": "https://www.geovis.com.cn/products/detail/25"
+        },
+        {
+          "text": "低空地理信息数据底座",
+          "href": "https://www.geovis.com.cn/products/detail/47"
+        },
+        {
+          "text": "低空警务能力中台",
+          "href": "https://www.geovis.com.cn/products/detail/41"
+        },
+        {
+          "text": "智航·低空应用平台（一网统飞）",
+          "href": "https://www.geovis.com.cn/products/detail/37"
+        },
+        {
+          "text": "低空云开发者平台",
+          "href": "https://www.geovis.com.cn/products/detail/21"
+        },
+        {
+          "text": "商业航天",
+          "href": "https://www.geovis.com.cn/products?id=2"
+        },
+        {
+          "text": "“天箭”系列火箭电子系统",
+          "href": "https://www.geovis.com.cn/products/detail/11"
+        },
+        {
+          "text": "“天星”系列卫星电子系统",
+          "href": "https://www.geovis.com.cn/products/detail/12"
+        },
+        {
+          "text": "感知星座",
+          "href": "https://www.geovis.com.cn/products/detail/42"
+        },
+        {
+          "text": "地面站网",
+          "href": "https://www.geovis.com.cn/products/detail/43"
+        },
+        {
+          "text": "太空云",
+          "href": "https://www.geovis.com.cn/products/detail/29"
+        },
+        {
+          "text": "天信·商业航天空间天气服务平台",
+          "href": "https://www.geovis.com.cn/products/detail/13"
+        },
+        {
+          "text": "地理信息",
+          "href": "https://www.geovis.com.cn/products?id=3"
+        },
+        {
+          "text": "特种领域数字地球",
+          "href": "https://www.geovis.com.cn/products/detail/45"
+        },
+        {
+          "text": "星图洛书防务与公共安全大数据智能分析平台",
+          "href": "https://www.geovis.com.cn/products/detail/44"
+        },
+        {
+          "text": "“海鲸”系列自主式水下航行器",
+          "href": "https://www.geovis.com.cn/products/detail/49"
+        },
+        {
+          "text": "星图云开发者平台",
+          "href": "https://www.geovis.com.cn/products/detail/14"
+        },
+        {
+          "text": "看天App",
+          "href": "https://www.geovis.com.cn/products/detail/28"
+        },
+        {
+          "text": "看天API",
+          "href": "https://www.geovis.com.cn/products/detail/15"
+        },
+        {
+          "text": "洪水预报分析系统",
+          "href": "https://www.geovis.com.cn/products/detail/46"
+        },
+        {
+          "text": "星瞳大模型",
+          "href": "https://www.geovis.com.cn/products/detail/26"
+        },
+        {
+          "text": "星瞳智能体",
+          "href": "https://www.geovis.com.cn/products/detail/27"
+        },
+        {
+          "text": "星图地球智脑引擎",
+          "href": "https://www.geovis.com.cn/products/detail/20"
+        },
+        {
+          "text": "星图地球今日影像",
+          "href": "https://www.geovis.com.cn/products/detail/17"
+        },
+        {
+          "text": "星图超算云网",
+          "href": "https://www.geovis.com.cn/products/detail/24"
+        },
+        {
+          "text": "星图地球数据云",
+          "href": "https://www.geovis.com.cn/products/detail/19"
+        },
+        {
+          "text": "情指行一体化指令平台",
+          "href": "https://www.geovis.com.cn/products/detail/40"
+        },
+        {
+          "text": "解决方案",
+          "href": "https://www.geovis.com.cn/solutions"
+        },
+        {
+          "text": "低空经济",
+          "href": "https://www.geovis.com.cn/solutions#dd1"
+        },
+        {
+          "text": "低空政务巡检解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/7"
+        },
+        {
+          "text": "低空应急解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/3"
+        },
+        {
+          "text": "低空智航自然资源应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/33"
+        },
+        {
+          "text": "低空智航林草应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/32"
+        },
+        {
+          "text": "低空智航消防救援应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/31"
+        },
+        {
+          "text": "低空智航公安警务应用平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/30"
+        },
+        {
+          "text": "低空物流解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/6"
+        },
+        {
+          "text": "低空农业一体化监测与管理平台解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/41"
+        },
+        {
+          "text": "低空能源巡检解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/4"
+        },
+        {
+          "text": "低空文旅解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/5"
+        },
+        {
+          "text": "商业航天",
+          "href": "https://www.geovis.com.cn/solutions#dd2"
+        },
+        {
+          "text": "基于环形网络的火箭测量系统",
+          "href": "https://www.geovis.com.cn/solutions/detail/11"
+        },
+        {
+          "text": "太空态势感知解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/34"
+        },
+        {
+          "text": "太空交通管理解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/35"
+        },
+        {
+          "text": "太空在轨服务解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/36"
+        },
+        {
+          "text": "航天数字仿真解决方案",
+          "href": "https://www.geovis.com.cn/solutions/detail/37"
+        }
+      ]
+    },
+    "all_attempts": [
       {
         "url": "https://www.geovis.com.cn/",
+        "click_text": "加入我们",
         "status": "ok",
         "title": "中科星图致力于成为全球领先的空天信息服务商，以智能地球为基携商业航天、低空经济产品矩阵破局空天，构建了集数据、计算和应用于一体的空天信息智能服务体系。",
+        "error": "",
         "body_length": 1164
+      },
+      {
+        "url": "https://www.geovis.com.cn/careers",
+        "click_text": null,
+        "status": "ok",
+        "title": "404 Not Found",
+        "error": "",
+        "body_length": 19
+      },
+      {
+        "url": "https://www.geovis.com.cn/about/",
+        "click_text": null,
+        "status": "ok",
+        "title": "中科星图致力于成为 全球领先的空天信息服务商",
+        "error": "",
+        "body_length": 1855
+      },
+      {
+        "url": "https://www.geovis.com.cn/joinus",
+        "click_text": null,
+        "status": "ok",
+        "title": "404 Not Found",
+        "error": "",
+        "body_length": 19
+      },
+      {
+        "url": "https://www.geovis.com.cn/JoinUs/",
+        "click_text": null,
+        "status": "ok",
+        "title": "404 Not Found",
+        "error": "",
+        "body_length": 19
       }
-    ],
-    "portal_accessible": true,
-    "body_text": "登录\n选择您的语言\n简体中文\nENGLISH\n股票代码\n688568\n产品中心\n一体两翼 创新产品矩阵\n产品中心\n低空经济\n商业航天\n地理信息\n低空经济\n低空在线服务平台\n低空在线服务平台\n低空在线服务平台\n低空规划\n安全保障\n协同监管\n飞行服务\n场景应用\n解决方案\n空天信息赋能千行百业\n解决方案\n低空经济\n商业航天\n地理信息\n低空经济\n面向政府\n面向政府\n低空政务巡检解决方案\n低空应急解决方案\n低空智航自然资源应用平台解决方案\n低空智航林草应用平台解决方案\n低空智航消防救援应用平台解决方案\n低空智航公安警务应用平台解决方案\n面向企业\n面向公众\n科技创新\n打造天基能力和空基能力\n科技创新\n三大创新平台\n五大核心能力\n产业应用研究院\n三大创新平台\n遥感卫星应用国家工程研究中心\n地球智能计算研究中心\n卫星互联与控制技术北京市重点实验室\n生态合伙人\n空天信息大会\n关于星图\n致力于成为全球领先的空天信息服务商\n关于星图\n企业简介\n企业文化\n企业战略\n发展历程\n旗下公司\nESG可持续发展\n荣誉资质\n联系我们\n招贤纳士\n投资者关系\n为投资者创造长远价值\n投资者关系\n公司概况\n公司公告\n交流互动\n实时股价\n400-028-8568\n体验中心\n中科星图集团站群\n旗下公司\n星图测控\n星图地球\n星图资本\n星图低空云\n星图维天信\n星图天辰\n星图亿水\n星图智源\n中科数测\n星图智慧\n空间防务\n星图创奇\n星图金能\n星图慧安\n中科星光\n星图瑞云\n星图深海\n友情链接\n中国科学院空天信息创新研究院\n中科曙光\n海光信息\n预约体验\n预约体验\n体验全流程讲解\n立即咨询\n客服实时在线\n在线客服实时解答问题\n电话咨询\n电话咨询\n(+86) 010-5098 6888\n微信咨询\n添加企业微信\n1V1专属服务\n立即报名\n致力于成为\n全球领先的空天信息服务商\n了解更多\n中科星图低空在线服务平台\n限期体验开放中\n安全预警、 智能规划、实时监控，低空飞行一站式解决\n立即体验\n商业航天\n低空经济\n智能地球\n最新动态 获取前沿信息\n关于星图\n企业简介\n企业文化\n企业战略\n星图历程\n旗下公司\nESG可持续发展\n荣誉资质\n新闻与活动\n媒体采访\n新闻报道\n生态大会\n低空大会\n生态沙龙\n生态讲堂\n市场活动\n招标信息\n产品推荐\n智航·低空应用平台（一网统飞）\n星图云开发者平台\n低空在线服务平台\n看天App\n看天API\n购买与咨询\n个性化定制\n获取解决方案\n获取白皮书\n联系我们\n服务与支持\n常见问题\n学习中心\n建议反馈\n友情链接\n中国科学院空天信息创新研究院\n中科曙光\n海光信息\n版权所有 © 2026 中科星图. 保留所有权利\n京ICP备16063641号-1\n网站地图\n微信公众号\n抖音号\n视频号\nB站\n小红书\nCN\n选择您的语言\n简体中文\nENGLISH",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [
-        {
-          "keyword": "平台",
-          "context": "登录 选择您的语言 简体中文 ENGLISH 股票代码 688568 产品中心 一体两翼 创新产品矩阵 产品中心 低空经济 商业航天 地理信息 低空经济 低空在线服务平台 低空在线服务平台 低空在线服务平台 低空规划 安全保障 协同监管 飞行服务 场景应用 解决方案 空天信息赋能千行百业 解决方案 低空经济 商业航天 地理信息 低空经济 面向政府 面向政府 低空政务巡检解决方案 低空应急解决方案 低空智航自然资源应用平台解决方案 低空智航林草应用平台解决方案 低空智航消防救援应用平台解决方案 低空智航公安警务应用平台解决方案 面向企业 面向公众 科技创新 打造"
-        }
-      ],
-      "estimated_total_positions": 0
-    }
+    ]
   },
   "baichuan": {
-    "company": "百川智能 (Baichuan)",
-    "key": "baichuan",
-    "urls_tried": [
+    "company": "baichuan",
+    "best_result": {
+      "url": "https://www.baichuan-ai.com/",
+      "title": "百川大模型-百川智能",
+      "body_text": "产品介绍\n基准测试\n学术支持\n合作伙伴\n关于我们\n登录\n百小医 你的\nAI家庭医生\n\n明明白白看医生，安安心心管家人\n\n立即体验\n获取API\n去就医\n明明白白看医生\nAPP\n看病前帮你梳理症状，准备就医\n看病后帮你分析病情，解读医嘱\n待在家\n安安心心管家人\nBOT\n全家健康管家\n贴心守护每一位家人\n就医更安心\n从症状到医嘱，重要问题不遗漏，决策更从容\n家庭管理更省心\n管理全家健康，提醒不怕忘。用药、复诊、体检一目了然\n专业解读更清楚\n专业知识通俗讲解，听得懂，看得明白，减少焦虑与误解\n能力过硬\n\n问不倒、讲得清、记得住——全家人的健康都能托付\n\n能力详情\n医学水平\n基于权威医疗知识与专业能力，提供可信、清晰的健康建议。\n沟通能力\n复杂术语也能讲成大白话，帮助用户真正听懂、看懂。\n无限耐心\n支持反复追问，重要问题不厌其烦地说明白。\n全科覆盖\n覆盖问诊、就医准备、结果解读、后续管理等多个环节。\n全家记忆\n支持家庭成员健康信息管理、让照护更连续。\n\n海纳百川计划\n\n面向所有为医务工作者提供服务的机构，免费提供循证增强的服务M3-PIus API\n\n计划愿景\n\n为了推动医疗 AI 更安全、更可及、更有温度地发展，让技术进步真正转化为每一位中国医生的底气与人民健康的福祉，百川智能发起「海纳百川」计划，愿做中国医疗生态的\"超级底座\"，通过免费提供低幻觉循证增强医疗大模型 M3 Plus API，与合作伙伴共同跨越临床落地的\"最后一公里\"。\n\n核心权益\n\nFree 永久免费调用 Baichuan-M3 Plus API\n获得低幻觉率底座，一次性解决大模型编文献的问题\n全面应用百川“证据锚定”等技术，与证据段落 95% 精准匹配\n\n*「海纳百川」计划的准入审核与解释权归百川智能所有\n\n参与条件\n适用对象\n为医务工作者提供服务的机构\n适用场景仅限于\n临床辅助决策\n医学教育\n用途限制\n仅用于真实服务场景\n不得用于数据生产\n使用要求\n产品需明确展示 Powered by 百川\n不得对模型输出进行影响准确性的修改\n立即申请\n产品介绍\n通用\n开源\nBaichuan-M3\n开源可商用\n强推理低幻觉\n懂医学会问诊\n2350\n亿\n模型参数量\n65.1\nHealthBench评测优秀\n1st\n满血问诊能力\n进入开源社区\nBaichuan-M2\n开源可商用\n4090单卡可部署\n推理模型\n320\n亿\n模型参数量\n60.1\nHealthBench评测优秀\n32K\n长上下文推理模型\n进入开源社区\nBaichuan-M1\n技术报告\n开源可商用\n4090单卡可部署\n首个医疗增强模型\n140\n亿\n模型参数量\n20T\n医疗增强语料\n32K\n大尺寸上下文\n进入开源社区\nBaichuan2-13B\n技术报告\n开源可商用\n低成本部署\n多语言\n130\n亿\n模型参数量\n2.6T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\nBaichuan2-7B\n技术报告\n开源可商用\n低成本部署\n多语言\n70\n亿\n模型参数量\n2.6T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\nBaichuan-13B\n开源可商用\n低成本部署\n中英双语\n130\n亿\n模型参数量\n1.4T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\nBaichuan-7B\n开源可商用\n低成本部署\n中英双语\n70\n亿\n模型参数量\n1.2T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\n基准测试\nBaichuan-M4\nBaichuan-M3\nBaichuan-M2\nBaichuan-M1\nBaichuan2-13B\nBaichuan2-7B\nBaichuan-13B\nBaichuan-7B\nHealthBench全球第一，从问对一次到长程托付\n学术支持\nBaichuan-M3技术博客\n强推理、低幻觉、会提问，Baichuan-M3定义「问诊」新范式。博客公布了Baichuan-M3在训练模型幻觉抑制能力，实现满血问诊，提升模型推理能力等方向的的最新技术进展，并开源发布模型\n查看博客\nBaichuan-M2技术博客\n博客公布了Baichuan-M2的训练过程和核心技术，指出大型验证器系统是链接模型能力和真实世界问题的关键。同时博客公布了大型验证器系统、患者模拟器、医疗领域增强训练等创新技术，并开源模型。\n查看博客\nBaichuan2 技术报告\n报告整理了模型训练细节和优化方案，对Baichuan2 数据、模型结构、目标函数的优化、以及分布式计算系统、模型动态评估等做了详细说明，以促进大模型研究技术发展\n查看报告\nBaichuan2 公开全过程切片\n百川将训练的中间过程，从200B 到2640B 数据的全训练过程中间权重全部开源，推动社区和科研机构更好地探索模型内部的动态过程，更深入的研究大语言模型的内在机理\nCheckpoints 下载\n合作伙伴\n\n欢迎各位开发者、企业和机构与我们一起开创人工智能新时代开源模型商业授权申请\n\n关于我们\n集百川之智，共赴山海，欢迎对AI充满激情与梦想的每一位同仁加入，共创美好未来\n\n联系我们 hr@baichuan-inc.com\n\n百川智能成立于2023年3月24日，由前搜狗公司CEO王小川创立。公司以帮助大众轻松、普惠地获取世界知识和专业服务为使命，致力于通过语言AI的突破，构建中国最优秀的大模型底座。公司核心团队由来自搜狗、百度、华为、微软、字节、腾讯等知名科技公司的AI人才组成。百川智能成立不到100天，便发布了Baichuan-7B、Baichuan-13B两款开源可免费商用的中文大模型，且在多个权威评测榜单均名列前茅，下载量突破百万\n\nLYY | 工程师\n\n“我们是一个以技术和创新为驱动的团队，在百川我有机会参与领先的人工智能项目，不断挑战自我，不断学习成长。与志同道合的同事们一起攻克技术难关，解决现实问题，让我觉得工作充满了价值。”\n\n小熊 | 产品经理\n\n“作为AI产品经理，我既会与技术大牛紧密协作，深入前沿技术，也会从用户视角去思考AI，贴近真实需求。在通往AGI的旅途上，能与优秀的同事们并肩同行、探索未来，我感到无比幸运。”\n\nKK | 技术专家\n\n“我想用‘翻山越岭，披荆披棘’来形容过去的数月，但这个词也太贫乏了。我们在构建一个智能世界的路上，带着创新的火炬，寻找未知的独角兽。与公司共同奋斗的日子，就像马拉松，跑的是耐力，赢的是信念。”\n\nSX | 行政小姐姐\n\n“加入这个大家庭已经快三个月了，这段时间里发觉自己努力许多，进步不少，在这个团队里，让我学到了许多以前没有学过的东西，人之所以能，是因为相信能！投入才会深入，付出才会杰出，用心才会开心！”\n\n社会招聘\n校园招聘\n© 2026 百川智能科技有限公司\n京ICP备2023015490号-1\n|\n京B2-20232254\n|\n京公网安备11010802042854号\n|\n百应Beijing-Baiying-20230821\n|\n用户协议|隐私政策\n联系地址：北京市海淀区中关村东路1号院8号楼15层B1701",
+      "api_data": [],
+      "links": [
+        {
+          "text": "产品介绍",
+          "href": "https://www.baichuan-ai.com/#introduce"
+        },
+        {
+          "text": "基准测试",
+          "href": "https://www.baichuan-ai.com/#base-test"
+        },
+        {
+          "text": "学术支持",
+          "href": "https://www.baichuan-ai.com/#acadmic-support"
+        },
+        {
+          "text": "合作伙伴",
+          "href": "https://www.baichuan-ai.com/#partners"
+        },
+        {
+          "text": "关于我们",
+          "href": "https://www.baichuan-ai.com/#about-us"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://huggingface.co/baichuan-inc/Baichuan-M3-235B"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://github.com/baichuan-inc/Baichuan-M2-32B"
+        },
+        {
+          "text": "技术报告",
+          "href": "https://arxiv.org/abs/2502.12671"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://github.com/baichuan-inc/Baichuan-M1-14B"
+        },
+        {
+          "text": "技术报告",
+          "href": "https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://github.com/baichuan-inc/Baichuan2"
+        },
+        {
+          "text": "技术报告",
+          "href": "https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://github.com/baichuan-inc/Baichuan2"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://github.com/baichuan-inc/Baichuan-13B"
+        },
+        {
+          "text": "进入开源社区",
+          "href": "https://github.com/baichuan-inc/Baichuan-7B"
+        },
+        {
+          "text": "开源模型商业授权申请",
+          "href": "https://www.baichuan-ai.com/article/business-proposal"
+        },
+        {
+          "text": "hr@baichuan-inc.com",
+          "href": "mailto://hr@baichuan-inc.com"
+        },
+        {
+          "text": "京ICP备2023015490号-1",
+          "href": "https://beian.miit.gov.cn/"
+        },
+        {
+          "text": "京B2-20232254",
+          "href": "https://beian.miit.gov.cn/"
+        },
+        {
+          "text": "京公网安备11010802042854号",
+          "href": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802042854"
+        },
+        {
+          "text": "用户协议",
+          "href": "https://www.baichuan-ai.com/article/user-agreement"
+        },
+        {
+          "text": "隐私政策",
+          "href": "https://www.baichuan-ai.com/article/privacy-agreement"
+        }
+      ]
+    },
+    "all_attempts": [
       {
         "url": "https://www.baichuan-ai.com/",
+        "click_text": "社会招聘",
         "status": "ok",
         "title": "百川大模型-百川智能",
+        "error": "",
         "body_length": 2906
+      },
+      {
+        "url": "https://www.baichuan-ai.com/about",
+        "click_text": null,
+        "status": "ok",
+        "title": "百川大模型-百川智能",
+        "error": "",
+        "body_length": 2906
+      },
+      {
+        "url": "https://www.baichuan-ai.com/career",
+        "click_text": null,
+        "status": "ok",
+        "title": "百川大模型-百川智能",
+        "error": "",
+        "body_length": 2906
+      },
+      {
+        "url": "https://www.baichuan-ai.com/joinus",
+        "click_text": null,
+        "status": "ok",
+        "title": "百川大模型-百川智能",
+        "error": "",
+        "body_length": 2906
+      },
+      {
+        "url": "https://www.baichuan-ai.com/about/",
+        "click_text": null,
+        "status": "ok",
+        "title": "百川大模型-百川智能",
+        "error": "",
+        "body_length": 2906
+      },
+      {
+        "url": "https://app.mokahr.com/apply/baichuan-ai",
+        "click_text": null,
+        "status": "ok",
+        "title": "您访问的页面不存在",
+        "error": "",
+        "body_length": 29
       }
-    ],
-    "portal_accessible": true,
-    "body_text": "产品介绍\n基准测试\n学术支持\n合作伙伴\n关于我们\n登录\n百小医 你的\nAI家庭医生\n\n明明白白看医生，安安心心管家人\n\n立即体验\n获取API\n去就医\n明明白白看医生\nAPP\n看病前帮你梳理症状，准备就医\n看病后帮你分析病情，解读医嘱\n待在家\n安安心心管家人\nBOT\n全家健康管家\n贴心守护每一位家人\n就医更安心\n从症状到医嘱，重要问题不遗漏，决策更从容\n家庭管理更省心\n管理全家健康，提醒不怕忘。用药、复诊、体检一目了然\n专业解读更清楚\n专业知识通俗讲解，听得懂，看得明白，减少焦虑与误解\n能力过硬\n\n问不倒、讲得清、记得住——全家人的健康都能托付\n\n能力详情\n医学水平\n基于权威医疗知识与专业能力，提供可信、清晰的健康建议。\n沟通能力\n复杂术语也能讲成大白话，帮助用户真正听懂、看懂。\n无限耐心\n支持反复追问，重要问题不厌其烦地说明白。\n全科覆盖\n覆盖问诊、就医准备、结果解读、后续管理等多个环节。\n全家记忆\n支持家庭成员健康信息管理、让照护更连续。\n\n海纳百川计划\n\n面向所有为医务工作者提供服务的机构，免费提供循证增强的服务M3-PIus API\n\n计划愿景\n\n为了推动医疗 AI 更安全、更可及、更有温度地发展，让技术进步真正转化为每一位中国医生的底气与人民健康的福祉，百川智能发起「海纳百川」计划，愿做中国医疗生态的\"超级底座\"，通过免费提供低幻觉循证增强医疗大模型 M3 Plus API，与合作伙伴共同跨越临床落地的\"最后一公里\"。\n\n核心权益\n\nFree 永久免费调用 Baichuan-M3 Plus API\n获得低幻觉率底座，一次性解决大模型编文献的问题\n全面应用百川“证据锚定”等技术，与证据段落 95% 精准匹配\n\n*「海纳百川」计划的准入审核与解释权归百川智能所有\n\n参与条件\n适用对象\n为医务工作者提供服务的机构\n适用场景仅限于\n临床辅助决策\n医学教育\n用途限制\n仅用于真实服务场景\n不得用于数据生产\n使用要求\n产品需明确展示 Powered by 百川\n不得对模型输出进行影响准确性的修改\n立即申请\n产品介绍\n通用\n开源\nBaichuan-M3\n开源可商用\n强推理低幻觉\n懂医学会问诊\n2350\n亿\n模型参数量\n65.1\nHealthBench评测优秀\n1st\n满血问诊能力\n进入开源社区\nBaichuan-M2\n开源可商用\n4090单卡可部署\n推理模型\n320\n亿\n模型参数量\n60.1\nHealthBench评测优秀\n32K\n长上下文推理模型\n进入开源社区\nBaichuan-M1\n技术报告\n开源可商用\n4090单卡可部署\n首个医疗增强模型\n140\n亿\n模型参数量\n20T\n医疗增强语料\n32K\n大尺寸上下文\n进入开源社区\nBaichuan2-13B\n技术报告\n开源可商用\n低成本部署\n多语言\n130\n亿\n模型参数量\n2.6T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\nBaichuan2-7B\n技术报告\n开源可商用\n低成本部署\n多语言\n70\n亿\n模型参数量\n2.6T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\nBaichuan-13B\n开源可商用\n低成本部署\n中英双语\n130\n亿\n模型参数量\n1.4T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\nBaichuan-7B\n开源可商用\n低成本部署\n中英双语\n70\n亿\n模型参数量\n1.2T\n多语言语料\n4K\n大尺寸上下文\n进入开源社区\n基准测试\nBaichuan-M4\nBaichuan-M3\nBaichuan-M2\nBaichuan-M1\nBaichuan2-13B\nBaichuan2-7B\nBaichuan-13B\nBaichuan-7B\nHealthBench全球第一，从问对一次到长程托付\n学术支持\nBaichuan-M3技术博客\n强推理、低幻觉、会提问，Baichuan-M3定义「问诊」新范式。博客公布了Baichuan-M3在训练模型幻觉抑制能力，实现满血问诊，提升模型推理能力等方向的的最新技术进展，并开源发布模型\n查看博客\nBaichuan-M2技术博客\n博客公布了Baichuan-M2的训练过程和核心技术，指出大型验证器系统是链接模型能力和真实世界问题的关键。同时博客公布了大型验证器系统、患者模拟器、医疗领域增强训练等创新技术，并开源模型。\n查看博客\nBaichuan2 技术报告\n报告整理了模型训练细节和优化方案，对Baichuan2 数据、模型结构、目标函数的优化、以及分布式计算系统、模型动态评估等做了详细说明，以促进大模型研究技术发展\n查看报告\nBaichuan2 公开全过程切片\n百川将训练的中间过程，从200B 到2640B 数据的全训练过程中间权重全部开源，推动社区和科研机构更好地探索模型内部的动态过程，更深入的研究大语言模型的内在机理\nCheckpoints 下载\n合作伙伴\n\n欢迎各位开发者、企业和机构与我们一起开创人工智能新时代开源模型商业授权申请\n\n关于我们\n集百川之智，共赴山海，欢迎对AI充满激情与梦想的每一位同仁加入，共创美好未来\n\n联系我们 hr@baichuan-inc.com\n\n百川智能成立于2023年3月24日，由前搜狗公司CEO王小川创立。公司以帮助大众轻松、普惠地获取世界知识和专业服务为使命，致力于通过语言AI的突破，构建中国最优秀的大模型底座。公司核心团队由来自搜狗、百度、华为、微软、字节、腾讯等知名科技公司的AI人才组成。百川智能成立不到100天，便发布了Baichuan-7B、Baichuan-13B两款开源可免费商用的中文大模型，且在多个权威评测榜单均名列前茅，下载量突破百万\n\nLYY | 工程师\n\n“我们是一个以技术和创新为驱动的团队，在百川我有机会参与领先的人工智能项目，不断挑战自我，不断学习成长。与志同道合的同事们一起攻克技术难关，解决现实问题，让我觉得工作充满了价值。”\n\n小熊 | 产品经理\n\n“作为AI产品经理，我既会与技术大牛紧密协作，深入前沿技术，也会从用户视角去思考AI，贴近真实需求。在通往AGI的旅途上，能与优秀的同事们并肩同行、探索未来，我感到无比幸运。”\n\nKK | 技术专家\n\n“我想用‘翻山越岭，披荆披棘’来形容过去的数月，但这个词也太贫乏了。我们在构建一个智能世界的路上，带着创新的火炬，寻找未知的独角兽。与公司共同奋斗的日子，就像马拉松，跑的是耐力，赢的是信念。”\n\nSX | 行政小姐姐\n\n“加入这个大家庭已经快三个月了，这段时间里发觉自己努力许多，进步不少，在这个团队里，让我学到了许多以前没有学过的东西，人之所以能，是因为相信能！投入才会深入，付出才会杰出，用心才会开心！”\n\n社会招聘\n校园招聘\n© 2026 百川智能科技有限公司\n京ICP备2023015490号-1\n|\n京B2-20232254\n|\n京公网安备11010802042854号\n|\n百应Beijing-Baiying-20230821\n|\n用户协议|隐私政策\n联系地址：北京市海淀区中关村东路1号院8号楼15层B1701",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [
-        {
-          "keyword": "系统",
-          "context": "练模型幻觉抑制能力，实现满血问诊，提升模型推理能力等方向的的最新技术进展，并开源发布模型 查看博客 Baichuan-M2技术博客 博客公布了Baichuan-M2的训练过程和核心技术，指出大型验证器系统是链接模型能力和真实世界问题的关键。同时博客公布了大型验证器系统、患者模拟器、医疗领域增强训练等创新技术，并开源模型。 查看博客 Baichuan2 技术报告 报告整理了模型训练细节和优化方案，对Baichuan2 数据、模型结构、目标函数的优化、以及分布式计算系统、模型动态评估等做了详细说明，以促进大模型研究技术发展 查看报告 Baichuan2 公开全过程切片 百川将训练的中间过程，从20"
-        },
-        {
-          "keyword": "驱动",
-          "context": "不到100天，便发布了Baichuan-7B、Baichuan-13B两款开源可免费商用的中文大模型，且在多个权威评测榜单均名列前茅，下载量突破百万  LYY | 工程师  “我们是一个以技术和创新为驱动的团队，在百川我有机会参与领先的人工智能项目，不断挑战自我，不断学习成长。与志同道合的同事们一起攻克技术难关，解决现实问题，让我觉得工作充满了价值。”  小熊 | 产品经理  “作为AI产品经理，我既会与技术大牛紧密协作，深入前沿技术，也会从用户视角去思考AI，贴近真实需求。在通往AGI的旅途上，能与优秀的同事们并肩同行、探索未来，我感到无比幸运。”  KK | 技术专家  “我想用‘翻山越岭"
-        },
-        {
-          "keyword": "推理",
-          "context": "仅用于真实服务场景 不得用于数据生产 使用要求 产品需明确展示 Powered by 百川 不得对模型输出进行影响准确性的修改 立即申请 产品介绍 通用 开源 Baichuan-M3 开源可商用 强推理低幻觉 懂医学会问诊 2350 亿 模型参数量 65.1 HealthBench评测优秀 1st 满血问诊能力 进入开源社区 Baichuan-M2 开源可商用 4090单卡可部署 推理模型 320 亿 模型参数量 60.1 HealthBench评测优秀 32K 长上下文推理模型 进入开源社区 Baichuan-M1 技术报告 开源可商用 4090单卡可部署 首个医疗增强模型 140 亿 模"
-        },
-        {
-          "keyword": "分布式",
-          "context": "型验证器系统、患者模拟器、医疗领域增强训练等创新技术，并开源模型。 查看博客 Baichuan2 技术报告 报告整理了模型训练细节和优化方案，对Baichuan2 数据、模型结构、目标函数的优化、以及分布式计算系统、模型动态评估等做了详细说明，以促进大模型研究技术发展 查看报告 Baichuan2 公开全过程切片 百川将训练的中间过程，从200B 到2640B 数据的全训练过程中间权重全部开源，推动社区和科研机构更好地探索模型内部的动态过程，更深入的研究大语言模型的内在机理 Checkpoints 下载 合作伙伴  欢迎各位开发者、企业和机构与我们一起开创人工智能新时代开源模型商业授权申请"
-        }
-      ],
-      "estimated_total_positions": 0
-    }
+    ]
   },
   "cambricon": {
-    "company": "寒武纪 (Cambricon)",
-    "key": "cambricon",
-    "urls_tried": [
+    "company": "cambricon",
+    "best_result": {
+      "url": "https://app.mokahr.com/apply/cambricon",
+      "title": "中科寒武纪科技股份有限公司 - 社会招聘",
+      "body_text": "社招首页社会招聘开放职位丰富的活动返回官网首页\n校园招聘\n加入寒武纪\n我们提供高成长性、高成就感的工作机会，伴之以有竞争力的待遇，实现智能时代的计算力量爆发性进化\n搜索职位\n社会招聘开放职位\n搜索职位\n急行政专员\n职能类-社招\n广东·深圳市\n急ATE测试工程师\n技术类-社招\n上海市·浦东新区\n急深度学习框架图编译工程师\n北京市·海淀区 等2个地点\n急AI编译器研发工程师\n北京市·海淀区\n急模拟芯片设计工程师\n上海市·浦东新区\n急AI现场应用工程师\n上海市·浦东新区\n急大模型训练优化工程师\n北京市·海淀区 等2个地点\n急SIPI工程师\n北京市·海淀区 等2个地点\n急芯片应用工程师-固件方向\n急AI编译器研发工程师\n上海市·浦东新区\n急数字后端设计工程师\n技术类-社招\n上海市·浦东新区 等3个地点\n急数字后端设计工程师-南京\n技术类-社招\n急高性能通信库研发工程师\n北京市·海淀区 等2个地点\n急CAD资深流程开发工程师\n上海市·浦东新区\n急AI网络研发工程师\n北京市·海淀区\n查看更多职位\n丰富的活动\n节日活动，加班零食，员工俱乐部，工作和生活都很High~~\n京公网安备 11010802024479号京ICP备15060035号-3",
+      "api_data": [],
+      "links": [
+        {
+          "text": "",
+          "href": "javascript:void"
+        },
+        {
+          "text": "社招首页",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/?anchorName=000&sourceToken="
+        },
+        {
+          "text": "社会招聘开放职位",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/?anchorName=007&sourceToken="
+        },
+        {
+          "text": "丰富的活动",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/?anchorName=0672291572&sourceToken="
+        },
+        {
+          "text": "返回官网首页",
+          "href": "http://www.cambricon.com/"
+        },
+        {
+          "text": "校园招聘",
+          "href": "https://app.mokahr.com/campus_apply/cambricon"
+        },
+        {
+          "text": "急行政专员\n职能类-社招\n广东·深圳市",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/8806e265-440b-4cf4-9eef-7f8a4b09821b"
+        },
+        {
+          "text": "急ATE测试工程师\n技术类-社招\n上海市·浦东新区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/d1881322-e63a-47f5-90e5-2e5e193bd8d6"
+        },
+        {
+          "text": "急深度学习框架图编译工程师\n北京市·海淀区 等2个地点",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/e4039f7b-0ca0-4a2b-a1b7-758fba259e6d"
+        },
+        {
+          "text": "急AI编译器研发工程师\n北京市·海淀区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff"
+        },
+        {
+          "text": "急模拟芯片设计工程师\n上海市·浦东新区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b"
+        },
+        {
+          "text": "急AI现场应用工程师\n上海市·浦东新区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/90cd8a4a-97b6-4039-b56d-283bebb165ea"
+        },
+        {
+          "text": "急大模型训练优化工程师\n北京市·海淀区 等2个地点",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/d491974a-66cf-4947-9c20-06a2c4be7324"
+        },
+        {
+          "text": "急SIPI工程师\n北京市·海淀区 等2个地点",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/a4f0fb5a-f715-4060-b2bf-6f042a44f194"
+        },
+        {
+          "text": "急芯片应用工程师-固件方向",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/26741594-8e87-443d-b594-1a5a46dca5f9"
+        },
+        {
+          "text": "急AI编译器研发工程师\n上海市·浦东新区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/5568b26b-2bf0-42a3-9159-89dd310fe830"
+        },
+        {
+          "text": "急数字后端设计工程师\n技术类-社招\n上海市·浦东新区 等3个地点",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/6fcba671-8228-4a7e-8e89-fb1fe229e5f3"
+        },
+        {
+          "text": "急数字后端设计工程师-南京\n技术类-社招",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/ca0c2095-41da-48c7-b989-0d07dfca713e"
+        },
+        {
+          "text": "急高性能通信库研发工程师\n北京市·海淀区 等2个地点",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/274cf366-f91e-4ce8-a961-52b17d594f4c"
+        },
+        {
+          "text": "急CAD资深流程开发工程师\n上海市·浦东新区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/2fb8c407-f2d3-4820-a538-e2ca2767f965"
+        },
+        {
+          "text": "急AI网络研发工程师\n北京市·海淀区",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/job/174868ac-13cd-4316-ade7-1a39cdcb95eb"
+        },
+        {
+          "text": "查看更多职位",
+          "href": "https://app.mokahr.com/apply/cambricon/1113#/jobs"
+        },
+        {
+          "text": "京公网安备 11010802024479号",
+          "href": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024479"
+        },
+        {
+          "text": "京ICP备15060035号-3",
+          "href": "https://beian.miit.gov.cn/"
+        }
+      ]
+    },
+    "all_attempts": [
       {
         "url": "https://www.cambricon.com/",
+        "click_text": "加入我们",
         "status": "ok",
-        "title": "寒武纪",
-        "body_length": 521
+        "title": "寒武纪校园招聘-芯有热AI 梦想闪光",
+        "error": "",
+        "body_length": 83
+      },
+      {
+        "url": "https://www.cambricon.com/joinus",
+        "click_text": null,
+        "status": "ok",
+        "title": "404 Not Found",
+        "error": "",
+        "body_length": 66
+      },
+      {
+        "url": "https://www.cambricon.com/careers",
+        "click_text": null,
+        "status": "ok",
+        "title": "404 Not Found",
+        "error": "",
+        "body_length": 67
+      },
+      {
+        "url": "https://www.cambricon.com/about/",
+        "click_text": null,
+        "status": "ok",
+        "title": "404 Not Found",
+        "error": "",
+        "body_length": 66
+      },
+      {
+        "url": "https://app.mokahr.com/apply/cambricon",
+        "click_text": null,
+        "status": "ok",
+        "title": "中科寒武纪科技股份有限公司 - 社会招聘",
+        "error": "",
+        "body_length": 522
       }
-    ],
-    "portal_accessible": true,
-    "body_text": "产品技术\n \n开放平台\n \n开发者\n \n新闻中心\n \n加入我们\n \n关于我们\n「思元220」边缘端AI芯片\n了解更多\n寒武纪® AIDC® MLU370®-X8云端训练AI加速卡\n面向中高端训练场景\n\n　采用双芯思元370及MLU-Link配置\n\n了解更多\n「思元370」推训一体芯片\n寒武纪第三代云端AI芯片\n\n先进chiplet技术，最新MLUarch03架构，AI性能全面升级\n\n了解更多\n寒武纪® AIDC® MLU370®-S4云端AI加速卡\n面向高密度云端推理需求\n\n　能效出色，体积小巧，高密度部署\n\n了解更多\n寒武纪® AIDC® MLU370®-X4云端AI加速卡\n面向云端AI业务需求\n\n　推训一体，性能卓越\n\n了解更多\n「思元220」边缘端AI芯片\n了解更多\n寒武纪® AIDC® MLU370®-X8云端训练AI加速卡\n面向中高端训练场景\n\n　采用双芯思元370及MLU-Link配置\n\n了解更多\n0102030405\n公司新闻\n更多\n品牌资料\n开放平台\n开发者\n关于我们\n用户协议\n法律声明\n隐私政策\n\n版权所有 © 2016-2026 Cambricon.com 备案/许可证号: 京ICP备17003415号-1",
-    "api_data": [],
-    "analysis": {
-      "keyword_matches": [
-        {
-          "keyword": "架构",
-          "context": "云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，高密度部署  了解更多 寒武纪® AIDC® MLU370®-X4云端AI加速卡 面向云端AI业务需求  　推训一体，性能卓越  了解更多 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场"
-        },
-        {
-          "keyword": "边缘",
-          "context": "产品技术   开放平台   开发者   新闻中心   加入我们   关于我们 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，"
-        },
-        {
-          "keyword": "平台",
-          "context": "产品技术   开放平台   开发者   新闻中心   加入我们   关于我们 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC®"
-        },
-        {
-          "keyword": "推理",
-          "context": "0」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，高密度部署  了解更多 寒武纪® AIDC® MLU370®-X4云端AI加速卡 面向云端AI业务需求  　推训一体，性能卓越  了解更多 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 0102030405 公司新闻 更多 品牌资料"
-        },
-        {
-          "keyword": "芯片",
-          "context": "产品技术   开放平台   开发者   新闻中心   加入我们   关于我们 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，"
-        },
-        {
-          "keyword": "chip",
-          "context": "寒武纪® AIDC® MLU370®-X8云端训练AI加速卡 面向中高端训练场景  　采用双芯思元370及MLU-Link配置  了解更多 「思元370」推训一体芯片 寒武纪第三代云端AI芯片  先进chiplet技术，最新MLUarch03架构，AI性能全面升级  了解更多 寒武纪® AIDC® MLU370®-S4云端AI加速卡 面向高密度云端推理需求  　能效出色，体积小巧，高密度部署  了解更多 寒武纪® AIDC® MLU370®-X4云端AI加速卡 面向云端AI业务需求  　推训一体，性能卓越  了解更多 「思元220」边缘端AI芯片 了解更多 寒武纪® AIDC® MLU370®"
-        }
-      ],
-      "estimated_total_positions": 0
-    }
+    ]
   }
 }

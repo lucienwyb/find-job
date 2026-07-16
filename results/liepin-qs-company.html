@@ -1,0 +1,106 @@
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>猎聘安全中心</title>
+    <script src="//concat.lietou-static.com/fe-lib-pc/v6/apm/0.2.3/apm.min.84645ab9.js"></script>
+    <script>
+        ;(function (n, e, r, t, a, o, s, i, c, l, f, m, p, u) {
+            o = 'precollect'
+            s = 'getAttribute'
+            i = 'addEventListener'
+            c = 'PerformanceObserver'
+            l = function (e) {
+                f = [].slice.call(arguments)
+                f.push(Date.now(), location.href)
+                ;(e == o ? l.p.a : l.q).push(f)
+            }
+            l.q = []
+            l.p = { a: [] }
+            n[a] = l
+            m = document.createElement('script')
+            m.src = r + '?aid=' + t + '&globalName=' + a
+            m.crossorigin = 'anonymous'
+            e.getElementsByTagName('head')[0].appendChild(m)
+            if (i in n) {
+                l.pcErr = function (e) {
+                    e = e || n.event
+                    p = e.target || e.srcElement
+                    if (p instanceof Element || p instanceof HTMLElement) {
+                        n[a](o, 'st', { tagName: p.tagName, url: p[s]('href') || p[s]('src') })
+                    } else {
+                        n[a](o, 'err', e.error || e.message)
+                    }
+                }
+                l.pcRej = function (e) {
+                    e = e || n.event
+                    n[a](o, 'reject', e.reason || (e.detail && e.detail.reason))
+                }
+                n[i]('error', l.pcErr, true)
+                n[i]('unhandledrejection', l.pcRej, true)
+            }
+            if ('PerformanceLongTaskTiming' in n) {
+                u = l.pp = { entries: [] }
+                u.observer = new PerformanceObserver(function (e) {
+                    u.entries = u.entries.concat(e.getEntries())
+                })
+                u.observer.observe({
+                    entryTypes: ['longtask', 'largest-contentful-paint', 'layout-shift']
+                })
+            }
+        })(
+            window,
+            document,
+            'https://apm.volccdn.com/mars-web/apmplus/web/browser.cn.js',
+            0,
+            'apmPlus'
+        )
+    </script>
+    <script>
+        window.apmPlus('init', {
+            aid: 501190,
+            token: '54a6dd819dad42d5b26747709b3faf99',
+            env: 'production',
+            plugins: {
+                resource: false, // 静态资源性能插件，设置为false
+                ajax: false, // ajax请求fasle
+                fetch: false // fetch 请求fasle
+            },
+            sample: {
+                rules: {
+                    pageview: {
+                        enable: true,
+                        sample_rate: 0.1
+                    }
+                }
+            }
+        })
+        window.apmPlus('start')
+    </script>
+    <link rel="icon" href="//concat.lietou-static.com/fe-security-pc/v6/static/images/favicon.e6edbc00.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-security-pc/v6/css/common.e4d849ce.css" />
+    <link rel="stylesheet" href="//concat.lietou-static.com/fe-security-pc/v6/css/pages/main.0e433876.css" />
+</head>
+
+<body>
+<div id="main-container"></div>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/polyfill-vendors.178f0afe.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/react-vendors.1e31495e.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/runtime.903cd154.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/common.04852ed8.js"></script>
+<script crossorigin="anonymous" src="//concat.lietou-static.com/fe-security-pc/v6/js/pages/main.d8c5282d.js"></script>
+<script>
+    window.tlg = {
+        accountId: '15378aab5b9'
+    }
+</script>
+<script src="//concat.lietou-static.com/fe-lib-pc/v6/tlog/5.0.12/tlog.min.07a8dd47.js"></script>
+<script>
+    // web apm初始化
+    window.lpApm && window.lpApm.init({
+        appId: '308617afeae22076',
+    })
+</script>
+</body>
+</html>
