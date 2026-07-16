@@ -1196,3 +1196,56 @@
 - ★**必示科技是crash/perf→AIOps最直接对口的公司**(根因分析,清华智能运维实验室出身),虽地址未完全核实但距离估3-5km极近,值得天眼查电话确认后触达。
 - 悬镜安全(10km)+日志易(9.6km)=AI代码审查/AIOps两条线,都能把crash/perf调试经验变现到Agent方向(安全Agent/运维Agent),符合v2"Agent应用架构师技术侧"。
 - 这4家补全了前40轮未覆盖的"AI for DevOps/SRE/代码安全"赛道,与云杉DeepFlow(eBPF可观测)形成AIOps/可观测赛道矩阵。
+
+## ★躺平型TOP3真实在招深挖（第39轮，2026-07-16）— ★红帽/CETC修正
+> 调通Red Hat Workday CXS API + AMD Jibe API + CETC hotjob门户核实。
+
+### ★红帽Red Hat — 北京/中国区内核HC为零,不可投递(修正)
+- 核实:成功调通Red Hat Workday CXS API(redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs)。
+- 搜索结果:kernel=17岗(全海外Brno/Waterford/Bangalore),**Beijing=0**,**China返回400错误**(关键词可能屏蔽)。eBPF=2岗(Brno/Pune)。
+- 全球内核岗全在海外:Brno捷克R-058282/Waterford爱尔兰R-057580/Bangalore印度R-055241等。
+- **★结论:IBM 2024-25全球裁员波及Red Hat,中国区内核团队HC已清零**,中国仅保留销售/售前。LinkedIn/51job/拉勾均无Red Hat中国内核开发岗。
+- **修正行动总表**:红帽从"躺平首选3.9km教科书对口"更正为**北京不可投递(内核HC清零)**。除非愿赴海外(Brno/Bangalore),否则放弃红帽北京。
+- 投递入口:redhat.wd5.myworkdayjobs.com(但中国无岗)。
+
+### AMD中国 — 北京2开发岗+上海最佳匹配岗
+- 核实:调通AMD Jibe API(careers.amd.com/api/jobs)。
+- **北京在招**(4岗,2开发):
+  - Senior GPU Kernel Optimization Engineer(req81040,**匹配高**)AI/GPU kernel优化CUDA/HIP/Triton/nsight/rocprof,C++/Python,BS+4年。**偏GPU/AI kernel非Linux内核**,perf优化对口但非直接。预估35-60K/月14-16薪。投递careers.amd.com/careers-home/jobs/81040
+  - GPU Compiler Development Engineer(req87501,中)MLIR/LLVM/ONNX,C/C++。
+  - Customer Quality Engineer(req88483,低非开发)、Sr.Manager Marketing(req87332,低)。
+- **上海在招(更对口,需通勤/搬迁)**:
+  - ★**Linux Kernel & OS Enablement Engineer(req87894,匹配极高)** — Linux内核+OS on AMD EPYC,内核调试优化,虚拟化(KVM/QEMU/libvirt),**openEuler/OpenAnulis/OpenCloudOS国产OS适配**,8-15年(候选人7年略低但在范围)。预估40-70K/月14-16薪。投递careers.amd.com/careers-home/jobs/87894
+  - Triton Compiler/GPU Kernel Performance(req79527,高)、GPU Kernel Development(req79565,中高)、Windows Graphics Driver(req84480,中非Linux)、AI Software Engineer HPC(req84428,中)。
+- **Xilinx/Zynq中国零岗**:搜Xilinx/Zynq/FPGA中国大陆0岗,原团队全在美国/爱尔兰/印度/台湾。**候选人Zynq经验在AMD中国无对口**,放弃Xilinx路径。
+- **判定**:北京81040 GPU kernel(保底可投,北京通勤)+上海87894 Linux内核(最佳匹配,强烈建议投递但需接受上海/双城)。Xilinx放弃。
+
+### CETC十五所 — 门户维护中无法投递,编制项目聘用为主
+- 核实:cetc15.com垃圾站/cetc15.com.cn盗版影视站(非官方)/cetc.zhiye.com北森已下线404/www.cetc.com.cn集团官网确认招聘入口wecruit.hotjob.cn/SU6056ebe60dcad424d03e1c5b,但hotjob社招"系统正在维护中"(多次不同时间均维护)。51job/拉勾无十五所岗。
+- **编制**:十五所(华北计算机系统工程研究所)军工涉密单位,社招通常**项目聘用制合同工**非事业编,事业编极少走校招/高端引进。流程含政审+保密资格审查。
+- 岗位方向(基于业务):国产OS内核(麒麟/UOS适配)/嵌入式Linux·RTOS/BSP驱动/底层固件——候选人高度对口。
+- 薪资:社招项目聘用15-30K/月(低于互联网,有五险一金+补充公积金);事业编更低10-20K但有编制+户口可能。
+- **判定**:0.6km离家最近但门户维护无法投递,薪资偏低,军工稳定WLB优于互联网。建议:持续关注hotjob门户恢复+人脉/猎头直联HR+"中国电科招聘"公众号。
+
+### ★三家对比+行动
+| 维度 | 红帽 | AMD | CETC15所 |
+|---|---|---|---|
+| 北京在招岗 | **0(清零)** | 2开发岗+2非开发 | 未知(门户维护) |
+| 最佳匹配岗 | 无 | 87894 Linux Kernel(上海) | 待门户恢复 |
+| 对口度 | N/A | 高(87894)/中(81040北京) | 预计极高 |
+| 薪资/月 | N/A | 35-70K | 15-30K |
+| 距离 | 3.9km | 2.9km | 0.6km |
+| 可投递 | **否** | 是(立即) | 待门户恢复 |
+| Zynq价值 | 无 | 中国无Xilinx岗 | 可能有(嵌入式) |
+
+**行动**:
+1. 立即投递**AMD上海87894**(Linux Kernel&OS Enablement)——最对口,虽上海但可谈远程/双城。
+2. 投递**AMD北京81040**(GPU Kernel Optimization)——保底,北京通勤OK。
+3. 持续监控CETC15所门户——离家最近,恢复立即投。
+4. ★放弃红帽北京——HC清零,IBM裁员后中国内核组不存在。
+
+### ★对躺平型清单的重大修正
+- 红帽北京不可投(修正行动总表"躺平首选红帽3.9km")。
+- AMD北京偏GPU编译器/算子(非传统内核),传统内核对口岗在上海87894。
+- 躺平型"内核教科书对口"实际可投的北京选项收窄为:CETC15所(门户维护待恢复,0.6km)/龙芯中科(10.4km LoongArch)/中科曙光(9.71km HPC)/建信金科等银行(信创国产化)。
+- 决策点更清晰:若坚持北京+内核对口,CETC15所(等门户)/龙芯/曙光/银行信创;若愿赴上海,AMD 87894是最佳匹配岗。

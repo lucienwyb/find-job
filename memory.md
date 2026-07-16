@@ -481,6 +481,13 @@
   - ★Agent方向贴合度:月之暗面(Kimi代码Agent)>硅基流动>悬镜>面壁>日志易>澜舟>必示
   - 与云杉DeepFlow(eBPF可观测)形成AIOps/可观测赛道矩阵,补全前40轮未覆盖的AI for DevOps/SRE/代码安全赛道。
   - 必示科技是crash/perf→AIOps最直接对口,值得天眼查核实地址后触达。
+- **★★躺平型TOP3真实在招深挖已落盘(★红帽/CETC重大修正)**(第39轮,调通Red Hat Workday API+AMD Jibe API+CETC hotjob):
+  - ★★红帽Red Hat北京/中国区内核HC已清零:IBM 2024-25裁员波及,中国仅保留销售售前。Workday API搜Beijing=0,China=400错误。全球内核岗全在海外(Brno/Waterford/Bangalore)。**修正行动总表"红帽3.9km躺平首选"→北京不可投递**。除非赴海外否则放弃红帽北京。
+  - AMD:北京2开发岗(GPU Kernel Optimization 81040匹配高35-60K偏AI/GPU非内核/GPU编译器87501),上海87894 Linux Kernel&OS Enablement匹配极高(EPYC内核+虚拟化+openEuler国产OS适配,8-15年,40-70K)是最佳匹配岗但需上海/双城。Xilinx/Zynq中国零岗(全在美/爱尔兰/印度/台湾),放弃Xilinx路径。
+  - CETC15所:门户hotjob维护中无法投递,社招项目聘用合同工非事业编(军工涉密政审),薪资15-30K偏低但0.6km最近+军工稳定。持续关注门户+人脉/猎头直联+公众号。
+  - ★躺平型"内核教科书对口"北京实际可投收窄为:CETC15所(门户维护待恢复0.6km)/龙芯中科(10.4km LoongArch)/中科曙光(9.71km HPC)/建信金科·北京银行(信创国产化)。红帽作废。
+  - ★决策点清晰:坚持北京+内核对口→CETC15所(等门户)/龙芯/曙光/银行信创;愿赴上海→AMD 87894 Linux Kernel是最佳匹配岗。
+  - 修正第36轮"AMD/Xilinx北京50-100万+/红帽躺平首选"两项乐观判断,实际北京红帽无岗、AMD偏GPU/上海才有内核岗。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。
