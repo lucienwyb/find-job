@@ -63,24 +63,33 @@ Agent 应用架构 / 大模型 Infra / AI4Science / 智驾 / 具身数据仿真 
 
 ## 四、文件索引
 
-### 核心文档（投递时用）
+> 仓库已结构化归档，见 `README.md` 目录树。
+
+### 核心文档（根目录，投递时用）
 - `companies.md`（1771 行）— 全部公司调研总表 + 行动总表 + 投递执行清单
 - `memory.md`（589 行）— 51 轮调研逐轮记录，避免重复抓取
-- `resume.md` + `resume-{航天,机器人,大模型Infra,01ai平台,智驾系统}版.md` — 5 份简历变体
 - `applications.md` — 投递进展跟踪表
 - `outreach-messages.md` — 内推私信/Boss 招呼语
 - `interview_qa_rehearsal.md` — 面试技术问答预演
 - `interview-cheatsheet.md` — 面试讲点速查
 - `offer-decision-matrix.md` — offer 决策矩阵
 - `d0-launch-checklist.md` — 启动投递检查清单
-- `career-direction-debate.md` — 职业方向探讨（v2 方向=Agent 应用架构师技术侧）
-- `kagent-runtime-spec.md` — 自研 agent runtime 项目规格书
-- `ai4science-play.md` — AI4Science 入门玩
 
-### 原始抓取数据（JD 原文/门户渲染产物）
-- `r36b_*.txt/json` / `live2_*.html` / `live4_*` / `live5_*` / `live6_*` / `r44_*` — 招聘门户 headless 渲染抓取结果
-- `scrape_*.py` / `pw_*.py` / `r44_*.py` — playwright/curl 抓取脚本（可复用）
-- `yh_*.html` — 银河航天官网各页快照
+### `resumes/` — 简历
+- `resume.md`（原始）+ `resume-{航天,机器人,大模型Infra,01ai平台,智驾系统}版.md`（5 份变体）
+
+### `reports/` — 评估报告
+- `career-direction-debate.md`（v2 方向=Agent 应用架构师技术侧）
+- `kagent-runtime-spec.md`（自研 agent runtime 项目规格书）
+- `galaxy-space-assessment.md` / `galbot-robotera-match-report.md` / `zhipu-moonshot-deep-report.md` / `01ai-assessment-and-action-plan.md` / `job-match-assessment.md` / `ai4science-play.md`
+
+### `投递/` — 投递材料（复制即发）
+- `投递-ISCAS-OS工程师.md`（邮件主题+正文+简历要点）
+- 后续其他目标的投递材料也放这里
+
+### `scrape/` — 招聘门户抓取（可复用）
+- `scrape/scripts/`（73 个）— playwright/curl 抓取脚本（`scrape_*.py` / `pw_*.py` / `r44_*.py`）
+- `scrape/data/`（278 个）— 原始抓取产物（`r36b_*.txt/json` / `live*_.html` / `r44_*` / `yh_*.html` 等，含 JD 原文）
 
 ### 抓取方法学（复用时参考 companies.md "门户方法学"节）
 - mokahr 两路径：`social-recruitment/{slug}`（银河通用）和 `apply/{slug}`（月之暗面）。necromancer 加密但前端 JS 解密后渲染 DOM 即明文。
