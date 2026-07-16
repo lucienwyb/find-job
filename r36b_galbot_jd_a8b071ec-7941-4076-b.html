@@ -1,0 +1,208 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="renderer" content="webkit"><link rel="stylesheet" href="/icon/style.css" type="text/css"><link rel="shortcut icon" href="/images/favicon.ico"><script src="https://hm.baidu.com/hm.js?81855791c290e31cd52ffbf04ad5c002"></script><script type="text/javascript" crossorigin="anonymous" src="https://static-ats.mokahr.com/vendor/raven-3.26.4.min.js"></script><script>var Raven = Raven || [];
+if ('20260715-2141-1e600-release') {
+    Raven.config('https://2893fe1851d4437e90353623a46c5528@public-sentry.mokahr.com/106', {release: '20260715-2141-1e600-release'}).install();
+} else {
+    Raven.config('https://2893fe1851d4437e90353623a46c5528@public-sentry.mokahr.com/106').install();
+}
+
+window.onunhandledrejection = function unhandledRejectionSentryHandler(evt) {
+    if (evt instanceof Error) {
+        return Raven.captureException(evt);
+    }
+    var reason = evt.reason || (evt.detail && evt.detail.reason) || null;
+    if (reason) {
+        Raven.captureException(reason);
+    }
+};
+</script><noscript><h1>请不要禁用JavaScript</h1></noscript><script>document.documentElement.lang = document.documentElement.lang || (document.cookie.match(/locale=(\w{2}-\w{2})/) || [])[1] || ''</script><script type="text/javascript" crossorigin="anonymous" data-dev-ignore="true" src="https://static-ats.mokahr.com/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_cn_messages.84bbb41a4b19e4aa02ce4923b45ebbe5.js"></script><script>window.languageManifest = {"new_i18n_en_us_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_en_us_messages.521b426ecc1ada1f2c588eeb3bb7b485.js","new_i18n_zh_cn_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_cn_messages.84bbb41a4b19e4aa02ce4923b45ebbe5.js","new_i18n_en_dingtalk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_en_dingtalk_messages.8ca0451e771a2002e94889863e8d57d9.js","new_i18n_zh_dingtalk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_dingtalk_messages.3388155347f7789fe7699f78d238a34e.js","new_i18n_fr_fr_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_fr_fr_messages.59470083240c1f16f88db0b9ba55d758.js","new_i18n_ms_my_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ms_my_messages.fddd36b942215e3022f98778fc0dbc21.js","new_i18n_vi_vn_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_vi_vn_messages.0b992085da1dc28dd969a15e525085d4.js","new_i18n_es_es_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_es_es_messages.d24854f20a0a12dd986f4719d49f6697.js","new_i18n_th_th_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_th_th_messages.2a4bae1abb8371b29ab5bd68419f9f83.js","new_i18n_id_id_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_id_id_messages.a973d2b48f87bf985a911916fbbae639.js","new_i18n_sr_sp_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_sr_sp_messages.477f369fecf1c9dceb7231629bdbd538.js","new_i18n_de_de_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_de_de_messages.e25db8ffde6254eced9631188669cdc9.js","new_i18n_zh_tw_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_tw_messages.bd0d5e2d300130edca7aee09a0b6913b.js","new_i18n_zh_hk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_hk_messages.47db4d34326f09fd1a41771e73323641.js","new_i18n_ja_jp_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ja_jp_messages.4bf29b6a448186606fa2bb98cbd01150.js","new_i18n_ko_kr_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ko_kr_messages.2699868bd6b3e52e0bfe0002cc55f6f8.js","new_i18n_pt_pt_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_pt_pt_messages.75580734e4f647b6d8a80aa133980d91.js","new_i18n_tl_ph_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_tl_ph_messages.ba1d14fe7d5c50364fd89bbe4d1de184.js","new_i18n_ru_ru_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ru_ru_messages.50765960a99f12b706ff1b72e938dfa0.js","new_i18n_ta_lk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ta_lk_messages.b999c421ed61a19f20dc348cc6f77757.js","new_i18n_uz_uz_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_uz_uz_messages.3160375e92bc2bfd56082f030cc5baa5.js","new_i18n_kk_kz_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_kk_kz_messages.fb9acf827b3244edf09c585e441bec85.js"};
+window.orgMainLocale = undefined;
+window.orgSupportLocales = undefined;</script><title>Moka: 登录</title><meta name="viewport" content="width=device-width, user-scalable=no"><script>function report(error) {
+  if (window.location.origin.indexOf("localhost") !== -1 || window.location.origin.indexOf("staging") !== -1) {
+    return null;
+  }
+  function createXHR() {
+      if (typeof window.XMLHttpRequest !== "undefined") {
+      return new window.XMLHttpRequest();
+    } else if (typeof window.ActiveXObject !== "undefined") {
+      if (typeof arguments.callee.activeXString !== "string") {
+        var versions = [
+          "Msxml3.XMLHTTP",
+          "MSXML2.XMLHttp.6.0",
+          "MSXML2.XMLHttp.3.0",
+          "MSXML2.XMLHttp",
+          "Microsoft.XMLHTTP",
+        ];
+        for (var i = 0, len = versions.length; i < len; i++) {
+          try {
+            var xhr = new window.ActiveXObject(versions[i]);
+            arguments.callee.activeXString = versions[i];
+            return xhr;
+          } catch (error) {
+            console.error(error);
+            //跳过
+          }
+        }
+      }
+      return new window.ActiveXObject(arguments.callee.activeXString);
+    } else {
+      return null;
+    }
+  }
+
+  var xhr = createXHR();
+  if (!xhr) {
+    return null;
+  }
+
+  function getEventId() {
+    var a = window.crypto || window.msCrypto;
+    if (a && a.getRandomValues) {
+        var b = new Uint16Array(8);
+        a.getRandomValues(b), b[3] = 4095 & b[3] | 16384, b[4] = 16383 & b[4] | 32768;
+        var c = function (a) {
+            for (var b = a.toString(16); b.length < 4;) b = "0" + b;
+            return b
+        };
+        return c(b[0]) + c(b[1]) + c(b[2]) + c(b[3]) + c(b[4]) + c(b[5]) + c(b[6]) + c(b[7])
+    }
+    return "xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx".replace(/[xy]/g, function (a) {
+        var b = 16 * Math.random() | 0,
+            c = "x" === a ? b : 3 & b | 8;
+        return c.toString(16)
+    })
+  }
+  xhr.open("POST", "https://sentry-fe.mokahr.com/api/107/store/?sentry_version=7&sentry_client=raven-js%2F3.26.4&sentry_key=840dcafb7d524b21a665748fae084418");
+  xhr.send(JSON.stringify({
+    project: "107",
+    logger: "javascript",
+    platform: "javascript",
+    request: {
+        headers: {
+          "User-Agent": window.navigator.userAgent
+        },
+        url: window.location.href
+    },
+    exception: {
+      values: [error],
+      mechanism: {
+        type: "generic",
+        handled: true
+      }
+    },
+    level: "fatal",
+    tags: { "user.orgId": "", "user.role": "" },
+    user: {
+      id: "",
+      orgId: "",
+      pay: "",
+      role: "",
+      isGrayReleased: "0",
+    },
+    environment: "prod-ali",
+    release: "20260715-2141-1e600-release",
+    event_id: getEventId()
+  }));
+}
+
+window.MOKA_RETRY = {
+  origins: ["https://static-ats.mokahr.com","https://static.mokahr.com","https://app.mokahr.com"],
+  pointer: 0,
+  timer: null,
+  getCdnPath: function() {
+    return window.MOKA_RETRY.origins[window.MOKA_RETRY.pointer] || window.location.origin;
+  },
+  refreshOriginPathFunc: function() {
+    var oldPath = window.MOKA_RETRY.getCdnPath();
+
+    window.MOKA_RETRY.pointer = window.MOKA_RETRY.pointer + 1;
+
+    var newPath = window.MOKA_RETRY.getCdnPath();
+
+    report({
+      type: "cdn资源事故！！！",
+      value: oldPath + " 出现故障：切换至 " + newPath + " --- window.MOKA_RETRY:" +  (window.MOKA_RETRY ? JSON.stringify(window.MOKA_RETRY) : " MOKA_RETRY not found")
+    });
+
+    if (!window.MOKA_RETRY.timer) {
+      window.MOKA_RETRY.timer = setTimeout(function(){
+        window.MOKA_RETRY.pointer = 0;
+      }, 30 * 60 * 1000)
+    }
+  },
+  onError: function(error){
+    report({
+      type: "cdn资源事故！！！ " + error.type,
+      value: error.message
+    });
+  },
+}
+
+window.addEventListener("error", function(e) {
+  if (!(e instanceof ErrorEvent) && e.target instanceof HTMLElement) {
+    var type = e.target.tagName;
+    var src = type === "SCRIPT" ? e.target.src : type === "LINK" ? e.target.href : "";
+    var url = src.split("/");
+    var origin = src.split("//").length > 1 ? url[0] + "//" + url[2]: window.location.origin;
+    var extraMessage = "";
+    if (!src || (origin.indexOf("mokahr.com") === -1 && !/new_i18n.*messages/.test(src)) || src.indexOf(".chunk.") > -1 || src.indexOf("style_") > -1 || src.indexOf("micro-app") > -1) {
+      return;
+    }
+    if(window.performance){
+      try {
+        var performanceData = window.performance.getEntriesByName(e.target.src);
+        var mainData = performanceData[0] ? performanceData[0].duration : "";
+        extraMessage = "duration:" + mainData+ "\\n" + JSON.stringify(performanceData);
+      } catch (e) {
+        extraMessage = "performance data error";
+      }
+    }
+    var error = new Error();
+    error.message = origin + " 出现故障：" + "Loading static failed after 0 retries. \\n(" + src + ")" +"\\n extraMessage:" + extraMessage;
+    error.request = src;
+    error.type = "failed";
+    window.MOKA_RETRY.onError(error);
+
+    if (origin === window.location.origin && window.MOKA_RETRY.getCdnPath() === window.location.origin) {
+      return;
+    } else if (origin === window.MOKA_RETRY.getCdnPath()) {
+      window.MOKA_RETRY.refreshOriginPathFunc();
+    }
+    
+    var el = null;
+    if (type === "SCRIPT") {
+      el = document.createElement("script");
+      el.setAttribute("crossorigin", "anonymous");
+      el.src = src.replace(origin, window.MOKA_RETRY.getCdnPath());
+    } else if (type === "LINK") {
+      el = document.createElement("link");
+      el.setAttribute("rel", "stylesheet");
+      el.href = src.replace(origin, window.MOKA_RETRY.getCdnPath());
+    }
+
+    if (el) {
+      var head = document.querySelector("head");
+      head.appendChild(el);
+    }
+  }
+}, true);</script><link rel="stylesheet" href="https://static-ats.mokahr.com/stylesheets/unified_login-20260715-2141-1e600-release.css" type="text/css"><script src="//cstaticdun.126.net/load.min.js"></script><script>window.props = {
+  email:'',
+  password:'',
+  needCaptcha: false,
+  needForceKey: '',
+  message:'',
+  captchaId:'',
+  forbiddenTime:'',
+  wrongPasswordTimes:'',
+  validOrgs: '',
+};</script><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?81855791c290e31cd52ffbf04ad5c002";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></head><body><input style="display: none" id="moka-version" data-gray-released="0" data-version="20260715-2141-1e600-release"><div id="login-app"><div class="main"><div class="mobile-background"></div><div class="mobile-background-error"></div><div class="swiper swiper-initialized swiper-horizontal left"><div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-682px, 0px, 0px);"><div class="swiper-slide swiper-slide-next swiper-slide-prev" data-swiper-slide-index="0" style="width: 683px; margin-right: -1px;"><div class="left" style="background-image: url(&quot;https://public-cdn.mokahr.com/login_bg/login_eva_main_1117.png&quot;), url(&quot;https://public-cdn.mokahr.com/login_bg/login_eva_top_1117.png&quot;), url(&quot;https://public-cdn.mokahr.com/login_bg/login_eva_bottom_1117.png&quot;);"><a href="https://host.mokahr.com/p/bba76" target="_blank"></a></div></div><div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 683px; margin-right: -1px;"><div class="left" style="background-image: url(&quot;https://public-cdn.mokahr.com/login_bg/login_main_0226.png&quot;), url(&quot;https://public-cdn.mokahr.com/login_bg/login_top_0226.png&quot;), url(&quot;https://public-cdn.mokahr.com/login_bg/login_bottom_0226.png&quot;);"></div></div></div><div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span></div></div><div class="right"><div class="header"><a class="logo" href="http://www.mokahr.com/"><svg width="172" height="35"><image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/logo_horizontal.svg" width="172" height="35"></image></svg></a><div class="sd-Spacing-spacing-inline-13ZYQ sd-Spacing-stretched-1k6BY sd-Spacing-align-center-3IESs sd-Spacing-justify-end-98bV9"><div class="sd-Dropdown-container-2MCXh localeBox-a563yos_bt localeWrap-ocuCQYTQ4c"><div class="sd-Spacing-spacing-inline-13ZYQ sd-Spacing-align-center-3IESs sd-Spacing-justify-end-98bV9 locale-FmwK04ccoo"><span class="sd-Icon-container-t0Y45 sd-Icon-iconmultipleLanguage-3RoUJ" style="font-size: 16px; margin-right: 8px; top: 0px;"></span><span style="margin-right: 8px;">语言</span><span style="margin-right: 8px;"> - </span><span style="margin-right: 8px;">中文</span><span class="sd-Icon-container-t0Y45 sd-Icon-icondown-1cKAD" style="font-size: 16px; top: 0px;"></span></div><span></span></div><a class="headhunters" href="/headhunters/">猎头登录</a></div></div><div class="mobile-header"><img src="/images/moka_logo.svg"></div><div class="mobile-footer"><div class="sd-Spacing-spacing-inline-13ZYQ sd-Spacing-align-center-3IESs"><label class="sd-Checkbox-container-1iB-C" style="margin-right: 6px;"><span class="sd-Checkbox-box-31OmH"><span class="sd-Checkbox-checker-3j8xz"><input type="checkbox" class="sd-Checkbox-input-3kZ81" value=""><svg class="sd-Checkbox-svg-1os8s" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"></svg></span></span></label>同意<span class="link">《Moka隐私政策》</span></div></div><div class="content"><div class="login-modal login-modal-McNnjb68Ke"><div class="login-modal-panel"><div class="title">欢迎使用Moka</div><div class="grey-line"></div><form method="post"><div class="sd-Form-container-3JVUm form-item-FKAPRYIGqD sd-Form-horizontal-3t7fA sd-Form-lg-2HPvX"><div class="sd-Form-controller-115Tz"><div class="sd-Form-content-1u4fT"><label class="sd-Input-container-1g6Bc sd-Input-lg-1qzQp" style="width: 100%;"><input type="text" class="sd-Input-input-3CH76 sd-Input-common-input-2Q4Vc" name="email" placeholder="请输入账号" maxlength="255" value=""></label></div></div></div><div class="sd-Form-container-3JVUm form-item-FKAPRYIGqD sd-Form-horizontal-3t7fA sd-Form-lg-2HPvX"><div class="sd-Form-controller-115Tz"><div class="sd-Form-content-1u4fT"><label class="sd-Input-container-1g6Bc sd-Input-lg-1qzQp" style="width: 100%;"><input type="password" class="sd-Input-input-3CH76 sd-Input-common-input-2Q4Vc sd-Input-has-addon-1Dpz-" name="password" placeholder="请输入密码" maxlength="255" value=""><span class="sd-Input-addon-3jzfa"><div class="sd-Input-shadow-2TnKC"></div><span class="sd-Icon-container-t0Y45 sd-Icon-iconeye-O293E sd-Input-icon-2aro6" style="font-size: 16px;"></span></span></label></div></div></div><div class="sd-Form-container-3JVUm form-item-FKAPRYIGqD sd-Form-horizontal-3t7fA sd-Form-lg-2HPvX"><div class="sd-Form-controller-115Tz"><div class="sd-Form-content-1u4fT"><button class="sd_global_focus_controller_class sd-Button-container-1AgGk sd-foundation-bold-body-secondary-2_-h2 sd-Button-primary-1zcj8 sd-Button-lg-3cqkm submit" type="button" style="width: 100%;"><span class="sd-Button-content-2EM3t"><span>登录</span></span></button></div></div></div></form><div class="secret-line-KC_UvIcAFg"><span class="secret-button-text-axMyJJ5lOU"><div class="sd-Spacing-spacing-inline-13ZYQ sd-Spacing-align-center-3IESs"><label class="sd-Checkbox-container-1iB-C" style="margin-right: 6px;"><span class="sd-Checkbox-box-31OmH"><span class="sd-Checkbox-checker-3j8xz"><input type="checkbox" class="sd-Checkbox-input-3kZ81" value=""><svg class="sd-Checkbox-svg-1os8s" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"></svg></span></span></label>同意<button class="sd_global_focus_controller_class sd-Button-container-1AgGk sd-foundation-bold-body-secondary-2_-h2 sd-Button-text-1pn-j sd-Button-lg-3cqkm" type="button"><span class="sd-Button-content-2EM3t"><span>《Moka隐私政策》</span></span></button></div></span><a class="forget-password color-link forget-btn-QBN_hJWFrP forget-password-btn-HBwp6dfOJI" href="/forget_password">忘记密码</a></div></div></div><div class="pad_blank"></div><div class="more-way-Nw9QLegCGh"><div class="more-way-line-SNsCUQwEdi"></div><div class="more-way-text-rGtyCkZdDN">更多方式</div><div class="more-way-line-SNsCUQwEdi"></div></div><button class="sd_global_focus_controller_class sd-Button-container-1AgGk sd-foundation-bold-body-secondary-2_-h2 sd-Button-secondary-1Sv9B sd-Button-lg-3cqkm sd-Button-has-left-icon-1CgiH more-way-item-i2x4LkVBy_" type="button" icon="[object Object]" style="width: 100%;"><span class="sd-Button-content-2EM3t"><span class="sd-Icon-container-t0Y45 sd-Icon-iconsingleSignOn-2GoPa sd-Button-left-icon-1QHql" style="font-size: 16px;"></span><span>SSO登录</span></span></button></div><div class="footer"><p class="sd-foundation-body-tertiary-2ZmY4">© 2026&nbsp;北京希瑞亚斯科技有限公司  All rights reserved</p><p class="sd-foundation-body-tertiary-2ZmY4"><a href="https://beian.miit.gov.cn/" target="_blank">京ICP备15060035号-3</a><span class="divider">|</span><i class="icon-jgwba"></i><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024479" target="_blank">京公网安备11010802024479号</a></p></div></div></div></div><script crossorigin="anonymous" src="https://static-ats.mokahr.com/javascripts/unified_login-20260715-2141-1e600-release.js"></script><style type="text/css">
+        .sd_global_focus_controller_class {
+          outline: none;
+        }
+      </style></body></html>
