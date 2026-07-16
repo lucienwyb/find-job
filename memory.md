@@ -714,3 +714,10 @@
 - ★月之暗面7-16高性能分布式存储工程师jobId 4f904813-b256-4e0e-b14d-22b77e1cd47e坐实(详情页发布日期确认),强对口分布式存储+软硬协同,优先投(投递清单已含首投)。
 - 8家7-16后新岗:仅月之暗面有强对口(存储jobId坐实+数据安全专家7-14半对口)。银河7-16仅不对口岗。智谱7-15不对口。寒武纪7月无新发。星动/清程/零一飞书不公开日期无新对口。地平线WAF无法枚举。
 - 投递目录22份+月之暗面/寒武纪/银河jobId直链可投。行动:①月之暗面存储(7-16 jobId 4f904813首投)②寒武纪高级系统软件(088a8453直链)③银河仿真(87b113dd急招)④地平线2岗换非代理网络复核。
+
+### 第57轮 (2026-07-16) — 海天瑞声/光轮/星忆3家投递材料+官网邮箱核实
+- ★海天瑞声(688787)核实突破:speechocean.com域名DNS已失效(三网验证No address),实际官网=haitianruisheng.com(HTTP200)+新品牌dataoceanai.com(HTTP200)。招聘邮箱hr@speechocean.com+zhaopin@speechocean.com(邮箱域仍有效)。社招页haitianruisheng.com/aboutus/saferjoin/catid-40.htm实抓在招2岗(词典研发工程师北京3年本科可投Python/Linux/Docker/K8s/MySQL+项目助理),本科不卡211。地址知春路68号院领航科技大厦4层2.3km+成府路28号优盛大厦D座801室。投递材料落盘投递-海天瑞声-数据平台系统工程师.md。
+- ★光轮智能Lightwheel核实:lightwheel.ai/careers HTTP200实抓,hr@lightwheel.ai确认(mailto链接)。无公开JD列表(邮件直投经验导向)。Hybrid-Sim(Isaac Sim+MuJoCo)三层World/Behavior/Evaluation。地址小月河东畔路16号院2号楼6层101牡丹园1.0km。投递材料落盘投递-光轮智能-仿真基础设施工程师.md。
+- ★星忆科技核实:全面检索未发现公开官网/邮箱/JD(Google/Bing/Baidu/sogou/天眼查company detail需登录/qcc timeout/36kr timeout/域名猜测均失败)。极早期天使轮(2024清华系宋知珩曾任智元)。地址成府路45号AI原点社区A座4层401 2.3km(第55轮天眼查坐实)。投递策略转多渠道:LinkedIn搜宋知珩/天眼查电话/直接到访AI原点社区/清华校友网络。投递材料落盘投递-星忆科技-仿真系统工程师.md。
+- 投递目录25份(新增3份)。exec-relay方法学:relay在9999端口(非8999,8999是tmux-web网关),cc.py用RELAY_SERVER=http://127.0.0.1:9999。shine(10.55.252.42)+rubick-node在线可用。
+- 天眼查company detail页需登录(返回19843字节generic页),搜索页company paths可提取但详情数据JS渲染不可静态获取——后续查工商电话需本地浏览器登录天眼查或playwright headless渲染。
