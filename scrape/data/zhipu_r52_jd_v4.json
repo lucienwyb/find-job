@@ -1,0 +1,14 @@
+{
+  "company": "Zhipu",
+  "scrapeDate": "2026-07-16",
+  "targets": [
+    {
+      "title": "Agent Infra 开发工程师",
+      "found": false
+    },
+    {
+      "title": "Agent Infra 运维开发工程师",
+      "found": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Cambricon",
+  "scrapeDate": "2026-07-16",
+  "targets": [
+    {
+      "target": "高性能通信库研发工程师",
+      "clicked": false,
+      "found": false
+    },
+    {
+      "target": "AI网络研发工程师",
+      "clicked": false,
+      "found": false
+    },
+    {
+      "target": "芯片应用工程师-固件方向",
+      "clicked": false,
+      "found": false
+    },
+    {
+      "target": "高性能计算库研发工程师",
+      "clicked": false,
+      "found": false
+    },
+    {
+      "target": "高性能算法库工程师",
+      "clicked": false,
+      "found": false
+    }
+  ]
+}

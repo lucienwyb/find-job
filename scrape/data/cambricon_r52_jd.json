@@ -1,0 +1,74 @@
+{
+  "company": "Cambricon 寒武纪",
+  "portal": "https://app.mokahr.com/apply/cambricon/1113",
+  "scrapeDate": "2026-07-16",
+  "targets": [
+    {
+      "target": "高性能通信库研发工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": true
+    },
+    {
+      "target": "AI编译器研发工程师",
+      "clicked": true,
+      "has_jd_panel": true,
+      "txt_len": 1341,
+      "txt": "中科寒武纪科技股份有限公司 - 社会招聘 返回职位列表 校园招聘 申请职位 分享到 扫码分享职位 生成中... 或使用链接分享 https://app.mokahr.com/apply/cambricon/1113?hash=%23%2Fjob%2Feb77d3fb-1cd8-4622-8f92-462a5fbc46ff%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse 复制链接 急 AI编译器研发工程师 基础软件部 其他 北京市·海淀区 职位描述 职位描述 我们正在寻找一位 编译器优化工程师，专注于在寒武纪产品上优化 Triton 编译器和基于MHLO的图编译器，以提升 AI 计算的性能和效率。你将负责 AI编译器在寒武纪架构上的适配和优化。 岗位职责 1.研究和优化 Triton 编译器和基于MHLO的图编译器，使其高效支持 寒武纪芯片 计算架构； 2.基于 MLIR + Linalg 框架，提升编译器代码执行效率； 3.参与 图优化、后端代码生成、调度策略、指令优化、流水并行化 相关优化工作； 4.研究和优化 Kernel 计算性能，降低计算开销，提高吞吐率； 5.研究算子融合（Op Fusion）、自动调优（Auto-Tuning）、代码生成（CodeGen） 相关优化策略； 6.与 硬件团队、AI框架团队（如 PyTorch/TensorFlow） 协作，提升AI编译器的支持能力； 7.跟踪 LLVM、Triton、TVM、XLA、TorchInductor 等 AI 编译器前沿技术，优化编译性能。 任职要求 1.优秀的学习能力，对 AI 编译器、AI计算优化有浓厚兴趣； 2.熟悉 C++/Python，具备编译器或 AI 编译优化开发经验，熟悉 Triton、MHLO 编译流程； 3.熟悉 MLIR、Linalg等基础设施； 4.具备ai编译优化（如 TVM、XLA、TorchInductor） 经验者优先； 5.熟悉 Kernel 计算优化、算子融合、自动并行化等高性能计算优化策略者加分。 加分项（优先考虑） 1.参与过 Triton、MLIR、IREE、XLA、TVM、TorchInductor 等编译器的开发，或在 GitHub 提交过相关 PR。 2.具备MLU/NPU/GPU 相关的编译优化经验。 3.有深度加速器上（gpu/npu）相关算子开发经验。 4.在 NeurIPS、ICLR、PLDI、CGO、MICRO 等学术会议上发表过 AI 编译相关论文。 公司信息 中科寒武纪科技股份有限公司 寒武纪是智能芯片领域全球知名的新兴公司，成立于2016年，专注于人工智能芯片产品的研发与技术创新。寒武纪产品广泛服应用于服务器厂商和产业公司，面向互联网、金融、能源、电力和制造等领域的复杂 AI 应用场景提供充裕算力，推动人工智能赋能产业升级，让机器更好地理解和服务人类。 申请职位 最新职位 更多 急 行政专员 急 ATE测试工程师 急 深度学习框架图编译工程师 急 AI编译器研发工程师 急 模拟芯片设计工程师 京公网安备 11010802024479号 京ICP备15060035号-3",
+      "html_len": 24639,
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": true
+    },
+    {
+      "target": "AI网络研发工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": true
+    },
+    {
+      "target": "芯片应用工程师-固件方向",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": true
+    },
+    {
+      "target": "高性能计算库研发工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": false
+    },
+    {
+      "target": "高性能算法库工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": false
+    },
+    {
+      "target": "深度学习框架图编译工程师",
+      "clicked": true,
+      "has_jd_panel": true,
+      "txt_len": 821,
+      "txt": "中科寒武纪科技股份有限公司 - 社会招聘 返回职位列表 校园招聘 申请职位 分享到 扫码分享职位 生成中... 或使用链接分享 https://app.mokahr.com/apply/cambricon/1113?hash=%23%2Fjob%2Fe4039f7b-0ca0-4a2b-a1b7-758fba259e6d%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse 复制链接 急 深度学习框架图编译工程师 基础软件部 其他 北京市·海淀区 广东·深圳市 职位描述 岗位职责 1. 优化Torch Compile模式下各类神经网络的性能，包括网络性能瓶颈分析、编译耗时优化、codegen性能优化等； 2. 紧跟PyTorch社区最新技术进展，及时将前沿性能优化技术迁移到MLU平台，保持技术竞争力和创新性。 任职要求 1. 有较强的C++和Python功底，有扎实的数据结构和算法基础； 2. 学习能力强，有强烈的求知欲和自我驱动能力，良好的通能力和团队协作能力。 加分项1：熟悉PyTorch/TensorFlow等主流深度学习框架，熟悉框架内部的模块、机制。 加分项2：熟悉torch inductor、Triton、XLA、MLIR、TVM等深度学习编译技术。 公司信息 中科寒武纪科技股份有限公司 寒武纪是智能芯片领域全球知名的新兴公司，成立于2016年，专注于人工智能芯片产品的研发与技术创新。寒武纪产品广泛服应用于服务器厂商和产业公司，面向互联网、金融、能源、电力和制造等领域的复杂 AI 应用场景提供充裕算力，推动人工智能赋能产业升级，让机器更好地理解和服务人类。 申请职位 最新职位 更多 急 行政专员 急 ATE测试工程师 急 深度学习框架图编译工程师 急 AI编译器研发工程师 急 模拟芯片设计工程师 京公网安备 11010802024479号 京ICP备15060035号-3",
+      "html_len": 24065,
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": true
+    }
+  ]
+}

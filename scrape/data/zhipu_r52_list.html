@@ -1,0 +1,730 @@
+<!DOCTYPE html><html lang="zh-CN" style="--brandColor: #0068FF; --brandColorRGB: 0, 104, 255; --cardRadius: 16; --buttonRadius: 300;"><head><style>/*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+
+/* ==========================================================================
+   HTML5 display definitions
+   ========================================================================== */
+
+/**
+ * Correct `block` display not defined in IE 8/9.
+ */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+/**
+ * Correct `inline-block` display not defined in IE 8/9.
+ */
+
+audio,
+canvas,
+video {
+    display: inline-block;
+}
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9.
+ * Hide the `template` element in IE, Safari, and Firefox < 22.
+ */
+
+[hidden],
+template {
+    display: none;
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+
+html {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+
+body {
+    margin: 0;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+
+a {
+    background: transparent;
+}
+
+/**
+ * Address `outline` inconsistency between Chrome and other browsers.
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari 5, and Chrome.
+ */
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+/**
+ * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+
+b,
+strong {
+    font-weight: bold;
+}
+
+/**
+ * Address styling not present in Safari 5 and Chrome.
+ */
+
+dfn {
+    font-style: italic;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+
+hr {
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 0;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+/**
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    font-size: 1em;
+}
+
+/**
+ * Improve readability of pre-formatted text in all browsers.
+ */
+
+pre {
+    white-space: pre-wrap;
+}
+
+/**
+ * Set consistent quote types.
+ */
+
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+
+small {
+    font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/* ==========================================================================
+   Embedded content
+   ========================================================================== */
+
+/**
+ * Remove border when inside `a` element in IE 8/9.
+ */
+
+img {
+    border: 0;
+}
+
+/**
+ * Correct overflow displayed oddly in IE 9.
+ */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+
+/**
+ * Address margin not present in IE 8/9 and Safari 5.
+ */
+
+figure {
+    margin: 0;
+}
+
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+
+legend {
+    border: 0; /* 1 */
+    padding: 0; /* 2 */
+}
+
+/**
+ * 1. Correct font family not being inherited in all browsers.
+ * 2. Correct font size not being inherited in all browsers.
+ * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+ */
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit; /* 1 */
+    font-size: 100%; /* 2 */
+    margin: 0; /* 3 */
+}
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+
+button,
+input {
+    line-height: normal;
+}
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
+ * Correct `select` style inheritance in Firefox 4+ and Opera.
+ */
+
+button,
+select {
+    text-transform: none;
+}
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+
+button,
+html input[type="button"], /* 1 */
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button; /* 2 */
+    cursor: pointer; /* 3 */
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+
+button[disabled],
+html input[disabled] {
+    cursor: default;
+}
+
+/**
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+
+input[type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; /* 2 */
+    box-sizing: content-box;
+}
+
+/**
+ * Remove inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/**
+ * 1. Remove default vertical scrollbar in IE 8/9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+}
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+
+/**
+ * Remove most spacing between table cells.
+ */
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+</style><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="renderer" content="webkit"><link rel="stylesheet" href="/icon/style.css" type="text/css"><link rel="icon" href="data:image/x-icon;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><script src="https://hm.baidu.com/hm.js?81855791c290e31cd52ffbf04ad5c002"></script><script>if (Boolean(true)) {
+  (function() {
+    if (1 === 1) {
+      document.documentElement.lang = 'zh-CN';
+    } else if (typeof navigator !== 'undefined' && /en/i.test(navigator.language)) {
+      document.documentElement.lang = 'en-US';
+    } else {
+      document.documentElement.lang = 'zh-CN';
+    }
+  })();
+}
+</script><script>document.documentElement.lang = document.documentElement.lang || 'zh-CN';
+</script><title>北京智谱华章科技股份有限公司</title><meta name="keywords" content="北京智谱华章科技股份有限公司社会招聘,北京智谱华章科技股份有限公司社招,北京智谱华章科技股份有限公司招聘,北京智谱华章科技股份有限公司招聘官网,北京智谱华章科技股份有限公司招聘官方网站"><meta name="description" content="2026年北京智谱华章科技股份有限公司社会招聘正在进行，点击申请职位"><!--[if lt IE 10]><script>//- Only support IE >= 10
+(function () {
+    window.location = '/browser-not-support';
+}());</script><![endif]--><script>function report(error) {
+  if (window.location.origin.indexOf("localhost") !== -1 || window.location.origin.indexOf("staging") !== -1) {
+    return null;
+  }
+  function createXHR() {
+      if (typeof window.XMLHttpRequest !== "undefined") {
+      return new window.XMLHttpRequest();
+    } else if (typeof window.ActiveXObject !== "undefined") {
+      if (typeof arguments.callee.activeXString !== "string") {
+        var versions = [
+          "Msxml3.XMLHTTP",
+          "MSXML2.XMLHttp.6.0",
+          "MSXML2.XMLHttp.3.0",
+          "MSXML2.XMLHttp",
+          "Microsoft.XMLHTTP",
+        ];
+        for (var i = 0, len = versions.length; i < len; i++) {
+          try {
+            var xhr = new window.ActiveXObject(versions[i]);
+            arguments.callee.activeXString = versions[i];
+            return xhr;
+          } catch (error) {
+            console.error(error);
+            //跳过
+          }
+        }
+      }
+      return new window.ActiveXObject(arguments.callee.activeXString);
+    } else {
+      return null;
+    }
+  }
+
+  var xhr = createXHR();
+  if (!xhr) {
+    return null;
+  }
+
+  function getEventId() {
+    var a = window.crypto || window.msCrypto;
+    if (a && a.getRandomValues) {
+        var b = new Uint16Array(8);
+        a.getRandomValues(b), b[3] = 4095 & b[3] | 16384, b[4] = 16383 & b[4] | 32768;
+        var c = function (a) {
+            for (var b = a.toString(16); b.length < 4;) b = "0" + b;
+            return b
+        };
+        return c(b[0]) + c(b[1]) + c(b[2]) + c(b[3]) + c(b[4]) + c(b[5]) + c(b[6]) + c(b[7])
+    }
+    return "xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx".replace(/[xy]/g, function (a) {
+        var b = 16 * Math.random() | 0,
+            c = "x" === a ? b : 3 & b | 8;
+        return c.toString(16)
+    })
+  }
+  xhr.open("POST", "https://sentry-fe.mokahr.com/api/107/store/?sentry_version=7&sentry_client=raven-js%2F3.26.4&sentry_key=840dcafb7d524b21a665748fae084418");
+  xhr.send(JSON.stringify({
+    project: "107",
+    logger: "javascript",
+    platform: "javascript",
+    request: {
+        headers: {
+          "User-Agent": window.navigator.userAgent
+        },
+        url: window.location.href
+    },
+    exception: {
+      values: [error],
+      mechanism: {
+        type: "generic",
+        handled: true
+      }
+    },
+    level: "fatal",
+    tags: { "user.orgId": "", "user.role": "" },
+    user: {
+      id: "",
+      orgId: "",
+      pay: "",
+      role: "",
+      isGrayReleased: "0",
+    },
+    environment: "prod-ali",
+    release: "20260706-1754-0c57f-release",
+    event_id: getEventId()
+  }));
+}
+
+window.MOKA_RETRY = {
+  origins: ["https://static-ats.mokahr.com","https://static.mokahr.com","https://app.mokahr.com"],
+  pointer: 0,
+  timer: null,
+  getCdnPath: function() {
+    return window.MOKA_RETRY.origins[window.MOKA_RETRY.pointer] || window.location.origin;
+  },
+  refreshOriginPathFunc: function() {
+    var oldPath = window.MOKA_RETRY.getCdnPath();
+
+    window.MOKA_RETRY.pointer = window.MOKA_RETRY.pointer + 1;
+
+    var newPath = window.MOKA_RETRY.getCdnPath();
+
+    report({
+      type: "cdn资源事故！！！",
+      value: oldPath + " 出现故障：切换至 " + newPath + " --- window.MOKA_RETRY:" +  (window.MOKA_RETRY ? JSON.stringify(window.MOKA_RETRY) : " MOKA_RETRY not found")
+    });
+
+    if (!window.MOKA_RETRY.timer) {
+      window.MOKA_RETRY.timer = setTimeout(function(){
+        window.MOKA_RETRY.pointer = 0;
+      }, 30 * 60 * 1000)
+    }
+  },
+  onError: function(error){
+    report({
+      type: "cdn资源事故！！！ " + error.type,
+      value: error.message
+    });
+  },
+}
+
+window.addEventListener("error", function(e) {
+  if (!(e instanceof ErrorEvent) && e.target instanceof HTMLElement) {
+    var type = e.target.tagName;
+    var src = type === "SCRIPT" ? e.target.src : type === "LINK" ? e.target.href : "";
+    var url = src.split("/");
+    var origin = src.split("//").length > 1 ? url[0] + "//" + url[2]: window.location.origin;
+    var extraMessage = "";
+    if (!src || (origin.indexOf("mokahr.com") === -1 && !/new_i18n.*messages/.test(src)) || src.indexOf(".chunk.") > -1 || src.indexOf("style_") > -1 || src.indexOf("micro-app") > -1) {
+      return;
+    }
+    if(window.performance){
+      try {
+        var performanceData = window.performance.getEntriesByName(e.target.src);
+        var mainData = performanceData[0] ? performanceData[0].duration : "";
+        extraMessage = "duration:" + mainData+ "\\n" + JSON.stringify(performanceData);
+      } catch (e) {
+        extraMessage = "performance data error";
+      }
+    }
+    var error = new Error();
+    error.message = origin + " 出现故障：" + "Loading static failed after 0 retries. \\n(" + src + ")" +"\\n extraMessage:" + extraMessage;
+    error.request = src;
+    error.type = "failed";
+    window.MOKA_RETRY.onError(error);
+
+    if (origin === window.location.origin && window.MOKA_RETRY.getCdnPath() === window.location.origin) {
+      return;
+    } else if (origin === window.MOKA_RETRY.getCdnPath()) {
+      window.MOKA_RETRY.refreshOriginPathFunc();
+    }
+    
+    var el = null;
+    if (type === "SCRIPT") {
+      el = document.createElement("script");
+      el.setAttribute("crossorigin", "anonymous");
+      el.src = src.replace(origin, window.MOKA_RETRY.getCdnPath());
+    } else if (type === "LINK") {
+      el = document.createElement("link");
+      el.setAttribute("rel", "stylesheet");
+      el.href = src.replace(origin, window.MOKA_RETRY.getCdnPath());
+    }
+
+    if (el) {
+      var head = document.querySelector("head");
+      head.appendChild(el);
+    }
+  }
+}, true);</script><script>window.MATERIAL_PLATFORM_HOST = "";
+window.MATERIAL_PLATFORM_PUBLIC_PATHS = ["https://static-ats.mokahr.com","https://static.mokahr.com","https://app.mokahr.com"];</script><script type="text/javascript" crossorigin="anonymous" data-dev-ignore="true" src="https://static-ats.mokahr.com/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_cn_messages.84bbb41a4b19e4aa02ce4923b45ebbe5.js"></script><script>window.languageManifest = {"new_i18n_en_us_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_en_us_messages.521b426ecc1ada1f2c588eeb3bb7b485.js","new_i18n_zh_cn_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_cn_messages.84bbb41a4b19e4aa02ce4923b45ebbe5.js","new_i18n_en_dingtalk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_en_dingtalk_messages.8ca0451e771a2002e94889863e8d57d9.js","new_i18n_zh_dingtalk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_dingtalk_messages.3388155347f7789fe7699f78d238a34e.js","new_i18n_fr_fr_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_fr_fr_messages.59470083240c1f16f88db0b9ba55d758.js","new_i18n_ms_my_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ms_my_messages.fddd36b942215e3022f98778fc0dbc21.js","new_i18n_vi_vn_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_vi_vn_messages.0b992085da1dc28dd969a15e525085d4.js","new_i18n_es_es_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_es_es_messages.d24854f20a0a12dd986f4719d49f6697.js","new_i18n_th_th_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_th_th_messages.2a4bae1abb8371b29ab5bd68419f9f83.js","new_i18n_id_id_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_id_id_messages.a973d2b48f87bf985a911916fbbae639.js","new_i18n_sr_sp_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_sr_sp_messages.477f369fecf1c9dceb7231629bdbd538.js","new_i18n_de_de_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_de_de_messages.e25db8ffde6254eced9631188669cdc9.js","new_i18n_zh_tw_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_tw_messages.bd0d5e2d300130edca7aee09a0b6913b.js","new_i18n_zh_hk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_zh_hk_messages.47db4d34326f09fd1a41771e73323641.js","new_i18n_ja_jp_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ja_jp_messages.4bf29b6a448186606fa2bb98cbd01150.js","new_i18n_ko_kr_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ko_kr_messages.2699868bd6b3e52e0bfe0002cc55f6f8.js","new_i18n_pt_pt_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_pt_pt_messages.75580734e4f647b6d8a80aa133980d91.js","new_i18n_tl_ph_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_tl_ph_messages.ba1d14fe7d5c50364fd89bbe4d1de184.js","new_i18n_ru_ru_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ru_ru_messages.50765960a99f12b706ff1b72e938dfa0.js","new_i18n_ta_lk_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_ta_lk_messages.b999c421ed61a19f20dc348cc6f77757.js","new_i18n_uz_uz_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_uz_uz_messages.3160375e92bc2bfd56082f030cc5baa5.js","new_i18n_kk_kz_messages":"/moka-fe-public/mage-i18n/javascripts/new_i18n_kk_kz_messages.fb9acf827b3244edf09c585e441bec85.js"};
+window.orgMainLocale = "zh-CN";
+window.orgSupportLocales = ["zh-CN","en-US"];</script><link rel="stylesheet" href="https://static-ats.mokahr.com/recruitment-web-client/stylesheets/recruitmentWeb-20260706-1754-0c57f-release.css" type="text/css"><script crossorigin="anonymous" src="https://static-ats.mokahr.com/recruitment-web-client/javascripts/sentry-0391c5210d1478c1df01880d317a7d6b.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/recruitment-web-client/javascripts/initial-766ccfbf1dc0fc784587e3486f57f289.js"></script><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?81855791c290e31cd52ffbf04ad5c002";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+_hmt.push([
+  '_trackCustomEvent',
+  'recruitment_info',
+  {
+    'org_id': 'zphz', // 官网所属的org，文本类型
+    'site_id': '148983', // 官网site_id，文本类型
+    'node_env': 'production', // 官网所在环境，文本类型
+    'source': 'recruitment_web' // 官网所属项目，文本类型
+  }
+])
+
+</script><style></style><style></style><style id="2288834994"></style><style id="9441736441">
+      .navbar-gtb7M9m5eP {
+        color: #141933;
+        background-color: #FFFFFF;
+        box-shadow: none;
+      }
+      .navbar-gtb7M9m5eP .logo-link-XLQBXKms_Y {
+        width: 84.35087719298245px;
+        height: 24px;
+        background-image: url(https://public-cdn.mokahr.com/zphz/311b3744-28c8-48fe-b7fa-0f8205dd2bfa.png);;
+      }
+      .navbar-gtb7M9m5eP .menu-item-OEA_UqrB87:hover,
+      .navbar-gtb7M9m5eP .menu-item-active-Y2i7A4URmE {
+        color: #141933;
+      }
+      .navbar-gtb7M9m5eP .menu-item-OEA_UqrB87::after {
+        background-color: #141933;
+      }
+
+      .navbar-gtb7M9m5eP.navbar-sd-NlnjvRjLj6 {
+        color: #141933;
+        background-color: #FFFFFF;
+        box-shadow: 0 0px 3px rgba(0, 0, 0, 0.1);
+      }
+      .navbar-gtb7M9m5eP.navbar-sd-NlnjvRjLj6 .logo-link-XLQBXKms_Y {
+        width: 84.35087719298245px;
+        height: 24px;
+        background-image: url(https://public-cdn.mokahr.com/zphz/18fbd7bd-1cdc-489e-a520-9157448aaa9f.png);;
+      }
+      .navbar-gtb7M9m5eP.navbar-sd-NlnjvRjLj6 .menu-item-OEA_UqrB87:hover,
+      .navbar-gtb7M9m5eP.navbar-sd-NlnjvRjLj6 .menu-item-active-Y2i7A4URmE {
+        color: #141933;
+      }
+      .navbar-gtb7M9m5eP.navbar-sd-NlnjvRjLj6 .menu-item-OEA_UqrB87::after {
+        background-color: #141933;
+      }
+      .portal-label-lSh2wLmmoi {
+        color: #000;
+        background-color: #FFFFFF;
+        display: block;
+      }
+      .portal-label-lSh2wLmmoi.portal-label-sd-MlR_q6965C {
+        color: #000;
+        background-color: #FFFFFF;
+        display: block;
+      }
+      .nav-wrapper-NdvPddMehp {
+        margin-left: 80px;
+        flex-direction: row;
+      }
+      .menu-YoueIwA2cU {
+        font-size: 14px;
+      }
+    </style><style id="banner-shadow-9388371339">
+      .banner-shadow-9388371339 .slider-frame::after{
+        position: absolute;
+        content: ' ';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        background: transparent;
+        
+      }
+    </style><style id="banner-radius-9388371339">
+      .banner-radius-9388371339 .slider-frame {
+        
+        
+        
+      }
+    </style><style id="image-shadow-0822986580">
+      .image-shadow-0822986580::after{
+        position: absolute;
+        content: ' ';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        background: transparent;
+        
+        
+      }
+    </style><style id="image-shadow-4692017900">
+      .image-shadow-4692017900::after{
+        position: absolute;
+        content: ' ';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        background: transparent;
+        
+        
+      }
+    </style><style id="image-shadow-3609275775">
+      .image-shadow-3609275775::after{
+        position: absolute;
+        content: ' ';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+        background: transparent;
+        
+        
+      }
+    </style></head><body><input style="display: none" id="moka-version" data-gray-released="0" data-version="20260706-1754-0c57f-release"><div id="app"><div class="apply-container home-bg-color"><div style="background-color: rgb(255, 255, 255); min-width: 960px;"><div class="nav-y6uNkj9ulJ"><div class="navbar-gtb7M9m5eP"><div class="navbar-head-nCSbkoIYek"><div class="logo-m7uLpIojj8"><a class="logo-link-XLQBXKms_Y not-link-k5C0e5evBK" target="_self"></a></div><div class="portal-label-lSh2wLmmoi">社会招聘</div><div class="nav-wrapper-NdvPddMehp"><div class="menu-YoueIwA2cU"><div class="menu-item-OEA_UqrB87 menu-item-active-Y2i7A4URmE"><a target="_self" title="首页">首页</a></div><div class="menu-item-OEA_UqrB87"><a target="_self" href="#/jobs">职位列表</a></div><div class="menu-item-OEA_UqrB87"><a target="_self" href="https://app.mokahr.com/recommendation-recruitment/zphz/148985" title="内部推荐">内部推荐</a></div></div><div class="op-gt77J3kICx"><div class="account-q4V9o0gFXX"><button class="login-btn-dn0ttnTZYc">登录</button></div></div></div></div><form class="navbar-search-hidden-WFZ8CwwxX2"><input title="搜索职位" class="navbar-search-input-JsaVlauxLX" placeholder="输入职位关键字"></form></div></div><div class="relative-QEoe3uxTQ0" style="padding-top: 0px;"><div id="Nav" style="width: 1px; height: 1px; position: absolute; top: 60px;"></div><div id="9388371339" class="relative-QEoe3uxTQ0"><div id="9388371339" class="banner-NbMzdLtxLT" style="padding-top: 0px; padding-bottom: 0px; background-color: rgb(244, 244, 246);"><div class="banner-box-pQBIOTYppW banner-radius-9388371339 banner-shadow-9388371339"><div class="slider-container" style="position: relative;"><div aria-live="polite" aria-atomic="true" tabindex="-1" style="position: absolute; width: 1px; height: 1px; overflow: hidden; padding: 0px; margin: -1px; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px;">Slide 1 of 1</div><div style="align-items: center; justify-content: flex-start; position: absolute; display: flex; z-index: 1; inset: 0px; pointer-events: none;"><div class="slider-control-centerleft" style="pointer-events: auto;"></div></div><div style="align-items: center; justify-content: flex-end; position: absolute; display: flex; z-index: 1; inset: 0px; pointer-events: none;"><div class="slider-control-centerright" style="pointer-events: auto;"></div></div><div style="align-items: flex-end; justify-content: center; position: absolute; display: flex; z-index: 1; inset: 0px; pointer-events: none;"><div class="slider-control-bottomcenter" style="pointer-events: auto;"></div></div><div class="slider-frame" aria-label="carousel-slider" role="region" tabindex="-1" style="overflow: hidden; width: 100%; position: relative; outline: none; touch-action: pan-y; height: 1100px; transition: height 300ms ease-in-out; will-change: height; user-select: none;"><div class="slider-list" style="width: 300%; text-align: left; user-select: auto; transform: translateX(calc(-33.3333% + 0px)); display: flex;"><div class="slide prev-cloned" inert="true" style="width: 33.3333%; height: auto; padding: 0px; opacity: 1;"><div class="image-container-goN011oiVG"><a class="banner-img-KiqdqbkIDK not-link-k5C0e5evBK" target="_self" style="background-image: url(&quot;https://public-cdn.mokahr.com/zphz/d4361eda-b1ca-45ef-8d47-1dde346537cb.png&quot;); height: 1100px;"></a></div></div><div class="slide slide-current slide-visible" style="width: 33.3333%; height: auto; padding: 0px; opacity: 1;"><div class="image-container-goN011oiVG"><a class="banner-img-KiqdqbkIDK not-link-k5C0e5evBK" target="_self" style="background-image: url(&quot;https://public-cdn.mokahr.com/zphz/d4361eda-b1ca-45ef-8d47-1dde346537cb.png&quot;); height: 1100px;"></a></div></div><div class="slide next-cloned" inert="true" style="width: 33.3333%; height: auto; padding: 0px; opacity: 1;"><div class="image-container-goN011oiVG"><a class="banner-img-KiqdqbkIDK not-link-k5C0e5evBK" target="_self" style="background-image: url(&quot;https://public-cdn.mokahr.com/zphz/d4361eda-b1ca-45ef-8d47-1dde346537cb.png&quot;); height: 1100px;"></a></div></div></div></div></div></div><div class="content-mVabive9Xi" style="align-items: center; text-align: center;"><div class="text-box-g4rh_zLlJB title-ELmSCCjd1T" style="padding-top: 0px; padding-bottom: 0px;"><p class="text-OiX7wg1RW7" title="Think Big ， Deliver Solid ， Scale Stable" style="font-weight: normal; font-size: 40px; color: rgb(255, 255, 255); text-align: center;">Think Big ， Deliver Solid ， Scale Stable</p></div><div class="text-box-g4rh_zLlJB" style="padding-top: 0px; padding-bottom: 0px;"><p class="text-OiX7wg1RW7" title="一群正直的、有激情的年轻人，聚在一起，做创新的、对社会有价值的事" style="font-weight: normal; font-size: 18px; color: rgb(255, 255, 255); text-align: center;">一群正直的、有激情的年轻人，聚在一起，做创新的、对社会有价值的事</p></div><form><input class="search-LvPmRxVfY4" placeholder="输入职位关键字" value=""></form></div></div><div class="slide-down-PCOze9ykYI"><span class="sd-Icon-container-18tcO sd-Icon-icondoubleLeft-3bywx slide-down-icon-c0EcKFI3vt" style="font-size: 22px;"></span></div></div><div id="6217326360" class="rich-SQz8yzB5oN" style="padding-top: 20px; padding-bottom: 20px;"><div class="textarea-list-BVxHwkAuRv"><div class="textarea-ZVIBWfiQFs textarea-mkCHuoNk4U add-scroll-animation fade-in-up-slow"><div class="ql-editor"><p><span class="ql-size-28px">公司福利</span></p></div></div></div></div><div id="1217690192" class="image-text-QI5hVg9x4G top-card-JJ5AUOiCaF vertical-rect-PN9f5ESjTa" style="padding-top: 20px; padding-bottom: 20px;"><div class="item-list-ONM5HKjtbb"><div class="item-box-m6adOIUobG overflow-hidden-oVMizwlZZy"><div class="item-oxp919GY_m image-box-mRKvbrLVuP"><div class="image-container-S24g_nn07i fullscreen-AJCxFRnO2g image-AJiEedO2Ei add-scroll-animation" style="padding-top: 0px; padding-bottom: 0px;"><div class="image-box-KbFE00FKY_ image-shadow-1742646649 animation-image-lUv2cbP5ya animation-image-yk75j5W_5K"><a class="not-link-k5C0e5evBK" target="_self"><img src="https://public-cdn.mokahr.com/zphz/00958208-f7cc-41ab-96d0-5eb590123220.png" alt="图片" class="image-RaoqN769X2"></a></div></div></div><div class="item-oxp919GY_m textarea-box-BsnY_0YN8o"><div class="textarea-ZVIBWfiQFs textarea-I3wtuTYgQn add-scroll-animation fade-in-up-slow"><div class="ql-editor"><h3><span class="ql-size-22px">弹性办工时间</span></h3><p><br></p><p>自由工作，高效非凡，员工可根据自身情况灵活安排，轻松应对繁忙工作，提升工作幸福感</p></div></div></div></div><div class="item-box-m6adOIUobG overflow-hidden-oVMizwlZZy"><div class="item-oxp919GY_m image-box-mRKvbrLVuP"><div class="image-container-S24g_nn07i fullscreen-AJCxFRnO2g image-AJiEedO2Ei add-scroll-animation" style="padding-top: 0px; padding-bottom: 0px;"><div class="image-box-KbFE00FKY_ image-shadow-0202450862 animation-image-lUv2cbP5ya animation-image-yk75j5W_5K"><a class="not-link-k5C0e5evBK" target="_self"><img src="https://public-cdn.mokahr.com/zphz/050d1c46-bd6a-4e85-bf63-c1f4e104c552.png" alt="图片" class="image-RaoqN769X2"></a></div></div></div><div class="item-oxp919GY_m textarea-box-BsnY_0YN8o"><div class="textarea-ZVIBWfiQFs textarea-I3wtuTYgQn add-scroll-animation fade-in-up-slow"><div class="ql-editor"><h3><span class="ql-size-22px">丰厚的年假</span></h3><p><br></p><p>平衡工作，享受生活，让我们在忙碌中也能拥抱悠闲时光，为身心充电</p></div></div></div></div><div class="item-box-m6adOIUobG overflow-hidden-oVMizwlZZy"><div class="item-oxp919GY_m image-box-mRKvbrLVuP"><div class="image-container-S24g_nn07i fullscreen-AJCxFRnO2g image-AJiEedO2Ei add-scroll-animation" style="padding-top: 0px; padding-bottom: 0px;"><div class="image-box-KbFE00FKY_ image-shadow-2659526558 animation-image-lUv2cbP5ya animation-image-yk75j5W_5K"><a class="not-link-k5C0e5evBK" target="_self"><img src="https://public-cdn.mokahr.com/zphz/b88a772d-22b9-4fba-8c76-d76425d6c2ee.png" alt="图片" class="image-RaoqN769X2"></a></div></div></div><div class="item-oxp919GY_m textarea-box-BsnY_0YN8o"><div class="textarea-ZVIBWfiQFs textarea-I3wtuTYgQn add-scroll-animation fade-in-up-slow"><div class="ql-editor"><h3><span class="ql-size-22px">下午茶团建</span></h3><p><br></p><p>欢乐时光，凝聚力量，大家在轻松氛围中交流分享，增进感情，携手共进</p></div></div></div></div></div></div><div id="0892710013" class="rich-SQz8yzB5oN" style="padding-top: 20px; padding-bottom: 20px;"><div class="textarea-list-BVxHwkAuRv"><div class="textarea-ZVIBWfiQFs textarea-mkCHuoNk4U add-scroll-animation fade-in-up-slow"><div class="ql-editor"><p><span class="ql-size-28px">工作地点</span></p></div></div></div></div><div id="6466559994" class="relative-QEoe3uxTQ0" style="padding-top: 20px; padding-bottom: 20px; background-color: rgb(255, 255, 255);"><div class="module-container-ZUY8QvaokJ add-scroll-animation"><div class="job-item-O5PbSds8YJ column-3-Xo6YarG4HL" style="margin-bottom: 24px; margin-right: 24px;"><a class="job-Rj80rYM8EN" href="#/jobs?location=北京市" style="box-shadow: rgba(3, 4, 13, 0.06) 0px 6px 24px;"><div class="text-wrapper-M0nY0Y2YtZ"><div class="title-eLL11zqP84 ellipsis-s4h2VX0z8O"><span class="sd-foundation-heading-50-1hYr0 title-wrapper-V9dkupR3fp">北京市</span></div><div class="sd-foundation-body-tertiary-2xged status-rUU8E14ub7 ellipsis-s4h2VX0z8O sd-foundation-n70-xV08t" style="opacity: 1;">共39个职位<span class="sd-Icon-container-18tcO sd-Icon-iconright-3YFM5" style="font-size: 16px;"></span></div></div></a></div><div class="job-item-O5PbSds8YJ column-3-Xo6YarG4HL" style="margin-bottom: 24px; margin-right: 24px;"><a class="job-Rj80rYM8EN" href="#/jobs?location=上海市" style="box-shadow: rgba(3, 4, 13, 0.06) 0px 6px 24px;"><div class="text-wrapper-M0nY0Y2YtZ"><div class="title-eLL11zqP84 ellipsis-s4h2VX0z8O"><span class="sd-foundation-heading-50-1hYr0 title-wrapper-V9dkupR3fp">上海市</span></div><div class="sd-foundation-body-tertiary-2xged status-rUU8E14ub7 ellipsis-s4h2VX0z8O sd-foundation-n70-xV08t" style="opacity: 1;">共2个职位<span class="sd-Icon-container-18tcO sd-Icon-iconright-3YFM5" style="font-size: 16px;"></span></div></div></a></div><div class="job-item-O5PbSds8YJ column-3-Xo6YarG4HL" style="margin-bottom: 24px; margin-right: 0px;"><a class="job-Rj80rYM8EN" href="#/jobs?location=深圳市" style="box-shadow: rgba(3, 4, 13, 0.06) 0px 6px 24px;"><div class="text-wrapper-M0nY0Y2YtZ"><div class="title-eLL11zqP84 ellipsis-s4h2VX0z8O"><span class="sd-foundation-heading-50-1hYr0 title-wrapper-V9dkupR3fp">深圳市</span></div><div class="sd-foundation-body-tertiary-2xged status-rUU8E14ub7 ellipsis-s4h2VX0z8O sd-foundation-n70-xV08t" style="opacity: 1;">共1个职位<span class="sd-Icon-container-18tcO sd-Icon-iconright-3YFM5" style="font-size: 16px;"></span></div></div></a></div><div class="job-item-O5PbSds8YJ column-3-Xo6YarG4HL" style="margin-bottom: 0px; margin-right: 24px;"><a class="job-Rj80rYM8EN" href="#/jobs?location=厦门市" style="box-shadow: rgba(3, 4, 13, 0.06) 0px 6px 24px;"><div class="text-wrapper-M0nY0Y2YtZ"><div class="title-eLL11zqP84 ellipsis-s4h2VX0z8O"><span class="sd-foundation-heading-50-1hYr0 title-wrapper-V9dkupR3fp">厦门市</span></div><div class="sd-foundation-body-tertiary-2xged status-rUU8E14ub7 ellipsis-s4h2VX0z8O sd-foundation-n70-xV08t" style="opacity: 1;">共1个职位<span class="sd-Icon-container-18tcO sd-Icon-iconright-3YFM5" style="font-size: 16px;"></span></div></div></a></div><div class="job-item-O5PbSds8YJ column-3-Xo6YarG4HL" style="margin-bottom: 0px; margin-right: 24px;"><a class="job-Rj80rYM8EN" href="#/jobs?location=其他" style="box-shadow: rgba(3, 4, 13, 0.06) 0px 6px 24px;"><div class="text-wrapper-M0nY0Y2YtZ"><div class="title-eLL11zqP84 ellipsis-s4h2VX0z8O"><span class="sd-foundation-heading-50-1hYr0 title-wrapper-V9dkupR3fp">其他</span></div><div class="sd-foundation-body-tertiary-2xged status-rUU8E14ub7 ellipsis-s4h2VX0z8O sd-foundation-n70-xV08t" style="opacity: 1;">共102个职位<span class="sd-Icon-container-18tcO sd-Icon-iconright-3YFM5" style="font-size: 16px;"></span></div></div></a></div></div></div></div><div class="footer-container-OdXtXkNqKa" style="background: rgb(20, 25, 51);"><div style="padding-top: 40px;"><div class="main-content-Xjvz9jbcWO"><div class="vertical-link-content-TbMDawHIJm"><div class="vertical-link-row-Yux9B5MGuQ"><div class="vertical-header-title-wxmoiNI5DH ellipsis-s4h2VX0z8O" style="color: rgb(255, 255, 255);">公司官网</div><div class="vertical-link-area-C2JX5EuZ52" style="color: rgb(137, 144, 158);"><div class="mgb8-_7jJiRSsbZ"><div><div class="sd-Ellipsis-hidden-2QoJl"><div class="sd-Ellipsis-hiddenContainer-3yguc"><div class="sd-Ellipsis-hiddenContent-1Skwh">https://www.zhipuai.cn</div></div></div><div class="no-adaptive-tooltip no-adaptive-tooltip">https://www.zhipuai.cn</div></div></div></div></div></div><div class="basic-info-dB86EjV5uU" style="order: -1; color: rgb(255, 255, 255); text-align: left; align-items: flex-start;"><img class="mgb24-Op7tNrWlm3" height="24" src="https://public-cdn.mokahr.com/zphz/316550b5-52ad-4022-b89e-319c43d2802d.png"><a class="mgb8-_7jJiRSsbZ" href="https://www.zhipuai.cn/" target="_blank">Copyright ◎ 2025 北京智谱华章科技股份有限公司</a><div><img class="public-security-icon-NRyimlPyhd" width="16" height="16" src="https://static-ats.mokahr.com/recruitment-web-client/images/publicSecurityIcon.png"><div class="license-text-nlwT5vIICg"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024479" target="_blank">京公网安备 11010802024479号</a><a href="https://beian.miit.gov.cn" target="_blank">京ICP备15060035号-3</a></div></div></div><div class="vertical-qrcode-mzD124gCNP"><div class="sd-foundation-heading-60-3Bk0g text-center-e0PU79DagV flex-auto-ZFmvrAXWfs mgb16-sMad5kqeGS" style="color: rgb(255, 255, 255);"></div><div class="sd-Spacing-spacing-inline-3icHv sd-Spacing-flex-vertical-dtdZe sd-Spacing-align-center-mXUhd"></div></div></div></div><p class="powered-by-QQJ4wlsK8K"><span class="" style="display: inline-block; height: 0px; width: 0px;"></span></p></div></div><button class="button-WAkb5zsITq hidden-button-h20AieGNsD"><span class="sd-Icon-container-18tcO sd-Icon-iconbackToTop-2Et4S back-top-icon-wILEaCyTvy" style="font-size: 16px;"></span></button></div></div><script>window.TurboApply = window.TurboApply || {};
+var $initData = document.getElementById('init-data');
+window.TurboApply.data = JSON.parse($initData.value);
+$initData.remove && $initData.remove();
+try {
+  localStorage.setItem('TY_DISTINCT_ID', window.TurboApply.data.org.id);
+} catch(e) {}
+
+window.MAGE_PUBLIC_PATH = 'https://static-ats.mokahr.com';
+</script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/recruitment-web-client/javascripts/runtime-dad7b86086838cceb592aef80eedcdd7.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/recruitment-web-client/javascripts/vendor-675f9d8cd547de02998d00ab58f37c2a.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/recruitment-web-client/javascripts/recruitmentWeb-20260706-1754-0c57f-release.js"></script><div style="visibility: hidden; position: fixed; top: 0px; left: 0px; pointer-events: none; font-size: 14px;"><div>内部推荐</div></div><script src="//cstaticdun-v6.126.net/load.min.js"></script><div class="sugar-portal"></div></body></html>

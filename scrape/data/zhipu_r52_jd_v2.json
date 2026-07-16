@@ -1,0 +1,26 @@
+{
+  "company": "Zhipu",
+  "scrapeDate": "2026-07-16",
+  "targets": [
+    {
+      "target": "Agent Infra 开发工程师",
+      "clicked": false,
+      "in_list": false
+    },
+    {
+      "target": "推理Infra工程师",
+      "clicked": false,
+      "in_list": false
+    },
+    {
+      "target": "训练Infra工程师",
+      "clicked": false,
+      "in_list": false
+    },
+    {
+      "target": "Agent Infra 运维开发工程师",
+      "clicked": false,
+      "in_list": false
+    }
+  ]
+}

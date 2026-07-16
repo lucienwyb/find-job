@@ -1,0 +1,695 @@
+<!DOCTYPE html><html lang="zh-CN"><head><style>/*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+
+/* ==========================================================================
+   HTML5 display definitions
+   ========================================================================== */
+
+/**
+ * Correct `block` display not defined in IE 8/9.
+ */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+/**
+ * Correct `inline-block` display not defined in IE 8/9.
+ */
+
+audio,
+canvas,
+video {
+    display: inline-block;
+}
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9.
+ * Hide the `template` element in IE, Safari, and Firefox < 22.
+ */
+
+[hidden],
+template {
+    display: none;
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+
+html {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+
+body {
+    margin: 0;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+
+a {
+    background: transparent;
+}
+
+/**
+ * Address `outline` inconsistency between Chrome and other browsers.
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari 5, and Chrome.
+ */
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+/**
+ * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+
+b,
+strong {
+    font-weight: bold;
+}
+
+/**
+ * Address styling not present in Safari 5 and Chrome.
+ */
+
+dfn {
+    font-style: italic;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+
+hr {
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 0;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+/**
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    font-size: 1em;
+}
+
+/**
+ * Improve readability of pre-formatted text in all browsers.
+ */
+
+pre {
+    white-space: pre-wrap;
+}
+
+/**
+ * Set consistent quote types.
+ */
+
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+
+small {
+    font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/* ==========================================================================
+   Embedded content
+   ========================================================================== */
+
+/**
+ * Remove border when inside `a` element in IE 8/9.
+ */
+
+img {
+    border: 0;
+}
+
+/**
+ * Correct overflow displayed oddly in IE 9.
+ */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+
+/**
+ * Address margin not present in IE 8/9 and Safari 5.
+ */
+
+figure {
+    margin: 0;
+}
+
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+
+legend {
+    border: 0; /* 1 */
+    padding: 0; /* 2 */
+}
+
+/**
+ * 1. Correct font family not being inherited in all browsers.
+ * 2. Correct font size not being inherited in all browsers.
+ * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+ */
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit; /* 1 */
+    font-size: 100%; /* 2 */
+    margin: 0; /* 3 */
+}
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+
+button,
+input {
+    line-height: normal;
+}
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
+ * Correct `select` style inheritance in Firefox 4+ and Opera.
+ */
+
+button,
+select {
+    text-transform: none;
+}
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+
+button,
+html input[type="button"], /* 1 */
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button; /* 2 */
+    cursor: pointer; /* 3 */
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+
+button[disabled],
+html input[disabled] {
+    cursor: default;
+}
+
+/**
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+
+input[type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; /* 2 */
+    box-sizing: content-box;
+}
+
+/**
+ * Remove inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/**
+ * 1. Remove default vertical scrollbar in IE 8/9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+}
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+
+/**
+ * Remove most spacing between table cells.
+ */
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+</style><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="renderer" content="webkit"><link rel="stylesheet" href="/icon/style.css" type="text/css"><link rel="icon" href="data:image/x-icon;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><script src="https://hm.baidu.com/hm.js?81855791c290e31cd52ffbf04ad5c002"></script><script type="text/javascript" crossorigin="anonymous" src="https://static-ats.mokahr.com/vendor/raven-3.26.4.min.js"></script><script>if (Boolean(true)) {
+  (function() {
+    if (1 === 1) {
+      document.documentElement.lang = 'zh-CN';
+    } else if (typeof navigator !== 'undefined' && /en/i.test(navigator.language)) {
+      document.documentElement.lang = 'en-US';
+    } else {
+      document.documentElement.lang = 'zh-CN';
+    }
+  })();
+}
+</script><script>document.documentElement.lang = document.documentElement.lang || 'zh-CN';
+</script><title>中科寒武纪科技股份有限公司 - 社会招聘</title><meta name="keywords" content="中科寒武纪科技股份有限公司社会招聘,中科寒武纪科技股份有限公司社招,中科寒武纪科技股份有限公司招聘,中科寒武纪科技股份有限公司招聘官网,中科寒武纪科技股份有限公司招聘官方网站"><meta name="description" content="2026年中科寒武纪科技股份有限公司社会招聘正在进行，点击申请职位"><!--[if lt IE 10]><script>//- Only support IE >= 10
+(function () {
+    window.location = '/browser-not-support';
+}());</script><![endif]--><script>function report(error) {
+  if (window.location.origin.indexOf("localhost") !== -1 || window.location.origin.indexOf("staging") !== -1) {
+    return null;
+  }
+  function createXHR() {
+      if (typeof window.XMLHttpRequest !== "undefined") {
+      return new window.XMLHttpRequest();
+    } else if (typeof window.ActiveXObject !== "undefined") {
+      if (typeof arguments.callee.activeXString !== "string") {
+        var versions = [
+          "Msxml3.XMLHTTP",
+          "MSXML2.XMLHttp.6.0",
+          "MSXML2.XMLHttp.3.0",
+          "MSXML2.XMLHttp",
+          "Microsoft.XMLHTTP",
+        ];
+        for (var i = 0, len = versions.length; i < len; i++) {
+          try {
+            var xhr = new window.ActiveXObject(versions[i]);
+            arguments.callee.activeXString = versions[i];
+            return xhr;
+          } catch (error) {
+            console.error(error);
+            //跳过
+          }
+        }
+      }
+      return new window.ActiveXObject(arguments.callee.activeXString);
+    } else {
+      return null;
+    }
+  }
+
+  var xhr = createXHR();
+  if (!xhr) {
+    return null;
+  }
+
+  function getEventId() {
+    var a = window.crypto || window.msCrypto;
+    if (a && a.getRandomValues) {
+        var b = new Uint16Array(8);
+        a.getRandomValues(b), b[3] = 4095 & b[3] | 16384, b[4] = 16383 & b[4] | 32768;
+        var c = function (a) {
+            for (var b = a.toString(16); b.length < 4;) b = "0" + b;
+            return b
+        };
+        return c(b[0]) + c(b[1]) + c(b[2]) + c(b[3]) + c(b[4]) + c(b[5]) + c(b[6]) + c(b[7])
+    }
+    return "xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx".replace(/[xy]/g, function (a) {
+        var b = 16 * Math.random() | 0,
+            c = "x" === a ? b : 3 & b | 8;
+        return c.toString(16)
+    })
+  }
+  xhr.open("POST", "https://sentry-fe.mokahr.com/api/107/store/?sentry_version=7&sentry_client=raven-js%2F3.26.4&sentry_key=840dcafb7d524b21a665748fae084418");
+  xhr.send(JSON.stringify({
+    project: "107",
+    logger: "javascript",
+    platform: "javascript",
+    request: {
+        headers: {
+          "User-Agent": window.navigator.userAgent
+        },
+        url: window.location.href
+    },
+    exception: {
+      values: [error],
+      mechanism: {
+        type: "generic",
+        handled: true
+      }
+    },
+    level: "fatal",
+    tags: { "user.orgId": "", "user.role": "" },
+    user: {
+      id: "",
+      orgId: "",
+      pay: "",
+      role: "",
+      isGrayReleased: "0",
+    },
+    environment: "prod-ali",
+    release: "20251106-1526-fa4e7-release",
+    event_id: getEventId()
+  }));
+}
+
+window.MOKA_RETRY = {
+  origins: ["https://static-ats.mokahr.com","https://static.mokahr.com","https://app.mokahr.com"],
+  pointer: 0,
+  timer: null,
+  getCdnPath: function() {
+    return window.MOKA_RETRY.origins[window.MOKA_RETRY.pointer] || window.location.origin;
+  },
+  refreshOriginPathFunc: function() {
+    var oldPath = window.MOKA_RETRY.getCdnPath();
+
+    window.MOKA_RETRY.pointer = window.MOKA_RETRY.pointer + 1;
+
+    var newPath = window.MOKA_RETRY.getCdnPath();
+
+    report({
+      type: "cdn资源事故！！！",
+      value: oldPath + " 出现故障：切换至 " + newPath + " --- window.MOKA_RETRY:" +  (window.MOKA_RETRY ? JSON.stringify(window.MOKA_RETRY) : " MOKA_RETRY not found")
+    });
+
+    if (!window.MOKA_RETRY.timer) {
+      window.MOKA_RETRY.timer = setTimeout(function(){
+        window.MOKA_RETRY.pointer = 0;
+      }, 30 * 60 * 1000)
+    }
+  },
+  onError: function(error){
+    report({
+      type: "cdn资源事故！！！ " + error.type,
+      value: error.message
+    });
+  },
+}
+
+window.addEventListener("error", function(e) {
+  if (!(e instanceof ErrorEvent) && e.target instanceof HTMLElement) {
+    var type = e.target.tagName;
+    var src = type === "SCRIPT" ? e.target.src : type === "LINK" ? e.target.href : "";
+    var url = src.split("/");
+    var origin = src.split("//").length > 1 ? url[0] + "//" + url[2]: window.location.origin;
+    var extraMessage = "";
+    if (!src || (origin.indexOf("mokahr.com") === -1 && !/new_i18n.*messages/.test(src)) || src.indexOf(".chunk.") > -1 || src.indexOf("style_") > -1 || src.indexOf("micro-app") > -1) {
+      return;
+    }
+    if(window.performance){
+      try {
+        var performanceData = window.performance.getEntriesByName(e.target.src);
+        var mainData = performanceData[0] ? performanceData[0].duration : "";
+        extraMessage = "duration:" + mainData+ "\\n" + JSON.stringify(performanceData);
+      } catch (e) {
+        extraMessage = "performance data error";
+      }
+    }
+    var error = new Error();
+    error.message = origin + " 出现故障：" + "Loading static failed after 0 retries. \\n(" + src + ")" +"\\n extraMessage:" + extraMessage;
+    error.request = src;
+    error.type = "failed";
+    window.MOKA_RETRY.onError(error);
+
+    if (origin === window.location.origin && window.MOKA_RETRY.getCdnPath() === window.location.origin) {
+      return;
+    } else if (origin === window.MOKA_RETRY.getCdnPath()) {
+      window.MOKA_RETRY.refreshOriginPathFunc();
+    }
+    
+    var el = null;
+    if (type === "SCRIPT") {
+      el = document.createElement("script");
+      el.setAttribute("crossorigin", "anonymous");
+      el.src = src.replace(origin, window.MOKA_RETRY.getCdnPath());
+    } else if (type === "LINK") {
+      el = document.createElement("link");
+      el.setAttribute("rel", "stylesheet");
+      el.href = src.replace(origin, window.MOKA_RETRY.getCdnPath());
+    }
+
+    if (el) {
+      var head = document.querySelector("head");
+      head.appendChild(el);
+    }
+  }
+}, true);</script><script type="text/javascript" async="" src="https://public-cdn-no-cache.mokahr.com/moka_apm/release/mage_apply_web-moka-apm-client.min.js"></script><link rel="stylesheet" href="https://static-ats.mokahr.com/apply-web/stylesheets/applyWeb-20251106-1526-fa4e7-release.css" type="text/css"><script crossorigin="anonymous" src="https://static-ats.mokahr.com/apply-web/javascripts/initial-95fd617358801ca0903b3812b4a1725d.js"></script><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?81855791c290e31cd52ffbf04ad5c002";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+_hmt.push([
+  '_trackCustomEvent',
+  'recruitment_info',
+  {
+    'org_id': 'cambricon', // 官网所属的org，文本类型
+    'site_id': '1113', // 官网site_id，文本类型
+    'node_env': 'production', // 官网所在环境，文本类型
+    'source': 'apply_web' // 官网所属项目，文本类型
+  }
+])
+</script><style id="inert-style">
+[inert] {
+  pointer-events: none;
+  cursor: default;
+}
+
+[inert], [inert] * {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+</style>
+  <style id="moka-theme">
+  .theme-bg-color {
+    background-color: #0C8CF6;
+  }
+  .theme-color {
+    color: #0C8CF6;
+  }
+  .theme-border-color {
+    border-color: #0C8CF6 !important;
+  }
+  .theme-hover-border-color:hover {
+    border-color: #0C8CF6;
+  }
+
+  .theme-pagination {
+    color: inherit
+  }
+  .theme-pagination .pagination-item {
+    color: #0C8CF6
+  }
+  .theme-pagination .pagination-item:hover {
+    color: #0C8CF6;
+    border-color: #0C8CF6;
+  }
+  </style>
+  
+  <style id="moka-btn">
+  .btn-bg-color {
+    background-color: #0C8CF6;
+  }
+  .btn-bg-color:hover {
+    background-color: #35b5ff;
+  }
+  .btn-color {
+    color: #0C8CF6;
+  }
+  .btn-color:hover {
+    color: #35b5ff;
+  }
+  .btn-hover-color:hover {
+    color: #0C8CF6;
+    border-color: #0C8CF6;
+  }
+  .btn-text-color {
+    color: rgba(249,249,250,1);
+  }
+  .btn-border-color {
+    border-color: #0C8CF6;
+  }
+  </style>
+  
+    <style id="moka-background">
+      .home-title-color {
+        color: rgba(0,0,0,0.8);
+      }
+      .home-subtitle-color {
+        color: rgba(0,0,0,0.6);
+      }
+      .home-title-underline-color {
+        background-color: rgba(0,0,0,0.05);
+      }
+      .home-content-color {
+        color: rgba(0,0,0,0.4);
+      }
+      .home-bg-color {
+        background-color: #FFFFFF;
+      }
+    </style>
+  </head><body><input style="display: none" id="moka-version" data-gray-released="0" data-version="20251106-1526-fa4e7-release"><div id="apply-app"><div class="apply-container home-bg-color"><div class="toast__container"><div></div></div><div style="display: flex; flex-direction: column; min-height: 100vh;"><div class="navbar-1oPiuMnlpq  undefined navbar-fix-3KftRmoeGU"><div class="module-container-3oeRBT4hkz"><a class="logo-link-2x7ipgbAJH" href="javascript:void" target="_self" style="width: 240px; cursor: default;"><img class="logo-img-3AwAmlRbJJ" src="https://public-cdn.mokahr.com/a048a506-c9d3-4783-a173-fa4c4b6745bd.png"></a><ul class="nav-links-1yVZJydW6X" style="display: block;"><li class="link-2eDgZBnfgY"><a href="#/?anchorName=000&amp;sourceToken=">社招首页</a></li><li class="link-2eDgZBnfgY"><a href="#/?anchorName=007&amp;sourceToken=">社会招聘开放职位</a></li><li class="link-2eDgZBnfgY"><a href="#/?anchorName=0672291572&amp;sourceToken=">丰富的活动</a></li><li class="link-2eDgZBnfgY"><a href="http://www.cambricon.com/" target="_blank">返回官网首页</a></li></ul><div class="button-div-1-lD7hKIfI"><a href="/campus_apply/cambricon" class="school-entry-_oymA-45qo btn-color">校园招聘</a></div></div></div><div style="flex: 1 1 0%;"><div><div id="000" class="compack-model-3yGxYEH9Jh model-16z1iSD_zV"><div class="container-3pO8vb3Ceo"><div class="title-1fYxPPFKQL">加入寒武纪</div><div class="sub-title-gO6UMORDcE title-1fYxPPFKQL">我们提供高成长性、高成就感的工作机会，伴之以有竞争力的待遇，实现智能时代的计算力量爆发性进化</div><div class="search-tr46AyLCAZ"><div class="wrapper-3u8bKVVUir "><input class="input-ERsqlKPdfg" type="text" placeholder="输入职位关键字" value=""><span class="button-3xpnwc4Mqk btn-2o_wuEl9Xh" style="background-color: rgb(12, 140, 246);">搜索职位</span></div></div></div><div class="apply__banner" style="height: 500px; background-image: url(&quot;https://public-cdn.mokahr.com/afdaab4e-b667-48bf-8636-e401a8e1e8b4.jpg&quot;); cursor: auto; pointer-events: all;"></div></div><div class="grey-model-20xksoH68W model-16z1iSD_zV" id="007" style="background-color: rgb(255, 255, 255); padding-top: 60px; padding-bottom: 80px;"><div class="module-text-container-23iLqoiB_t wrapper-3nfwJenXPK"><div class="home-title-color title-36vccIVpTm"><span style="color: rgb(87, 93, 106);">社会招聘开放职位</span><div class="home-title-underline-color underline-3dh1SbobDY"></div></div><div class="home-subtitle-color sub-title-1GfPjzo0CD" style="color: rgb(87, 93, 106);"></div></div><div class="module-container-_Q5VZTwTcp"><div><div class="joblist-23sXOZgMXB"><div class="wrapper-3u8bKVVUir search-e6_VMB__I7"><input class="input-ERsqlKPdfg" type="text" placeholder="输入职位关键字" value=""><span class="button-3xpnwc4Mqk btn-2o_wuEl9Xh" style="background-color: rgb(12, 140, 246);">搜索职位</span></div><div class="jobs-W8moAs8f06"><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/8806e265-440b-4cf4-9eef-7f8a4b09821b"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="行政专员"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>行政专员</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">职能类-社招</span><span class="status-item-1MKKclgN4X">广东·深圳市</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/d1881322-e63a-47f5-90e5-2e5e193bd8d6"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="ATE测试工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>ATE测试工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">技术类-社招</span><span class="status-item-1MKKclgN4X">上海市·浦东新区</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/e4039f7b-0ca0-4a2b-a1b7-758fba259e6d"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="深度学习框架图编译工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>深度学习框架图编译工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">北京市·海淀区 等2个地点</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="AI编译器研发工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>AI编译器研发工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">北京市·海淀区</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/7af01057-d987-494e-b0e9-a5f9fc01135b"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="模拟芯片设计工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>模拟芯片设计工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">上海市·浦东新区</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/90cd8a4a-97b6-4039-b56d-283bebb165ea"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="AI现场应用工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>AI现场应用工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">上海市·浦东新区</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/d491974a-66cf-4947-9c20-06a2c4be7324"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="大模型训练优化工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>大模型训练优化工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">北京市·海淀区 等2个地点</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/a4f0fb5a-f715-4060-b2bf-6f042a44f194"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="SIPI工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>SIPI工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">北京市·海淀区 等2个地点</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/26741594-8e87-443d-b594-1a5a46dca5f9"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="芯片应用工程师-固件方向"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>芯片应用工程师-固件方向</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/5568b26b-2bf0-42a3-9159-89dd310fe830"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="AI编译器研发工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>AI编译器研发工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">上海市·浦东新区</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/6fcba671-8228-4a7e-8e89-fb1fe229e5f3"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="数字后端设计工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>数字后端设计工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">技术类-社招</span><span class="status-item-1MKKclgN4X">上海市·浦东新区 等3个地点</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/ca0c2095-41da-48c7-b989-0d07dfca713e"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="数字后端设计工程师-南京"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>数字后端设计工程师-南京</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">技术类-社招</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/274cf366-f91e-4ce8-a961-52b17d594f4c"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="高性能通信库研发工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>高性能通信库研发工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">北京市·海淀区 等2个地点</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/2fb8c407-f2d3-4820-a538-e2ca2767f965"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="CAD资深流程开发工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>CAD资深流程开发工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">上海市·浦东新区</span></div></a></span><span class="job-wrapper-14MiCq2h-J"><a class="job-111nXxBXHx" href="#/job/174868ac-13cd-4316-ade7-1a39cdcb95eb"><div class="title-23sFLJmsuW"><span class="title-wrapper-3ks1UAf0vt" title="AI网络研发工程师"><span class="prior-2Z2XMgMoop icon-center-3jg42F0-YC">急</span>AI网络研发工程师</span></div><div class="status-1ai2dnR2pk" style="opacity: 1;"><span class="status-item-1MKKclgN4X">北京市·海淀区</span></div></a></span></div><div><a class="show-more-btn-22OEvF-qGQ btn-bg-color btn-text-color" href="#/jobs">查看更多职位</a></div></div></div><div class="btn-box-2euLc8BC3p"></div></div><div></div></div><div class="model-16z1iSD_zV" id="0672291572"><div><div class="module-text-container-23iLqoiB_t wrapper-3nfwJenXPK"><div class="home-title-color title-36vccIVpTm"><span>丰富的活动</span><div class="home-title-underline-color underline-3dh1SbobDY"></div></div><div class="home-subtitle-color sub-title-1GfPjzo0CD">节日活动，加班零食，员工俱乐部，工作和生活都很High~~</div></div></div><div class="module-container-_Q5VZTwTcp" style="font-size: 0px;"><span class="pic-wrapper-2u57ETJrP7"><div class="item-1VApSE59s2"><div style="cursor: default;"><img src="https://public-cdn.mokahr.com/4d1a4883-6aa8-4016-97f2-379ce5225f52.jpg?x-oss-process=image/resize,m_fill,h_200,w_200" alt="" width="200" height="200"></div></div></span><span class="pic-wrapper-2u57ETJrP7"><div class="item-1VApSE59s2"><div style="cursor: default;"><img src="https://public-cdn.mokahr.com/0c738351-4901-4b5e-bfdc-ffc54dcb8931.jpg?x-oss-process=image/resize,m_fill,h_200,w_200" alt="" width="200" height="200"></div></div></span><span class="pic-wrapper-2u57ETJrP7"><div class="item-1VApSE59s2"><div style="cursor: default;"><img src="https://public-cdn.mokahr.com/8df13dd6-80fb-44b1-b55f-11b3d904326b.jpg?x-oss-process=image/resize,m_fill,h_200,w_200" alt="" width="200" height="200"></div></div></span><span class="pic-wrapper-2u57ETJrP7"><div class="item-1VApSE59s2"><div style="cursor: default;"><img src="https://public-cdn.mokahr.com/7a9d2791-019b-4b30-b4a1-f439ea83dd89.jpg?x-oss-process=image/resize,m_fill,h_200,w_200" alt="" width="200" height="200"></div></div></span><span class="pic-wrapper-2u57ETJrP7"><div class="item-1VApSE59s2"><div style="cursor: default;"><img src="https://public-cdn.mokahr.com/81fd4ea6-bd29-4581-9152-7df0d14befaf.jpg?x-oss-process=image/resize,m_fill,h_200,w_200" alt="" width="200" height="200"></div></div></span><span class="pic-wrapper-2u57ETJrP7"><div class="item-1VApSE59s2"><div style="cursor: default;"><img src="https://public-cdn.mokahr.com/7d71ed31-f3da-41a2-be3c-4a2c87fd7522.jpg?x-oss-process=image/resize,m_fill,h_200,w_200" alt="" width="200" height="200"></div></div></span></div></div></div></div><div class="default-license-text-Che2bBukOV"><img class="public-security-icon-ZPpYrCNaRG" width="16" height="16" src="https://static-ats.mokahr.com/apply-web/images/publicSecurityIcon.png"><div class="license-text-3gJkZwOfqT"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024479" target="_blank">京公网安备 11010802024479号</a><a href="https://beian.miit.gov.cn" target="_blank">京ICP备15060035号-3</a></div></div><div class="powered-by-2RGA2cDkT8"><span class="" style="display: inline-block; height: 0px; width: 0px;"></span></div></div><div style="display: none;"></div></div></div><script>window.TurboApply = window.TurboApply || {};
+var $initData = document.getElementById('init-data');
+window.TurboApply.data = JSON.parse($initData.value);
+$initData.remove && $initData.remove();
+try {
+  localStorage.setItem('TY_DISTINCT_ID', window.TurboApply.data.org.id);
+} catch(e) {}
+</script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/apply-web/javascripts/en_us_messages-48fafce70486a6dcfd6453f995631686.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/apply-web/javascripts/zh_cn_messages-4f145009a385b7188211350438581882.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/apply-web/javascripts/runtime-d440f28bcca6078854ae3aa72143d084.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/apply-web/javascripts/vendor-ffeb77e2ada45ac3aadad489e2403f0b.js"></script><script crossorigin="anonymous" src="https://static-ats.mokahr.com/apply-web/javascripts/applyWeb-20251106-1526-fa4e7-release.js"></script>  <svg id="__SUGAR_SVG__" style="position: fixed; z-index: -1000; pointer-events: none; " viewBox="0 0 68 40" width="0" height="0"><defs><clipPath id="moka-logo"><path d="M32.19,37.85l-7.48-11.2,3.35-2.23L34.42,34l14.4-21.57,3.35,2.23L36.65,37.85a2.68,2.68,0,0,1-4.46,0Z"></path><path d="M17.28,35.57H6L26.39,5.08,32,13.5Zm50.27-.15L44.69,1.19a2.68,2.68,0,0,0-4.46,0l-5.81,8.7-5.8-8.7a2.68,2.68,0,0,0-4.46,0L1.3,35.42a2.67,2.67,0,0,0,2.23,4.16H18a2.69,2.69,0,0,0,2.23-1.19L42.46,5.08,62.81,35.57H51.57l-6.7-10-2.41,3.61,6.17,9.24a2.67,2.67,0,0,0,2.22,1.19H65.32a2.68,2.68,0,0,0,2.23-4.16Z"></path></clipPath></defs></svg><script src="//cstaticdun.126.net/load.min.js"></script></body></html>

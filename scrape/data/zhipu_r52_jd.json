@@ -1,0 +1,43 @@
+{
+  "company": "Zhipu 智谱",
+  "portal": "https://app.mokahr.com/social-recruitment/zphz/148983",
+  "scrapeDate": "2026-07-16",
+  "targets": [
+    {
+      "target": "Agent Infra 开发工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": false
+    },
+    {
+      "target": "推理Infra工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": false
+    },
+    {
+      "target": "Agent Infra 运维开发工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": false
+    },
+    {
+      "target": "训练Infra工程师",
+      "clicked": false,
+      "note": "locator found but click failed",
+      "errs": [],
+      "jd_duty": "",
+      "jd_requirement": "",
+      "in_list": false
+    }
+  ]
+}
