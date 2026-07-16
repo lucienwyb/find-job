@@ -403,6 +403,12 @@
   - 排除:望石/英矽(无点)/化学所/华深智药(停运)。
   - 学历真相:大厂+工程岗创业公司本科无障碍;深势纸面硕士可破格;中科院正编需博士聘用制天花板低。
   - ★AI4Science从"降级备选"回升为可行进取方向(工程岗路线),深势HPC岗是进取型新增高优先触达点。
+- **★★8家招聘门户真实JD二次突破已落盘**(第36轮headless渲染DOM)。关键:eBPF直接命中JD原文:
+  - ★月之暗面"高性能分布式存储工程师"(2026-07-16发布,北京)JD原文明确要求"性能分析(Perf、eBPF)"+IOUring/NVME/SPDK/RDMA+百度云IaaS对口,匹配90+;调度器开发工程师(2026-05-27)也提eBPF/Prometheus,匹配85;系统应用工程师(Agent方向)匹配82。门户careers.kimi.com→mokahr/apply/moonshot/148506。
+  - ★银河通用30软件岗全JD+真实薪资:操作系统研发工程师(2026-05-07,北京)JD原文"Linux内核核心模块调度/内存/FS/IO/网络协议栈优化+支持大规模Agent并发",匹配95;嵌入式应用工程师-人形(7-08发布,真实薪资20-40K/月)匹配90;机器人系统软件(内核+虚拟化)88;BSP网络方向85。
+  - ★地平线257岗(hotjob.cn API明文JSON非加密):芯片平台驱动Linux/BSP、MCU操作系统、SoC系统软件Boot&DDR、Agent全栈开发工程师(地瓜)、具身智能云AI Infra架构师、模型推理Infra等26高匹配。入口wecruit.hotjob.cn。
+  - 方法学:mokahr两路径(apply/social-recruitment);necromancer加密但前端解密渲染DOM即明文;hotjob API明文;银河航天zhiye门户已死(停放页)改猎聘193岗;智谱mokahr slug失效;星动/零一/千乘未突破(HR邮箱/内推)。原始数据存r36b_*.txt/json。
+- **躺平型I节烽火通信坐实已落盘**:海淀学院路40号大唐电信集团园区烽火科技大厦(百度suggestion交叉验证),距北医三院**1.5-2km极近**。但烽火主力研发在武汉,北京对口eBPF高端岗未必常设,Moka筛北京岗确认。央企WLB好薪资25-40万中等偏下卡211/985。社招Moka:app.mokahr.com/social-recruitment/whfhtx/73921。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。
