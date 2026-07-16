@@ -1,0 +1,605 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>01.AI 零一万物 - 大模型赋能千行百业</title>
+<meta name="description" content="零一万物以一号位工程牵引，让 AI 转型成为可衡量的经营结果。">
+<link rel="icon" href="branding/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="branding/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="shortcut icon" href="branding/favicon.ico">
+<link rel="apple-touch-icon" href="branding/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/tokens.1.7.08175353.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400..800&amp;family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&amp;family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,500;1,700&amp;family=Source+Code+Pro:wght@400;500&amp;display=swap">
+<link rel="stylesheet" href="assets/base.1.7.08175353.css">
+<link rel="stylesheet" href="assets/components.1.7.08175353.css">
+<link rel="stylesheet" href="assets/diagram-display.1.7.08175353.css">
+<link rel="stylesheet" href="assets/enterprise-theme.1.7.08175353.css">
+</head>
+<body class="content-page-home page-transition-ready"><svg id="oai-icon-sprite" class="oai-icon-sprite" aria-hidden="true" focusable="false"><defs>
+  <symbol id="oai-trending-down" viewBox="0 0 24 24"><path d="M16 18l6-6-6-6M8 6v12"></path></symbol>
+  <symbol id="oai-radio" viewBox="0 0 24 24"><circle cx="12" cy="12" r="2"></circle><path d="M16.24 7.76a6 6 0 0 1 0 8.49M7.76 16.24a6 6 0 0 1 0-8.49M19.07 4.93a10 10 0 0 1 0 14.14M4.93 19.07a10 10 0 0 1 0-14.14"></path></symbol>
+  <symbol id="oai-layout-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"></rect><rect x="14" y="3" width="7" height="7" rx="1"></rect><rect x="3" y="14" width="7" height="7" rx="1"></rect><path d="M14 17h7M17.5 14v7"></path></symbol>
+  <symbol id="oai-zap" viewBox="0 0 24 24"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"></path></symbol>
+  <symbol id="oai-database" viewBox="0 0 24 24"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M3 5v14c0 1.66 4.03 3 9 3s9-1.34 9-3V5M3 12c0 1.66 4.03 3 9 3s9-1.34 9-3"></path></symbol>
+  <symbol id="oai-activity" viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></symbol>
+  <symbol id="oai-triangle-alert" viewBox="0 0 24 24"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path><path d="M12 9v4M12 17h.01"></path></symbol>
+  <symbol id="oai-message-square" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path><path d="M8 9h8M8 13h5"></path></symbol>
+  <symbol id="oai-refresh-cw" viewBox="0 0 24 24"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"></path><path d="M21 3v5h-5M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"></path><path d="M8 16H3v5"></path></symbol>
+  <symbol id="oai-mail" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></symbol>
+  <symbol id="oai-calendar" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2"></rect><path d="M16 2v4M8 2v4M3 10h18M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01M16 18h.01"></path></symbol>
+  <symbol id="oai-file-text" viewBox="0 0 24 24"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4M10 9H8M16 13H8M16 17H8"></path></symbol>
+  <symbol id="oai-receipt-text" viewBox="0 0 24 24"><path d="M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1-2-1Z"></path><path d="M8 7h8M8 11h8M8 15h5"></path></symbol>
+  <symbol id="oai-users" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"></path></symbol>
+  <symbol id="oai-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></symbol>
+  <symbol id="oai-shield-alert" viewBox="0 0 24 24"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="M12 8v4M12 16h.01"></path></symbol>
+  <symbol id="oai-crosshair" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><path d="M22 12h-4M6 12H2M12 6V2M12 22v-4"></path></symbol>
+  <symbol id="oai-shield-check" viewBox="0 0 24 24"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+  <symbol id="oai-network" viewBox="0 0 24 24"><rect x="16" y="16" width="6" height="6" rx="1"></rect><rect x="2" y="16" width="6" height="6" rx="1"></rect><rect x="9" y="2" width="6" height="6" rx="1"></rect><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3M12 12V8"></path></symbol>
+  <symbol id="oai-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></symbol>
+  <symbol id="oai-layout-dashboard" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="9" rx="1"></rect><rect x="14" y="3" width="7" height="5" rx="1"></rect><rect x="14" y="12" width="7" height="9" rx="1"></rect><rect x="3" y="16" width="7" height="5" rx="1"></rect></symbol>
+  <symbol id="oai-landmark" viewBox="0 0 24 24"><path d="M10 18v-7M14 18v-7M18 18v-7M3 18h18M6 10h12l-2-5H8l-2 5Z"></path></symbol>
+  <symbol id="oai-handshake" viewBox="0 0 24 24"><path d="m11 17 2 2a1 1 0 1 0 3-3"></path><path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"></path><path d="m21 3 1 11h-2M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"></path><path d="M3 4h8"></path></symbol>
+  <symbol id="oai-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"></path></symbol>
+  <symbol id="oai-map-pin" viewBox="0 0 24 24"><path d="M20 10c0 5.5-8 12-8 12s-8-6.5-8-12a8 8 0 1 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></symbol>
+  <symbol id="oai-trending-up" viewBox="0 0 24 24"><path d="M16 7h6v6"></path><path d="m22 7-8.5 8.5-5-5L2 17"></path></symbol>
+  <symbol id="oai-clipboard-check" viewBox="0 0 24 24"><rect x="8" y="2" width="8" height="4" rx="1"></rect><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><path d="m9 14 2 2 4-4"></path></symbol>
+  <symbol id="oai-video" viewBox="0 0 24 24"><path d="m16 13 5.223 3.482a.5.5 0 0 0 .777-.416V7.87a.5.5 0 0 0-.752-.432L16 10.5"></path><rect x="2" y="6" width="14" height="12" rx="2"></rect></symbol>
+  <symbol id="oai-bar-chart" viewBox="0 0 24 24"><path d="M3 3v18h18"></path><path d="M18 17V9M13 17V5M8 17v-3"></path></symbol>
+  <symbol id="oai-radar" viewBox="0 0 24 24"><path d="M19.07 4.93A10 10 0 0 0 6.99 6.34"></path><path d="M4 6V2h4"></path><circle cx="12" cy="12" r="2"></circle><path d="M4.93 19.07A10 10 0 0 0 17.01 17.66"></path><path d="M20 18v4h-4"></path><path d="M12 12 20 4"></path></symbol>
+  <symbol id="oai-scale" viewBox="0 0 24 24"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"></path><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"></path><path d="M7 21h10M12 3v18M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"></path></symbol>
+  <symbol id="oai-list-checks" viewBox="0 0 24 24"><path d="M11 18H3M11 6H3M11 12H3"></path><path d="m15 18 2 2 4-4M15 6l2 2 4-4"></path></symbol>
+  <symbol id="oai-file-search" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Z"></path><path d="M14 2v6h6M11.5 18.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path d="m20 20-1.5-1.5"></path></symbol>
+  <symbol id="oai-megaphone" viewBox="0 0 24 24"><path d="M3 11v3a2 2 0 0 0 2 2h2l4 5v-5h3l7 3V6l-7 3H5a2 2 0 0 0-2 2Z"></path><path d="M14 9v7"></path></symbol>
+  <symbol id="oai-badge-check" viewBox="0 0 24 24"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+  <symbol id="oai-history" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path><path d="M12 7v5l4 2"></path></symbol>
+  <symbol id="oai-boxes" viewBox="0 0 24 24"><path d="M2.97 12.92A2 2 0 0 0 2 14.63v3.24a2 2 0 0 0 .97 1.71l3 1.8a2 2 0 0 0 2.06 0L12 19v-5.5l-5-3-4.03 2.42Z"></path><path d="m7 16.5-4.74-2.85"></path><path d="m7 16.5 5-3"></path><path d="M7 16.5v5.17"></path><path d="M12 13.5V19l3.97 2.38a2 2 0 0 0 2.06 0l3-1.8a2 2 0 0 0 .97-1.71v-3.24a2 2 0 0 0-.97-1.71L17 10.5l-5 3Z"></path><path d="m17 16.5-5-3"></path><path d="m17 16.5 4.74-2.85"></path><path d="M17 16.5v5.17"></path><path d="M7.97 4.42A2 2 0 0 0 7 6.13v4.37l5 3 5-3V6.13a2 2 0 0 0-.97-1.71l-3-1.8a2 2 0 0 0-2.06 0l-3 1.8Z"></path><path d="M12 8 7.26 5.15"></path><path d="m12 8 4.74-2.85"></path><path d="M12 13.5V8"></path></symbol>
+  <symbol id="oai-rocket" viewBox="0 0 24 24"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"></path><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path></symbol>
+  <symbol id="oai-package-check" viewBox="0 0 24 24"><path d="m21 8-9-5-9 5 9 5 9-5Z"></path><path d="M3 8v8l9 5 9-5V8M12 13v8"></path><path d="m9 16 2 2 4-4"></path></symbol>
+  <symbol id="oai-lock" viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></symbol>
+  <symbol id="oai-user-check" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="m16 11 2 2 4-4"></path></symbol>
+  <symbol id="oai-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"></path></symbol>
+  </defs></svg>
+<div data-content-page="home" data-prerendered="true">
+      
+      <nav class="nav on-dark scrolled" id="nav">
+        <div class="nav-left"><a href="./" class="nav-logo"><img class="nav-logo-img" src="branding/logo_cn_transparent.webp" alt="01.AI"></a></div>
+        <div class="nav-center"><a href="./" class="active">首页</a><div class="nav-dd product-nav-dd"><a href="./#home-products" class="primary nav-trigger" aria-haspopup="true">产品与服务</a><div class="nav-dd-panel nav-product-panel">
+      <section class="product-menu-group">
+        <a href="TrueNorth.html" class="product-menu-series"><strong>万策决策中枢平台</strong></a>
+        <div class="product-menu-children">
+          
+            <a href="boss-ai.html" class="product-menu-child">
+              <strong>老板 AI</strong>
+            </a>
+          
+            <a href="topsales-ai.html" class="product-menu-child">
+              <strong>销冠 AI</strong>
+            </a>
+          
+            <a href="investor-ai.html" class="product-menu-child">
+              <strong>投资官 AI</strong>
+            </a>
+          
+        </div>
+      </section>
+    
+      <section class="product-menu-group">
+        <a href="https://www.wanzhi.com/" class="product-menu-series" target="_blank" rel="noopener"><strong>万智企业大模型平台</strong></a>
+        
+      </section>
+    
+      <section class="product-menu-group">
+        <a href="./#home-ai-consulting" class="product-menu-series"><strong>AI 转型咨询服务</strong></a>
+        
+      </section>
+    </div></div><div class="nav-dd"><a href="./#home-industry-solutions" class="primary nav-trigger" aria-haspopup="true">场景方案</a><div class="nav-dd-panel"><a href="solution-productivity.html">新质生产力基地</a><a href="solution-government.html">主权 AI</a><a href="solution-logistics.html">供应链物流</a><a href="solution-manufacturing.html">制造</a><a href="solution-energy.html">能源</a><a href="solution-agriculture.html">农业</a><a href="solution-investment.html">投资</a><a href="solution-education.html">教育</a><a href="solution-retail.html">零售</a></div></div><a href="top-down.html">一号位工程</a><a href="newsroom.html">新闻动态</a><div class="nav-dd"><a href="about.html#company" class="primary nav-trigger" aria-haspopup="true">关于我们</a><div class="nav-dd-panel"><a href="about.html#company">公司介绍</a><a href="about.html#honors">重要荣誉</a><a href="about.html#ecosystem">生态合作</a><a href="about.html#team">管理团队</a><a href="about.html#contact">联系我们</a></div></div></div>
+        <div class="nav-right"><a href="https://www.01.ai" class="nav-lang" aria-label="切换至英文">EN</a><a href="contact.html#quick" class="nav-cta">预约咨询</a><button class="nav-ham" id="ham" aria-label="菜单"><span></span><span></span><span></span></button></div>
+      </nav>
+      <div class="nav-drawer" id="drawer"><a href="./">首页</a><a href="./#home-products" class="drawer-series">产品与服务</a>
+          <a href="TrueNorth.html" class="drawer-series">万策决策中枢平台</a>
+          <a href="boss-ai.html" class="drawer-sub">老板 AI</a><a href="topsales-ai.html" class="drawer-sub">销冠 AI</a><a href="investor-ai.html" class="drawer-sub">投资官 AI</a>
+        
+          <a href="https://www.wanzhi.com/" class="drawer-series" target="_blank" rel="noopener">万智企业大模型平台</a>
+          
+        
+          <a href="./#home-ai-consulting" class="drawer-series">AI 转型咨询服务</a>
+          
+        <a href="./#home-industry-solutions" class="drawer-series">场景方案</a>
+          <a href="solution-productivity.html" class="drawer-sub">新质生产力基地</a><a href="solution-government.html" class="drawer-sub">主权 AI</a><a href="solution-logistics.html" class="drawer-sub">供应链物流</a><a href="solution-manufacturing.html" class="drawer-sub">制造</a><a href="solution-energy.html" class="drawer-sub">能源</a><a href="solution-agriculture.html" class="drawer-sub">农业</a><a href="solution-investment.html" class="drawer-sub">投资</a><a href="solution-education.html" class="drawer-sub">教育</a><a href="solution-retail.html" class="drawer-sub">零售</a><a href="top-down.html">一号位工程</a><a href="newsroom.html">新闻动态</a><a href="about.html#company" class="drawer-series">关于我们</a>
+          <a href="about.html#company" class="drawer-sub">公司介绍</a><a href="about.html#honors" class="drawer-sub">重要荣誉</a><a href="about.html#ecosystem" class="drawer-sub">生态合作</a><a href="about.html#team" class="drawer-sub">管理团队</a><a href="about.html#contact" class="drawer-sub">联系我们</a><div class="nav-drawer-foot"><a href="https://www.01.ai" class="nav-drawer-lang" aria-label="切换至英文">EN</a><a href="contact.html#quick" class="btn btn-primary">预约咨询<span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a></div></div>
+      
+      <section class="hero home-hero bg-night"><div class="hero-backdrops" aria-hidden="true"><div class="hero-backdrop" data-hero-backdrop="0"><img src="assets/media/scene-sovereign-ai-v2.webp" alt=""></div><div class="hero-backdrop is-active" data-hero-backdrop="1"><img src="assets/media/scene-supply-chain-home-v4.webp" alt=""></div><div class="hero-backdrop" data-hero-backdrop="2"><img src="assets/media/industry-agriculture-hero.webp" alt=""></div><div class="hero-backdrop" data-hero-backdrop="3"><img src="assets/media/industry-finance-hero.webp" alt=""></div><div class="hero-backdrop" data-hero-backdrop="4"><img src="assets/media/industry-government-v3-hero.webp" alt=""></div><div class="hero-backdrop" data-hero-backdrop="5"><img src="assets/media/scene-education-v1.webp" alt=""></div><div class="hero-backdrop" data-hero-backdrop="6"><img src="assets/media/industry-industrial-hero.webp" alt=""></div><div class="hero-backdrop" data-hero-backdrop="7"><img src="assets/media/industry-mining-hero.webp" alt=""></div><div class="hero-media-shade"></div></div><div class="hero-grid"></div><div class="hero-content">
+        <div class="hero-copy">
+          
+          <h1 class="hero-display"><span class="line">大模型赋能<em>千行百业</em></span></h1>
+          <div class="hero-summary"><p class="hero-sub">以<span class="hero-sub-highlight">一号位工程</span>牵引，让 AI 转型成为可衡量的经营结果。</p><div class="hero-actions"><a href="contact.html#quick" class="btn btn-accent">预约咨询</a></div></div>
+        </div>
+        
+      </div><a href="#home-products" class="hero-scroll-cue" aria-label="向下浏览更多内容"><i aria-hidden="true"></i></a></section>
+      <section class="section bg-paper home-customers" id="home-products"><div class="wrap"><div class="sec-head reveal visible"><div class="sec-head-title"><h2>改善企业财报的<em>决策AI 产品</em></h2></div><p class="sec-head-desc">直达企业战略、管理、销售、投资等核心场景。</p></div>
+        <div class="solution-grid reveal d1 visible">
+      <article class="solution-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-layout-dashboard"></use></svg></span></span>
+        <h3>老板 AI</h3>
+        <p>面向企业一号位的 AI 决策平台。基于零一万物深度调研全球头部企业的经营管理经验，为企业老板们打造整合经营事实、识别关键风险，并形成可执行、可追踪的行动闭环。</p>
+        <ul class="split-list"><li>经营分析</li><li>风险识别</li><li>行动闭环</li></ul>
+        <a href="boss-ai.html" class="solution-link">了解产品 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+      </article>
+      <article class="solution-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-landmark"></use></svg></span></span>
+        <h3>投资官 AI</h3>
+        <p>面向投资、战略与董事会决策场景。与国内外专业大型投资机构共创研发，辅助完成材料研判、风险复核与关键追问，让重大判断更有证据链、行业研究与投资决策智能升级。</p>
+        <ul class="split-list"><li>材料研判</li><li>风险复核</li><li>决策挑战</li></ul>
+        <a href="investor-ai.html" class="solution-link">了解产品 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+      </article>
+      <article class="solution-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-handshake"></use></svg></span></span>
+        <h3>销冠 AI</h3>
+        <p>面向 ToB 与 ToG 销售管理运营。源自多家大型企业级业务转型与创收增长实战经验，帮助销售团队判断商机质量、匹配解决方案，提升售前资源投入效率，提高销售达标率。</p>
+        <ul class="split-list"><li>商机判断</li><li>方案匹配</li><li>销售提效</li></ul>
+        <a href="topsales-ai.html" class="solution-link">了解产品 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+      </article></div>
+      </div></section>
+      <section class="section bg-night home-ai-consulting" id="home-ai-consulting"><div class="wrap">
+      <div class="home-ai-consult-shell reveal d1 visible">
+        <header class="home-ai-consult-head">
+          <div class="home-ai-consult-headline">
+            <h2>
+              <span class="home-ai-consult-title-accent">战略咨询 + <em>FDE</em></span>
+              <span class="home-ai-consult-title-sub">共创制加速企业 AI 转型</span>
+            </h2>
+          </div>
+          <p class="home-ai-consult-intro">零一万物与客户团队并肩共创，把战略判断转化为可运行、可验证、可迭代的 AI 系统。</p>
+        </header>
+        <div class="diagram-export reveal d1 visible" data-lightbox-ready="true"><button type="button" class="diagram-export-trigger" aria-label="查看架构图大图：战略咨询与 FDE 共创架构"><img src="assets/media/diagrams/home-ai-consult-diagram.1.7.08175353.webp" alt="战略咨询与 FDE 共创架构" width="1232" height="520" loading="lazy"></button></div>
+        <footer class="home-ai-consult-foot">
+          <p>战略咨询定方向，FDE 进现场，双方围绕业务结果共同负责。</p>
+          <a href="contact.html#quick" class="btn btn-accent">预约咨询</a>
+        </footer>
+      </div></div></section>
+      <section class="section snug bg-paper home-solutions" id="home-industry-solutions"><div class="wrap"><div class="sec-head reveal"><div class="sec-head-title"><h2>场景方案</h2></div><p class="sec-head-desc">围绕高价值行业与关键流程，将大模型、Agent、数据治理和安全部署组合为可落地的业务方案。</p></div>
+        
+      <div class="home-solution-tabs reveal d1 visible" data-home-solution-tabs="">
+        <div class="home-solution-selector industry-selector" aria-label="场景方案分类">
+          <div class="home-solution-tablist industry-tabs" role="tablist">
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-0" aria-selected="false" aria-controls="home-solution-panel-0" tabindex="-1" data-home-solution-tab="0">新质生产力基地</button>
+            
+              <button class="home-solution-tab industry-tab is-active" type="button" role="tab" id="home-solution-tab-1" aria-selected="true" aria-controls="home-solution-panel-1" tabindex="0" data-home-solution-tab="1">主权 AI</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-2" aria-selected="false" aria-controls="home-solution-panel-2" tabindex="-1" data-home-solution-tab="2">供应链物流</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-3" aria-selected="false" aria-controls="home-solution-panel-3" tabindex="-1" data-home-solution-tab="3">制造</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-4" aria-selected="false" aria-controls="home-solution-panel-4" tabindex="-1" data-home-solution-tab="4">能源</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-5" aria-selected="false" aria-controls="home-solution-panel-5" tabindex="-1" data-home-solution-tab="5">农业</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-6" aria-selected="false" aria-controls="home-solution-panel-6" tabindex="-1" data-home-solution-tab="6">投资</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-7" aria-selected="false" aria-controls="home-solution-panel-7" tabindex="-1" data-home-solution-tab="7">教育</button>
+            
+              <button class="home-solution-tab industry-tab" type="button" role="tab" id="home-solution-tab-8" aria-selected="false" aria-controls="home-solution-panel-8" tabindex="-1" data-home-solution-tab="8">零售</button>
+            
+          </div>
+        </div>
+        <div class="home-solution-panels">
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-0" aria-labelledby="home-solution-tab-0" data-home-solution-panel="0" hidden="">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">新质生产力基地</p>
+                <h3>让 AI 成为区域产业升级的数智引擎</h3>
+                <a href="solution-productivity.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-productivity-base.webp" alt="新质生产力基地场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel is-active" role="tabpanel" id="home-solution-panel-1" aria-labelledby="home-solution-tab-1" data-home-solution-panel="1">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">主权 AI</p>
+                <h3>让 AI 成为国家级智能化能力底座</h3>
+                <a href="solution-government.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-sovereign-ai-industry-v2.webp" alt="主权 AI场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-2" aria-labelledby="home-solution-tab-2" hidden="" data-home-solution-panel="2">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">供应链物流</p>
+                <h3>让 AI 破解全球物流调度的复杂变量</h3>
+                <a href="solution-logistics.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-supply-chain-hero-style.webp" alt="供应链物流场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-3" aria-labelledby="home-solution-tab-3" hidden="" data-home-solution-panel="3">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">制造</p>
+                <h3>让 AI 重塑工厂的感知与决策</h3>
+                <a href="solution-manufacturing.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-manufacturing-industry-v2.webp" alt="制造场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-4" aria-labelledby="home-solution-tab-4" hidden="" data-home-solution-panel="4">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">能源</p>
+                <h3>让 AI 破解供需协同与智能调度难题</h3>
+                <a href="solution-energy.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-energy-industry-v2.webp" alt="能源场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-5" aria-labelledby="home-solution-tab-5" hidden="" data-home-solution-panel="5">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">农业</p>
+                <h3>让 AI 进入农业生产现场</h3>
+                <a href="solution-agriculture.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-agriculture-industry-v2.webp" alt="农业场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-6" aria-labelledby="home-solution-tab-6" hidden="" data-home-solution-panel="6">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">投资</p>
+                <h3>让 AI 构建可验证的投资决策机制</h3>
+                <a href="solution-investment.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-investment-industry-v2.webp" alt="投资场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-7" aria-labelledby="home-solution-tab-7" hidden="" data-home-solution-panel="7">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">教育</p>
+                <h3>让 AI 成为教育高质量发展的“超级助教 + 超级教师 + 超级导师”</h3>
+                <a href="solution-education.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-education-industry-v2.webp" alt="教育场景方案">
+              </figure>
+            </article>
+          
+            <article class="home-solution-panel" role="tabpanel" id="home-solution-panel-8" aria-labelledby="home-solution-tab-8" hidden="" data-home-solution-panel="8">
+              <div class="home-solution-copy">
+                <p class="home-solution-scenario">零售</p>
+                <h3>让 AI 重构人货场的全局经营决策</h3>
+                <a href="solution-retail.html" class="home-solution-link">了解方案 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+              </div>
+              <figure class="home-solution-media">
+                <img src="assets/media/home-solutions/home-solution-retail-industry-v2.webp" alt="零售场景方案">
+              </figure>
+            </article>
+          
+        </div>
+      </div>
+      </div></section>
+      <section class="section bg-night home-ai-value" id="one-project"><div class="wrap"><div class="sec-head reveal visible"><div class="sec-head-title"><h2>一号位工程，驱动企业 <em>AI 数智化转型</em></h2></div><p class="sec-head-desc">AI 转型的价值不在于多做几个试点，而在于由一号位牵引，把战略、组织、场景、数据与模型打通，让 AI 真正进入企业决策中枢。</p></div>
+        <div class="ai-value-grid reveal d1 visible">
+      <article class="ai-value-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-target"></use></svg></span></span>
+        <h3>咨询牵引，少走弯路</h3>
+        <p>与一号位共绘 AI 顶层蓝图，明确路线图、技术栈、产品矩阵与交付里程碑，让 AI 从一开始对准经营目标和 ROI。</p>
+      </article>
+      <article class="ai-value-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-boxes"></use></svg></span></span>
+        <h3>本体论建构业务地图</h3>
+        <p>把企业中的人、物、流程、事件和决策逻辑抽象为可计算对象，让模型理解业务地图，不只是读取数据。</p>
+      </article>
+      <article class="ai-value-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-rocket"></use></svg></span></span>
+        <h3>FDE共创，加速落地</h3>
+        <p>前沿部署工程师（FDE）深入业务一线，与客户团队共同拆解需求、接入数据、搭建原型、部署验证。</p>
+      </article>
+      <article class="ai-value-card">
+        <span class="oai-icon-box oai-icon-box--home"><span class="oai-icon oai-icon--lg" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-refresh-cw"></use></svg></span></span>
+        <h3>闭环运营，持续增效</h3>
+        <p>把场景实践沉淀为数据、模型和业务经验，让 AI 能力随业务演进，并持续反哺企业战略迭代。</p>
+      </article></div>
+        <div class="home-ai-value-action reveal d2"><a href="top-down.html" class="home-ai-value-more">查看更多 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a></div>
+      </div></section>
+      <section class="section bg-night home-news"><div class="wrap"><div class="sec-head reveal"><div class="sec-head-title"><h2>新闻动态</h2></div><p class="sec-head-desc">关注零一万物产品发布、战略合作、公司观点与媒体报道。</p></div>
+        <div class="home-news-grid reveal d1 visible">
+      <a href="https://mp.weixin.qq.com/s/1VUZ8tLmpwc_UFdiWCciXw" class="home-news-card" target="_blank" rel="noopener">
+        <figure class="home-news-thumb">
+          <img src="newsPhoto/News_01.webp" alt="">
+        </figure>
+        <div class="home-news-body">
+          <h3>哈萨克斯坦与零一万物成立 Q.AI 合资企业，前人工智能副部长德米特里·穆恩出任 CEO</h3>
+          <p>查看原文 →</p>
+        </div>
+      </a>
+      <a href="https://mp.weixin.qq.com/s/u71V3b_xA_s7yFmo9YbmBw" class="home-news-card" target="_blank" rel="noopener">
+        <figure class="home-news-thumb">
+          <img src="newsPhoto/News_02.webp" alt="">
+        </figure>
+        <div class="home-news-body">
+          <h3>零一万物携手世界500强正大集团：从AI养鸡到农业AI劳动系统，打造“AI+智慧农业”全球新范本</h3>
+          <p>查看原文 →</p>
+        </div>
+      </a>
+      <a href="https://mp.weixin.qq.com/s/pmWW0QfGjLIHQTuuvKs4Rw" class="home-news-card" target="_blank" rel="noopener">
+        <figure class="home-news-thumb">
+          <img src="newsPhoto/News_03.webp" alt="">
+        </figure>
+        <div class="home-news-body">
+          <h3>零一万物拿下超1.5亿元大单！牵手四川内江高新区打造AI新质生产力高地</h3>
+          <p>查看原文 →</p>
+        </div>
+      </a></div>
+        <div class="home-news-action reveal d2 visible"><a href="newsroom.html" class="home-news-more">查看更多 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a></div>
+      </div></section>
+      <section class="section tight bg-paper home-about"><div class="wrap"><div class="sec-head reveal visible"><div class="sec-head-title"><h2>关于我们</h2></div></div>
+        <div class="home-about-layout reveal d1 visible">
+          <div class="home-about-intro">
+            <p>零一万物成立于2023年5月，总部位于北京，由李开复博士领衔创立，成立六个月即晋级独角兽公司。作为 AI 2.0 与智能体变革的最前沿推动者，零一万物着眼 AI 时代全球的产业智能化转型契机，深耕全栈企业级解决方案、行业智能体落地应用及轻量化产业大模型训练。公司以“一号位工程”为核心纽带，全面发力全球企业 AI 与主权 AI 规模化落地，致力于将前沿的大模型技术转化为新质生产力，深度赋能实体经济高质量发展。</p>
+            <a href="about.html" class="home-about-more">查看更多 <span class="oai-icon oai-icon--sm" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#oai-arrow-right"></use></svg></span></a>
+          </div>
+          <div class="home-about-milestones">
+      <article class="home-about-milestone">
+        <time>2026.07</time>
+        <div>
+          <h3>万策平台发布</h3>
+          <p>发布企业AI决策中枢万策平台，并延展出老板 AI、投资官 AI、销冠 AI 三大应用。</p>
+        </div>
+      </article>
+      <article class="home-about-milestone">
+        <time>2026.01</time>
+        <div>
+          <h3>获国高新及北京“专精特新”中小企业</h3>
+          <p>获评国家级高新技术企业及北京市“专精特新”中小企业。</p>
+        </div>
+      </article>
+      <article class="home-about-milestone">
+        <time>2025.03</time>
+        <div>
+          <h3>万智平台发布</h3>
+          <p>基于自研大模型端到端技术栈，零一万物发布万智企业大模型一站式平台，涵盖模型部署、应用实践以及模型微调工具。</p>
+        </div>
+      </article>
+      <article class="home-about-milestone">
+        <time>2024.10</time>
+        <div>
+          <h3>Yi-Lightning 发布</h3>
+          <p>发布千亿参数 MoE 模型 Yi-Lightning，在国际权威盲测榜单 LMSYS 上排名世界第六，中国第一，刷新中国榜单历史最佳成绩。</p>
+        </div>
+      </article></div>
+        </div>
+      </div></section>
+      
+      <footer class="ft ft-compact"><div class="ft-inner"><div class="ft-grid">
+        <div class="ft-brand"><div class="nav-logo"><img class="nav-logo-img" src="branding/logo_cn_transparent.webp" alt="01.AI"></div><p>大模型赋能千行百业。</p></div>
+        
+      <div class="ft-col"><h5>产品与服务</h5><ul><li><a href="boss-ai.html">老板 AI</a></li><li><a href="topsales-ai.html">销冠 AI</a></li><li><a href="investor-ai.html">投资官 AI</a></li><li><a href="https://www.wanzhi.com/" target="_blank" rel="noopener" class="external">万智企业大模型平台</a></li><li><a href="./#home-ai-consulting">AI 转型咨询服务</a></li></ul></div>
+      <div class="ft-col"><h5>公司</h5><ul><li><a href="about.html">关于我们</a></li><li><a href="newsroom.html">新闻动态</a></li></ul></div>
+      <div class="ft-col"><h5>联系</h5><ul><li><a href="#" data-business-partnership="">商务合作</a></li><li><a href="#" data-quick="media">媒体问询</a></li><li><a href="careers.html">加入我们</a></li></ul></div>
+      </div><div class="ft-bottom"><div class="ft-legal"><span>© 2026 零一万物 01.AI</span><span>|</span><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802043841" target="_blank" rel="noopener"><img class="ft-legal-icon" src="assets/media/gongan-beian.webp" alt="" loading="lazy">京公网安备11010802043841号</a><span>|</span><a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">京ICP备2023028794号-1</a></div><div class="mono t-small text-on-dark-dim">北京</div></div></div></footer></div>
+<script src="assets/oai-icons.1.7.08175353.js"></script>
+<script src="assets/content/diagram-images.1.7.08175353.js"></script>
+<script src="assets/content/zh-CN.1.7.08175353.js"></script>
+<script src="assets/content/render.1.7.08175353.js"></script>
+<script src="assets/diagram-lightbox.1.7.08175353.js"></script>
+<script src="assets/app.1.7.08175353.js"></script><div class="modal modal-consult" aria-hidden="true">
+    <div class="modal-backdrop" data-close=""></div>
+    <div class="modal-dialog modal-demo" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" type="button" data-close="" aria-label="关闭">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M6 6l12 12M6 18L18 6"></path>
+        </svg>
+      </button>
+      <section class="modal-promise">
+        <div class="modal-kicker">企业 AI 转型咨询服务</div>
+        <h3 id="modal-pitch-title">让 AI 创造业务价值</h3>
+        <p class="modal-pitch-text" id="modal-pitch-text">我们将与您梳理业务目标、数据基础和部署要求，明确可验证的首阶段方案。</p>
+        <ul class="modal-benefits">
+          <li>以业务结果确定优先场景</li><li>评估数据、安全与部署要求</li><li>2 个工作日内与您联系</li>
+        </ul>
+        <p class="modal-trust">适用于企业管理者、业务负责人及 AI 转型团队。</p>
+      </section>
+      <section class="modal-form-side">
+        <div class="modal-head">
+          <h2 id="modal-title">预约咨询</h2>
+          <p id="modal-sub">请留下您的需求，我们将在 2 个工作日内与您联系。</p>
+        </div>
+        <form class="modal-form" id="modal-form" data-demo="">
+          
+          <input type="hidden" name="topic" id="modal-topic" value="business">
+          <div class="form-field">
+            <label>姓名 *</label>
+            <input type="text" name="name" placeholder="您的姓名" autocomplete="name" required="">
+          </div>
+          <div class="form-field">
+            <label>职务 *</label>
+            <input type="text" name="role" placeholder="您的职务" autocomplete="organization-title" required="">
+          </div>
+          <div class="form-field">
+            <label>邮箱 *</label>
+            <input type="email" name="email" placeholder="请输入邮箱" autocomplete="email" required="">
+          </div>
+          <div class="form-field">
+            <label>电话 *</label>
+            <input type="tel" name="phone" placeholder="请输入电话" autocomplete="tel" inputmode="tel" required="">
+          </div>
+          <div class="form-field">
+            <label>公司名称 *</label>
+            <input type="text" name="company" placeholder="公司名称" autocomplete="organization" required="">
+          </div>
+          <div class="form-field">
+            <label>官网或领英 *</label>
+            <input type="text" name="website" placeholder="官网或领英链接" autocomplete="url" required="">
+          </div>
+          <div class="form-field">
+            <label>意向 *</label>
+            <select name="purpose" required="">
+              <option value="" selected="" disabled="">请选择</option>
+              <option value="提供服务">提供服务</option><option value="探索合作">探索合作</option><option value="其他">其他</option>
+            </select>
+          </div>
+          <div class="form-field">
+            <label>您从何种渠道了解到我们？*</label>
+            <select name="source" required="">
+              <option value="" selected="" disabled="">请选择</option>
+              <option value="小红书">小红书</option><option value="抖音">抖音</option><option value="视频号">视频号</option><option value="微博">微博</option><option value="微信公众号">微信公众号</option><option value="线下峰会">线下峰会</option><option value="其他">其他</option>
+            </select>
+          </div>
+          <div class="form-field full">
+            <label>简单介绍一下意向详情 *</label>
+            <textarea name="introduction" placeholder="当前需引入AI应用解决的场景：
+待解决的问题：
+预期效果：
+可投入的预算：" rows="4" required=""></textarea>
+          </div>
+          <label class="modal-checkbox-field">
+            <input type="checkbox" name="onlineExperience" value="yes">
+            <span>需要在线体验</span>
+          </label>
+          <div class="modal-actions full">
+            <button type="submit" class="btn btn-primary">
+              提交
+            </button>
+          </div>
+        </form>
+      </section>
+    </div></div><div class="modal modal-consult modal-business-partnership" aria-hidden="true">
+    <div class="modal-backdrop" data-close=""></div>
+    <div class="modal-dialog modal-demo" role="dialog" aria-modal="true" aria-labelledby="business-modal-title">
+      <button class="modal-close" type="button" data-close="" aria-label="关闭">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M6 6l12 12M6 18L18 6"></path>
+        </svg>
+      </button>
+      <section class="modal-promise">
+        <div class="modal-kicker">商务合作</div>
+        <h3>告诉我们您的合作意向</h3>
+        <p class="modal-pitch-text">请留下合作方向、公司背景和所需支持，我们会将需求转交给合适团队跟进。</p>
+        <ul class="modal-benefits">
+          <li>明确提供服务、探索合作或其他意向</li><li>留下公司、网站或领英与联系信息</li><li>说明是否需要在线体验</li>
+        </ul>
+        <p class="modal-trust">适用于解决方案伙伴、服务商、生态合作方及企业联系人。</p>
+      </section>
+      <section class="modal-form-side">
+        <div class="modal-head">
+          <h2 id="business-modal-title">商务合作</h2>
+          <p>请填写以下信息，商务合作团队会尽快与您联系。</p>
+        </div>
+        <form class="modal-form business-partnership-form" id="business-partnership-form" data-demo="">
+          
+          <input type="hidden" name="topic" value="business-partnership">
+          <div class="form-field">
+            <label>姓名 *</label>
+            <input type="text" name="name" placeholder="您的姓名" autocomplete="name" required="">
+          </div>
+          <div class="form-field">
+            <label>职务 *</label>
+            <input type="text" name="role" placeholder="您的职务" autocomplete="organization-title" required="">
+          </div>
+          <div class="form-field">
+            <label>邮箱 *</label>
+            <input type="email" name="email" placeholder="请输入邮箱" autocomplete="email" required="">
+          </div>
+          <div class="form-field">
+            <label>电话 *</label>
+            <input type="tel" name="phone" placeholder="请输入电话" autocomplete="tel" inputmode="tel" required="">
+          </div>
+          <div class="form-field">
+            <label>公司名称 *</label>
+            <input type="text" name="company" placeholder="公司名称" autocomplete="organization" required="">
+          </div>
+          <div class="form-field">
+            <label>官网或领英 *</label>
+            <input type="text" name="website" placeholder="官网或领英链接" autocomplete="url" required="">
+          </div>
+          <div class="form-field">
+            <label>意向 *</label>
+            <select name="purpose" required="">
+              <option value="" selected="" disabled="">请选择</option>
+              <option value="提供服务">提供服务</option><option value="探索合作">探索合作</option><option value="其他">其他</option>
+            </select>
+          </div>
+          <div class="form-field">
+            <label>您从何种渠道了解到我们？*</label>
+            <select name="source" required="">
+              <option value="" selected="" disabled="">请选择</option>
+              <option value="小红书">小红书</option><option value="抖音">抖音</option><option value="视频号">视频号</option><option value="微博">微博</option><option value="微信公众号">微信公众号</option><option value="线下峰会">线下峰会</option><option value="其他">其他</option>
+            </select>
+          </div>
+          <div class="form-field full">
+            <label>简单介绍一下意向详情 *</label>
+            <textarea name="introduction" placeholder="当前需引入AI应用解决的场景：
+待解决的问题：
+预期效果：
+可投入的预算：" rows="4" required=""></textarea>
+          </div>
+          <label class="modal-checkbox-field">
+            <input type="checkbox" name="onlineExperience" value="yes">
+            <span>需要在线体验</span>
+          </label>
+          <div class="modal-actions full">
+            <button type="submit" class="btn btn-primary">提交</button>
+          </div>
+        </form>
+      </section>
+    </div></div><div class="modal modal-consult modal-media-inquiry" aria-hidden="true">
+    <div class="modal-backdrop" data-close=""></div>
+    <div class="modal-dialog modal-demo" role="dialog" aria-modal="true" aria-labelledby="media-modal-title">
+      <button class="modal-close" type="button" data-close="" aria-label="关闭">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M6 6l12 12M6 18L18 6"></path>
+        </svg>
+      </button>
+      <section class="modal-promise">
+        <div class="modal-kicker">媒体问询</div>
+        <h3>请告诉我们您的媒体需求</h3>
+        <p class="modal-pitch-text">请留下您的姓名、单位机构、职务或专业主页，并说明采访、资料获取、信息核实或媒体合作需求，便于我们准确跟进。</p>
+        <p class="modal-trust">适用于记者、编辑、分析师、研究机构代表及媒体合作伙伴</p>
+      </section>
+      <section class="modal-form-side">
+        <div class="modal-head">
+          <h2 id="media-modal-title">媒体问询</h2>
+          <p>请填写以下信息，公关团队会尽快与您联系。</p>
+        </div>
+        <form class="modal-form media-inquiry-form" id="media-inquiry-form" data-demo="">
+          <input type="hidden" name="topic" value="media-inquiry">
+          <div class="form-field">
+            <label>姓名 *</label>
+            <input type="text" name="name" placeholder="您的姓名" autocomplete="name" required="">
+          </div>
+          <div class="form-field">
+            <label>微信号 *</label>
+            <input type="text" name="website" placeholder="请输入微信号" autocomplete="url" required="">
+          </div>
+          <div class="form-field">
+            <label>电话 *</label>
+            <input type="tel" name="phone" placeholder="请输入电话" autocomplete="tel" inputmode="tel" required="">
+          </div>
+          <div class="form-field">
+            <label>邮箱 *</label>
+            <input type="email" name="email" placeholder="请输入邮箱" autocomplete="email" required="">
+          </div>
+          <div class="form-field full">
+            <label>简单介绍一下意向详情 *</label>
+            <textarea name="introduction" placeholder="请简要说明媒体名称、报道主题、截止时间及所需资料。" rows="5" required=""></textarea>
+          </div>
+          <div class="modal-actions full">
+            <button type="submit" class="btn btn-primary">提交</button>
+          </div>
+        </form>
+      </section>
+    </div></div>
+
+
+</body></html>
