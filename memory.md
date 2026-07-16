@@ -539,6 +539,12 @@
   - 投递优先级:①NVIDIA JR2015006②NVIDIA JR2015012③安谋SOC Driver(内推)④NVIDIA JR2014724。
   - ★关键:NVIDIA/安谋都不卡学历,是候选人(西安理工非211)躺平型外企高薪对口真路径(此前工行/中行数据中心不卡但薪资低15-30w;NVIDIA50-80万+RSU/安谋40-80万更高且对口)。
 - 第45轮1 agent在跑:核实5家仿真公司(清程/松应/视星/光轮/星海图)+银联北京精确地址。
+- **★★进取型投递执行清单·云杉/深势/硅基已落盘**(第44轮,飞书Hire+官网+GitHub核实):
+  - 云杉DeepFlow:hr@yunshan.net邮件直发(已验证邮箱)+电话400-9696-121,无公开ATS靠邮件+社区,**不卡学历**(eBPF人才稀缺)。★关键加分:先在GitHub deepflowio/deepflow提1-2个PR(修eBPF issue)邮件附PR链接=最短路径。技术栈Agent=Rust+eBPF/C。P0最快可投(2.4km)。
+  - 深势科技:飞书Hire门户dptechnology.jobs.feishu.cn/index **Playwright确认在线219岗在招**,★HPC工程师(ID7308616169388443923)确认仍在招。修正前轮404(用了多维表格URL非Hire岗位URL)。硕士达标无211要求但AI4S可能偏好CS名校,建议门户+hr@dp.tech双投。JD perf/VTune/SIMD/锁竞争与内核1:1命中。P0(4.6km)。
+  - 硅基流动:★飞书表单是"商务需求反馈表"非招聘!无公开门户(飞书Hire 404/LinkedIn 0/BOSS无)。靠contact@siliconflow.cn+脉脉内推+GitHub(siliconflow Mooncake/onediff)提PR。大概率卡学历(20亿美元头部AI Infra团队多清北字节),需内推破局。P1(3.18km)。
+  - 三家立即可投:①DeepFlow发hr@yunshan.net(附GitHub PR)②深势飞书Hire投HPC岗+hr@dp.tech③硅基脉脉找内推+contact@siliconflow.cn。
+  - 至此进取型投递执行清单齐备:月之暗面(脉脉内推锁3岗)+银河通用(mokahr5岗)+云杉(邮件+PR)+深势(飞书Hire)+硅基(内推)+百图生科(Boss)。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。

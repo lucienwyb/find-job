@@ -2,7 +2,551 @@
   "company": "银河通用 (Galbot)",
   "portal": "https://app.mokahr.com/social-recruitment/yinhetongyong/165929",
   "scrapeDate": "2026-07-16",
-  "totalJobs": 0,
-  "jobs": [],
-  "structuredCards": []
+  "totalJobs": 72,
+  "jobs": [
+    {
+      "title": "机械臂规划控制资深工程师",
+      "publishDate": "2026-07-13",
+      "department": "硬件中心 硬件中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身智能仿真平台研发工程师",
+      "publishDate": "2026-07-13",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "嵌入式应用工程师--人形机器人",
+      "publishDate": "2026-07-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "嵌入式应用工程师--人形机器人\n发布于 2026-07-08"
+    },
+    {
+      "title": "急\n机器人数据质量工程师",
+      "publishDate": "2026-07-02",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "急\n机器人数据质量工程师\n发布于 2026-07-02"
+    },
+    {
+      "title": "具身大模型算法工程师-工业预训练",
+      "publishDate": "2026-07-01",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "机器人仿真与强化学习算法工程师",
+      "publishDate": "2026-07-01",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "机器人规控软件测试工程师",
+      "publishDate": "2026-06-26",
+      "department": "",
+      "type": "",
+      "category": "测试类",
+      "fullText": "机器人规控软件测试工程师\n发布于 2026-06-26"
+    },
+    {
+      "title": "急\n机器人规控软件工程师",
+      "publishDate": "2026-06-25",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "急\n机器人规控软件工程师\n发布于 2026-06-25"
+    },
+    {
+      "title": "系统性能测试工程师",
+      "publishDate": "2026-06-25",
+      "department": "",
+      "type": "",
+      "category": "测试类",
+      "fullText": "系统性能测试工程师\n发布于 2026-06-25"
+    },
+    {
+      "title": "设备标定专家",
+      "publishDate": "2026-06-24",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "双足人形机器人控制算法工程师（WBC/MPC方向）",
+      "publishDate": "2026-06-23",
+      "department": "硬件中心 硬件中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "规控算法leader",
+      "publishDate": "2026-06-18",
+      "department": "硬件中心 硬件中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "BSP开发工程师（网络方向）",
+      "publishDate": "2026-06-12",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "BSP开发工程师（网络方向）\n发布于 2026-06-12"
+    },
+    {
+      "title": "急\n机械工程师",
+      "publishDate": "2026-06-12",
+      "department": "",
+      "type": "",
+      "category": "硬件类",
+      "fullText": "急\n机械工程师\n发布于 2026-06-12\n硬件中心\n硬件中心\n|\n全职\n全职\n|\n硬件类\n硬件类\n|\n北京市\n北京市\n岗位职责1.新产品预研2.研发测试，分析与记录3.产品分支研发4.与大模型和算法团队共同研发产品任职要求1.机械设计或者机械工程相关专业，本科以及以上学历；2.精通3D软件，对有限元计算分析软件熟悉的尤佳；3.竞赛经验优先；4.分析问题解决问题能力强，具有创新精神；5.具有一定"
+    },
+    {
+      "title": "急\n架构师（具身智能数据平台）",
+      "publishDate": "2026-06-11",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "急\n架构师（具身智能数据平台）\n发布于 2026-06-11"
+    },
+    {
+      "title": "急\n具身数据工程师 · SDK / 工具链方向",
+      "publishDate": "2026-06-10",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "急\n具身数据工程师 · SDK / 工具链方向\n发布于 2026-06-10"
+    },
+    {
+      "title": "急\n人形机器人系统开发工程师",
+      "publishDate": "2026-06-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "急\n人形机器人系统开发工程师\n发布于 2026-06-08"
+    },
+    {
+      "title": "相机应用开发工程师",
+      "publishDate": "2026-06-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "相机应用开发工程师\n发布于 2026-06-08"
+    },
+    {
+      "title": "机器人系统集成开发工程师",
+      "publishDate": "2026-06-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人系统集成开发工程师\n发布于 2026-06-08"
+    },
+    {
+      "title": "机器人系统安全工程师",
+      "publishDate": "2026-06-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人系统安全工程师\n发布于 2026-06-08"
+    },
+    {
+      "title": "机器人规控算法工程师-苏州",
+      "publishDate": "2026-06-04",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "机器人业务软件开发工程师",
+      "publishDate": "2026-06-04",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身数据算法工程师",
+      "publishDate": "2026-06-03",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "SLAM算法工程师",
+      "publishDate": "2026-06-03",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身大模型算法工程师-工业后训练",
+      "publishDate": "2026-06-01",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "机器人学习算法工程师-工业操作策略",
+      "publishDate": "2026-06-01",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "软件研发质量工程师",
+      "publishDate": "2026-06-01",
+      "department": "",
+      "type": "",
+      "category": "硬件类",
+      "fullText": "软件研发质量工程师\n发布于 2026-06-01"
+    },
+    {
+      "title": "具身智能应用工程师-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身仿真工程师-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身操作算法工程师（力控方向）-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身控制算法专家-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身大模型算法工程师-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身大模型算法专家（VLA/VLM）-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身感知算法专家-苏州",
+      "publishDate": "2026-05-26",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "资深应用开发工程师",
+      "publishDate": "2026-05-22",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "资深应用开发工程师\n发布于 2026-05-22"
+    },
+    {
+      "title": "算子开发工程师",
+      "publishDate": "2026-05-15",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "训练基础设施工程师",
+      "publishDate": "2026-05-15",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "底层推理工程师",
+      "publishDate": "2026-05-15",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "具身多模态大模型算法工程师（数据方向）",
+      "publishDate": "2026-05-13",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "机器人全栈工程师（初/中/高级）",
+      "publishDate": "2026-05-12",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "现场技术工程师-苏州",
+      "publishDate": "2026-05-09",
+      "department": "12 - 25 K/月",
+      "type": "应用开发与技术支持部 应用开发与技术支持部",
+      "category": "全职"
+    },
+    {
+      "title": "机器人应用开发工程师（具身智能 & 情感交互方向）",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人应用开发工程师（具身智能 & 情感交互方向）\n发布于 2026-05-08"
+    },
+    {
+      "title": "服务端工程师（机器人&情感交互方向）",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "服务端工程师（机器人&情感交互方向）\n发布于 2026-05-08"
+    },
+    {
+      "title": "仿真开发工程师（应用方向）",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "仿真开发工程师（应用方向）\n发布于 2026-05-08"
+    },
+    {
+      "title": "机器人应用开发工程师",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人应用开发工程师\n发布于 2026-05-08\n应用开发与技术支持部\n应用开发与技术支持部\n|\n全职\n全职\n|\n软件类\n软件类\n|\n北京市\n北京市\n1. 负责机器人开发的工作，能支持具身智能机器人应用层面开发。2. 负责支持机器人实验搭建和日常硬件维修工作。\n\n1. 负责机器人开发的工作，能支持具身智能机器人应用层面开发。\n\n2. 负责支持机器人实验搭建和日常硬件维修工作。\n\n立即投递"
+    },
+    {
+      "title": "后端开发工程师（数据平台）",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "后端开发工程师（数据平台）\n发布于 2026-05-08"
+    },
+    {
+      "title": "机器人规控软件工程师",
+      "publishDate": "2026-05-08",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人规控软件工程师\n发布于 2026-05-08"
+    },
+    {
+      "title": "具身大模型算法工程师-北京",
+      "publishDate": "2026-05-08",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "人机交互算法工程师",
+      "publishDate": "2026-05-08",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "强化学习算法工程师-苏州",
+      "publishDate": "2026-05-08",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "感知算法工程师-苏州",
+      "publishDate": "2026-05-08",
+      "department": "工业事业部 工业事业部",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "灵巧手操作算法工程师",
+      "publishDate": "2026-05-08",
+      "department": "算法中心 算法中心",
+      "type": "全职 全职",
+      "category": "算法类"
+    },
+    {
+      "title": "操作系统研发工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "操作系统研发工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "中间件软件高级工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "中间件软件高级工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "嵌入式软件经理",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "嵌入式软件经理\n发布于 2026-05-07"
+    },
+    {
+      "title": "BSP 开发工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "BSP 开发工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "高级嵌入式开发工程师-MCU",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "高级嵌入式开发工程师-MCU\n发布于 2026-05-07"
+    },
+    {
+      "title": "机器人系统软件开发工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人系统软件开发工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "软件开发工程师（客户生态）",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "软件开发工程师（客户生态）\n发布于 2026-05-07"
+    },
+    {
+      "title": "机器人应用接口开发工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "机器人应用接口开发工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "嵌入式软件开发工程师--苏州",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "嵌入式软件开发工程师--苏州\n发布于 2026-05-07"
+    },
+    {
+      "title": "嵌入式应用开发工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "嵌入式应用开发工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "软件测试代表",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "测试类",
+      "fullText": "软件测试代表\n发布于 2026-05-07"
+    },
+    {
+      "title": "机械工程师（预研）",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "硬件类",
+      "fullText": "机械工程师（预研）\n发布于 2026-05-07"
+    },
+    {
+      "title": "机械工程师",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "硬件类",
+      "fullText": "机械工程师\n发布于 2026-05-07"
+    },
+    {
+      "title": "高级硬件工程师--机器人",
+      "publishDate": "2026-05-07",
+      "department": "",
+      "type": "",
+      "category": "硬件类",
+      "fullText": "高级硬件工程师--机器人\n发布于 2026-05-07"
+    },
+    {
+      "title": "高级前端开发工程师",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "高级前端开发工程师\n发布于 2026-04-29"
+    },
+    {
+      "title": "应用开发工程师",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "应用开发工程师\n发布于 2026-04-29"
+    },
+    {
+      "title": "后台开发工程师",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "软件类",
+      "fullText": "后台开发工程师\n发布于 2026-04-29"
+    },
+    {
+      "title": "测试开发工程师（SDK二开+CICD自动化）",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "测试类",
+      "fullText": "测试开发工程师（SDK二开+CICD自动化）\n发布于 2026-04-29\n应用开发与技术支持部\n应用开发与技术支持部\n|\n全职\n全职\n|\n测试类\n测试类\n|\n北京市\n北京市\n岗位职责：1.负责SDK二开测试开发与需求跟进。2.负责CICD相关工具链开发与插件配置。3.负责自动化框架与平台开发。4.负责接口层自动化代码开发。岗位要求：1.3年经验以上。2.具备shell，python，c++脚本和"
+    },
+    {
+      "title": "仿真系统测试工程师",
+      "publishDate": "2026-04-29",
+      "department": "",
+      "type": "",
+      "category": "测试类",
+      "fullText": "仿真系统测试工程师\n发布于 2026-04-29\n应用开发与技术支持部\n应用开发与技术支持部\n|\n全职\n全职\n|\n测试类\n测试类\n|\n北京市\n北京市\n职位描述1.负责仿真系统测试支持与需求跟进。2.负责仿真系统CICD相关工具链开发与配置。3.负责仿真系统自动化框架与平台开发。 岗位要求：1.3年经验以上。2.具备shell，python，c++脚本和代码开发能力。3.熟悉jenkins常规插件配"
+    },
+    {
+      "title": "现场支持工程师-北京",
+      "publishDate": "2026-04-29",
+      "department": "应用开发与技术支持部 应用开发与技术支持部",
+      "type": "全职 全职",
+      "category": "技术支持类"
+    }
+  ]
 }

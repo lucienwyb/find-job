@@ -1,0 +1,23 @@
+{
+  "company": "深势科技 (DP Technology)",
+  "key": "dptechnology",
+  "urls_tried": [
+    {
+      "url": "https://www.dptechnology.com.cn/careers",
+      "status": "error",
+      "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dptechnology.com.cn/careers\nCall log:\n  - navigating to \"https://www.dptechnology.com.cn/careers\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "url": "https://www.dptechnology.com.cn/",
+      "status": "error",
+      "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.dptechnology.com.cn/\nCall log:\n  - navigating to \"https://www.dptechnology.com.cn/\", waiting until \"domcontentloaded\"\n"
+    }
+  ],
+  "portal_accessible": false,
+  "body_text": "",
+  "api_data": [],
+  "analysis": {
+    "keyword_matches": [],
+    "estimated_total_positions": 0
+  }
+}

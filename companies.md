@@ -1544,3 +1544,44 @@
 2. **NVIDIA JR2015012**(北京/沪6+年RDMA/DOCA)——高度对口
 3. **安谋科技SOC Driver**(北京5+年)——量身定制级,Zynq bring-up+ARM内核驱动完美匹配(建议内推)
 4. NVIDIA JR2014724(上海Networking+Virtualization)——备选
+
+## ★★进取型投递执行清单·云杉/深势/硅基（第44轮，2026-07-16）
+> 飞书Hire+官网+GitHub核实。从"知道有岗"推进到"可直接投递"。
+
+### 1. 云杉网络DeepFlow — hr@yunshan.net邮件直发,不卡学历(P0最快可投)
+- **渠道核实**:hr@yunshan.net(yunshan.net官网contact.html确认)+info@yunshan.net+电话400-9696-121。公司全称北京云杉世纪网络科技有限公司,成府路28号优盛大厦D座1111(2.4km)。无公开ATS/招聘门户(deepflow.io SPA无careers页),靠邮件+社区。
+- **技术栈**:Agent=Rust+eBPF/C;Server=Go。GitHub 4.2k stars(github.com/deepflowio/deepflow)。
+- **投递步骤**:①邮件hr@yunshan.net,标题"[应聘]eBPF/内核开发工程师—王毅博—7年内核/eBPF经验",正文亮战绩(统信4年bpf~1000补丁+上交所UDP15万并发<100us+百度云IaaS)②★关键加分:先在GitHub deepflowio/deepflow提1-2个PR(修eBPF issue,仓库有大量ebpf标签),邮件附PR链接=最短路径证明能力。
+- **不卡学历**:技术驱动创业,eBPF人才稀缺实际不卡。
+- **简历要点**:eBPF(bpf~1000补丁量化)/Rust(C精通系统编程可迁移)/内核网络性能(上交所<100us)/可观测性(eBPF核心栈+perf/crash)/跨平台(闻翔Zynq ARM)。
+
+### 2. 深势科技DP Technology — 飞书Hire门户直投,HPC岗确认在招(P0)
+- **渠道核实**:飞书Hire门户dptechnology.jobs.feishu.cn/index **Playwright渲染确认在线,219岗在招**。★HPC工程师(ID7308616169388443923)**仍在招**(搜索命中)。地址鼎好DH3大厦A座12层(4.6km)。发布2023-12-04至今active。hr@dp.tech。
+- **★修正前轮**:之前404是因用了`app.feishu.cn/base/<ID>`多维表格URL(非Hire岗位详情URL)。正确入口=飞书Hire门户搜索"高性能计算工程师"。直链dptechnology.jobs.feishu.cn/index/?keywords=高性能计算工程师。
+- **投递步骤**:①打开飞书Hire门户②搜"高性能计算工程师"③点岗位→看JD→"申请"④注册飞书Hire(手机号验证)⑤上传PDF简历⑥填在线表单(学历/工作)⑦提交。建议同时发hr@dp.tech邮件正文亮战绩争取跳初筛。
+- **学历**:JD"计算机相关专业研究生及以上"——候选人硕士达标层次,JD无211/985要求。风险:AI4S公司HR初筛可能偏好CS名校,建议邮件+门户双投,强调7年内核实战覆盖体系结构/OS/并行计算。若硕士专业非CS需强调实战覆盖。
+- **JD原文(已抓)**:职责=AI4S核心模块x86/ARM/GPU/昇腾/NPU移植优化+C++/Rust高性能组件+性能瓶颈分析(CPU/GPU利用率/内存带宽/缓存命中/锁竞争)+SIMD/向量化/多线程/流水线/异步零拷贝;要求=perf/VTune/Nsight/火焰图+缓存miss/分支预测/内存带宽/锁竞争+CUDA/OpenCL/OpenMP/MPI+AVX/NEON。
+- **简历要点**:perf/VTune(7年perf/crash实战+bpf~1000补丁)/SIMD AVX·NEON(闻翔Zynq ARM NEON+上交所<100us需SIMD优化)/锁竞争(上交所15万并发无锁细粒度锁)/x86·ARM移植(Zynq+统信多架构)/内存带宽缓存miss(内核级L1/L2/LLC理解)/高性能网络(上交所UDP=JD"高性能网络"优先项直接命中)。
+
+### 3. 硅基流动SiliconFlow — 无公开门户需内推,大概率卡学历(P1)
+- **渠道核实**:★飞书表单shrcn2G8XKaFfNasfwD1lgDUbcb Playwright渲染确认有效但**是"商务需求反馈表"非招聘表单**(字段姓名/电话/企业/邮箱/使用方式)。官网siliconflow.cn无careers页(仅contact@siliconflow.cn)。飞书Hire siliconflow.jobs.feishu.cn→404不存在。LinkedIn搜SiliconFlow China=0结果。拉勾/BOSS无公开职位。GitHub github.com/siliconflow有BizyAir/Mooncake(Kimi推理serving)/onediff推理infra项目。
+- **结论**:无公开招聘门户,靠内推+定向联系。
+- **投递步骤(三管齐下)**:①邮件contact@siliconflow.cn标题"[求职]推理Infra/内核性能工程师—王毅博—7年内核/eBPF"正文亮战绩问是否有推理Infra岗②脉脉搜"硅基流动"员工重点找Infra/推理架构团队求内推③GitHub在siliconflow项目(Mooncake/onediff)提PR或Issue展示能力④飞书表单兜底第7题"其他需求"写求职咨询。
+- **学历**:无公开JD,但估值20亿美元+头部AI Infra团队多清华北大字节,**大概率卡学历**(非211硕士可能初筛过滤)。破局=内推+直接展示战绩绕初筛。
+- **简历要点**:高并发推理服务(上交所UDP15万并发<100us低延迟高并发Infra顶级证据)/内核级性能(bpf~1000补丁+perf/crash)/网络栈优化(零拷贝/epoll/内核旁路=Mooncake KV-cache transfer直接命中)/云Infra(百度云IaaS)/跨平台移植(Zynq GPU/NPU异构)/Rust(C可迁移)。
+
+### 三家对比
+| 维度 | DeepFlow | 深势 | 硅基流动 |
+|---|---|---|---|
+| 投递渠道 | hr@yunshan.net邮件 | 飞书Hire门户直投 | contact@siliconflow.cn+脉脉内推 |
+| 渠道有效性 | 已验证邮箱 | 已验证岗位在招(219岗) | 表单商务非招聘需内推 |
+| 需注册 | 否(邮件) | 是(飞书Hire) | 否(邮件/脉脉) |
+| 卡学历 | 不卡 | 硕士达标无211要求 | 大概率卡需内推破 |
+| 匹配度 | 极高(eBPF+Agent) | 极高(perf/SIMD/C++1:1) | 高(推理Infra内核性能) |
+| 距离 | 2.4km | 4.6km | 3.18km |
+| 优先级 | P0(最快可投) | P0(岗位确认在招) | P1(需找内推) |
+
+### 立即可执行
+1. **DeepFlow**:现在发hr@yunshan.net(附GitHub PR最佳)
+2. **深势**:现在飞书Hire门户注册投HPC工程师岗+发hr@dp.tech
+3. **硅基流动**:脉脉找内推人+发contact@siliconflow.cn试探
