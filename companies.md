@@ -797,3 +797,56 @@
 - 深势HPC岗是本轮最大发现:JD技能与候选人1:1命中。
 - 百度内部转岗PaddleScience是被低估的零成本路径。
 - 学历真相:大厂+工程岗导向创业公司本科无障碍;深势纸面硕士可破格;中科院正编需博士聘用制本科可进但天花板低。
+
+## ★★进取型·8家招聘门户真实JD二次突破（第36轮headless，2026-07-16）
+> playwright渲染DOM拿明文JD(necromancer加密但前端解密渲染后DOM即明文)。地平线hotjob API明文JSON。原始数据存/pulp/find-job/r36b_*.txt/json。
+
+### ★月之暗面 Moonshot — 新突破！eBPF直接命中JD原文
+> 门户:app.mokahr.com/apply/moonshot/148506渲染成功,30+岗真实JD。careers.kimi.com落地页。
+- **A. 高性能分布式存储工程师**|2026-07-16发布|北京 — JD原文:"研发大模型推理服务高性能KVCache;扎实C++/Rust/Go,熟悉多线程/无锁/异步/内存管理,**性能分析(Perf、eBPF)**有较深理解;IOUring/NVME/SPDK/RDMA;Ceph/3FS/RocksDB" — **匹配90+**,eBPF/perf+百度云IaaS对口
+- **B. 调度器开发工程师**|2026-05-27|北京 — JD原文:"K8s平台支撑大模型训推;优化容器镜像分发千节点Pod秒级启动;**eBPF/Prometheus**训练任务资源画像异常诊断;精通Go" — 匹配85
+- **C. 系统应用工程师**|2025-12-02|北京 — Function Call/MCP/Agent融入产品,LLM生产管线(网关/任务流),分布式/API/DevOps — 匹配82,**Agent应用架构师方向对口**
+- D. RL Infra研究工程师(偏RL算法78) E. Research Scientist Agentic RL/Infra(高端研究岗75)
+- 薪资:mokahr公开页不显示需登录。入口:careers.kimi.com / app.mokahr.com/apply/moonshot/148506
+
+### ★银河通用 GALBOT — 30软件岗全JD+真实薪资
+> 门户:app.mokahr.com/social-recruitment/yinhetongyong/165929,124岗(软件30)。DOM渲染拿薪资。
+- **A. 操作系统研发工程师**|2026-05-07|北京 — JD原文:"Linux内核核心模块(调度/内存/FS/IO/网络协议栈)设计开发优化;内核层性能/稳定性/安全;优化内存管理,调优中断子系统降延迟抖动;OS层高效资源调度**支持大规模Agent并发**;3年+内核经验统招本科+" — **匹配95**,内核核心模块+Agent并发方向
+- **B. 嵌入式应用工程师--人形机器人**|2026-07-08|北京 — **薪资20-40K/月(真实)**。C精通+C++/ARMv8/v7/Linux传感器/网络优化 — 匹配90
+- **C. 机器人系统软件开发工程师**|2026-05-07|北京 — 嵌入式OS/**内核/虚拟化**技术研发,分布式实时,PCIE/TSN,6年+ — 匹配88
+- **D. BSP开发工程师(网络方向)**|2026-06-12|深圳 — 5年+C精通/Linux驱动(ethernet/wifi/bt)/底层/Jetson AGX Orin BSP优先 — 匹配85
+- E.中间件高级工程师(82) F.人形机器人系统开发(82) G.机器人系统安全(80) H.架构师-具身数据平台(Agent方向85)
+- 入口:mokahr门户直接投。
+
+### ★地平线 Horizon — 新突破！257岗/26高匹配,hotjob API明文
+> 门户:wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/social.html,API listPosition返回JSON明文(非加密)。257岗(算法68/芯片49/软件56/系统3)。
+最匹配(内核/驱动/系统/Agent直接命中):
+- 芯片平台驱动开发工程师(Linux/BSP)|软件|北京/南京|2025-12-09
+- MCU操作系统开发工程师|软件|2026-04-15
+- SoC系统软件工程师(Boot&DDR)|软件|2026-04-15
+- SOC系统安全工程师|软件|2026-04-15
+- Display驱动开发工程师|2026-03-26
+- 操作系统研发(地瓜AI编译器)|系统|2025-02-10
+高匹配(Infra/架构/Agent):
+- **Agent全栈开发工程师(地瓜)**|软件|北京|2026-04-10 ★Agent方向
+- 具身智能云与AI Infra解决方案架构师|产品|北京|2026-07-13
+- 模型推理Infra工程师|算法|北京|2026-06-02
+- AI编译器专家/AI芯片工具链架构师|2026-01-23
+- 分布式存储研发工程师|2026-07-15
+- 资深网络架构师(AI Fabric)|2026-05-22
+- 后端运维工程师(AI基础设施-GPU基建)|2026-04-13
+- 薪资:hotjob公开页不显示需登录。入口:wecruit.hotjob.cn。
+
+### 未突破
+- 银河航天:galaxy.zhiye.com.cn**域名已停用(停放页)**,投递改猎聘liepin/9614836+hr@yinhe.ht。第18轮67岗数据源于历史缓存现不可复现。
+- 智谱:mokahr slug已变更/不再用mokahr,zhipuai.cn/zh/joinus仅类别无岗位列表。需登录找正确slug。
+- 星动纪元:robotera.com/#/about/join无职位列表,HR@robotera.com邮件咨询。
+- 零一万物:01.ai/join营销页无招聘功能,可能转企业定制模式,内推/HR直联。
+- 千乘探索:所有域名不可达,脉脉/LinkedIn联系。
+
+### ★关键技术发现(供后续轮复用)
+- mokahr两路径:social-recruitment/{slug}(Galbot成功) vs apply/{slug}(Moonshot成功)。智谱slug两路径都不对。
+- mokahr necromancer加密但前端JS解密渲染到DOM,headless渲染后DOM文本即明文JD。
+- hotjob.cn(地平线)API返回JSON明文非加密,直接解析。
+- 银河航天zhiye门户已死(停放页),猎聘193岗是当前唯一数据源。
+- ★eBPF直接命中:月之暗面"高性能分布式存储工程师"JD原文明确要求"性能分析(Perf、eBPF)"+IOUring/NVME/SPDK/RDMA,候选人eBPF/perf+上交所UDP低延时对口;地平线"调度器"也提eBPF/Prometheus。
