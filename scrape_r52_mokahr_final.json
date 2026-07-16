@@ -1,0 +1,602 @@
+{
+  "月之暗面 Moonshot": [
+    {
+      "name": "国内用户增长专家（投放方向）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2025-07-11",
+      "updatedAt": "2026-07-16",
+      "openedAt": "2025-12-07"
+    },
+    {
+      "name": "Partnership Development Manager",
+      "department": "",
+      "city": "海淀区",
+      "createdAt": "2026-07-16",
+      "updatedAt": "2026-07-16",
+      "openedAt": "2026-07-16"
+    },
+    {
+      "name": "高性能分布式存储工程师",
+      "department": "",
+      "city": "",
+      "createdAt": "2026-07-03",
+      "updatedAt": "2026-07-16",
+      "openedAt": "2026-07-03"
+    },
+    {
+      "name": "数据安全专家",
+      "department": "",
+      "city": "黄浦区",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-15",
+      "openedAt": "2026-07-14"
+    },
+    {
+      "name": "全栈极客工程师（AI-Native 方向）",
+      "department": "Android",
+      "city": "",
+      "createdAt": "2026-03-23",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2026-03-22"
+    },
+    {
+      "name": "Coding Agent  研发工程师｜Kimi Code",
+      "department": "",
+      "city": "",
+      "createdAt": "2026-06-30",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2026-06-30"
+    },
+    {
+      "name": "客服运营（境内外）",
+      "department": "",
+      "city": "海淀区",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2026-06-29"
+    },
+    {
+      "name": "大规模推理系统工程师",
+      "department": "",
+      "city": "",
+      "createdAt": "2025-10-22",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2025-10-22"
+    },
+    {
+      "name": "GPU算力采购经理",
+      "department": "",
+      "city": "海淀区",
+      "createdAt": "2026-04-08",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2026-07-10"
+    },
+    {
+      "name": "Agentic Growth Engineer",
+      "department": "",
+      "city": "海淀区",
+      "createdAt": "2026-04-27",
+      "updatedAt": "2026-07-09",
+      "openedAt": "2026-04-27"
+    },
+    {
+      "name": "国际化综合运营（合规方向）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-06-18",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-06-17"
+    },
+    {
+      "name": "线下活动策划（海外）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-06-25",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-06-24"
+    },
+    {
+      "name": " 营销媒介（商务）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-06-28"
+    },
+    {
+      "name": "海外商务合作专家",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-06-26",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-06-25"
+    },
+    {
+      "name": "用户增长专家- SEO与内容策略",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-07-03",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-07-02"
+    },
+    {
+      "name": "Kimi 品牌设计师（Brand Designer）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-06-24",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-06-23"
+    },
+    {
+      "name": "用户增长运营（达人营销方向）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2025-11-25",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2025-11-24"
+    },
+    {
+      "name": "国内PR专家",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2026-03-12",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-03-11"
+    },
+    {
+      "name": "海外用户增长专家（投放方向）",
+      "department": "Growth Team",
+      "city": "",
+      "createdAt": "2025-07-11",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2025-07-10"
+    },
+    {
+      "name": "Infra 系统应用工程师",
+      "department": "",
+      "city": "",
+      "createdAt": "2025-10-21",
+      "updatedAt": "2026-06-30",
+      "openedAt": "2025-10-21"
+    },
+    {
+      "name": "Business Builder & Ecosystem",
+      "department": "",
+      "city": "南山区",
+      "createdAt": "2026-04-16",
+      "updatedAt": "2026-06-26",
+      "openedAt": "2026-04-16"
+    },
+    {
+      "name": "Solution Architect",
+      "department": "",
+      "city": "",
+      "createdAt": "2026-04-03",
+      "updatedAt": "2026-06-26",
+      "openedAt": "2026-04-03"
+    },
+    {
+      "name": "Research Scientist / Engineer – Agentic RL/Infra",
+      "department": "RL Team",
+      "city": "",
+      "createdAt": "2025-07-17",
+      "updatedAt": "2026-06-23",
+      "openedAt": "2025-07-16"
+    },
+    {
+      "name": "AI 数据资源运营/采购经理",
+      "department": "Gold Data Team",
+      "city": "",
+      "createdAt": "2026-05-15",
+      "updatedAt": "2026-06-17",
+      "openedAt": "2026-05-14"
+    },
+    {
+      "name": "AI数据平台工程师",
+      "department": "",
+      "city": "海淀区",
+      "createdAt": "2026-06-11",
+      "updatedAt": "2026-06-17",
+      "openedAt": "2026-06-11"
+    },
+    {
+      "name": "Post-Training Algorithm Researcher/Engineer",
+      "department": "RL Team",
+      "city": "",
+      "createdAt": "2025-07-22",
+      "updatedAt": "2026-06-15",
+      "openedAt": "2025-07-21"
+    },
+    {
+      "name": "RL Infra 研究工程师",
+      "department": "",
+      "city": "海淀区",
+      "createdAt": "2026-01-19",
+      "updatedAt": "2026-06-15",
+      "openedAt": "2026-01-19"
+    },
+    {
+      "name": "资深后端工程师-商业化",
+      "department": "Growth Tech",
+      "city": "",
+      "createdAt": "2025-08-29",
+      "updatedAt": "2026-05-29",
+      "openedAt": "2025-08-28"
+    },
+    {
+      "name": "Coding 系统工程师",
+      "department": "",
+      "city": "",
+      "createdAt": "2025-09-29",
+      "updatedAt": "2026-04-22",
+      "openedAt": "2025-09-29"
+    }
+  ],
+  "银河通用 Yinhe": [
+    {
+      "name": "具身智能硬件 & Infra 项目经理",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-14",
+      "openedAt": "2026-07-13"
+    },
+    {
+      "name": "机械臂规划控制资深工程师",
+      "department": "硬件中心",
+      "city": "",
+      "createdAt": "2026-07-13",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2026-07-12"
+    },
+    {
+      "name": "具身智能仿真平台研发工程师",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-07-13",
+      "updatedAt": "2026-07-13",
+      "openedAt": "2026-07-12"
+    },
+    {
+      "name": "机器人数据质量工程师",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-03",
+      "updatedAt": "2026-07-11",
+      "openedAt": "2026-06-02"
+    },
+    {
+      "name": "机械工程师",
+      "department": "硬件中心",
+      "city": "",
+      "createdAt": "2026-06-12",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-06-11"
+    },
+    {
+      "name": "具身大模型算法工程师-工业预训练",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-05-13",
+      "updatedAt": "2026-07-01",
+      "openedAt": "2026-05-12"
+    },
+    {
+      "name": " VR-XR 设备标定专家",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-24",
+      "updatedAt": "2026-07-01",
+      "openedAt": "2026-06-23"
+    },
+    {
+      "name": "具身数据工程师 · SDK / 工具链方向",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-10",
+      "updatedAt": "2026-07-01",
+      "openedAt": "2026-06-09"
+    },
+    {
+      "name": "机器人规控软件工程师",
+      "department": "硬件中心",
+      "city": "",
+      "createdAt": "2026-06-25",
+      "updatedAt": "2026-06-30",
+      "openedAt": "2026-06-24"
+    },
+    {
+      "name": "项目经理（人形算法方向）",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-24",
+      "updatedAt": "2026-06-30",
+      "openedAt": "2026-06-23"
+    },
+    {
+      "name": "项目经理（交互/数据采集方向）",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-24",
+      "updatedAt": "2026-06-30",
+      "openedAt": "2026-06-23"
+    },
+    {
+      "name": "架构师（具身智能数据平台）",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-11",
+      "updatedAt": "2026-06-30",
+      "openedAt": "2026-06-10"
+    },
+    {
+      "name": "人形机器人系统开发工程师",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-08",
+      "updatedAt": "2026-06-30",
+      "openedAt": "2026-06-07"
+    },
+    {
+      "name": "具身数据算法工程师",
+      "department": "算法中心",
+      "city": "",
+      "createdAt": "2026-06-03",
+      "updatedAt": "2026-06-29",
+      "openedAt": "2026-06-02"
+    }
+  ],
+  "智谱 Zhipu": [
+    {
+      "name": "市场商务采购经理",
+      "department": "Automatic Communications Team",
+      "city": "",
+      "createdAt": "2026-07-13",
+      "updatedAt": "2026-07-15",
+      "openedAt": "2026-07-12"
+    },
+    {
+      "name": "PMO项目管理",
+      "department": "综合管理部",
+      "city": "",
+      "createdAt": "2026-07-14",
+      "updatedAt": "2026-07-15",
+      "openedAt": "2026-07-13"
+    },
+    {
+      "name": " iOS 开发工程师",
+      "department": "AI院",
+      "city": "",
+      "createdAt": "2026-07-07",
+      "updatedAt": "2026-07-07",
+      "openedAt": "2026-07-06"
+    },
+    {
+      "name": "Business Development—北京",
+      "department": "国际业务中心",
+      "city": "",
+      "createdAt": "2026-01-29",
+      "updatedAt": "2026-07-07",
+      "openedAt": "2025-01-01"
+    },
+    {
+      "name": "Overseas sales",
+      "department": "国际业务中心",
+      "city": "",
+      "createdAt": "2026-01-29",
+      "updatedAt": "2026-07-07",
+      "openedAt": "2025-01-01"
+    },
+    {
+      "name": "Business Development—北京",
+      "department": "国际业务中心",
+      "city": "",
+      "createdAt": "2026-01-29",
+      "updatedAt": "2026-07-07",
+      "openedAt": "2025-01-01"
+    },
+    {
+      "name": "Business Development—Singapore",
+      "department": "国际业务中心",
+      "city": "",
+      "createdAt": "2026-01-29",
+      "updatedAt": "2026-07-07",
+      "openedAt": "2025-01-01"
+    },
+    {
+      "name": "Applied AI Architect-Southeast Asia",
+      "department": "国际业务中心",
+      "city": "",
+      "createdAt": "2026-01-29",
+      "updatedAt": "2026-07-07",
+      "openedAt": "2025-01-01"
+    },
+    {
+      "name": "内控经理",
+      "department": "内控廉政部",
+      "city": "",
+      "createdAt": "2026-05-15",
+      "updatedAt": "2026-07-03",
+      "openedAt": "2026-05-14"
+    },
+    {
+      "name": "SEO/SEM运营实习生",
+      "department": "大数据中心",
+      "city": "",
+      "createdAt": "2026-05-27",
+      "updatedAt": "2026-06-18",
+      "openedAt": "2026-06-16"
+    },
+    {
+      "name": "多模态数据算法（音视频方向）",
+      "department": "数据工程团队",
+      "city": "",
+      "createdAt": "2026-06-10",
+      "updatedAt": "2026-06-17",
+      "openedAt": "2026-06-09"
+    },
+    {
+      "name": "数据资源采购与运营经理",
+      "department": "数据工程团队",
+      "city": "",
+      "createdAt": "2026-06-10",
+      "updatedAt": "2026-06-15",
+      "openedAt": "2026-06-09"
+    },
+    {
+      "name": "Agent Infra 开发工程师",
+      "department": "AI院",
+      "city": "",
+      "createdAt": "2026-06-09",
+      "updatedAt": "2026-06-09",
+      "openedAt": "2026-06-08"
+    },
+    {
+      "name": "Harness 产品经理",
+      "department": "AI院",
+      "city": "",
+      "createdAt": "2026-05-06",
+      "updatedAt": "2026-05-21",
+      "openedAt": "2026-05-05"
+    }
+  ],
+  "寒武纪 Cambricon": [
+    {
+      "name": "行政专员",
+      "department": "行政部",
+      "city": "",
+      "createdAt": "2026-07-08",
+      "updatedAt": "2026-07-08",
+      "openedAt": "2026-07-07"
+    },
+    {
+      "name": "ATE测试工程师",
+      "department": "产品部",
+      "city": "",
+      "createdAt": "2019-05-30",
+      "updatedAt": "2026-07-02",
+      "openedAt": "2024-07-24"
+    },
+    {
+      "name": "模拟芯片设计工程师",
+      "department": "芯片部",
+      "city": "",
+      "createdAt": "2026-05-12",
+      "updatedAt": "2026-07-02",
+      "openedAt": "2026-05-11"
+    },
+    {
+      "name": "SIPI工程师",
+      "department": "产品部",
+      "city": "",
+      "createdAt": "2021-01-18",
+      "updatedAt": "2026-07-02",
+      "openedAt": "2026-03-04"
+    },
+    {
+      "name": "芯片应用工程师-固件方向",
+      "department": "产品部",
+      "city": "",
+      "createdAt": "2026-01-16",
+      "updatedAt": "2026-07-02",
+      "openedAt": "2026-01-15"
+    },
+    {
+      "name": "深度学习框架图编译工程师",
+      "department": "基础软件部",
+      "city": "",
+      "createdAt": "2025-10-12",
+      "updatedAt": "2026-06-29",
+      "openedAt": "2025-12-31"
+    },
+    {
+      "name": "高性能通信库研发工程师",
+      "department": "分布式软件部",
+      "city": "",
+      "createdAt": "2024-07-15",
+      "updatedAt": "2026-06-29",
+      "openedAt": "2024-07-14"
+    },
+    {
+      "name": "高性能计算库研发工程师",
+      "department": "基础软件部",
+      "city": "",
+      "createdAt": "2025-02-28",
+      "updatedAt": "2026-06-29",
+      "openedAt": "2025-02-27"
+    },
+    {
+      "name": "AI编译器研发工程师",
+      "department": "基础软件部",
+      "city": "",
+      "createdAt": "2025-03-07",
+      "updatedAt": "2026-06-25",
+      "openedAt": "2025-12-31"
+    },
+    {
+      "name": "高级IT工程师",
+      "department": "IT部",
+      "city": "",
+      "createdAt": "2024-04-18",
+      "updatedAt": "2026-04-08",
+      "openedAt": "2025-04-07"
+    },
+    {
+      "name": "AI现场应用工程师",
+      "department": "技术服务部",
+      "city": "",
+      "createdAt": "2026-03-26",
+      "updatedAt": "2026-03-26",
+      "openedAt": "2026-03-25"
+    },
+    {
+      "name": "大模型训练优化工程师",
+      "department": "分布式软件部",
+      "city": "",
+      "createdAt": "2026-03-20",
+      "updatedAt": "2026-03-20",
+      "openedAt": "2026-03-19"
+    },
+    {
+      "name": "AI编译器研发工程师",
+      "department": "基础软件部",
+      "city": "",
+      "createdAt": "2025-12-09",
+      "updatedAt": "2025-12-09",
+      "openedAt": "2025-12-08"
+    },
+    {
+      "name": "AI网络研发工程师",
+      "department": "分布式软件部",
+      "city": "",
+      "createdAt": "2024-08-15",
+      "updatedAt": "2025-11-11",
+      "openedAt": "2024-08-14"
+    },
+    {
+      "name": "CAD资深流程开发工程师",
+      "department": "后端部",
+      "city": "",
+      "createdAt": "2024-08-13",
+      "updatedAt": "2025-11-11",
+      "openedAt": "2024-08-12"
+    },
+    {
+      "name": "数字后端设计工程师",
+      "department": "后端部",
+      "city": "浦东新区",
+      "createdAt": "2018-06-15",
+      "updatedAt": "2025-11-11",
+      "openedAt": "2019-08-29"
+    },
+    {
+      "name": "数字后端设计工程师-南京",
+      "department": "后端部",
+      "city": "",
+      "createdAt": "2021-01-22",
+      "updatedAt": "2025-11-11",
+      "openedAt": "2022-06-13"
+    }
+  ]
+}
