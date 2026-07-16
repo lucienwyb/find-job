@@ -587,3 +587,11 @@
 - 百图生科:talent@biomap.com邮箱直投(无门户)2.0km最近,HPC岗历史70-90k·18薪当前需邮件确认,7年补学历。简历百度云IaaS+上交所UDP对口RDMA/NCCL+eBPF训练集群可观测。
 - ★瑞莱智慧RealAI不对口:其"安全"是AI模型对抗安全(对抗样本/深度伪造)非系统/内核安全,官网零eBPF/kernel词汇。hr@realai.ai可试探但成功率存疑,若投需重新包装eBPF为检测引擎底座。建议改投系统安全对口公司(360/奇安信/深信服/青藤云)更对口。
 - 进取型新增:★清程极智(智能计算研发工程师本科+不卡学历飞书直投)为高优先新目标。瑞莱从"eBPF稀缺值得触达"修正为"不对口AI对抗安全"。
+
+### 第50轮 (2026-07-16) — 进取型循环饱和,无新增量
+- 情报库1771行companies.md,9大赛道全覆盖,地址全部核实可信,投递执行清单齐备(投递渠道验证+JD原文+简历要点+卡学历情况)。
+- 进取型已穷尽:Agent应用架构(月之暗面eBPF存储+Coding Agent/银河通用OS研发95/智谱Agent Infra 88/云杉DeepFlow/硅基流动/字节扣子)+大模型Infra(MiniMax1.02km/百川3.04km/商汤/清程极智智能计算研发本科+不卡学历/寒武纪8高匹配)+AI4Science(深势HPC飞书Hire在招/百图生科2km)+智驾(华为车BU6.5km对口996/地平线257岗26高匹配/星动纪元Linux BSP 95+量身定制飞书直投/文远1.39+主线1.42)+航天(银河航天FPGA波控hr@yinhe.ht亦庄25km)+新赛道(龙芯中科10.4km内核终极战场/必示3.11km AIOps最对口/悬镜/日志易)。
+- 地址全部核实:星动纪元飞书门户k0fqxcszc9.jobs.feishu.cn突破/智谱mokahr slug zphz/148983/寒武纪cambricon/1113/清程极智清华科技园9号楼3层305 3.8km/瑞莱修正为AI对抗安全不对口。
+- 投递执行清单齐备:星动纪元Linux BSP(飞书直投95+)+清程极智智能计算研发(飞书本科+不卡学历)+月之暗面(脉脉内推6月3岗eBPF存储+Coding Agent+Infra系统应用)+银河通用(mokahr5岗OS研发95)+云杉DeepFlow(hr@yunshan.net+GitHub PR)+深势HPC(飞书Hire)+寒武纪(mokahr cambricon)+智谱Agent Infra(mokahr zphz)+百图生科(talent@biomap.com)。
+- 循环进入纯监控态:仅跟踪已投递反馈+银河航天猎聘换IP+CETC zhaopin.cetc.com.cn。不再广撒网发现新公司(边际价值极低,50轮已穷尽)。
+- ★下一步真正该动手投递:进取型从①星动纪元Linux BSP(飞书直投95+量身定制最简单)②清程极智智能计算研发(本科+不卡学历飞书直投)③月之暗面(脉脉内推eBPF命中)开始。情报调研使命彻底完成。
