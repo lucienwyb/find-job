@@ -1,0 +1,208 @@
+{
+  "moonshot": [
+    {
+      "name": "关于我们",
+      "updateTime": "",
+      "context": "关于我们"
+    },
+    {
+      "name": "社招职位",
+      "updateTime": "",
+      "context": "社招职位"
+    },
+    {
+      "name": "校招&实习职位",
+      "updateTime": "",
+      "context": "校招&实习职位"
+    },
+    {
+      "name": "搜索职位",
+      "updateTime": "",
+      "context": ""
+    },
+    {
+      "name": "关于我们",
+      "updateTime": "",
+      "context": "关于我们"
+    },
+    {
+      "name": "社招职位",
+      "updateTime": "",
+      "context": "社招职位"
+    },
+    {
+      "name": "其他职位",
+      "updateTime": "",
+      "context": "其他职位"
+    },
+    {
+      "name": "欢迎投递",
+      "updateTime": "",
+      "context": "欢迎投递"
+    }
+  ],
+  "yinhe": [
+    {
+      "name": "社招职位",
+      "updateTime": "",
+      "context": "社招职位"
+    },
+    {
+      "name": "校园招聘",
+      "updateTime": "",
+      "context": "校园招聘"
+    },
+    {
+      "name": "员工内推",
+      "updateTime": "",
+      "context": "员工内推"
+    },
+    {
+      "name": "产品与服务",
+      "updateTime": "",
+      "context": "产品与服务"
+    },
+    {
+      "name": "搜索职位",
+      "updateTime": "",
+      "context": ""
+    },
+    {
+      "name": "繁星点点 共绘银河",
+      "updateTime": "",
+      "context": "繁星点点 共绘银河"
+    },
+    {
+      "name": "共建共享",
+      "updateTime": "",
+      "context": "共建共享"
+    },
+    {
+      "name": "开放包容",
+      "updateTime": "",
+      "context": "开放包容\n "
+    },
+    {
+      "name": "银河北京",
+      "updateTime": "",
+      "context": "银河北京\n描述"
+    },
+    {
+      "name": "银河深圳",
+      "updateTime": "",
+      "context": "银河深圳\n描述"
+    },
+    {
+      "name": " 银河苏州",
+      "updateTime": "",
+      "context": "银河苏州"
+    },
+    {
+      "name": "热招职位",
+      "updateTime": "",
+      "context": "热招职位"
+    }
+  ],
+  "zhipu": [
+    {
+      "name": "内部推荐",
+      "updateTime": "",
+      "context": "内部推荐"
+    },
+    {
+      "name": "搜索职位",
+      "updateTime": "",
+      "context": ""
+    },
+    {
+      "name": "Think Big ， Deliver Solid ， Scale Stable",
+      "updateTime": "",
+      "context": "Think Big ， Deliver Solid ， Scale Stable"
+    },
+    {
+      "name": "一群正直的、有激情的年轻人，聚在一起，做创新的、对社会有价值的事",
+      "updateTime": "",
+      "context": "一群正直的、有激情的年轻人，聚在一起，做创新的、对社会有价值的事"
+    }
+  ],
+  "cambricon": [
+    {
+      "name": "行政专员",
+      "updateTime": "",
+      "context": "急行政专员"
+    },
+    {
+      "name": "ATE测试工程师",
+      "updateTime": "",
+      "context": "急ATE测试工程师"
+    },
+    {
+      "name": "深度学习框架图编译工程师",
+      "updateTime": "",
+      "context": "急深度学习框架图编译工程师"
+    },
+    {
+      "name": "AI编译器研发工程师",
+      "updateTime": "",
+      "context": "急AI编译器研发工程师"
+    },
+    {
+      "name": "模拟芯片设计工程师",
+      "updateTime": "",
+      "context": "急模拟芯片设计工程师"
+    },
+    {
+      "name": "AI现场应用工程师",
+      "updateTime": "",
+      "context": "急AI现场应用工程师"
+    },
+    {
+      "name": "大模型训练优化工程师",
+      "updateTime": "",
+      "context": "急大模型训练优化工程师"
+    },
+    {
+      "name": "SIPI工程师",
+      "updateTime": "",
+      "context": "急SIPI工程师"
+    },
+    {
+      "name": "芯片应用工程师-固件方向",
+      "updateTime": "",
+      "context": "急芯片应用工程师-固件方向"
+    },
+    {
+      "name": "AI编译器研发工程师",
+      "updateTime": "",
+      "context": "急AI编译器研发工程师"
+    },
+    {
+      "name": "数字后端设计工程师",
+      "updateTime": "",
+      "context": "急数字后端设计工程师"
+    },
+    {
+      "name": "数字后端设计工程师-南京",
+      "updateTime": "",
+      "context": "急数字后端设计工程师-南京"
+    },
+    {
+      "name": "高性能通信库研发工程师",
+      "updateTime": "",
+      "context": "急高性能通信库研发工程师"
+    },
+    {
+      "name": "CAD资深流程开发工程师",
+      "updateTime": "",
+      "context": "急CAD资深流程开发工程师"
+    },
+    {
+      "name": "AI网络研发工程师",
+      "updateTime": "",
+      "context": "急AI网络研发工程师"
+    }
+  ],
+  "robotera": [],
+  "chitu": [],
+  "01ai": []
+}
