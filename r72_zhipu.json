@@ -1,0 +1,860 @@
+[
+  {
+    "title": "市场商务采购经理",
+    "date": "2026-07-15",
+    "jobId": "1b55eae3-f818-4467-a163-d767522d57ba",
+    "urgent": false
+  },
+  {
+    "title": "PMO项目管理",
+    "date": "2026-07-15",
+    "jobId": "f5b5d07e-436b-43f0-879d-6a9673843fe5",
+    "urgent": false
+  },
+  {
+    "title": "iOS 开发工程师",
+    "date": "2026-07-07",
+    "jobId": "1b58598a-6df7-4828-9b88-7720214c4aa3",
+    "urgent": false
+  },
+  {
+    "title": "数据资源采购与运营经理",
+    "date": "2026-06-15",
+    "jobId": "128ecd64-f236-43ab-8604-edf509281586",
+    "urgent": false
+  },
+  {
+    "title": "多模态数据算法（音视频方向）",
+    "date": "2026-06-12",
+    "jobId": "a90fabd5-76a9-4486-917c-b6342598538a",
+    "urgent": false
+  },
+  {
+    "title": "Agent Infra 开发工程师",
+    "date": "2026-06-09",
+    "jobId": "392db0f2-6542-4a5a-ad7d-451a4486576e",
+    "urgent": false
+  },
+  {
+    "title": "【2027届校招/实习】多模态训练数据工程师",
+    "date": "2026-06-03",
+    "jobId": "cc9f61f4-efe2-4cc5-b535-3790437a8cad",
+    "urgent": false
+  },
+  {
+    "title": "SEO/SEM运营实习生",
+    "date": "2026-05-27",
+    "jobId": "7da55821-4142-4cf5-8fdc-ad96cc310569",
+    "urgent": false
+  },
+  {
+    "title": "内控经理",
+    "date": "2026-05-26",
+    "jobId": "bbcb7f09-a914-4767-bfa6-08a6dd1fecf6",
+    "urgent": false
+  },
+  {
+    "title": "Harness 产品经理",
+    "date": "2026-05-19",
+    "jobId": "1cf4751d-16d1-4ff9-bc56-e3eb7617f2cc",
+    "urgent": false
+  },
+  {
+    "title": "Business Development—北京",
+    "date": "2026-05-19",
+    "jobId": "ceb5b777-61ba-4f86-bf9e-ffd7a1a57ea3",
+    "urgent": false
+  },
+  {
+    "title": "Overseas sales",
+    "date": "2026-05-19",
+    "jobId": "c57b299c-3a04-4108-a7d4-822987985061",
+    "urgent": false
+  },
+  {
+    "title": "Business Development—北京",
+    "date": "2026-05-19",
+    "jobId": "e4109e4b-6877-4836-bd0a-97cd34e440c3",
+    "urgent": false
+  },
+  {
+    "title": "Business Development—Singapore",
+    "date": "2026-05-19",
+    "jobId": "9d06cc75-6b09-48e5-a002-a103dad0279c",
+    "urgent": false
+  },
+  {
+    "title": "Applied AI Architect-Southeast Asia",
+    "date": "2026-05-19",
+    "jobId": "5e7540b6-2f0e-4c20-b136-996f4659dee9",
+    "urgent": false
+  },
+  {
+    "title": "采购经理",
+    "date": "2026-05-09",
+    "jobId": "c3a58540-0a16-42af-b75a-c60ec131447d",
+    "urgent": false
+  },
+  {
+    "title": "财务BP",
+    "date": "2026-05-07",
+    "jobId": "96697dc6-07c1-49b7-9989-4985d25101fa",
+    "urgent": false
+  },
+  {
+    "title": "HRIS",
+    "date": "2026-04-29",
+    "jobId": "34492663-728a-44ea-8c57-b2e3a380907e",
+    "urgent": false
+  },
+  {
+    "title": "资深法务经理",
+    "date": "2026-04-16",
+    "jobId": "621c102b-8f37-465c-afb1-312c2c4bed41",
+    "urgent": false
+  },
+  {
+    "title": "算力采购",
+    "date": "2026-04-16",
+    "jobId": "421e0aee-f1a7-4ea8-86b3-ce5aae692f31",
+    "urgent": false
+  },
+  {
+    "title": "后端开发工程师（公司信息化建设）",
+    "date": "2026-04-16",
+    "jobId": "aab8dad6-f456-497f-92c6-35c2fe280937",
+    "urgent": false
+  },
+  {
+    "title": "品牌视觉设计师",
+    "date": "2026-04-15",
+    "jobId": "b1e39db3-1d3a-4c2a-91f9-8e620a6f1d36",
+    "urgent": false
+  },
+  {
+    "title": "法务（IPR & 合规）",
+    "date": "2026-04-15",
+    "jobId": "fb7409d0-2cdc-4e00-b137-3d0b40d43c96",
+    "urgent": false
+  },
+  {
+    "title": "HR实习生",
+    "date": "2026-03-24",
+    "jobId": "bd890440-c1e8-47a1-a8da-94988a1e84f3",
+    "urgent": false
+  },
+  {
+    "title": "大模型销售",
+    "date": "2026-01-30",
+    "jobId": "f4b5e9fd-f3fc-434a-8165-79aa68c6e34e",
+    "urgent": false
+  },
+  {
+    "title": "大模型产品经理-海外",
+    "date": "2026-01-30",
+    "jobId": "57e5bfa0-63ef-41be-adce-6fb9c714083d",
+    "urgent": false
+  },
+  {
+    "title": "27届校招GLM算法工程师（Agentic Coding）",
+    "date": "2026-07-06",
+    "jobId": "ee8b8622-79f8-47ac-8b4c-5f1d05537871",
+    "urgent": false
+  },
+  {
+    "title": "AI解决方案实习生",
+    "date": "2026-07-01",
+    "jobId": "092a0f08-5343-4b70-99f5-85add76f6c9b",
+    "urgent": false
+  },
+  {
+    "title": "AI应用工程师实习生",
+    "date": "2026-07-01",
+    "jobId": "f455eb1d-63d8-4a73-891a-bd473da5384d",
+    "urgent": false
+  },
+  {
+    "title": "社交游戏化产品经理",
+    "date": "2026-06-30",
+    "jobId": "ca4ae25e-6c85-4f03-9099-3d90ca7c70b2",
+    "urgent": false
+  },
+  {
+    "title": "大客户销售经理（数字人方向）",
+    "date": "2026-06-25",
+    "jobId": "4af175ca-684c-4e3f-bab6-77c329f73385",
+    "urgent": false
+  },
+  {
+    "title": "海外财务主管",
+    "date": "2026-06-16",
+    "jobId": "f55cffdf-ca8e-43dd-a81b-193978ea7174",
+    "urgent": false
+  },
+  {
+    "title": "多模态数据训练工程师",
+    "date": "2026-06-15",
+    "jobId": "a0dc5f47-1263-41da-be9a-630e7f73cbc0",
+    "urgent": false
+  },
+  {
+    "title": "投标支持实习生",
+    "date": "2026-06-10",
+    "jobId": "87c6ec90-07a2-4910-b773-10eee6784512",
+    "urgent": false
+  },
+  {
+    "title": "资深后端开发工程师",
+    "date": "2026-06-05",
+    "jobId": "cee6edc8-0edf-4fe8-8800-d446e50683da",
+    "urgent": false
+  },
+  {
+    "title": "AI4Research 数据与能力工程实习生",
+    "date": "2026-06-03",
+    "jobId": "04f9a1e2-54ec-4dfc-81be-561179ff829c",
+    "urgent": false
+  },
+  {
+    "title": "业务增长负责人",
+    "date": "2026-05-28",
+    "jobId": "3fee96c2-dcee-4553-bc69-260d1adbff47",
+    "urgent": false
+  },
+  {
+    "title": "解决方案负责人",
+    "date": "2026-05-28",
+    "jobId": "d214285f-7241-4fa7-8d9f-b5e205986654",
+    "urgent": false
+  },
+  {
+    "title": "Applied AI Engineer负责人",
+    "date": "2026-05-28",
+    "jobId": "59b31a61-b6b0-4a15-b294-979825451a38",
+    "urgent": false
+  },
+  {
+    "title": "Partner Success Director",
+    "date": "2026-05-25",
+    "jobId": "1cd64d8d-b231-44d4-98df-08629ede7135",
+    "urgent": false
+  },
+  {
+    "title": "项目管理实习生",
+    "date": "2026-05-22",
+    "jobId": "f8482d11-39d7-4981-aade-83130b99af56",
+    "urgent": false
+  },
+  {
+    "title": "HRBP（商业化）",
+    "date": "2026-05-20",
+    "jobId": "aa5ca42d-f47e-4ae1-977e-f303197e6d0e",
+    "urgent": false
+  },
+  {
+    "title": "HRBP（算法）",
+    "date": "2026-05-20",
+    "jobId": "dd45ea93-de1d-4639-ba1a-4777201d7ded",
+    "urgent": false
+  },
+  {
+    "title": "解决方案架构师-北京",
+    "date": "2026-05-19",
+    "jobId": "7721ae25-a111-43f6-ba08-2af7500e28f3",
+    "urgent": false
+  },
+  {
+    "title": "Applied AI Architect",
+    "date": "2026-05-19",
+    "jobId": "b81db4af-e3ea-4d9e-a1c2-0bb46aad059c",
+    "urgent": false
+  },
+  {
+    "title": "Overseas sales-上海",
+    "date": "2026-05-19",
+    "jobId": "b2d46700-a9aa-4166-8258-bc2a24f6e445",
+    "urgent": false
+  },
+  {
+    "title": "HRBP/HRD-深圳",
+    "date": "2026-05-19",
+    "jobId": "9c978ac7-6121-4d22-81c3-4a8aa5a4a97c",
+    "urgent": false
+  },
+  {
+    "title": "AI产品经理",
+    "date": "2026-05-19",
+    "jobId": "4bdcbf2a-508e-4292-9f09-27a167c5986f",
+    "urgent": false
+  },
+  {
+    "title": "市场与内容实习生",
+    "date": "2026-05-15",
+    "jobId": "cd956245-63f9-4994-80d7-c96e446a26f5",
+    "urgent": false
+  },
+  {
+    "title": "市场实习生（国际方向 / AI Native）",
+    "date": "2026-05-15",
+    "jobId": "3d74f837-23af-4513-ac9c-3099f64d0306",
+    "urgent": false
+  },
+  {
+    "title": "用户中台 & 风控研发工程师",
+    "date": "2026-05-14",
+    "jobId": "027aefe0-2e1e-4454-b252-acc18a018d4c",
+    "urgent": false
+  },
+  {
+    "title": "AI-Native 全栈工程师（偏后端）",
+    "date": "2026-05-13",
+    "jobId": "dba0982f-9055-4c7f-ab40-8ded775b0e78",
+    "urgent": false
+  },
+  {
+    "title": "GLM团队-模型代码后训练算法工程师",
+    "date": "2026-05-12",
+    "jobId": "0a60f265-05cb-431d-8e5f-4f449d7dfde3",
+    "urgent": false
+  },
+  {
+    "title": "机器学习平台研发工程师",
+    "date": "2026-05-12",
+    "jobId": "86d3a68f-88fd-432a-9b1a-1defb53af16f",
+    "urgent": false
+  },
+  {
+    "title": "GLM团队-预训练算法工程师",
+    "date": "2026-05-12",
+    "jobId": "ee83e8a4-4b15-483f-935d-65954b40dd34",
+    "urgent": false
+  },
+  {
+    "title": "AI Native  UI设计师",
+    "date": "2026-05-12",
+    "jobId": "14b06162-268b-4777-99a9-2f0970180435",
+    "urgent": false
+  },
+  {
+    "title": "GLM团队-模型代码预训练算法工程师",
+    "date": "2026-05-12",
+    "jobId": "139c3a70-f9ca-41b8-ae4f-741b91be7017",
+    "urgent": false
+  },
+  {
+    "title": "GLM团队-后训练算法工程师",
+    "date": "2026-05-12",
+    "jobId": "893630a7-28a5-4aac-bbe2-3a4e2ef8a354",
+    "urgent": false
+  },
+  {
+    "title": "AI Native 全栈工程师（偏前端）",
+    "date": "2026-05-12",
+    "jobId": "df2018cf-348b-4519-bc1e-b5b3e9e1723b",
+    "urgent": false
+  },
+  {
+    "title": "GLM团队-SRE运维工程师",
+    "date": "2026-05-12",
+    "jobId": "2c13d8cb-d18b-4887-96fb-d8b2b97df373",
+    "urgent": false
+  },
+  {
+    "title": "AI Native 产品经理",
+    "date": "2026-05-12",
+    "jobId": "ad04dd62-915d-4ff7-a944-86ee69909084",
+    "urgent": false
+  },
+  {
+    "title": "GLM团队-大模型后训练算法工程师（Coding Agent 方向）",
+    "date": "2026-05-12",
+    "jobId": "a1f2d79e-010c-43ba-ab4e-d609c4ce7a7f",
+    "urgent": false
+  },
+  {
+    "title": "Agent Infra 运维开发工程师",
+    "date": "2026-05-12",
+    "jobId": "68061b2e-e48e-4a72-984a-6c504572c405",
+    "urgent": false
+  },
+  {
+    "title": "大模型C端内容运营专家",
+    "date": "2026-05-11",
+    "jobId": "543f09c8-b58f-449c-b33b-fe6c0f6e43a2",
+    "urgent": false
+  },
+  {
+    "title": "科技平台运营专家",
+    "date": "2026-05-11",
+    "jobId": "87b108db-b0b0-475c-80fa-e004fcb69650",
+    "urgent": false
+  },
+  {
+    "title": "内容运营实习生W2601",
+    "date": "2026-05-11",
+    "jobId": "e92065bf-c41b-49ad-80cd-19d5148608ad",
+    "urgent": false
+  },
+  {
+    "title": "大模型算法博后（清华联培）",
+    "date": "2026-05-09",
+    "jobId": "ee3ad93a-c4d8-4638-84f2-876eed5f2e2f",
+    "urgent": false
+  },
+  {
+    "title": "大模型 Agent 研发实习生（Auto Research 方向）",
+    "date": "2026-05-09",
+    "jobId": "a9ab8204-e81c-48b8-8c3e-7943d1bf6105",
+    "urgent": false
+  },
+  {
+    "title": "AI产品经理实习生（偏教育方向）",
+    "date": "2026-05-09",
+    "jobId": "5eb8b0a7-b9bd-4fbb-9ec2-6f4737367a4c",
+    "urgent": false
+  },
+  {
+    "title": "内容运营实习生",
+    "date": "2026-05-09",
+    "jobId": "2323b0f5-22aa-4d92-8499-a0519a1b69aa",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-HRBP",
+    "date": "2026-05-08",
+    "jobId": "00d46c38-38fd-48c0-b21d-2a1c54c720f3",
+    "urgent": false
+  },
+  {
+    "title": "GLM Coding Agent 数据与自动化迭代体系专家 / 工程师",
+    "date": "2026-05-07",
+    "jobId": "eb6e44ae-8d5e-4122-965d-b72f3922d08c",
+    "urgent": false
+  },
+  {
+    "title": "HRSSC",
+    "date": "2026-04-29",
+    "jobId": "d8426aa3-1ac5-45fd-bd57-36f9ddecc04d",
+    "urgent": false
+  },
+  {
+    "title": "AI动画设计师",
+    "date": "2026-04-22",
+    "jobId": "66b203dc-bea3-4da1-bfa2-e5dc43975437",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-AI产品经理",
+    "date": "2026-04-15",
+    "jobId": "7415a43a-86f7-4933-8135-efbea1d24484",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-平台产品运营",
+    "date": "2026-04-15",
+    "jobId": "7d15dfd3-2f2b-4a93-9032-c18937c59ccc",
+    "urgent": false
+  },
+  {
+    "title": "财务BP-杭州",
+    "date": "2026-04-13",
+    "jobId": "76378c27-f133-466e-abeb-c5e0b1bf3b45",
+    "urgent": false
+  },
+  {
+    "title": "AI产品实习生（toB）",
+    "date": "2026-04-10",
+    "jobId": "0f8175ae-0c65-430d-9145-3df1d7049a58",
+    "urgent": false
+  },
+  {
+    "title": "数据专家",
+    "date": "2026-04-10",
+    "jobId": "f87a098c-77e9-4dc0-8fb2-838959a8306a",
+    "urgent": false
+  },
+  {
+    "title": "算法工程师",
+    "date": "2026-04-09",
+    "jobId": "a07037d3-dc0d-4aa4-a182-58aef18eef4f",
+    "urgent": false
+  },
+  {
+    "title": "大模型应用算法工程师",
+    "date": "2026-04-09",
+    "jobId": "268791e1-d889-4d19-a3d8-fe8f998fa6e1",
+    "urgent": false
+  },
+  {
+    "title": "AI 院--大模型评测算法研究员(实习)",
+    "date": "2026-04-09",
+    "jobId": "f78c43e1-65a5-4f0f-82f2-050cbbb05c98",
+    "urgent": false
+  },
+  {
+    "title": "高性能推理优化算法工程师",
+    "date": "2026-04-09",
+    "jobId": "1dfb456f-286f-4077-9816-764b4184586f",
+    "urgent": false
+  },
+  {
+    "title": "AI院--算法工程师-基模Agentic评测",
+    "date": "2026-04-08",
+    "jobId": "b1f13f41-22cf-4cc3-b6e1-14dcf67d8496",
+    "urgent": false
+  },
+  {
+    "title": "架构师（稳定性方向）",
+    "date": "2026-04-08",
+    "jobId": "4829c479-0ecd-4bfb-8318-c0adb9fdb43a",
+    "urgent": false
+  },
+  {
+    "title": "测试开发工程师（稳定性方向）",
+    "date": "2026-04-08",
+    "jobId": "0e61c6e1-f739-4178-9889-06cf8b1b4c00",
+    "urgent": false
+  },
+  {
+    "title": "数据开发工程师（风控相关）",
+    "date": "2026-04-08",
+    "jobId": "ba18e71b-b668-4aa6-bd7b-81a08a87fa31",
+    "urgent": false
+  },
+  {
+    "title": "推理Infra工程师（量化算法研究/推理框架优化/GPU优化）",
+    "date": "2026-04-08",
+    "jobId": "eda216b9-a566-481a-80f4-0901c60dc053",
+    "urgent": false
+  },
+  {
+    "title": "训练Infra工程师",
+    "date": "2026-04-08",
+    "jobId": "1a532483-e333-4bb8-b8f7-d91a03c5b715",
+    "urgent": false
+  },
+  {
+    "title": "数据分析师",
+    "date": "2026-04-08",
+    "jobId": "543a79f4-fca4-42b4-b0b0-a3b16951769a",
+    "urgent": false
+  },
+  {
+    "title": "项目经理",
+    "date": "2026-04-08",
+    "jobId": "201e79c1-a89b-49dc-b7e1-103261754bf4",
+    "urgent": false
+  },
+  {
+    "title": "SRE工程师",
+    "date": "2026-04-08",
+    "jobId": "f325a077-5fba-4d99-8a0c-5af91e27adaf",
+    "urgent": false
+  },
+  {
+    "title": "UI/UX 设计师（AI/大模型方向）",
+    "date": "2026-04-08",
+    "jobId": "c061a348-694d-4e5b-bf37-4a2da9e48335",
+    "urgent": false
+  },
+  {
+    "title": "X-lab-机器人导航规划算法工程师",
+    "date": "2026-04-07",
+    "jobId": "28481e33-59fe-4610-9cb4-3f2b0681e2ac",
+    "urgent": false
+  },
+  {
+    "title": "Business Development",
+    "date": "2026-04-07",
+    "jobId": "24e066c7-8268-4d0b-8739-4d86b5c03215",
+    "urgent": false
+  },
+  {
+    "title": "API销售-深圳",
+    "date": "2026-04-07",
+    "jobId": "e757149a-8567-4eb0-accc-e44f0158db04",
+    "urgent": false
+  },
+  {
+    "title": "大模型训练优化算法实习生",
+    "date": "2026-04-03",
+    "jobId": "a73bf2b8-501d-4883-972f-e4dc02773b42",
+    "urgent": false
+  },
+  {
+    "title": "AI产品海外游戏运营（AI+模拟经营方向）",
+    "date": "2026-04-03",
+    "jobId": "4aea2eaf-2c0e-4e2e-bd03-69a9576d1c84",
+    "urgent": false
+  },
+  {
+    "title": "AI院-GLM后训练-算法工程师（Agent RL方向）",
+    "date": "2026-04-03",
+    "jobId": "2b25f42f-f5f2-42f2-a7d9-939f472fe9a6",
+    "urgent": false
+  },
+  {
+    "title": "AI院--多模态团队--多模态生成算法研究员",
+    "date": "2026-04-03",
+    "jobId": "a3d8c830-fadc-4b70-aa11-8ea0215da4d9",
+    "urgent": false
+  },
+  {
+    "title": "AI院-多模态生成-算法实习生",
+    "date": "2026-04-02",
+    "jobId": "4b688a0c-e779-42a8-99be-e85c81c82654",
+    "urgent": false
+  },
+  {
+    "title": "AI院-大模型算法实习生（Coding Agent应用）",
+    "date": "2026-04-02",
+    "jobId": "9e11a7bc-2cfe-4ae1-a0e7-d8603e703350",
+    "urgent": false
+  },
+  {
+    "title": "AI院-多模态理解-算法实习生",
+    "date": "2026-04-02",
+    "jobId": "1cfb19a0-c02a-4006-9c60-b17eee442a32",
+    "urgent": false
+  },
+  {
+    "title": "AI院-多模态音频-算法实习生",
+    "date": "2026-04-02",
+    "jobId": "80cfcac5-da5e-483f-8540-9355a5b67a64",
+    "urgent": false
+  },
+  {
+    "title": "26届校招-推理Infra工程师",
+    "date": "2026-04-02",
+    "jobId": "31ff36f8-932e-4f2c-b165-1a1fb5d906bb",
+    "urgent": false
+  },
+  {
+    "title": "具身智能算法工程师",
+    "date": "2026-04-02",
+    "jobId": "386b9057-c37e-4c5e-835c-8ab0f2ed1c2f",
+    "urgent": false
+  },
+  {
+    "title": "AI 院--多模态团队--多模态理解算法研究员",
+    "date": "2026-04-02",
+    "jobId": "7d1f35f3-9b43-47d6-8749-ba0c1ef68f96",
+    "urgent": false
+  },
+  {
+    "title": "AI 院--多模态音频团队--音频生成算法工程师（社招）",
+    "date": "2026-04-02",
+    "jobId": "438aee4b-46f9-4d15-9f68-95d0a65d6cf1",
+    "urgent": false
+  },
+  {
+    "title": "多模态大模型系统研发实习生",
+    "date": "2026-04-02",
+    "jobId": "a843b074-e444-475f-aba4-66b3ec1e3843",
+    "urgent": false
+  },
+  {
+    "title": "AI 院--多模态理解--训练框架算法工程师",
+    "date": "2026-04-02",
+    "jobId": "e31fafab-05a3-4a37-bd20-b0137d2101c4",
+    "urgent": false
+  },
+  {
+    "title": "HR 实习生",
+    "date": "2026-04-02",
+    "jobId": "e170c7cd-2227-455d-8110-43bebc608026",
+    "urgent": false
+  },
+  {
+    "title": "X-lab-机器人导航规划算法工程师",
+    "date": "2026-04-02",
+    "jobId": "a0fcfab3-bde4-498c-99be-246280d07d10",
+    "urgent": false
+  },
+  {
+    "title": "AI 院--AIGC内容创意实习生（图片/视频方向）",
+    "date": "2026-04-02",
+    "jobId": "642ca030-4c47-45aa-9414-fdf2319e2839",
+    "urgent": false
+  },
+  {
+    "title": "大模型C端产品运营专家",
+    "date": "2026-03-31",
+    "jobId": "03c70cfe-f92d-4546-a4d9-329f640638e6",
+    "urgent": false
+  },
+  {
+    "title": "海外产品运营专家",
+    "date": "2026-03-31",
+    "jobId": "14e29409-d54a-424f-8f39-560bca47e81d",
+    "urgent": false
+  },
+  {
+    "title": "GLM大模型算法研究员（推理/规划/Agent方向）",
+    "date": "2026-03-31",
+    "jobId": "c81e6344-1f11-411f-84ac-966da51e2df4",
+    "urgent": false
+  },
+  {
+    "title": "AI产品实习生C2604",
+    "date": "2026-03-31",
+    "jobId": "6d094c63-5104-4a08-9fb3-f78c64a60b71",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-DBA/SRE",
+    "date": "2026-03-27",
+    "jobId": "86760e9d-0049-4ad2-9ecd-1af3f08b2841",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-AI Native 研发工程师（后端 / 全栈 / 平台）",
+    "date": "2026-03-27",
+    "jobId": "cbeaf677-5a40-4a9e-8dd9-bcfd3a7abacf",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-平台产品专家",
+    "date": "2026-03-27",
+    "jobId": "64d509a8-7b0b-4b96-b17a-33fa138dc3ef",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-生态运营/BD",
+    "date": "2026-03-27",
+    "jobId": "f0033301-abbe-4d71-980c-53422f1c61b1",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-资深UI设计师",
+    "date": "2026-03-27",
+    "jobId": "910bb657-6af5-427c-b5e5-5979ef9bf93f",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-数据开发工程师（风控）",
+    "date": "2026-03-27",
+    "jobId": "b5c02df3-a633-43bc-98b0-697b6f9df17a",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-产品解决方案架构师（PDSA）",
+    "date": "2026-03-27",
+    "jobId": "651cc020-4402-463c-81b1-83c2bdf5b4c8",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-服务体验运营专家",
+    "date": "2026-03-27",
+    "jobId": "89406218-f09a-441e-b4b7-2b6a15e441bc",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-大客户技术服务经理",
+    "date": "2026-03-27",
+    "jobId": "52f80efa-ed3d-4742-8716-1ddb97a1762a",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-测试开发工程师",
+    "date": "2026-03-27",
+    "jobId": "55350977-266f-4481-bac5-9ed2bb4d9eb1",
+    "urgent": false
+  },
+  {
+    "title": "MaaS-技术支持工程师",
+    "date": "2026-03-19",
+    "jobId": "2948b809-89fc-4f86-9195-7469dae421aa",
+    "urgent": false
+  },
+  {
+    "title": "AI院-训练Infra工程师",
+    "date": "2026-03-19",
+    "jobId": "702b0b15-e17a-4ce9-8713-a1abcf516f0d",
+    "urgent": false
+  },
+  {
+    "title": "AI院-推理Infra工程师（量化算法研究/推理框架优化/GPU优化）",
+    "date": "2026-03-19",
+    "jobId": "962ddd2b-90d2-4460-8110-9431a5dd587c",
+    "urgent": false
+  },
+  {
+    "title": "交付项目经理",
+    "date": "2026-03-13",
+    "jobId": "8a7fadb7-14aa-4242-ada5-e2ab2858ed8b",
+    "urgent": false
+  },
+  {
+    "title": "业务拓展实习生-深圳",
+    "date": "2026-01-30",
+    "jobId": "dcfe9378-8185-4bff-b649-71512e501a44",
+    "urgent": false
+  },
+  {
+    "title": "大模型技术实习生-深圳",
+    "date": "2026-01-30",
+    "jobId": "a422b81a-f918-47d7-81a8-0244637ff6c1",
+    "urgent": false
+  },
+  {
+    "title": "AI产品经理",
+    "date": "2026-01-30",
+    "jobId": "3551243f-b133-4b38-8543-beef8bff4f5c",
+    "urgent": false
+  },
+  {
+    "title": "UX设计实习生",
+    "date": "2026-01-30",
+    "jobId": "38e764a9-08bb-4f3a-8e08-5978b6336532",
+    "urgent": false
+  },
+  {
+    "title": "公共事务与国际活动实习生",
+    "date": "2026-01-30",
+    "jobId": "75dc017b-e5e5-44c9-86f3-85ea00a24028",
+    "urgent": false
+  },
+  {
+    "title": "业务拓展实习生-国际业务",
+    "date": "2026-01-30",
+    "jobId": "162daf6a-b71f-4bcd-8ca4-2722516c1642",
+    "urgent": false
+  },
+  {
+    "title": "AI产品经理/解决方案实习生-厦门",
+    "date": "2026-01-30",
+    "jobId": "fc982535-8672-41e6-a2da-b273101898de",
+    "urgent": false
+  },
+  {
+    "title": "海外社媒内容运营实习生",
+    "date": "2026-01-30",
+    "jobId": "5a82b391-7f9e-4e98-b636-59a4a195ed4f",
+    "urgent": false
+  },
+  {
+    "title": "实习生",
+    "date": "2026-01-30",
+    "jobId": "4076030b-d5a1-4980-905f-337f09648c5b",
+    "urgent": false
+  },
+  {
+    "title": "运营助理实习生（国际化团队）",
+    "date": "2026-01-30",
+    "jobId": "c87909a3-7e7e-4bfe-bc19-e1590a367e4f",
+    "urgent": false
+  },
+  {
+    "title": "算法实习生-厦门",
+    "date": "2026-01-30",
+    "jobId": "efbb3ae7-d5a5-4107-9fc5-e002284afb8a",
+    "urgent": false
+  },
+  {
+    "title": "产品实习生",
+    "date": "2026-01-30",
+    "jobId": "ca3b0d4a-7778-40e6-8a2e-494448029fdb",
+    "urgent": false
+  }
+]

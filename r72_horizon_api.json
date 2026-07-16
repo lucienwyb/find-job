@@ -1,0 +1,18 @@
+{
+  "api_jobs": [],
+  "api_urls": [
+    "https://wecruit.hotjob.cn/wecruit/webSite/browse/save/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235873639",
+    "https://wecruit.hotjob.cn/wecruit/suite/post/search/condition/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235873640&recruitType=2",
+    "https://wecruit.hotjob.cn/wecruit/suite/config/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235873640",
+    "https://wecruit.hotjob.cn/wecruit/suite/config/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874155",
+    "https://wecruit.hotjob.cn/wecruit/positionInfo/listPosition/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874370",
+    "https://wecruit.hotjob.cn/wecruit/config/get/robot/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874354",
+    "https://wecruit.hotjob.cn/wecruit/isLogin/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874351",
+    "https://wecruit.hotjob.cn/wecruit/config/get/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874351",
+    "https://wecruit.hotjob.cn/wecruit/suite/post/search/condition/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874156&recruitType=2",
+    "https://xcmg.hotjob.cn/wt/jsonp/proact/get?type=0",
+    "https://wecruit.hotjob.cn/wecruit/positionInfo/listSearchTerm/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235874903",
+    "https://wecruit.hotjob.cn/wecruit/positionInfo/listPosition/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235880759",
+    "https://wecruit.hotjob.cn/wecruit/positionInfo/listPosition/SU64819a4f2f9d2433ba8b043a?iSaJAx=isAjax&request_locale=zh_CN&t=1784235883281"
+  ]
+}
