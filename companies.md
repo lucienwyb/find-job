@@ -1301,3 +1301,53 @@
 - **第1周**:月之暗面(脉脉内推锁3岗)+银河通用(mokahr5岗)+AMD上海87894+云杉DeepFlow邮件——4线并行,进取型全开。
 - **第2周**:看反馈——若月之暗面/银河通用有回音,主攻进取;若学历被刷,转C线躺平(建信金科/北京银行/CETC恢复)+岔路B(AMD上海)。
 - **持续监控**:CETC15所门户恢复、知存科技地址核实、必示科技天眼查。
+
+## ★★躺平型外企真实在招岗位深挖（第41轮，2026-07-16）
+> 调通Workday API+AMD Jibe+mokahr+TalentBrew。从"地址确认"推进到"真实可投递岗位+投递URL"。
+
+### 1. ★ARM中国(安谋科技) — 北京21岗,SOC Driver完美对口
+> 重要:careers.arm.com(ARM Ltd全球)242岗零个在中国。北京岗在**安谋科技(ARM中国合资实体)**mokahr独立门户app.mokahr.com/apply/armchina/885。联系recruitment@armchina.com。
+| 岗位 | 发布 | 地点 | JD核心 | 对口度 |
+|---|---|---|---|---|
+| **A Sr/Staff SOC Driver Engineer⭐最佳** | 2026-07-01 | 北京/沪/深 | ARM服务器CPU Linux内核驱动+平台软件;内核模块/设备驱动/Device Tree/ACPI;PCIe/I2C/SPI/GPIO/watchdog;KVM虚拟化VFIO直通;性能SPEC/Stream/Fio/Netperf/**perf**;FPGA/硅片bring-up;5+年 | **极高**(7年内核+perf+ARM+KVM全覆盖,JD几乎量身定制) |
+| B Sr/Staff SOC Firmware Engineer | 07-01 | 北京/沪 | 底层固件BootROM/SCP/UEFI·EDK2/ATF/ACPI/OpenBMC/RAS/CMN;5+年C+ARM汇编+JTAG | 高(偏固件非传统内核) |
+| C SOC Software Architect | 07-01 | 北京/沪/深 | SoC整体软件架构UEFI/ATF到内核/驱动/虚拟化/容器;**10+年** | 中(7年偏短) |
+| D Sr/Staff SOC Software Engineer | 07-01 | 北京/沪 | Linux/RTOS软件栈/SoC验证/bring-up;**7+年**(正好匹配)C/C++/Python/ARM asm/Cortex-A·R·M或Neoverse | 高(7年要求完美匹配) |
+- 薪资:mokahr未标。安谋科技合资实体(非纯外企)估Senior40-60万/Staff50-80万,弹性工作偏外企风格。
+- 投递:app.mokahr.com/apply/armchina/885→点"北京市"→找岗位→申请职位。
+- ★修正决策表:ARM中国躺平可投(此前M节只确认地址未确认岗位),SOC Driver岗是躺平型北京内核对口的最佳外企选项(红帽清零后)。
+
+### 2. ★NVIDIA英伟达 — 北京77岗,多岗对口AI溢价高
+> 门户nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,Workday API搜Beijing=77岗。融科C座3.56km。
+| 岗位 | JR | 地点 | JD核心 | 对口度 |
+|---|---|---|---|---|
+| **A Sr Software Engineer-Networking⭐最佳** | JR2015006 | 北京 | C/C++ Linux(user/**kernel modes**);**Kernel&DPDK** strongly preferred;L2/L3/VLAN/STP/OSPF/BGP;优势RDMA/DPDK/NCCL/SONiC/vLLM/SGlang;5+年本科+ | **极高**(C+内核+DPDK直接命中核心技能) |
+| B Sr Software Engineer-RDMA and DOCA | JR2015012 | 北京 | C/C++ Linux kernel modes;RDMA/拥塞控制/collective communication/kernel;6+年 | 高(同团队) |
+| C Sr Solutions Architect,Spectrum-X Low Level | JR1998745-1 | 北京 | 8+年实时嵌入式,Linux kernel,Ethernet/IP,固件级网络;C/Perl/Python;客户面向 | 高(偏客户面向) |
+| D Sr System Software Architect,AI and GPU Networking | JR2013090 | 北京 | 系统架构/虚拟化/SDN/GPU·DPU/interconnects/AI | 中(偏架构) |
+| E Sr System Software Architect,HPC and AI Networking | JR1997487 | 北京 | NCCL/UCX/UCC通信库/分布式AI训练/系统编程;5+年 | 中(偏HPC/AI) |
+| F Solution Architect,Jetson Platform Edge | JR2019692 | 北京 | Jetson(ARM)边缘计算/客户支持/平台开发;5+年AMR/Robotics | 中(偏解决方案) |
+- 薪资:JD不标。业界NVIDIA中国Senior SWE base约50-80万+RSU,Staff80-120万+RSU(AI溢价)。965弹性。
+- 投递:nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite搜Beijing→选岗→Apply。
+  - A岗直链:nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Software-Engineer---RDMA-and-Doca_JR2015006
+- ★NVIDIA北京77岗持续扩招(AI热潮),Networking岗C+内核+DPDK是躺平型外企最高薪对口(50-80万+RSU)。
+
+### 3. Red Hat红帽 — 确认北京零岗位(再次坐实)
+- Workday wd5全球241岗,搜Beijing=0,China=0。内核岗全在爱尔兰Waterford/捷克Brno/印度Bangalore/Pune。IBM 2024-25裁员波及,北京内核组HC清空。第39轮结论再次坐实。**作废,持续监控概率极低**。
+
+### 4. TI德州仪器 — 北京零岗位完全不对口
+- careers.ti.com全球531岗,中国仅成都7个制造岗(可靠性/引线框架/芯片贴装/焊线/塑封),无软件/嵌入式Linux/驱动岗。**剔除**(不适合内核背景)。
+
+### ★投递优先级(躺平型外企真实可投)
+| 优先 | 公司岗位 | 对口 | 距离 | 理由 |
+|---|---|---|---|---|
+| 1 | **NVIDIA Sr SWE-Networking(JR2015006)** | 极高 | 3.56km | C+内核+DPDK,AI溢价高50-80万+RSU,965外企 |
+| 2 | **安谋科技 Sr/Staff SOC Driver Engineer** | 极高 | 3.85km | 内核+ARM+perf+KVM完美匹配,JD量身定制 |
+| 3 | NVIDIA Sr SWE-RDMA/DOCA(JR2015012) | 高 | 3.56km | 6+年内核+C,同团队 |
+| 4 | 安谋科技 Sr/Staff SOC Software Engineer | 高 | 3.85km | 7年要求正好匹配 |
+| 5 | NVIDIA Sr Solutions Architect Spectrum-X | 高 | 3.56km | 8+年内核+C但偏客户面向 |
+
+### ★对决策表的修正
+- 躺平型岔路C(留京躺平)外企线升级:NVIDIA Networking(3.56km 50-80万+RSU)+安谋SOC Driver(3.85km完美对口)成为真实可投高薪对口外企选项,优于已作废的红帽。
+- 躺平型"内核对口北京可投"外企实锤:NVIDIA(JR2015006/012)+安谋SOC Driver——均C+内核+DPDK/ARM,7年经验正好匹配,且965外企WLB好。
+- 决策表C线外企从"融科集群ARM/TI/NVIDIA多偏GPU/IP内核岗少"修正为"NVIDIA Networking+安谋SOC Driver真对口可投"。

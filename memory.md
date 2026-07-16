@@ -498,6 +498,14 @@
 - 推荐执行顺序(2周):第1周月之暗面脉脉内推+银河通用mokahr5岗+AMD上海87894+云杉邮件4线并行;第2周看反馈,学历被刷转C线躺平+岔路B。
 - 立即行动零等待:①月之暗面脉脉内推锁3岗②银河通用mokahr5岗③AMD上海87894④云杉hr@yunshan.net⑤建信金科/北京银行保底。
 - 后续循环:已收口,新agent仅做①CETC门户监控②知存/必示地址核实③跟踪已投递反馈。不再广撒网发现新公司(边际价值低)。
+- **★★躺平型外企真实在招岗位深挖已落盘**(第41轮,调通Workday/Jibe/mokahr/TalentBrew):
+  - ★★ARM中国(安谋科技)北京21岗——careers.arm.com全球242岗零个在中国,北京岗在安谋科技(合资实体)mokahr门户app.mokahr.com/apply/armchina/885。**Sr/Staff SOC Driver Engineer(2026-07-01发布,JD:ARM服务器CPU Linux内核驱动+设备树/ACPI+PCIe/I2C/SPI+KVM VFIO直通+perf+FPGA bring-up,5+年)匹配极高,JD几乎为候选人量身定制**。另有SOC Firmware(高)/SOC Software Architect(中10+年)/SOC Software Engineer(高7+年正好匹配)。recruitment@armchina.com。Senior40-60万/Staff50-80万。
+  - ★★NVIDIA北京77岗(AI热潮扩招)——Workday API实抓。**Sr Software Engineer-Networking(JR2015006,JD:C/C++ Linux kernel modes,Kernel&DPDK strongly preferred,5+年)匹配极高直接命中核心技能**。融科C座3.56km。50-80万+RSU(Staff80-120万)。另有RDMA/DOCA(JR2015012高6+年)/Spectrum-X Solutions(高8+年偏客户)/AI·GPU架构(中)。投递nvidia.wd5.myworkdayjobs.com搜Beijing。
+  - Red Hat再次坐实北京零岗(Workday搜Beijing=0/China=0,内核岗全海外),作废。
+  - TI北京零岗(仅成都7制造岗无软件岗),剔除。
+  - ★★决策表C线外企升级:NVIDIA Networking(3.56km 50-80万+RSU C+内核+DPDK)+安谋SOC Driver(3.85km ARM内核+perf+KVM完美对口)成为真实可投高薪对口外企选项,优于作废的红帽。修正"融科集群外企多偏GPU/IP内核岗少"判断——实际NVIDIA+安谋有真对口内核岗。
+  - 躺平型岔路C外企实锤可投:NVIDIA JR2015006+安谋SOC Driver,均965外企WLB好+7年经验正好匹配+对口。
+  - 立即行动增补:投NVIDIA JR2015006+安谋SOC Driver(躺平型外企高薪对口)。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。
