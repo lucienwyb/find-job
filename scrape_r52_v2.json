@@ -1,0 +1,328 @@
+{
+  "moonshot": [],
+  "yinhe": [],
+  "zhipu": [],
+  "cambricon": [],
+  "horizon": [],
+  "robotera": [
+    {
+      "name": "机械设计 / 制造 / 维修",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791698585115511048"
+    },
+    {
+      "name": "产品 / 策划 / 项目",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615409933"
+    },
+    {
+      "name": "职能 / 支持",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615311629"
+    },
+    {
+      "name": "高级云服务开发工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-01-21 02:59",
+      "id": "7597643247405582619"
+    },
+    {
+      "name": "北京市海淀区中关村东路1号院7号楼威盛大厦7层",
+      "department": "",
+      "city": "{'city_code': 'CT_11', 'name': '北京', 'en_name': 'Beijing', 'i18n_name': '北京', 'py_name': 'beijing'}",
+      "updateTime": "",
+      "id": "7537645455594160132"
+    },
+    {
+      "name": "机器人强化学习（灵巧手方向）",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-01-15 09:09",
+      "id": "7595512286324787506"
+    },
+    {
+      "name": "遥操作系统工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-01-15 09:08",
+      "id": "7595512081555212571"
+    },
+    {
+      "name": "机器人规控算法工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-01-15 09:05",
+      "id": "7595511597217450259"
+    },
+    {
+      "name": " 成本BP",
+      "department": "",
+      "city": "",
+      "updateTime": "2025-11-21 02:17",
+      "id": "7574996680383252772"
+    },
+    {
+      "name": "技术产品经理",
+      "department": "",
+      "city": "",
+      "updateTime": "2025-11-17 08:05",
+      "id": "7573601627207141674"
+    },
+    {
+      "name": "Linux系统软件及BSP驱动工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2025-11-12 10:38",
+      "id": "7571785644297521459"
+    },
+    {
+      "name": "MCU嵌入式软件工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2025-11-12 10:36",
+      "id": "7571783296507824435"
+    },
+    {
+      "name": "产品市场经理",
+      "department": "",
+      "city": "",
+      "updateTime": "2025-10-31 09:38",
+      "id": "7567317808872737033"
+    },
+    {
+      "name": "具身智能大模型算法工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2025-09-15 09:57",
+      "id": "7550252790111750427"
+    }
+  ],
+  "chitu": [
+    {
+      "name": "测试工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-30 03:44",
+      "id": "7657028676513843466"
+    },
+    {
+      "name": "搜狐网络大厦3层",
+      "department": "",
+      "city": "{'city_code': 'CT_11', 'name': '北京', 'en_name': 'Beijing', 'i18n_name': '北京', 'py_name': 'beijing'}",
+      "updateTime": "",
+      "id": "7343515808776060929"
+    },
+    {
+      "name": "采购专员",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-29 15:43",
+      "id": "7656840880515287338"
+    },
+    {
+      "name": "项目经理",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-29 12:21",
+      "id": "7656789493450131731"
+    },
+    {
+      "name": "GPU 服务器集群管理",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-26 09:45",
+      "id": "7655637179301513510"
+    },
+    {
+      "name": "联想后海中心A座1711",
+      "department": "",
+      "city": "{'city_code': 'CT_128', 'name': '深圳', 'en_name': 'Shenzhen', 'i18n_name': '深圳', 'py_name': 'shenzhen'}",
+      "updateTime": "",
+      "id": "7343516019518242818"
+    },
+    {
+      "name": "用户运营",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-18 08:42",
+      "id": "7652640843988076851"
+    },
+    {
+      "name": "运营负责人",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-10 13:50",
+      "id": "7649755516973123859"
+    },
+    {
+      "name": "商务专员",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-10 13:46",
+      "id": "7649737370489817394"
+    },
+    {
+      "name": "政府关系（GR）",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-09 03:19",
+      "id": "7649219698475698483"
+    },
+    {
+      "name": "HRBP",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-05-29 02:43",
+      "id": "7645127341950552362"
+    },
+    {
+      "name": "行政主管",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-05-29 01:52",
+      "id": "7645121150846617906"
+    },
+    {
+      "name": "职能 / 支持",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615311629"
+    },
+    {
+      "name": "产品 / 策划 / 项目",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615409933"
+    }
+  ],
+  "01ai": [
+    {
+      "name": "塞尔维亚语实习生",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-15 08:30",
+      "id": "7662662529684064539"
+    },
+    {
+      "name": "北京市海淀区海淀大街3号鼎好DH3-A座",
+      "department": "",
+      "city": "{'city_code': 'CT_11', 'name': '北京', 'en_name': 'Beijing', 'i18n_name': '北京', 'py_name': 'beijing'}",
+      "updateTime": "",
+      "id": "7314613198677245953"
+    },
+    {
+      "name": "招聘实习生",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-15 05:26",
+      "id": "7662591568453830921"
+    },
+    {
+      "name": "多模态内容审核算法工程师",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-14 06:35",
+      "id": "7662267796738541833"
+    },
+    {
+      "name": "AI 产品实习生",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-10 12:42",
+      "id": "7660875836502034729"
+    },
+    {
+      "name": "AI 产品经理（数据方向）",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-03 06:53",
+      "id": "7658185706783607081"
+    },
+    {
+      "name": "FDE",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-02 14:25",
+      "id": "7657915803198900518"
+    },
+    {
+      "name": "测试开发工程师（AI Agent）",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-07-01 12:26",
+      "id": "7657529856271632682"
+    },
+    {
+      "name": "资本市场经理（融资与投资者关系方向）",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-22 11:56",
+      "id": "7654185895889176851"
+    },
+    {
+      "name": "产品设计师",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-18 06:36",
+      "id": "7652612265690253609"
+    },
+    {
+      "name": "各科目教研员（兼职/远程）",
+      "department": "",
+      "city": "",
+      "updateTime": "2026-06-12 10:14",
+      "id": "7650449699648768262"
+    },
+    {
+      "name": "产品 / 策划 / 项目",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615409933"
+    },
+    {
+      "name": "职能 / 支持",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615311629"
+    },
+    {
+      "name": "金融 / 投资",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791702736615328013"
+    },
+    {
+      "name": "咨询 / 调研 / 顾问",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "6791698585115429128"
+    },
+    {
+      "name": "阿斯塔纳",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "阿斯塔纳"
+    },
+    {
+      "name": "新加坡",
+      "department": "",
+      "city": "",
+      "updateTime": "",
+      "id": "新加坡"
+    }
+  ]
+}
