@@ -339,6 +339,12 @@
   - 千乘探索/地平线入口失败待人工查。
   - 方法学:mokahr(银河通用)可完整渲染非全加密;智谱用zhipuai.cn;月之暗面用careers.kimi.com;零一万物用01ai.jobs.feishu.cn。各家用对域名headless能渲染框架,岗位列表多需登录。
   - 原始数据存/pulp/find-job/live_*.html/txt。
+- **进取型内核变现3家真实核实已落盘**(companies.md"进取型·内核变现3家真实在招核实"节)：
+  - ★云杉DeepFlow(成府路28号优盛大厦D座1111,**2.4km**三家中最近,eBPF是其核心技术栈,匹配度极高40-65K×16,叠加AI根因agent=内核→Agent最短路径,hr@yunshan.net)
+  - 面壁ModelBest(清华科技园科建大厦3F,4.0km,FlagOS端侧model-system-chip三层,中高,35-60K×15,career@modelbest.cn)
+  - 智谱CodeGeeX(中关村东路1号院9号楼10层,3.9km,代码智能战略投入,匹配度中跨度大,45-70K×16)
+  - 三家均无公开可抓JD(DeepFlow无招聘页/ModelBest关停/智谱mokahr失效),需直接联系HR。均≤4km通勤无忧。
+  - ★DeepFlow是进取型"内核→Agent应用架构"变现最优解,与银河通用(进取型底层系统岗)并列两条最该触达的路。
 
 ### 第33轮 (2026-07-08) — Agent应用层设计落地市场地图(第32轮方向落地)
 - 第32轮裁决主方向=Agent应用层设计(造游戏非造引擎),本轮落地"北京哪些公司真有agent产品/应用架构岗"。

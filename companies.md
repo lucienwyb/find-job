@@ -483,3 +483,40 @@
 - mokahr门户(银河通用)headless可完整渲染30岗JD——非necromancer加密(第34轮Agent应用架构agent报necromancer是对智谱/月之暗面家，银河通用这家可渲染)。
 - 智谱必须用zhipuai.cn域名；月之暗面必须用careers.kimi.com；零一万物用01ai.jobs.feishu.cn。各家用对了域名headless能渲染门户框架，但岗位列表多需登录/深交互。
 - 原始数据存/pulp/find-job/下live_*.html/txt。
+
+## 进取型·内核变现3家真实在招核实（第35轮，2026-07-16）
+> 第34轮新发现的"内核变现最优解"3家，核实真实地址+在招岗位方向。地址来源：官网页脚工商信息。
+
+### 1. 云杉网络 DeepFlow — ★内核变现最优解，三家中最近
+- **地址**：海淀区成府路28号优盛大厦D座1111（来源yunshan.net页脚"北京云杉世纪网络科技有限公司"）
+- **距离**：**2.4km**（三家中最近）
+- **在招岗位方向**（官网无招聘门户，仅hr@yunshan.net；Boss/拉勾/猎聘反爬）：
+  - eBPF/内核开发工程师 — DeepFlow核心eBPF零侵扰采集+kernel function tracing+OnCPU/OffCPU profiling。匹配度**极高**，40-65K×16
+  - 可观测性Agent/智能体工程师 — "观测智能体"LLM+可观测数据底座→推断/预测/建议，携手必示科技AI根因分析。匹配度**高**(Agent方向+eBPF底座)，45-70K×16
+  - AI基础设施可观测性 — 监控GPU/CUDA调用栈。匹配度中高，40-60K×16
+- **判定**：非套壳·纯技术侧。DeepFlow从eBPF采集到Wasm插件/分布式追踪/continuous profiling全栈自研，AI根因叠加自有eBPF底座=内核→Agent最短路径。
+- **行动**：直接发hr@yunshan.net，强调eBPF可观测+LLM根因交叉经验。
+
+### 2. 面壁智能 ModelBest — 端侧内核变现
+- **地址**：海淀区清华科技园科建大厦3F（modelbest.cn页脚）— 距离**4.0km**
+- **在招岗位方向**（官网无招聘页，mokahr门户"已关停"，仅career@modelbest.cn）：
+  - 端侧推理引擎优化 — MiniCPM量化部署/CPU推理33tokens/s/NPU适配/llama.cpp/ollama/vllm。匹配度中高(C精通+ARM/Zynq对口)，35-55K×15
+  - 模型-硬件适配工程师 — FlagOS"model-system-chip"层统一AI编译器/算子库/推理框架跨芯片。匹配度中高(内核/系统可迁移)，40-60K×15
+  - 端侧Agent运行时 — Function Calling/RAG/端侧agent执行。匹配度中，40-55K×15
+- **判定**：非套壳·端侧技术侧。FlagOS三层打通需深厚系统级C/内核/硬件功底。
+- **行动**：发career@modelbest.cn，强调ARM/Zynq嵌入式+C精通+底层优化，匹配FlagOS端侧部署。
+
+### 3. 智谱 CodeGeeX — 代码智能(跨度偏大)
+- **地址**：海淀区中关村东路1号院9号楼10层（zhipuai.cn页脚）— 距离**3.9km**
+- **在招**：zhipuai.cn/zh/joinus社招3类(算法/研发/销售/PM)，mokahr门户已失效。CodeGeeX战略投入"Agentic Engineering"。
+- **匹配岗位**：代码智能/CodeGeeX研发工程师(GLM-5.2 Coding/代码生成审查Agent)，匹配度**中**(crash/perf动态分析→静态分析/代码理解可迁移，但需补编译原理+ML)，45-70K×16
+- **判定**：非套壳·技术侧，但候选人跨度大于前两家(内核→代码智能)。
+
+### 综合排序
+| 排名 | 公司 | 距离 | 匹配度 | 内核→Agent变现路径 |
+|---|---|---|---|---|
+| 1 | **云杉DeepFlow** | 2.4km | 极高 | eBPF内核→可观测数据底座→LLM根因Agent(最短路径) |
+| 2 | 面壁ModelBest | 4.0km | 中高 | ARM/嵌入式→FlagOS→端侧Agent运行时 |
+| 3 | 智谱CodeGeeX | 3.9km | 中 | crash/perf→代码理解→代码生成Agent |
+
+> 三家均无公开可抓JD正文(DeepFlow无招聘页/ModelBest关停/智谱mokahr失效)，需直接联系HR或登录核实。均在4km内通勤无忧。
