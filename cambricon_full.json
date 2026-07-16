@@ -1,0 +1,92 @@
+[
+  {
+    "title": "急行政专员",
+    "dept": "行政部职能类-社招",
+    "jobId": "8806e265-440b-4cf4-9eef-7f8a4b09821b",
+    "urgent": true
+  },
+  {
+    "title": "急ATE测试工程师",
+    "dept": "产品部技术类-社招",
+    "jobId": "d1881322-e63a-47f5-90e5-2e5e193bd8d6",
+    "urgent": true
+  },
+  {
+    "title": "急深度学习框架图编译工程师",
+    "dept": "基础软件部",
+    "jobId": "e4039f7b-0ca0-4a2b-a1b7-758fba259e6d",
+    "urgent": true
+  },
+  {
+    "title": "急AI编译器研发工程师",
+    "dept": "基础软件部",
+    "jobId": "eb77d3fb-1cd8-4622-8f92-462a5fbc46ff",
+    "urgent": true
+  },
+  {
+    "title": "急模拟芯片设计工程师",
+    "dept": "芯片部",
+    "jobId": "7af01057-d987-494e-b0e9-a5f9fc01135b",
+    "urgent": true
+  },
+  {
+    "title": "急AI现场应用工程师",
+    "dept": "技术服务部",
+    "jobId": "90cd8a4a-97b6-4039-b56d-283bebb165ea",
+    "urgent": true
+  },
+  {
+    "title": "急大模型训练优化工程师",
+    "dept": "分布式软件部",
+    "jobId": "d491974a-66cf-4947-9c20-06a2c4be7324",
+    "urgent": true
+  },
+  {
+    "title": "急SIPI工程师",
+    "dept": "产品部",
+    "jobId": "a4f0fb5a-f715-4060-b2bf-6f042a44f194",
+    "urgent": true
+  },
+  {
+    "title": "急芯片应用工程师-固件方向产品部",
+    "dept": "急芯片应用工程师-固件方向",
+    "jobId": "26741594-8e87-443d-b594-1a5a46dca5f9",
+    "urgent": true
+  },
+  {
+    "title": "急AI编译器研发工程师",
+    "dept": "基础软件部",
+    "jobId": "5568b26b-2bf0-42a3-9159-89dd310fe830",
+    "urgent": true
+  },
+  {
+    "title": "急数字后端设计工程师",
+    "dept": "后端部技术类-社招",
+    "jobId": "6fcba671-8228-4a7e-8e89-fb1fe229e5f3",
+    "urgent": true
+  },
+  {
+    "title": "急数字后端设计工程师-南京后端部技术类-社招",
+    "dept": "急数字后端设计工程师-南京",
+    "jobId": "ca0c2095-41da-48c7-b989-0d07dfca713e",
+    "urgent": true
+  },
+  {
+    "title": "急高性能通信库研发工程师",
+    "dept": "分布式软件部",
+    "jobId": "274cf366-f91e-4ce8-a961-52b17d594f4c",
+    "urgent": true
+  },
+  {
+    "title": "急CAD资深流程开发工程师",
+    "dept": "后端部",
+    "jobId": "2fb8c407-f2d3-4820-a538-e2ca2767f965",
+    "urgent": true
+  },
+  {
+    "title": "急AI网络研发工程师",
+    "dept": "分布式软件部",
+    "jobId": "174868ac-13cd-4316-ade7-1a39cdcb95eb",
+    "urgent": true
+  }
+]

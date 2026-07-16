@@ -1,0 +1,596 @@
+[
+  {
+    "title": "全栈极客工程师（AI-Native 方向）",
+    "date": "2026-07-13",
+    "jobId": "750e5cb2-e24c-4338-a087-ea5c9c37bf6d",
+    "urgent": false
+  },
+  {
+    "title": "国际化综合运营（合规方向）",
+    "date": "2026-07-03",
+    "jobId": "53cb4b45-f8f4-4fdf-ae47-05489bb1f5de",
+    "urgent": false
+  },
+  {
+    "title": "线下活动策划（海外）",
+    "date": "2026-07-03",
+    "jobId": "93e45c79-3fe7-4231-89fa-8ef46ba83c22",
+    "urgent": false
+  },
+  {
+    "title": "营销媒介（商务）",
+    "date": "2026-07-03",
+    "jobId": "627842a2-157a-42ce-9b0c-9b2214a397eb",
+    "urgent": false
+  },
+  {
+    "title": "海外商务合作专家",
+    "date": "2026-07-03",
+    "jobId": "71bebf06-f606-4bb9-9ec1-50b5fe6b39c0",
+    "urgent": false
+  },
+  {
+    "title": "用户增长专家- SEO与内容策略",
+    "date": "2026-07-03",
+    "jobId": "e76a1776-9f98-4d0a-961c-26f18d003efb",
+    "urgent": false
+  },
+  {
+    "title": "Kimi 品牌设计师（Brand Designer）",
+    "date": "2026-06-24",
+    "jobId": "5f21607d-cbef-4423-920e-35ce16c09cbc",
+    "urgent": false
+  },
+  {
+    "title": "用户增长运营（达人营销方向）",
+    "date": "2026-06-18",
+    "jobId": "569ddd44-5514-46fa-9068-1682489e4c60",
+    "urgent": false
+  },
+  {
+    "title": "国内PR专家",
+    "date": "2026-06-18",
+    "jobId": "c766bf8a-c9b8-4731-8996-192db824623e",
+    "urgent": false
+  },
+  {
+    "title": "国内用户增长专家（投放方向）",
+    "date": "2026-06-17",
+    "jobId": "318d3a0b-ef39-4361-a27b-9c086933b7fe",
+    "urgent": false
+  },
+  {
+    "title": "海外用户增长专家（投放方向）",
+    "date": "2026-06-17",
+    "jobId": "cd42cf26-518a-4dd6-bbd0-1cdfa1ece6f9",
+    "urgent": false
+  },
+  {
+    "title": "资深后端工程师-商业化",
+    "date": "2026-05-18",
+    "jobId": "0079d23b-912d-4033-b9a4-22d7d970ba08",
+    "urgent": false
+  },
+  {
+    "title": "AI 数据资源运营/采购经理",
+    "date": "2026-05-17",
+    "jobId": "0651d956-1b9f-47a3-9568-03afb140f3d9",
+    "urgent": false
+  },
+  {
+    "title": "Post-Training Algorithm Researcher/Engineer",
+    "date": "2026-04-03",
+    "jobId": "faf002c6-3b8b-4154-912d-ec109001c28b",
+    "urgent": false
+  },
+  {
+    "title": "Research Scientist / Engineer – Agentic RL/Infra",
+    "date": "2026-04-03",
+    "jobId": "d4a6a175-6506-4746-a6f4-2b736c0ce339",
+    "urgent": false
+  },
+  {
+    "title": "RL Infra 研究工程师",
+    "date": "2026-01-19",
+    "jobId": "6a3ff164-ebcc-4b2f-97ac-0f21ed8327d4",
+    "urgent": false
+  },
+  {
+    "title": "Coding 系统工程师",
+    "date": "2025-12-02",
+    "jobId": "5802f8af-f3f3-42bb-b9e6-0bf281017ff4",
+    "urgent": false
+  },
+  {
+    "title": "大规模推理系统工程师",
+    "date": "2025-12-02",
+    "jobId": "3844381e-116a-46a5-a76c-c607c131ff39",
+    "urgent": false
+  },
+  {
+    "title": "Infra 系统应用工程师",
+    "date": "2025-12-02",
+    "jobId": "ab9bb466-4f4e-4562-86f3-8306531b1481",
+    "urgent": false
+  },
+  {
+    "title": "Partnership Development Manager",
+    "date": "2026-07-16",
+    "jobId": "ae51b1ff-b717-4f83-9405-1e58fe4a4245",
+    "urgent": false
+  },
+  {
+    "title": "高性能分布式存储工程师",
+    "date": "2026-07-16",
+    "jobId": "4f904813-b256-4e0e-b14d-22b77e1cd47e",
+    "urgent": false
+  },
+  {
+    "title": "数据安全专家",
+    "date": "2026-07-14",
+    "jobId": "5e739454-1a64-4023-91ec-655ec627b82f",
+    "urgent": false
+  },
+  {
+    "title": "GPU算力采购经理",
+    "date": "2026-07-10",
+    "jobId": "b148c59d-c393-41e4-b6ca-c2bb190bceaa",
+    "urgent": false
+  },
+  {
+    "title": "客服运营（境内外）",
+    "date": "2026-07-09",
+    "jobId": "a2a633e5-2e48-4b55-9664-cb18b52cf159",
+    "urgent": false
+  },
+  {
+    "title": "Agentic Growth Engineer",
+    "date": "2026-07-01",
+    "jobId": "d8c3cd02-15c3-434c-9305-d8fdda83df0e",
+    "urgent": false
+  },
+  {
+    "title": "Coding Agent  研发工程师｜Kimi Code",
+    "date": "2026-06-30",
+    "jobId": "82f07bb3-8bdc-4714-805f-43b1a22c238f",
+    "urgent": false
+  },
+  {
+    "title": "开放平台产品经理",
+    "date": "2026-06-25",
+    "jobId": "17fe105b-470b-4a3b-949c-b783df163898",
+    "urgent": false
+  },
+  {
+    "title": "AI数据平台工程师",
+    "date": "2026-06-17",
+    "jobId": "9e476b2f-fa31-4afc-b4c2-c4ab4d082ecd",
+    "urgent": false
+  },
+  {
+    "title": "Business Builder & Ecosystem",
+    "date": "2026-06-16",
+    "jobId": "7e79b93b-25ec-4545-88b4-09754ec9bb79",
+    "urgent": false
+  },
+  {
+    "title": "Solution Architect",
+    "date": "2026-06-16",
+    "jobId": "5d13f42e-8c37-4d25-a27e-b6c12d8c6f34",
+    "urgent": false
+  },
+  {
+    "title": "资深资金专家 / Treasury Manager",
+    "date": "2026-06-15",
+    "jobId": "264fc83f-bc0c-4685-a2cc-a03e83f81d71",
+    "urgent": false
+  },
+  {
+    "title": "Harness 研发工程师",
+    "date": "2026-06-12",
+    "jobId": "00c1cb89-07b3-4002-a04c-9e12f291f2a7",
+    "urgent": false
+  },
+  {
+    "title": "Harness 研究工程师",
+    "date": "2026-06-12",
+    "jobId": "5ea32a28-6fa7-4572-9c98-5ea7584211df",
+    "urgent": false
+  },
+  {
+    "title": "预训练数据工程师",
+    "date": "2026-06-09",
+    "jobId": "2810d77f-2de1-4e4c-bde6-a8cef249b5f2",
+    "urgent": false
+  },
+  {
+    "title": "数据安全研发工程师",
+    "date": "2026-06-04",
+    "jobId": "a662d672-c6a4-44a4-b546-3c79f70dc290",
+    "urgent": false
+  },
+  {
+    "title": "Agent Engineer / Agent 工程师",
+    "date": "2026-06-03",
+    "jobId": "958da220-11e5-49d9-9514-649ed40a84da",
+    "urgent": false
+  },
+  {
+    "title": "评估系统工程师（Eval Engineer）",
+    "date": "2026-06-03",
+    "jobId": "9ee5017f-8124-4104-b9cc-e7bfb20921cf",
+    "urgent": false
+  },
+  {
+    "title": "业务攻防技术专家",
+    "date": "2026-06-02",
+    "jobId": "40c3f46d-b802-430a-bf9c-b919192a82ef",
+    "urgent": false
+  },
+  {
+    "title": "机器学习平台 SRE 工程师",
+    "date": "2026-05-28",
+    "jobId": "41901441-ace5-4297-9275-e2d93fae645e",
+    "urgent": false
+  },
+  {
+    "title": "高级网络工程师 Senior Network Engineer",
+    "date": "2026-05-28",
+    "jobId": "2684c357-22fb-463d-85a4-9501f4cd9d2f",
+    "urgent": false
+  },
+  {
+    "title": "AI C端产品经理",
+    "date": "2026-05-27",
+    "jobId": "01488d62-dd0b-4b8a-9837-77fe6a1719d9",
+    "urgent": false
+  },
+  {
+    "title": "机器学习平台工程师（Kubernetes / GPU 基础设施方向）",
+    "date": "2026-05-27",
+    "jobId": "f3ffa7f1-2f58-4cec-ab31-35e70990908f",
+    "urgent": false
+  },
+  {
+    "title": "Kubernetes 调度器开发工程师",
+    "date": "2026-05-27",
+    "jobId": "fb9e166e-d322-4a76-a1bf-9b44b69c2d71",
+    "urgent": false
+  },
+  {
+    "title": "AI 战略用研专家",
+    "date": "2026-05-25",
+    "jobId": "e8f332ca-c7f3-4db9-9874-d0179ab5a724",
+    "urgent": false
+  },
+  {
+    "title": "大模型Eval评测（工程方向/产品方向）",
+    "date": "2026-05-17",
+    "jobId": "965b7d3d-35e7-400f-a372-4a934a7f336b",
+    "urgent": false
+  },
+  {
+    "title": "内容安全负责人",
+    "date": "2026-05-12",
+    "jobId": "430b04a2-8001-448d-8ab8-03be278679e1",
+    "urgent": false
+  },
+  {
+    "title": "RL infra",
+    "date": "2026-05-11",
+    "jobId": "4a93fb5f-8567-4a1f-b8c4-b1f80fda9e59",
+    "urgent": false
+  },
+  {
+    "title": "业务攻防技术专家",
+    "date": "2026-05-11",
+    "jobId": "3c2149ed-f539-446a-80bb-9569d95481e6",
+    "urgent": false
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "date": "2026-05-06",
+    "jobId": "d49677fe-261d-4908-8e60-f428ed28e7d9",
+    "urgent": false
+  },
+  {
+    "title": "API开放平台工程师",
+    "date": "2026-04-23",
+    "jobId": "953dff1f-ad94-47ee-930e-f0ebd886ff4c",
+    "urgent": false
+  },
+  {
+    "title": "数据开发工程师",
+    "date": "2026-04-21",
+    "jobId": "b8d9bdb4-00a1-4d80-b1db-4b71d20d525f",
+    "urgent": false
+  },
+  {
+    "title": "数据开发",
+    "date": "2026-04-19",
+    "jobId": "31ad37f0-86cc-4c54-9971-0ebb5be2aecc",
+    "urgent": false
+  },
+  {
+    "title": "KIMI产品设计师",
+    "date": "2026-04-16",
+    "jobId": "33f1df2b-19b3-4f60-ac30-6c64c75f42ed",
+    "urgent": false
+  },
+  {
+    "title": "AI Coding Mentor",
+    "date": "2026-04-14",
+    "jobId": "a3c65002-bffc-4d3f-ba97-18dca73d4b7e",
+    "urgent": false
+  },
+  {
+    "title": "AI Native 产品经理（C端 / Agent方向）",
+    "date": "2026-04-10",
+    "jobId": "90ec12d1-684b-4aae-a243-838f94a2e1aa",
+    "urgent": false
+  },
+  {
+    "title": "用户增长专家 - SEO与内容策略",
+    "date": "2026-04-09",
+    "jobId": "372fda77-500b-4173-8926-7f7d1a75cf3e",
+    "urgent": false
+  },
+  {
+    "title": "Agent产品工程师（multi-agent 方向）",
+    "date": "2026-04-08",
+    "jobId": "63838ab2-b4de-4602-962c-3b31e2bee006",
+    "urgent": false
+  },
+  {
+    "title": "LLM推理优化工程师",
+    "date": "2026-04-01",
+    "jobId": "54418560-f04e-434c-aa62-016f38848d8f",
+    "urgent": false
+  },
+  {
+    "title": "Infra 系统工程师 - 训练平台",
+    "date": "2026-04-01",
+    "jobId": "a015efdd-c9b6-4ff3-a1db-bec6add13a48",
+    "urgent": false
+  },
+  {
+    "title": "KIMI前端开发工程师（主站方向）",
+    "date": "2026-03-28",
+    "jobId": "a7f4eccc-53e3-43e2-8900-b2249e0995ac",
+    "urgent": false
+  },
+  {
+    "title": "开放平台测试工程师",
+    "date": "2026-03-23",
+    "jobId": "d897dd1d-f4ee-4690-8d49-76f472828676",
+    "urgent": false
+  },
+  {
+    "title": "客户投诉处理专家（政府绿色通道方向）",
+    "date": "2026-03-21",
+    "jobId": "b78d37d7-8249-489d-ba8b-f816e5e74083",
+    "urgent": false
+  },
+  {
+    "title": "多语言海外增长营销",
+    "date": "2026-03-17",
+    "jobId": "d3696ca7-ab0f-494d-be1d-f23a4fe25958",
+    "urgent": false
+  },
+  {
+    "title": "海外PR专家",
+    "date": "2026-03-12",
+    "jobId": "7fdcddca-2953-4216-b0ae-ab81c0ee6daa",
+    "urgent": false
+  },
+  {
+    "title": "iOS Architect",
+    "date": "2026-03-06",
+    "jobId": "ad3f124b-1309-4941-814e-8ab80f985b82",
+    "urgent": false
+  },
+  {
+    "title": "iOS Engineer",
+    "date": "2026-02-26",
+    "jobId": "3ba0c711-bdb7-44c1-9925-5c5bee3cd70b",
+    "urgent": false
+  },
+  {
+    "title": "大数据处理工程师（模型训练数据方向）",
+    "date": "2026-02-26",
+    "jobId": "9a3b3788-9a29-4408-9bcf-6aaeac705916",
+    "urgent": false
+  },
+  {
+    "title": "coding engineer",
+    "date": "2026-02-26",
+    "jobId": "6dd2f4c9-7450-4787-a5a7-8e5adaeff09e",
+    "urgent": false
+  },
+  {
+    "title": "Kimi For Coding 系统工程师",
+    "date": "2026-02-25",
+    "jobId": "6ea19dc3-ccfd-4543-9eab-08473c4016b2",
+    "urgent": false
+  },
+  {
+    "title": "高级 SRE 工程师 Senior Site Reliability Engineer",
+    "date": "2026-02-23",
+    "jobId": "17fedd58-3486-4334-a724-837d4874fa3f",
+    "urgent": false
+  },
+  {
+    "title": "系统工程师-LLM 推理系统",
+    "date": "2026-01-30",
+    "jobId": "f5ec07aa-a252-4519-9cb0-3256e7dd5461",
+    "urgent": false
+  },
+  {
+    "title": "内容安全运营专家",
+    "date": "2026-01-04",
+    "jobId": "24f3ed9f-0fcf-4091-8be3-0dc2df157585",
+    "urgent": false
+  },
+  {
+    "title": "HRBP",
+    "date": "2026-01-04",
+    "jobId": "90ec8ea6-1159-464c-af7e-cbf9c8a6a0d3",
+    "urgent": false
+  },
+  {
+    "title": "资深AI产品测试工程师",
+    "date": "2025-12-02",
+    "jobId": "017f08cb-8bac-4f11-9d97-ffc212ccf25c",
+    "urgent": false
+  },
+  {
+    "title": "Agent Development Engineer",
+    "date": "2025-12-02",
+    "jobId": "8c56a387-e02b-44a9-a9b0-2d0c83a00c01",
+    "urgent": false
+  },
+  {
+    "title": "数据项目经理（代码方向）Agent coding PMO",
+    "date": "2025-11-11",
+    "jobId": "ddbb2db8-73ed-410e-ad70-de89d873e5dd",
+    "urgent": false
+  },
+  {
+    "title": "Kimi Agent 全栈算法工程师",
+    "date": "2025-11-10",
+    "jobId": "2317bc92-2010-45de-a41e-feec91eeebfe",
+    "urgent": false
+  },
+  {
+    "title": "数据标注项目经理（base成都）",
+    "date": "2025-11-03",
+    "jobId": "af7cf1bc-62a1-4144-aafb-05d772f7152f",
+    "urgent": false
+  },
+  {
+    "title": "开发者社区运营",
+    "date": "2025-10-21",
+    "jobId": "2b4f80a4-b740-4b7c-845a-bc6dfb11f033",
+    "urgent": false
+  },
+  {
+    "title": "高性能计算工程师",
+    "date": "2025-09-15",
+    "jobId": "89b124ec-7ff1-4314-8f10-5944af69baaa",
+    "urgent": false
+  },
+  {
+    "title": "VLM预训练研究员-视频方向",
+    "date": "2025-07-24",
+    "jobId": "66f55512-a0b6-4555-8c2f-4b299e41ed74",
+    "urgent": false
+  },
+  {
+    "title": "资深系统开发工程师",
+    "date": "2025-07-21",
+    "jobId": "3610f5c8-b3f4-4191-924f-c458ef4d86c7",
+    "urgent": false
+  },
+  {
+    "title": "Research Scientist / Engineer – Agentic RL",
+    "date": "2025-07-15",
+    "jobId": "a15503a3-dfb5-4b9d-a507-63ad06881cc5",
+    "urgent": false
+  },
+  {
+    "title": "用户增长专家（投放方向）",
+    "date": "2025-07-11",
+    "jobId": "12f09556-5b16-426d-89e5-7783b4c431f8",
+    "urgent": false
+  },
+  {
+    "title": "资深产品经理 - 商业化方向",
+    "date": "2025-06-24",
+    "jobId": "a61adcd0-08e4-4e78-9dfe-b32d45d7be59",
+    "urgent": false
+  },
+  {
+    "title": "前端开发工程师",
+    "date": "2025-06-05",
+    "jobId": "5c18abca-fb36-48ea-90bb-f6cde4e3e86b",
+    "urgent": false
+  },
+  {
+    "title": "多模态强化学习研究员",
+    "date": "2025-05-09",
+    "jobId": "10111b3c-e95b-45ad-a8fd-2eb059bc5b3b",
+    "urgent": false
+  },
+  {
+    "title": "强化学习-大模型研发工程师/研究员（AI Engineer/Researcher - RL)",
+    "date": "2025-04-24",
+    "jobId": "2046b627-c20c-4e83-b6fe-c4269ce40eab",
+    "urgent": false
+  },
+  {
+    "title": "AI infra 推理工程师",
+    "date": "2025-04-18",
+    "jobId": "b02f45c4-a361-4746-9e5c-49fe256cb530",
+    "urgent": false
+  },
+  {
+    "title": "Infra 系统工程师 - 推理系统",
+    "date": "2025-02-24",
+    "jobId": "4feaed35-160e-4305-a091-a6f5dd3b4a7f",
+    "urgent": false
+  },
+  {
+    "title": "HR岗位（招聘）",
+    "date": "2025-02-21",
+    "jobId": "28b2f6e0-e563-4180-85a6-e77367a15be6",
+    "urgent": false
+  },
+  {
+    "title": "训练框架工程师",
+    "date": "2025-02-07",
+    "jobId": "97a249cf-42fd-44dc-bf58-b47f74af2dba",
+    "urgent": false
+  },
+  {
+    "title": "多模态算法工程师",
+    "date": "2025-02-07",
+    "jobId": "e38bdd9f-8e41-4c8d-92ad-8c2ad2d2607c",
+    "urgent": false
+  },
+  {
+    "title": "推理框架工程师",
+    "date": "2025-02-07",
+    "jobId": "f10dd1f9-d5de-4e46-a225-0b2c82bc8c60",
+    "urgent": false
+  },
+  {
+    "title": "大模型算法研究员/工程师（预训练）",
+    "date": "2025-02-06",
+    "jobId": "4fd44b4b-17f0-4a5b-bbd6-2b4b0d6e9b57",
+    "urgent": false
+  },
+  {
+    "title": "大规模数据处理工程师（模型训练数据方向）",
+    "date": "2025-02-05",
+    "jobId": "ee7a2602-4b7c-4d16-b16f-528ab72e31dc",
+    "urgent": false
+  },
+  {
+    "title": "高级算法系统工程师",
+    "date": "2025-02-05",
+    "jobId": "7d5738cd-d379-47d1-8ee1-8eb8163e05ca",
+    "urgent": false
+  },
+  {
+    "title": "大语言模型架构研究员（预训练方向）",
+    "date": "2025-02-05",
+    "jobId": "858cfc50-0778-4de6-9e94-881d30dd2ff8",
+    "urgent": false
+  },
+  {
+    "title": "商业产品经理-会员方向",
+    "date": "2025-02-05",
+    "jobId": "c5558fab-60ae-469b-b4ef-e97742858100",
+    "urgent": false
+  }
+]

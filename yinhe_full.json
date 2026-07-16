@@ -1,0 +1,746 @@
+[
+  {
+    "title": "具身智能硬件 & Infra 项目经理",
+    "date": "2026-07-14",
+    "jobId": "1ebed796-a23a-4300-b30b-10f868e67d34",
+    "urgent": false
+  },
+  {
+    "title": "机械臂规划控制资深工程师",
+    "date": "2026-07-13",
+    "jobId": "3cda561c-dc9d-44b2-bf90-7262e4fcda28",
+    "urgent": false
+  },
+  {
+    "title": "具身智能仿真平台研发工程师",
+    "date": "2026-07-13",
+    "jobId": "87b113dd-bcec-4be2-a27b-0fa2d4632a09",
+    "urgent": false
+  },
+  {
+    "title": "校园招聘专家",
+    "date": "2026-07-10",
+    "jobId": "d153736a-bb38-4c78-bf03-2a55c39fc78c",
+    "urgent": false
+  },
+  {
+    "title": "机器人数据质量工程师",
+    "date": "2026-07-02",
+    "jobId": "d8e926a4-b126-4c72-87af-0a4185c8c6a3",
+    "urgent": false
+  },
+  {
+    "title": "具身大模型算法工程师-工业预训练",
+    "date": "2026-07-01",
+    "jobId": "0d87a670-9932-40f0-b42f-838e85b6140f",
+    "urgent": false
+  },
+  {
+    "title": "机器人规控软件工程师",
+    "date": "2026-06-25",
+    "jobId": "a8b071ec-7941-4076-b2f6-4861a9cc783a",
+    "urgent": false
+  },
+  {
+    "title": "项目经理（人形算法方向）",
+    "date": "2026-06-24",
+    "jobId": "cb87c5b1-ce95-4f33-b06d-36bc929f6bf2",
+    "urgent": false
+  },
+  {
+    "title": "项目经理（交互/数据采集方向）",
+    "date": "2026-06-24",
+    "jobId": "6e2144eb-7e45-40d3-bc48-d051ea0b6362",
+    "urgent": false
+  },
+  {
+    "title": "VR-XR 设备标定专家",
+    "date": "2026-06-24",
+    "jobId": "ed682c59-8407-4cc9-bf65-f371b4512c6b",
+    "urgent": false
+  },
+  {
+    "title": "机械工程师",
+    "date": "2026-06-12",
+    "jobId": "185fefb0-9ec8-4d65-9b74-ae28957e405c",
+    "urgent": false
+  },
+  {
+    "title": "架构师（具身智能数据平台）",
+    "date": "2026-06-11",
+    "jobId": "cad86e85-09cc-43ef-989a-8412e857d40c",
+    "urgent": false
+  },
+  {
+    "title": "具身数据工程师 · SDK / 工具链方向",
+    "date": "2026-06-10",
+    "jobId": "f2b57e98-3d15-4f91-b7ee-4d88cc5ed3e9",
+    "urgent": false
+  },
+  {
+    "title": "人形机器人系统开发工程师",
+    "date": "2026-06-08",
+    "jobId": "106afaad-a17d-47cb-9a8b-f764d3746190",
+    "urgent": false
+  },
+  {
+    "title": "具身数据算法工程师",
+    "date": "2026-06-03",
+    "jobId": "2d6d699c-d89e-4aa4-8b10-303be3127ce7",
+    "urgent": false
+  },
+  {
+    "title": "SLAM算法工程师",
+    "date": "2026-06-03",
+    "jobId": "60b66ee9-2830-4d48-a751-76b866875d2f",
+    "urgent": false
+  },
+  {
+    "title": "具身大模型算法工程师-工业后训练",
+    "date": "2026-06-01",
+    "jobId": "d31fddcb-437f-4374-a73b-39f84851805a",
+    "urgent": false
+  },
+  {
+    "title": "机器人学习算法工程师-工业操作策略",
+    "date": "2026-06-01",
+    "jobId": "26d5a23d-d941-4863-a931-3d0b77e840ad",
+    "urgent": false
+  },
+  {
+    "title": "算子开发工程师",
+    "date": "2026-05-15",
+    "jobId": "c4f09105-11b3-40d5-9a68-ef70c1749937",
+    "urgent": false
+  },
+  {
+    "title": "训练基础设施工程师",
+    "date": "2026-05-15",
+    "jobId": "1dd0773a-16ed-4c96-bc8a-bc110095a73c",
+    "urgent": false
+  },
+  {
+    "title": "底层推理工程师",
+    "date": "2026-05-15",
+    "jobId": "7d27a262-a0fa-41f9-b3cd-765899a11b9e",
+    "urgent": false
+  },
+  {
+    "title": "具身多模态大模型算法工程师（数据方向）",
+    "date": "2026-05-13",
+    "jobId": "b2596f48-ae97-42b9-9a9d-ff4088efb1cd",
+    "urgent": false
+  },
+  {
+    "title": "具身智能数据基建项目经理（PM）",
+    "date": "2026-05-12",
+    "jobId": "88bbd0bd-ee6d-4af5-adb8-9b44a48127fb",
+    "urgent": false
+  },
+  {
+    "title": "具身大模型算法工程师-北京",
+    "date": "2026-05-08",
+    "jobId": "bcb752ae-3384-4e41-ac92-d17e22e0c8f5",
+    "urgent": false
+  },
+  {
+    "title": "具身智能项目经理/解决方案经理",
+    "date": "2026-07-16",
+    "jobId": "dfb49fb0-9160-4b18-a878-2753b6cc2745",
+    "urgent": false
+  },
+  {
+    "title": "展会展览项目专员",
+    "date": "2026-07-15",
+    "jobId": "08faa9a2-584b-4e24-9d27-d967a8604ea3",
+    "urgent": false
+  },
+  {
+    "title": "项目经理（交互/数据采集方向）",
+    "date": "2026-07-14",
+    "jobId": "9c957044-a640-4894-9134-e2b574d98851",
+    "urgent": false
+  },
+  {
+    "title": "海外交付项目经理",
+    "date": "2026-07-10",
+    "jobId": "02d41c19-ac9a-4a46-8f7a-79e9442af36a",
+    "urgent": false
+  },
+  {
+    "title": "深圳-硬件产品经理",
+    "date": "2026-07-08",
+    "jobId": "edc48034-ecd3-4cf3-ab3b-6ef6a99f3d06",
+    "urgent": false
+  },
+  {
+    "title": "嵌入式应用工程师--人形机器人",
+    "date": "2026-07-08",
+    "jobId": "3ed782b2-5066-4e95-a4dc-1451cfb4dbde",
+    "urgent": false
+  },
+  {
+    "title": "北京-硬件产品经理",
+    "date": "2026-07-08",
+    "jobId": "d5f86cfa-d137-4be1-99a7-28991f417292",
+    "urgent": false
+  },
+  {
+    "title": "海外业务拓展总监",
+    "date": "2026-07-08",
+    "jobId": "86832d05-e245-43d5-9273-07a5c43d0e9c",
+    "urgent": false
+  },
+  {
+    "title": "人形产品经理",
+    "date": "2026-07-07",
+    "jobId": "69ae4169-c8a3-4c21-8c57-0181da18f220",
+    "urgent": false
+  },
+  {
+    "title": "机器人仿真与强化学习算法工程师",
+    "date": "2026-07-01",
+    "jobId": "5f9096d2-544b-4a3c-b402-cac7c425d6dc",
+    "urgent": false
+  },
+  {
+    "title": "招聘专家",
+    "date": "2026-06-30",
+    "jobId": "96e96fc6-edb6-43ef-8d29-274d6e32f1bd",
+    "urgent": false
+  },
+  {
+    "title": "内容策划",
+    "date": "2026-06-30",
+    "jobId": "ee334b58-2ea0-441d-b9a8-1aab9b06122f",
+    "urgent": false
+  },
+  {
+    "title": "SSC专员",
+    "date": "2026-06-29",
+    "jobId": "156df7f9-bc12-4a45-ab9e-f9258aa853eb",
+    "urgent": false
+  },
+  {
+    "title": "机器人规控软件测试工程师",
+    "date": "2026-06-26",
+    "jobId": "05d56513-c051-4928-91c6-48f7aba201cb",
+    "urgent": false
+  },
+  {
+    "title": "系统性能测试工程师",
+    "date": "2026-06-25",
+    "jobId": "4ea2ddf1-c021-4a24-a886-1c3743332f09",
+    "urgent": false
+  },
+  {
+    "title": "双足人形机器人控制算法工程师（WBC/MPC方向）",
+    "date": "2026-06-23",
+    "jobId": "2e3f96b0-b0b5-4a9f-8e34-41cc999dd749",
+    "urgent": false
+  },
+  {
+    "title": "规控算法leader",
+    "date": "2026-06-18",
+    "jobId": "bab8937b-3ec8-4f81-bbbe-d6e04db97306",
+    "urgent": false
+  },
+  {
+    "title": "BSP开发工程师（网络方向）",
+    "date": "2026-06-12",
+    "jobId": "92856e6e-ee3f-41a7-a032-780947e4c350",
+    "urgent": false
+  },
+  {
+    "title": "相机应用开发工程师",
+    "date": "2026-06-08",
+    "jobId": "8dfdeb56-bddb-47e0-80e5-a480abba29f8",
+    "urgent": false
+  },
+  {
+    "title": "机器人系统集成开发工程师",
+    "date": "2026-06-08",
+    "jobId": "bfa857b8-d27c-4c1e-9a70-88390b82e091",
+    "urgent": false
+  },
+  {
+    "title": "机器人系统安全工程师",
+    "date": "2026-06-08",
+    "jobId": "5cfb006e-51b5-43ac-ba9f-eb6fc51fa69f",
+    "urgent": false
+  },
+  {
+    "title": "课程教研",
+    "date": "2026-06-04",
+    "jobId": "b0202eb6-88c6-4add-b85f-f15a84c44b46",
+    "urgent": false
+  },
+  {
+    "title": "机器人规控算法工程师-苏州",
+    "date": "2026-06-04",
+    "jobId": "a3e3a23b-9613-4654-8ee8-7c9bd7461223",
+    "urgent": false
+  },
+  {
+    "title": "机器人业务软件开发工程师",
+    "date": "2026-06-04",
+    "jobId": "179bbebf-f382-4d05-a51c-b58f8e262f32",
+    "urgent": false
+  },
+  {
+    "title": "仿真资产建模师",
+    "date": "2026-06-03",
+    "jobId": "d4468f58-9cd1-4c29-881a-3e9c9fa17146",
+    "urgent": false
+  },
+  {
+    "title": "软件研发质量工程师",
+    "date": "2026-06-01",
+    "jobId": "d3f2fe67-e408-491f-9b83-9cbcdbf11787",
+    "urgent": false
+  },
+  {
+    "title": "研发项目经理",
+    "date": "2026-05-26",
+    "jobId": "999e1575-f77f-4016-8b16-8cfe44421170",
+    "urgent": false
+  },
+  {
+    "title": "具身智能应用工程师-苏州",
+    "date": "2026-05-26",
+    "jobId": "cbaed516-8503-43d2-ac99-dc728bddb2fb",
+    "urgent": false
+  },
+  {
+    "title": "具身仿真工程师-苏州",
+    "date": "2026-05-26",
+    "jobId": "e2591c14-bb8f-46e2-9df5-b082814c76c0",
+    "urgent": false
+  },
+  {
+    "title": "具身操作算法工程师（力控方向）-苏州",
+    "date": "2026-05-26",
+    "jobId": "23e99c6c-271a-4695-accb-2ef0a875e715",
+    "urgent": false
+  },
+  {
+    "title": "具身控制算法专家-苏州",
+    "date": "2026-05-26",
+    "jobId": "f954e8fa-737a-4a1b-81e0-ff80c339fb9b",
+    "urgent": false
+  },
+  {
+    "title": "具身大模型算法工程师-苏州",
+    "date": "2026-05-26",
+    "jobId": "08d37754-9c8a-44b5-80af-23b4ec0f41d0",
+    "urgent": false
+  },
+  {
+    "title": "具身大模型算法专家（VLA/VLM）-苏州",
+    "date": "2026-05-26",
+    "jobId": "9a4ce845-16a9-4033-93d7-b216ce7e0122",
+    "urgent": false
+  },
+  {
+    "title": "具身感知算法专家-苏州",
+    "date": "2026-05-26",
+    "jobId": "af30a502-ff36-4860-9e79-f23696cbb1ca",
+    "urgent": false
+  },
+  {
+    "title": "资深应用开发工程师",
+    "date": "2026-05-22",
+    "jobId": "a80b57ad-4750-4fe0-aa5f-f984e0d43f4e",
+    "urgent": false
+  },
+  {
+    "title": "海外业务拓展专家",
+    "date": "2026-05-12",
+    "jobId": "7dacceb7-b33d-4f80-a245-b4fe279c98d5",
+    "urgent": false
+  },
+  {
+    "title": "机器人全栈工程师（初/中/高级）",
+    "date": "2026-05-12",
+    "jobId": "09b3eeeb-cf06-44fd-be2a-0f4640c090a1",
+    "urgent": false
+  },
+  {
+    "title": "现场技术工程师-苏州",
+    "date": "2026-05-09",
+    "jobId": "74b67f2c-9b4d-4843-99bf-fdd8d996e06b",
+    "urgent": false
+  },
+  {
+    "title": "行政专员",
+    "date": "2026-05-08",
+    "jobId": "4c2d997c-d853-448b-9cc5-e23f43ef5ad5",
+    "urgent": false
+  },
+  {
+    "title": "法务主管（IP）",
+    "date": "2026-05-08",
+    "jobId": "0b892e84-bece-4e84-b895-176b07399bf9",
+    "urgent": false
+  },
+  {
+    "title": "机器人应用开发工程师（具身智能 & 情感交互方向）",
+    "date": "2026-05-08",
+    "jobId": "7243ba59-9f88-45b1-b01e-f0a45e88b7c0",
+    "urgent": false
+  },
+  {
+    "title": "服务端工程师（机器人&情感交互方向）",
+    "date": "2026-05-08",
+    "jobId": "c543efce-d0b0-4dc8-bfae-b8b58723c7c7",
+    "urgent": false
+  },
+  {
+    "title": "仿真开发工程师（应用方向）",
+    "date": "2026-05-08",
+    "jobId": "244e1c63-6807-488b-8b86-2a5348af82bd",
+    "urgent": false
+  },
+  {
+    "title": "人机交互算法工程师",
+    "date": "2026-05-08",
+    "jobId": "57c62c9d-f3e8-4ff8-9703-f0b6eb622fb4",
+    "urgent": false
+  },
+  {
+    "title": "总账会计（财务系统对接方向）",
+    "date": "2026-05-08",
+    "jobId": "ecdce396-c954-4d33-ba2b-02a410e2e4bf",
+    "urgent": false
+  },
+  {
+    "title": "销售管理经理",
+    "date": "2026-05-08",
+    "jobId": "a1bdfb82-b796-4eb1-83eb-3b2c838a06d0",
+    "urgent": false
+  },
+  {
+    "title": "销售经理",
+    "date": "2026-05-08",
+    "jobId": "60a85c9a-b58e-48e8-8050-c81906cfcb71",
+    "urgent": false
+  },
+  {
+    "title": "投资经理",
+    "date": "2026-05-08",
+    "jobId": "eec11855-7514-4f3a-bc5d-46d57516f083",
+    "urgent": false
+  },
+  {
+    "title": "项目交付项目经理（上海/苏州）",
+    "date": "2026-05-08",
+    "jobId": "cea7f4cf-c230-4062-903e-b5fd89b2ef9d",
+    "urgent": false
+  },
+  {
+    "title": "售前总监",
+    "date": "2026-05-08",
+    "jobId": "40c42da7-248c-40a4-9652-bc535e02a3b8",
+    "urgent": false
+  },
+  {
+    "title": "文旅线销售经理",
+    "date": "2026-05-08",
+    "jobId": "b7f7755d-e07c-4008-a439-f4bd7b9f871c",
+    "urgent": false
+  },
+  {
+    "title": "机器人应用开发工程师",
+    "date": "2026-05-08",
+    "jobId": "d3962200-798d-4f70-a294-8ae27d37f44e",
+    "urgent": false
+  },
+  {
+    "title": "政府行业拓展经理",
+    "date": "2026-05-08",
+    "jobId": "e3987fad-cdf9-4ae9-8587-45b7b101accf",
+    "urgent": false
+  },
+  {
+    "title": "后端开发工程师（数据平台）",
+    "date": "2026-05-08",
+    "jobId": "f4d6b051-a53f-4e58-81f2-d9b2405a30c0",
+    "urgent": false
+  },
+  {
+    "title": "机器人规控软件工程师",
+    "date": "2026-05-08",
+    "jobId": "fe4f64a4-f4d0-4204-b6f0-b432dd86af3c",
+    "urgent": false
+  },
+  {
+    "title": "模型数据项目经理",
+    "date": "2026-05-08",
+    "jobId": "bdc5eac5-33e2-4a40-861f-d14d99620397",
+    "urgent": false
+  },
+  {
+    "title": "强化学习算法工程师-苏州",
+    "date": "2026-05-08",
+    "jobId": "6d7045d4-9874-4963-8793-35595f868889",
+    "urgent": false
+  },
+  {
+    "title": "感知算法工程师-苏州",
+    "date": "2026-05-08",
+    "jobId": "05dcfdcf-7945-416a-abf6-df7a03c74538",
+    "urgent": false
+  },
+  {
+    "title": "具身智能算法应用工程师-深圳",
+    "date": "2026-05-08",
+    "jobId": "1cf1f907-f46c-4524-8349-75e1cae0802e",
+    "urgent": false
+  },
+  {
+    "title": "灵巧手操作算法工程师",
+    "date": "2026-05-08",
+    "jobId": "17cc9c50-4251-4e37-9582-d068ad89c232",
+    "urgent": false
+  },
+  {
+    "title": "人形强化学习控制算法工程师",
+    "date": "2026-05-08",
+    "jobId": "8180f475-77b4-4e47-b085-4a05e30dde15",
+    "urgent": false
+  },
+  {
+    "title": "机器人数采管理",
+    "date": "2026-05-08",
+    "jobId": "2bc25886-6c28-404a-b032-8988c104c664",
+    "urgent": false
+  },
+  {
+    "title": "具身智能算法应用工程师-北京",
+    "date": "2026-05-08",
+    "jobId": "c4c9217c-1d95-4649-873a-2009f81e937c",
+    "urgent": false
+  },
+  {
+    "title": "具身仿真操作算法工程师",
+    "date": "2026-05-08",
+    "jobId": "99419c75-5f0d-41c6-93ac-933931542bd2",
+    "urgent": false
+  },
+  {
+    "title": "3D人体算法研究员",
+    "date": "2026-05-08",
+    "jobId": "7808930e-79f2-4328-a0d0-209c03008c89",
+    "urgent": false
+  },
+  {
+    "title": "机器人数据闭环-算法工程师",
+    "date": "2026-05-08",
+    "jobId": "34ce049b-1ad7-470e-b476-d05532ff2307",
+    "urgent": false
+  },
+  {
+    "title": "具身智能算法工程师-操作方向",
+    "date": "2026-05-08",
+    "jobId": "55282b8e-ec8b-4c57-a6a5-eb508addac54",
+    "urgent": false
+  },
+  {
+    "title": "硬件项目经理",
+    "date": "2026-05-07",
+    "jobId": "9c42d2f2-c05b-4887-b08d-d9d4c94b04bf",
+    "urgent": false
+  },
+  {
+    "title": "软件测试代表",
+    "date": "2026-05-07",
+    "jobId": "be9b4547-3a56-46df-8572-e29ab13334d4",
+    "urgent": false
+  },
+  {
+    "title": "包装平面设计师（深圳）",
+    "date": "2026-05-07",
+    "jobId": "9143f899-692e-496a-8594-af42a95d92ac",
+    "urgent": false
+  },
+  {
+    "title": "机械工程师（预研）",
+    "date": "2026-05-07",
+    "jobId": "b91ea011-700d-4b82-8e92-bae1021e1ca9",
+    "urgent": false
+  },
+  {
+    "title": "机械工程师",
+    "date": "2026-05-07",
+    "jobId": "c0acdd28-11b0-4bf3-88c8-b20af6ae33f0",
+    "urgent": false
+  },
+  {
+    "title": "操作系统研发工程师",
+    "date": "2026-05-07",
+    "jobId": "5429c29b-33fb-442e-9273-e282538c2165",
+    "urgent": false
+  },
+  {
+    "title": "机器人全身规划算法工程师",
+    "date": "2026-05-07",
+    "jobId": "2199fc90-aa85-4c5c-878e-a3e73a417287",
+    "urgent": false
+  },
+  {
+    "title": "采购工程师-结构件",
+    "date": "2026-05-07",
+    "jobId": "465d91f7-1619-4b05-8e9f-6a0646074006",
+    "urgent": false
+  },
+  {
+    "title": "BOM 专员",
+    "date": "2026-05-07",
+    "jobId": "dcfe17b7-ffc1-416b-ba56-24bd5ad7a2e7",
+    "urgent": false
+  },
+  {
+    "title": "高级硬件工程师--机器人",
+    "date": "2026-05-07",
+    "jobId": "98f8e4ed-5628-4243-a8cd-8afdb635d6f1",
+    "urgent": false
+  },
+  {
+    "title": "嵌入式软件开发工程师--苏州",
+    "date": "2026-05-07",
+    "jobId": "ddf5e453-bfaa-4f91-b6fd-b051c7e1e88d",
+    "urgent": false
+  },
+  {
+    "title": "机器人应用接口开发工程师",
+    "date": "2026-05-07",
+    "jobId": "d915dbb2-a778-44db-8419-b822a7a7aa00",
+    "urgent": false
+  },
+  {
+    "title": "ODM项目PQM",
+    "date": "2026-05-07",
+    "jobId": "e2b42a42-3377-4f38-8753-4c45786824fb",
+    "urgent": false
+  },
+  {
+    "title": "机器人运控仿真与系统专家",
+    "date": "2026-05-07",
+    "jobId": "f422eb93-00d1-407f-ad27-ad6d660fd0a3",
+    "urgent": false
+  },
+  {
+    "title": "BSP 开发工程师",
+    "date": "2026-05-07",
+    "jobId": "49e1d11a-c2c1-4b40-b972-6df164958a7c",
+    "urgent": false
+  },
+  {
+    "title": "高级嵌入式开发工程师-MCU",
+    "date": "2026-05-07",
+    "jobId": "99364ed7-b95d-4fb2-ba96-623af28befaf",
+    "urgent": false
+  },
+  {
+    "title": "中间件软件高级工程师",
+    "date": "2026-05-07",
+    "jobId": "10eacc31-a1bb-4779-8c3f-fcda27db3688",
+    "urgent": false
+  },
+  {
+    "title": "工业设计师（高级/专家）",
+    "date": "2026-05-07",
+    "jobId": "d9274888-50c2-4036-b6e0-f9390dc33353",
+    "urgent": false
+  },
+  {
+    "title": "机器人系统软件开发工程师",
+    "date": "2026-05-07",
+    "jobId": "b6936723-356c-4729-8349-3481dc52364c",
+    "urgent": false
+  },
+  {
+    "title": "软件开发工程师（客户生态）",
+    "date": "2026-05-07",
+    "jobId": "cf0601f6-fc86-44eb-bd0b-f2e0ce3189e0",
+    "urgent": false
+  },
+  {
+    "title": "DQE",
+    "date": "2026-05-07",
+    "jobId": "08f05387-c5e9-425b-8731-c8e96e5cc894",
+    "urgent": false
+  },
+  {
+    "title": "嵌入式应用开发工程师",
+    "date": "2026-05-07",
+    "jobId": "ffedf486-7820-4038-8194-e1f6dfcb7f3f",
+    "urgent": false
+  },
+  {
+    "title": "工业设计师",
+    "date": "2026-05-07",
+    "jobId": "08fed545-9ef3-4088-8c61-06a728c48258",
+    "urgent": false
+  },
+  {
+    "title": "嵌入式软件经理",
+    "date": "2026-05-07",
+    "jobId": "276fbddf-5a8b-4b12-b9ee-674e5ef1a163",
+    "urgent": false
+  },
+  {
+    "title": "机器人全身控制算法工程师（操作方向）",
+    "date": "2026-05-07",
+    "jobId": "4c72f090-4389-498d-bc14-ba87cb723308",
+    "urgent": false
+  },
+  {
+    "title": "高级前端开发工程师",
+    "date": "2026-04-29",
+    "jobId": "3a3f7e6d-19fb-479e-a45e-84d219d4cb89",
+    "urgent": false
+  },
+  {
+    "title": "测试开发工程师（SDK二开+CICD自动化）",
+    "date": "2026-04-29",
+    "jobId": "00a583ef-50e4-4563-9eb1-6bdc60308eac",
+    "urgent": false
+  },
+  {
+    "title": "现场支持工程师-北京",
+    "date": "2026-04-29",
+    "jobId": "b58aa225-e34c-4251-b4d8-f7016c4d8c66",
+    "urgent": false
+  },
+  {
+    "title": "仿真系统测试工程师",
+    "date": "2026-04-29",
+    "jobId": "5e57e450-58cf-4ca0-bade-401d69ecf53b",
+    "urgent": false
+  },
+  {
+    "title": "应用开发工程师",
+    "date": "2026-04-29",
+    "jobId": "2a0e4f40-41e0-439f-b49a-3c521ba1fd16",
+    "urgent": false
+  },
+  {
+    "title": "后台开发工程师",
+    "date": "2026-04-29",
+    "jobId": "7ad095b0-43cc-42f2-8245-7343cf743d9c",
+    "urgent": false
+  },
+  {
+    "title": "诉讼专员",
+    "date": "2026-04-29",
+    "jobId": "0fc2c8e3-af45-4ea6-b727-3ccb488a5ab7",
+    "urgent": false
+  },
+  {
+    "title": "合规专员",
+    "date": "2026-04-29",
+    "jobId": "c977d390-da5b-45c3-9b47-2d8093bc608a",
+    "urgent": false
+  }
+]

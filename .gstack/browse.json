@@ -1,0 +1,9 @@
+{
+  "pid": 11688,
+  "port": 54360,
+  "token": "c7c597f5-80b1-431d-860c-8ba9a14741d2",
+  "startedAt": "2026-07-16T17:53:37.712Z",
+  "serverPath": "/pulp/ducc-home/claude/skills/gstack/browse/src/server.ts",
+  "mode": "launched",
+  "configHash": "9e1c3d41d34e4a75"
+}
