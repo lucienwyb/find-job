@@ -1,6 +1,13 @@
 {
-  "company": "4paradigm",
-  "website_status": "under renovation (官网焕新升级中)",
-  "boss_zhipin": "attempted",
-  "body_text": "企业招聘套餐咨询\n退出\n行为异常\n\n尊敬的客户您好，猎聘安全中心发现您的帐号或IP可能存在异常，为了保障您的账号及资源安全，请进行安全验证。\n\n点击验证\n退出当前账号"
+  "company": "第四范式 (4Paradigm)",
+  "location": "上地西路28号弘源新时代",
+  "portal_status": "Website under renovation (官网焕新升级中). No career portal accessible.",
+  "portal_url": "https://www.4paradigm.com/",
+  "mokahr_portal": "https://app.mokahr.com/apply/4paradigm - redirects to /apply/4paradigm/102013 (specific job ID, not a job list)",
+  "boss_zhipin": "Blocked by anti-bot verification",
+  "liepin": "Blocked by anti-bot verification",
+  "total_positions": "unknown - portal not accessible",
+  "matching_positions": [],
+  "recent_positions_after_2026_07_16": [],
+  "notes": "Official website shows '官网焕新升级中' (under renovation). Career page at /careers returns 404. BOSS直聘 and Liepin both blocked by security verification. The company was previously on mokahr but the portal appears inactive or redirected."
 }

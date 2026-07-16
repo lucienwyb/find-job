@@ -1,0 +1,104 @@
+{
+  "scan_date": "2026-07-16",
+  "target_profile": "7-year Linux kernel/eBPF engineer in Beijing",
+  "companies": {
+    "4paradigm": {
+      "name": "第四范式 (4Paradigm)",
+      "location": "上地西路28号弘源新时代",
+      "portal_accessible": false,
+      "portal_url": "https://www.4paradigm.com/ (under renovation)",
+      "total_positions": "unknown",
+      "matching_positions": [],
+      "recent_positions": [],
+      "summary": "Website under renovation. No career portal accessible. BOSS直聘 and Liepin blocked."
+    },
+    "modelbest": {
+      "name": "面壁智能 (ModelBest)",
+      "location": "清华科技园",
+      "portal_accessible": false,
+      "portal_url": "no public portal",
+      "total_positions": "unknown",
+      "matching_positions": [],
+      "recent_positions": [],
+      "summary": "No public career portal. Mokahr shut down. Contact: career@modelbest.cn"
+    },
+    "deepglint": {
+      "name": "格灵深瞳 (Deepglint)",
+      "location": "东升科技园",
+      "portal_accessible": true,
+      "portal_url": "https://deepglint.zhiye.com/social/jobs",
+      "total_positions": 0,
+      "matching_positions": [],
+      "recent_positions": [],
+      "summary": "Zhiye portal shows 0 open positions. Mokahr portal shut down."
+    },
+    "dptechnology": {
+      "name": "深势科技 (DP Technology)",
+      "location": "鼎好",
+      "portal_accessible": true,
+      "portal_url": "https://dptechnology.jobs.feishu.cn/index",
+      "total_positions": 219,
+      "matching_positions": [
+        {"title": "IT工程师", "date": "2025-12-30", "location": "", "relevance": "low - general IT, not kernel/eBPF"},
+        {"title": "AI搜索与推荐研发工程师", "date": "2025-12-01", "location": "", "relevance": "low - not system-level"},
+        {"title": "python后端开发（科研agent方向）", "date": "2025-05-27", "location": "", "relevance": "low"}
+      ],
+      "recent_positions": [],
+      "summary": "219 total positions on feishu portal. No kernel/eBPF/system positions found. No positions published after 2026-07-16. Most recent: 2026-07-15 (品牌市场负责人). Company focuses on AI for Science, not system-level engineering."
+    },
+    "geovis": {
+      "name": "中科星图 (GEO)",
+      "location": "西三旗",
+      "portal_accessible": true,
+      "portal_url": "https://geovis.zhiye.com/social/jobs",
+      "total_positions": 51,
+      "matching_positions": [
+        {"title": "网络安全架构师(J13709)", "date": "unknown (ChangeDate: 2026-01-15)", "relevance": "medium - network security architecture"},
+        {"title": "系统分析师/系统架构师(J13568)", "date": "unknown", "relevance": "medium - system architecture"},
+        {"title": "后端开发工程师(J13193)", "date": "2026-01-14", "relevance": "low"}
+      ],
+      "recent_positions": [],
+      "summary": "51 social positions. 2 potentially relevant (network architect, system architect). No positions after 2026-07-16 (latest change: 2026-01-28). Mostly sales/solution/project management roles."
+    },
+    "baichuan": {
+      "name": "百川智能 (Baichuan)",
+      "location": "中关村东路1号院",
+      "portal_accessible": true,
+      "portal_url": "https://cq6qe6bvfr6.jobs.feishu.cn/",
+      "total_positions": 30,
+      "matching_positions": [
+        {"title": "Agent 研发工程师", "date": "2026-06-24", "location": "北京", "relevance": "medium - Agent architecture, cognitive architecture, system design"},
+        {"title": "搜索与数据工程实习生", "date": "2026-07-03", "location": "北京", "relevance": "low - intern, data engineering"},
+        {"title": "百川模型训练团队-RL Infra实习生", "date": "2026-05-27", "location": "北京", "relevance": "medium - RL Infra, training infrastructure (intern)"},
+        {"title": "百川模型训练团队-Harness实习生", "date": "2026-05-27", "location": "北京", "relevance": "low - intern"}
+      ],
+      "recent_positions": [],
+      "summary": "30 total positions on feishu portal (10 visible, all Beijing). 4 matching keywords. Agent R&D Engineer is the most relevant for system architecture. No positions after 2026-07-16. Most recent: 2026-07-14 (投资者关系高级经理). Company pivoting to medical AI (百小医)."
+    },
+    "cambricon": {
+      "name": "寒武纪 (Cambricon)",
+      "location": "中关村",
+      "portal_accessible": true,
+      "portal_url": "https://app.mokahr.com/apply/cambricon/1113",
+      "total_positions": 15,
+      "matching_positions": [
+        {"title": "深度学习框架图编译工程师", "dept": "基础软件部", "location": "北京市·海淀区 广东·深圳市", "relevance": "high - compiler, framework, system-level"},
+        {"title": "AI编译器研发工程师", "dept": "基础软件部", "location": "北京市·海淀区", "relevance": "high - compiler, system-level"},
+        {"title": "AI编译器研发工程师", "dept": "基础软件部", "location": "上海市·浦东新区", "relevance": "high - compiler"},
+        {"title": "高性能通信库研发工程师", "dept": "分布式软件部", "location": "北京市·海淀区 上海市·浦东新区", "relevance": "high - HPC, communication, networking"},
+        {"title": "AI网络研发工程师", "dept": "分布式软件部", "location": "北京市·海淀区", "relevance": "high - networking, system-level"},
+        {"title": "芯片应用工程师-固件方向", "dept": "产品部", "location": "", "relevance": "high - firmware, hardware"},
+        {"title": "SIPI工程师", "dept": "产品部", "location": "北京市·海淀区 广东·深圳市", "relevance": "medium - system/power integration"},
+        {"title": "高性能计算库研发工程师", "dept": "基础软件部", "location": "北京市·海淀区 上海市·浦东新区", "relevance": "high - HPC, system-level"},
+        {"title": "大模型训练优化工程师", "dept": "分布式软件部", "location": "北京市·海淀区 上海市·浦东新区", "relevance": "medium - training, distributed"},
+        {"title": "大模型性能优化工程师", "dept": "基础软件部", "location": "北京市·海淀区", "relevance": "medium - performance, system"},
+        {"title": "AIGC推理解决方案工程师", "dept": "基础软件部", "location": "北京市·海淀区", "relevance": "medium - inference"},
+        {"title": "高性能算法库工程师", "dept": "分布式软件部", "location": "陕西·西安市 上海市·浦东新区", "relevance": "high - HPC algorithms"},
+        {"title": "深度学习框架工程师", "dept": "基础软件部", "location": "上海市·浦东新区", "relevance": "medium - framework"},
+        {"title": "大模型算法应用工程师", "dept": "分布式软件部", "location": "北京市·海淀区 上海市·浦东新区", "relevance": "low-medium"}
+      ],
+      "recent_positions": [],
+      "summary": "15 visible positions on mokahr portal (all marked 急/urgent). 14 matching system/compiler/HPC/firmware positions. Publication dates not available from mokahr portal but all positions marked as urgent. Best match for kernel/eBPF engineer: AI编译器研发工程师, 高性能通信库研发工程师, AI网络研发工程师, 芯片应用工程师-固件方向."
+    }
+  }
+}

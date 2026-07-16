@@ -1,193 +1,87 @@
 {
   "company": "cambricon",
-  "total_positions": 0,
-  "total_job_links": 20,
-  "matching_positions": [
-    {
-      "title": "急高性能计算库研发工程师\n基础软件部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27d9945d-21a9-47f5-9503-3b473d7daed5",
-      "matched_keywords": [
-        "高性能计算"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "急高性能算法库工程师\n分布式软件部\n陕西·西安市  上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7936afd8-54b3-4708-aaff-787e2883431a",
-      "matched_keywords": [
-        "分布式"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "急大模型算法应用工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/3cfbe59c-f71a-423a-a77c-d3017a19873f",
-      "matched_keywords": [
-        "分布式"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "急高性能计算库研发工程师\n基础软件部\n北京市·海淀区  上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/f5be78f2-cf94-46f8-83c5-de8b23b56f7f",
-      "matched_keywords": [
-        "高性能计算"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "急AIGC推理解决方案工程师\n基础软件部\n北京市·海淀区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/2eb86ce6-d13b-4334-9fe2-fae2e7a5770f",
-      "matched_keywords": [
-        "推理"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "芯片可靠性工程师\n产品部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/91963236-64e9-4a2b-b5dc-b8d5e090764b",
-      "matched_keywords": [
-        "芯片"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "芯片封装工程师-工艺\n产品部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/1947f8c0-a9c7-44d8-97ed-a568088de1c7",
-      "matched_keywords": [
-        "芯片"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "芯片量产工程师\n产品部",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/edb7903a-c5b2-4743-bc45-2be2c4674a6b",
-      "matched_keywords": [
-        "芯片"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "资深涉外法务经理（AI芯片/半导体）\n法律与合规部\n北京市·海淀区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27f7d8b1-5216-43fb-b2fb-176bc40659e5",
-      "matched_keywords": [
-        "芯片"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "急AI编译器研发工程师",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff",
-      "matched_keywords": [
-        "编译器"
-      ],
-      "source": "link"
-    },
-    {
-      "title": "急模拟芯片设计工程师",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b",
-      "matched_keywords": [
-        "芯片"
-      ],
-      "source": "link"
-    }
-  ],
-  "all_jobs": [],
+  "portal_url": "https://app.mokahr.com/apply/cambricon/1113",
+  "total_positions_visible": 15,
   "job_links": [
     {
-      "title": "急高性能计算库研发工程师\n基础软件部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27d9945d-21a9-47f5-9503-3b473d7daed5"
+      "text": "急行政专员\n行政部职能类-社招\n广东·深圳市",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/8806e265-440b-4cf4-9eef-7f8a4b09821b"
     },
     {
-      "title": "急AI应用工程师\n应用与生态部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/ab061ed6-9484-4bc9-8667-62a0e4bde066"
+      "text": "急ATE测试工程师\n产品部技术类-社招\n上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/d1881322-e63a-47f5-90e5-2e5e193bd8d6"
     },
     {
-      "title": "急高级IT工程师\nIT部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/023be3b5-f85e-43ab-a5fd-126789ef8f69"
+      "text": "急深度学习框架图编译工程师\n基础软件部\n北京市·海淀区  广东·深圳市",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/e4039f7b-0ca0-4a2b-a1b7-758fba259e6d"
     },
     {
-      "title": "急高性能算法库工程师\n分布式软件部\n陕西·西安市  上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7936afd8-54b3-4708-aaff-787e2883431a"
+      "text": "急AI编译器研发工程师\n基础软件部\n北京市·海淀区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff"
     },
     {
-      "title": "急大模型算法应用工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/3cfbe59c-f71a-423a-a77c-d3017a19873f"
+      "text": "急模拟芯片设计工程师\n芯片部\n上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b"
     },
     {
-      "title": "急深度学习框架工程师\n基础软件部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/a63c6a58-4f62-4904-b03c-0eec066c8e23"
+      "text": "急AI现场应用工程师\n技术服务部\n上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/90cd8a4a-97b6-4039-b56d-283bebb165ea"
     },
     {
-      "title": "急高性能计算库研发工程师\n基础软件部\n北京市·海淀区  上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/f5be78f2-cf94-46f8-83c5-de8b23b56f7f"
+      "text": "急大模型训练优化工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/d491974a-66cf-4947-9c20-06a2c4be7324"
     },
     {
-      "title": "急大模型性能优化工程师\n基础软件部\n北京市·海淀区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/e9b01fa4-fc14-4982-884b-d873df20d458"
+      "text": "急SIPI工程师\n产品部\n北京市·海淀区  广东·深圳市",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/a4f0fb5a-f715-4060-b2bf-6f042a44f194"
     },
     {
-      "title": "急AIGC推理解决方案工程师\n基础软件部\n北京市·海淀区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/2eb86ce6-d13b-4334-9fe2-fae2e7a5770f"
+      "text": "急芯片应用工程师-固件方向\n产品部",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/26741594-8e87-443d-b594-1a5a46dca5f9"
     },
     {
-      "title": "芯片可靠性工程师\n产品部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/91963236-64e9-4a2b-b5dc-b8d5e090764b"
+      "text": "急AI编译器研发工程师\n基础软件部\n上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/5568b26b-2bf0-42a3-9159-89dd310fe830"
     },
     {
-      "title": "芯片封装工程师-工艺\n产品部\n上海市·浦东新区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/1947f8c0-a9c7-44d8-97ed-a568088de1c7"
+      "text": "急数字后端设计工程师\n后端部技术类-社招\n上海市·浦东新区  广东·深圳市  北京市·海淀区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/6fcba671-8228-4a7e-8e89-fb1fe229e5f3"
     },
     {
-      "title": "芯片量产工程师\n产品部",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/edb7903a-c5b2-4743-bc45-2be2c4674a6b"
+      "text": "急数字后端设计工程师-南京\n后端部技术类-社招",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/ca0c2095-41da-48c7-b989-0d07dfca713e"
     },
     {
-      "title": "资深涉外法务经理（AI芯片/半导体）\n法律与合规部\n北京市·海淀区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/27f7d8b1-5216-43fb-b2fb-176bc40659e5"
+      "text": "急高性能通信库研发工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/274cf366-f91e-4ce8-a961-52b17d594f4c"
     },
     {
-      "title": "客户支持工程师\n产品部\n北京市·海淀区",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/a9a78920-ef3a-4ac8-baf8-0c98a5ad2b7f"
+      "text": "急CAD资深流程开发工程师\n后端部\n上海市·浦东新区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/2fb8c407-f2d3-4820-a538-e2ca2767f965"
     },
     {
-      "title": "封装设计工程师\n产品部\n陕西·西安市  北京市·海淀区  广东·深圳市  等4个地点",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/179d7e8e-1d78-4543-a6d6-3dc50adfea1d"
+      "text": "急AI网络研发工程师\n分布式软件部\n北京市·海淀区",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/174868ac-13cd-4316-ade7-1a39cdcb95eb"
     },
     {
-      "title": "急行政专员",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/8806e265-440b-4cf4-9eef-7f8a4b09821b"
+      "text": "急行政专员",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/8806e265-440b-4cf4-9eef-7f8a4b09821b"
     },
     {
-      "title": "急ATE测试工程师",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/d1881322-e63a-47f5-90e5-2e5e193bd8d6"
+      "text": "急ATE测试工程师",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/d1881322-e63a-47f5-90e5-2e5e193bd8d6"
     },
     {
-      "title": "急深度学习框架图编译工程师",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/e4039f7b-0ca0-4a2b-a1b7-758fba259e6d"
+      "text": "急深度学习框架图编译工程师",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/e4039f7b-0ca0-4a2b-a1b7-758fba259e6d"
     },
     {
-      "title": "急AI编译器研发工程师",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff"
+      "text": "急AI编译器研发工程师",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/eb77d3fb-1cd8-4622-8f92-462a5fbc46ff"
     },
     {
-      "title": "急模拟芯片设计工程师",
-      "url": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b"
+      "text": "急模拟芯片设计工程师",
+      "href": "https://app.mokahr.com/apply/cambricon/1113#/job/7af01057-d987-494e-b0e9-a5f9fc01135b"
     }
-  ],
-  "body_text": "社招首页社会招聘开放职位丰富的活动返回官网首页\n校园招聘\n职位筛选\n分享到 \n搜索职位\n急高性能计算库研发工程师\n基础软件部\n上海市·浦东新区\n急AI应用工程师\n应用与生态部\n上海市·浦东新区\n急高级IT工程师\nIT部\n上海市·浦东新区\n急高性能算法库工程师\n分布式软件部\n陕西·西安市  上海市·浦东新区\n急大模型算法应用工程师\n分布式软件部\n北京市·海淀区  上海市·浦东新区\n急深度学习框架工程师\n基础软件部\n上海市·浦东新区\n急高性能计算库研发工程师\n基础软件部\n北京市·海淀区  上海市·浦东新区\n急大模型性能优化工程师\n基础软件部\n北京市·海淀区\n急AIGC推理解决方案工程师\n基础软件部\n北京市·海淀区\n芯片可靠性工程师\n产品部\n上海市·浦东新区\n芯片封装工程师-工艺\n产品部\n上海市·浦东新区\n芯片量产工程师\n产品部\n资深涉外法务经理（AI芯片/半导体）\n法律与合规部\n北京市·海淀区\n客户支持工程师\n产品部\n北京市·海淀区\n封装设计工程师\n产品部\n陕西·西安市  北京市·海淀区  广东·深圳市  等4个地点\n1\n2\n3\n4\n5\n最新职位\n更多\n急行政专员\n急ATE测试工程师\n急深度学习框架图编译工程师\n急AI编译器研发工程师\n急模拟芯片设计工程师\n京公网安备 11010802024479号京ICP备15060035号-3",
-  "api_urls": [
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs",
-    "https://app.mokahr.com/api/outer/ats-apply/website/jobs"
   ]
 }

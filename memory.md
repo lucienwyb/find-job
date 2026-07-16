@@ -571,3 +571,12 @@
 - 投递执行清单齐备:NVIDIA JR2015006(英文简历不卡学历)+安谋SOC Driver(mokahr内推不卡学历)+ISCAS OS工程师(jiran@iscas.ac.cn JD量身定制)+工行数据中心(job.icbc.com.cn保底)+中行数据中心。
 - 循环进入纯监控态:仅跟踪已投递反馈+CETC门户(改走zhaopin.cetc.com.cn)+银河航天猎聘换IP复查。不再广撒网发现新公司(边际价值极低)。
 - ★下一步真正该动手投递:①ISCAS OS工程师(jiran@iscas.ac.cn JD量身定制命中率最高本周内发)②月之暗面(脉脉内推eBPF存储岗+Coding Agent)③银河通用(mokahr5岗)④NVIDIA JR2015006⑤云杉hr@yunshan.net。情报调研使命已完成。
+
+### 第44轮最终版 (2026-07-16) — 8家+7家复查三大突破
+- 7-16后无任何公司放新岗,但slug突破暴露大量前轮遗漏对口岗:
+- ★★★星动纪元:飞书门户k0fqxcszc9.jobs.feishu.cn首次突破(前轮robotera.com无职位修正)。**Linux系统软件及BSP驱动工程师匹配95+JD量身定制**(Linux裁剪/SoC BSP U-Boot设备树/外设驱动Ethernet·EtherCAT·PCIe/调度中断优化/PTP/OTA),闻翔Zynq全栈bring-up+7年内核全命中。投递k0fqxcszc9.jobs.feishu.cn/index/position/7571785644297521459/detail。本轮最大发现,最高优先级立即投。
+- ★★智谱:mokahr slug=zphz/148983(前轮slug失效修正),142岗暴露Agent Infra开发工程师(06-09高88)/推理Infra工程师(04-08高85)/训练Infra/SRE等大量对口岗。
+- ★★寒武纪:mokahr slug=cambricon/1113首次突破,约75岗第1页14匹配均标急北京海淀,高性能通信库研发工程师(高85)/AI编译器研发工程师(高82)/高性能计算库/芯片应用固件等8高匹配。
+- 其余无7-16后新岗:地平线前轮遗漏SoC系统软件power&clk(06-22高80)+存储湖仓(06-30中高);月之暗面前轮遗漏Infra系统工程师训练平台(04-01高80)/系统工程师LLM推理(01-30高);银河通用/零一/银河航天/千乘无变化;第四范式官网升级中/面壁mokahr关停/格灵深瞳0岗/深势飞书219岗无内核岗(HPC岗仍在招)/中科星图51岗无对口/百川转医疗AI。
+- ★新增投递目标:①星动纪元Linux BSP(95+量身定制)②智谱Agent Infra(88)③智谱推理Infra(85)④寒武纪高性能通信库(85)⑤寒武纪AI编译器(82)⑥地平线SoC power&clk(80)⑦月之暗面Infra训练平台(80)。
+- ★修正:星动纪元从"HR@robotera.com邮件咨询"升级为"飞书门户直投Linux BSP岗95+量身定制"——进取型新增高优先触达点。

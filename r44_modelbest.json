@@ -1,6 +1,13 @@
 {
-  "company": "modelbest",
-  "official_site": "modelbest.cn (no career portal)",
+  "company": "面壁智能 (ModelBest)",
+  "location": "清华科技园",
+  "portal_status": "No public career portal found",
+  "portal_url": "https://www.modelbest.cn/ - no /careers or /joinus page exists (returns 404)",
+  "mokahr_portal": "https://app.mokahr.com/apply/modelbest - shut down (当前网页已关停)",
+  "boss_zhipin": "Blocked by anti-bot verification",
   "contact_email": "career@modelbest.cn",
-  "boss_zhipin_body": "安全验证\n\n当前 IP 地址可能存在异常访问行为，完成验证后即可正常使用。\n\n为了您的账户安全，请完成以下验证\n点击按钮进行验证\n\n© copyright BOSS直聘 京ICP备14013441号-5"
+  "total_positions": "unknown - no public portal",
+  "matching_positions": [],
+  "recent_positions_after_2026_07_16": [],
+  "notes": "The about page mentions '加入我们' (Join Us) and lists career@modelbest.cn as the contact email. Mokahr portal is shut down. BOSS直聘 blocked. No job listings publicly available."
 }

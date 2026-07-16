@@ -1677,3 +1677,56 @@
 - 月之暗面Coding Agent研发工程师(06-30,匹配88,内核+Agent交叉)是本轮最高价值新发现,建议加入投递3岗序列。
 - 银河通用/地平线对口岗稳定在线,可继续投。
 - 银河航天猎聘需换IP复查是否有北京新岗。
+
+## ★★★进取型·8家+7家复查三大突破（第44轮最终版，2026-07-16）
+> headless渲染复查。7-16后无任何公司放新岗,但slug突破暴露大量前轮遗漏对口岗。
+
+### ★★★突破1:星动纪元RobotEra — 飞书门户首次突破,Linux BSP岗量身定制
+- 前轮"robotera.com无职位"修正。实际招聘门户在飞书:**k0fqxcszc9.jobs.feishu.cn/index**(共19岗全北京全职)。
+- **★Linux系统软件及BSP驱动工程师(匹配95+)** — JD:机器人算力单元Linux系统配置/裁剪/优化、SoC BSP开发(U-Boot/设备树/内核配置/驱动适配)、外设驱动(Ethernet/EtherCAT/PCIe/USB/SPI/I2C/CAN)、系统性能优化(**调度/中断优化**/实时性/PTP时间同步/资源隔离)、量产(OTA/故障诊断/安全);要求3+年嵌入式Linux内核/BSP/驱动C/C++/Shell,熟悉NVIDIA/Horizon/Rockchip/Qualcomm SoC;加分NVIDIA Orin/Thor,ROS2,RTOS,GPU加速。
+  → ★JD几乎为候选人量身定制——7年内核/驱动/BSP/性能调优直接命中全部核心要求+闻翔Zynq全栈bring-up(U-Boot/设备树/驱动)。
+  → 投递:k0fqxcszc9.jobs.feishu.cn/index/position/7571785644297521459/detail
+- MCU嵌入式软件工程师(中高)/高级电机嵌入式软件工程师(中)。
+- ★结论:本轮最大发现,Linux BSP岗最高优先级立即投递。
+
+### ★★突破2:智谱Zhipu — mokahr slug找到(zphz/148983),142岗暴露大量对口岗
+- 前轮"mokahr slug失效"修正。实际slug=**zphz**(智谱华章缩写),company_id=148983。URL:**app.mokahr.com/social-recruitment/zphz/148983**(142岗远超前轮已知29岗)。
+- 新发现对口岗(前轮slug失效未抓到):
+  - **Agent Infra开发工程师(2026-06-09)★高匹配** — Agent+Infra直接命中
+  - **Agent Infra运维开发工程师(2026-05-12)高匹配**
+  - **推理Infra工程师(2026-04-08,量化/推理框架/GPU优化)高匹配**
+  - 训练Infra工程师(4-08)中高/SRE工程师(4-08)中高/GLM团队SRE运维(5-12)中高/架构师稳定性方向(4-08)中高/GLM Coding Agent数据与自动化迭代专家(5-07)中
+- ★结论:Agent Infra开发工程师+推理Infra工程师为高优先级。
+
+### ★★突破3:寒武纪Cambricon — mokahr首次突破(cambricon/1113),8高匹配
+- slug=**cambricon**,company_id=1113。URL:**app.mokahr.com/apply/cambricon/1113**(约75岗,第1页14岗匹配均标"急"北京海淀)。
+- 高匹配岗:
+  - **高性能通信库研发工程师(分布式软件部)高**
+  - **AI编译器研发工程师(基础软件部)高**
+  - 深度学习框架图编译工程师(基础软件部)高/AI网络研发工程师(分布式软件部)高/芯片应用工程师-固件方向(产品部)高/高性能计算库研发工程师(基础软件部)高/高性能算法库工程师(分布式软件部)高
+- 中匹配:SIPI工程师/大模型训练优化/大模型性能优化/AIGC推理解决方案。
+
+### 其余复查结论(无7-16后新岗)
+- 地平线:240岗(比基线+19),7-16放2岗不匹配。前轮遗漏新发现:SoC系统软件工程师power&clk(06-22北京高匹配)/存储&湖仓高级研发(06-30中高)/算力平台工程师(07-01中)。
+- 月之暗面:98岗(从59+39),7-16仅高性能分布式存储1岗。前轮遗漏:Infra系统工程师-训练平台(04-01北京高)/系统工程师-LLM推理系统(01-30北京高)/K8s调度器(05-27广东中高)/高级SRE(02-23北京中高)。投递顺序锁死存储→调度器→系统应用。
+- 银河通用:72岗,最新7-13,5对口岗无变化。
+- 零一万物:50岗最新7-15对口无变化。
+- 银河航天:猎聘首载~15岗后被反爬,嵌入式在西安,hr@yinhe.ht,无法确认7-16后新岗。
+- 千乘探索:万企千校3岗射频/电气2026-03,无匹配。
+- 第四范式:官网焕新升级中+mokahr异常+BOSS猎聘反爬,无数据。
+- 面壁:modelbest.cn无careers+mokahr关停,career@modelbest.cn唯一渠道。
+- 格灵深瞳:deepglint.zhiye.com激活但0岗,job@deepglint.com。
+- 深势:飞书219岗无内核/eBPF岗(但前轮HPC工程师岗确认在招)。
+- 中科星图:zhiye 51岗最新2026-01-28仅2中度匹配。
+- 百川:飞书30岗最新7-14,Agent研发工程师(06-24中匹配偏AI Agent非内核),公司转医疗AI百小医。
+
+### ★新增投递目标优先级
+| 优先级 | 公司 | 岗位 | 匹配 | 入口 |
+|---|---|---|---|---|
+| ★★★ | 星动纪元 | Linux系统软件及BSP驱动工程师 | 95+ | k0fqxcszc9.jobs.feishu.cn |
+| ★★ | 智谱 | Agent Infra开发工程师 | 88 | mokahr/social-recruitment/zphz/148983 |
+| ★★ | 智谱 | 推理Infra工程师 | 85 | mokahr/social-recruitment/zphz/148983 |
+| ★★ | 寒武纪 | 高性能通信库研发工程师 | 85 | mokahr/apply/cambricon/1113 |
+| ★★ | 寒武纪 | AI编译器研发工程师 | 82 | mokahr/apply/cambricon/1113 |
+| ★ | 地平线 | SoC系统软件工程师power&clk | 80 | wecruit.hotjob.cn |
+| ★ | 月之暗面 | Infra系统工程师-训练平台 | 80 | mokahr/apply/moonshot/148506 |
