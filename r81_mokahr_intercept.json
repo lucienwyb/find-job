@@ -1,0 +1,912 @@
+{
+  "moonshot": [
+    {
+      "title": "全栈极客工程师（AI-Native 方向）北京市",
+      "jobId": "750e5cb2-e24c-4338-a087-ea5c9c37bf6d"
+    },
+    {
+      "title": "国际化综合运营（合规方向）",
+      "jobId": "53cb4b45-f8f4-4fdf-ae47-05489bb1f5de"
+    },
+    {
+      "title": "线下活动策划（海外）",
+      "jobId": "93e45c79-3fe7-4231-89fa-8ef46ba83c22"
+    },
+    {
+      "title": " 营销媒介（商务）",
+      "jobId": "627842a2-157a-42ce-9b0c-9b2214a397eb"
+    },
+    {
+      "title": "海外商务合作专家",
+      "jobId": "71bebf06-f606-4bb9-9ec1-50b5fe6b39c0"
+    },
+    {
+      "title": "用户增长专家- SEO与内容策略",
+      "jobId": "e76a1776-9f98-4d0a-961c-26f18d003efb"
+    },
+    {
+      "title": "Kimi 品牌设计师（Brand Designer）",
+      "jobId": "5f21607d-cbef-4423-920e-35ce16c09cbc"
+    },
+    {
+      "title": "用户增长运营（达人营销方向）",
+      "jobId": "569ddd44-5514-46fa-9068-1682489e4c60"
+    },
+    {
+      "title": "国内PR专家",
+      "jobId": "c766bf8a-c9b8-4731-8996-192db824623e"
+    },
+    {
+      "title": "国内用户增长专家（投放方向）",
+      "jobId": "318d3a0b-ef39-4361-a27b-9c086933b7fe"
+    },
+    {
+      "title": "海外用户增长专家（投放方向）",
+      "jobId": "cd42cf26-518a-4dd6-bbd0-1cdfa1ece6f9"
+    },
+    {
+      "title": "资深后端工程师-商业化北京市",
+      "jobId": "0079d23b-912d-4033-b9a4-22d7d970ba08"
+    },
+    {
+      "title": "AI 数据资源运营/采购经理北京市",
+      "jobId": "0651d956-1b9f-47a3-9568-03afb140f3d9"
+    },
+    {
+      "title": "Post-Training Algorithm Researcher/Engineer",
+      "jobId": "faf002c6-3b8b-4154-912d-ec109001c28b"
+    },
+    {
+      "title": "关于我们",
+      "jobId": "3351357024"
+    },
+    {
+      "title": "社招职位",
+      "jobId": "1761289126"
+    },
+    {
+      "title": "Research Scientist / Engineer – Agentic RL/Infra",
+      "jobId": "d4a6a175-6506-4746-a6f4-2b736c0ce339"
+    },
+    {
+      "title": "RL Infra 研究工程师",
+      "jobId": "6a3ff164-ebcc-4b2f-97ac-0f21ed8327d4"
+    },
+    {
+      "title": "Coding 系统工程师",
+      "jobId": "5802f8af-f3f3-42bb-b9e6-0bf281017ff4"
+    },
+    {
+      "title": "大规模推理系统工程师",
+      "jobId": "3844381e-116a-46a5-a76c-c607c131ff39"
+    },
+    {
+      "title": "Infra 系统应用工程师",
+      "jobId": "ab9bb466-4f4e-4562-86f3-8306531b1481"
+    },
+    {
+      "title": "Partnership Development Manager",
+      "jobId": "ae51b1ff-b717-4f83-9405-1e58fe4a4245"
+    },
+    {
+      "title": "高性能分布式存储工程师",
+      "jobId": "4f904813-b256-4e0e-b14d-22b77e1cd47e"
+    },
+    {
+      "title": "数据安全专家",
+      "jobId": "5e739454-1a64-4023-91ec-655ec627b82f"
+    },
+    {
+      "title": "GPU算力采购经理",
+      "jobId": "b148c59d-c393-41e4-b6ca-c2bb190bceaa"
+    },
+    {
+      "title": "客服运营（境内外）",
+      "jobId": "a2a633e5-2e48-4b55-9664-cb18b52cf159"
+    },
+    {
+      "title": "Agentic Growth Engineer",
+      "jobId": "d8c3cd02-15c3-434c-9305-d8fdda83df0e"
+    },
+    {
+      "title": "Coding Agent  研发工程师｜Kimi Code",
+      "jobId": "82f07bb3-8bdc-4714-805f-43b1a22c238f"
+    },
+    {
+      "title": "开放平台产品经理",
+      "jobId": "17fe105b-470b-4a3b-949c-b783df163898"
+    },
+    {
+      "title": "AI数据平台工程师",
+      "jobId": "9e476b2f-fa31-4afc-b4c2-c4ab4d082ecd"
+    },
+    {
+      "title": "Business Builder & Ecosystem",
+      "jobId": "7e79b93b-25ec-4545-88b4-09754ec9bb79"
+    },
+    {
+      "title": "Solution Architect",
+      "jobId": "5d13f42e-8c37-4d25-a27e-b6c12d8c6f34"
+    },
+    {
+      "title": "资深资金专家 / Treasury Manager",
+      "jobId": "264fc83f-bc0c-4685-a2cc-a03e83f81d71"
+    },
+    {
+      "title": "Harness 研发工程师",
+      "jobId": "00c1cb89-07b3-4002-a04c-9e12f291f2a7"
+    },
+    {
+      "title": "Harness 研究工程师",
+      "jobId": "5ea32a28-6fa7-4572-9c98-5ea7584211df"
+    },
+    {
+      "title": "预训练数据工程师",
+      "jobId": "2810d77f-2de1-4e4c-bde6-a8cef249b5f2"
+    },
+    {
+      "title": "数据安全研发工程师",
+      "jobId": "a662d672-c6a4-44a4-b546-3c79f70dc290"
+    },
+    {
+      "title": "Agent Engineer / Agent 工程师",
+      "jobId": "958da220-11e5-49d9-9514-649ed40a84da"
+    },
+    {
+      "title": "评估系统工程师（Eval Engineer）",
+      "jobId": "9ee5017f-8124-4104-b9cc-e7bfb20921cf"
+    },
+    {
+      "title": "业务攻防技术专家",
+      "jobId": "40c3f46d-b802-430a-bf9c-b919192a82ef"
+    },
+    {
+      "title": "机器学习平台 SRE 工程师",
+      "jobId": "41901441-ace5-4297-9275-e2d93fae645e"
+    },
+    {
+      "title": "高级网络工程师 Senior Network Engineer",
+      "jobId": "2684c357-22fb-463d-85a4-9501f4cd9d2f"
+    }
+  ],
+  "yinhe": [
+    {
+      "title": "社招职位",
+      "jobId": "8284833429"
+    },
+    {
+      "title": "具身智能硬件 & Infra 项目经理",
+      "jobId": "1ebed796-a23a-4300-b30b-10f868e67d34"
+    },
+    {
+      "title": "机械臂规划控制资深工程师",
+      "jobId": "3cda561c-dc9d-44b2-bf90-7262e4fcda28"
+    },
+    {
+      "title": "具身智能仿真平台研发工程师",
+      "jobId": "87b113dd-bcec-4be2-a27b-0fa2d4632a09"
+    },
+    {
+      "title": "校园招聘专家",
+      "jobId": "d153736a-bb38-4c78-bf03-2a55c39fc78c"
+    },
+    {
+      "title": "机器人数据质量工程师",
+      "jobId": "d8e926a4-b126-4c72-87af-0a4185c8c6a3"
+    },
+    {
+      "title": "具身大模型算法工程师-工业预训练",
+      "jobId": "0d87a670-9932-40f0-b42f-838e85b6140f"
+    },
+    {
+      "title": "机器人规控软件工程师",
+      "jobId": "a8b071ec-7941-4076-b2f6-4861a9cc783a"
+    },
+    {
+      "title": "项目经理（人形算法方向）",
+      "jobId": "cb87c5b1-ce95-4f33-b06d-36bc929f6bf2"
+    },
+    {
+      "title": "项目经理（交互/数据采集方向）",
+      "jobId": "6e2144eb-7e45-40d3-bc48-d051ea0b6362"
+    },
+    {
+      "title": " VR-XR 设备标定专家",
+      "jobId": "ed682c59-8407-4cc9-bf65-f371b4512c6b"
+    },
+    {
+      "title": "机械工程师",
+      "jobId": "185fefb0-9ec8-4d65-9b74-ae28957e405c"
+    },
+    {
+      "title": "架构师（具身智能数据平台）",
+      "jobId": "cad86e85-09cc-43ef-989a-8412e857d40c"
+    },
+    {
+      "title": "具身数据工程师 · SDK / 工具链方向",
+      "jobId": "f2b57e98-3d15-4f91-b7ee-4d88cc5ed3e9"
+    },
+    {
+      "title": "人形机器人系统开发工程师",
+      "jobId": "106afaad-a17d-47cb-9a8b-f764d3746190"
+    },
+    {
+      "title": "具身数据算法工程师",
+      "jobId": "2d6d699c-d89e-4aa4-8b10-303be3127ce7"
+    },
+    {
+      "title": "SLAM算法工程师",
+      "jobId": "60b66ee9-2830-4d48-a751-76b866875d2f"
+    },
+    {
+      "title": "具身大模型算法工程师-工业后训练",
+      "jobId": "d31fddcb-437f-4374-a73b-39f84851805a"
+    },
+    {
+      "title": "机器人学习算法工程师-工业操作策略",
+      "jobId": "26d5a23d-d941-4863-a931-3d0b77e840ad"
+    },
+    {
+      "title": "算子开发工程师",
+      "jobId": "c4f09105-11b3-40d5-9a68-ef70c1749937"
+    },
+    {
+      "title": "训练基础设施工程师",
+      "jobId": "1dd0773a-16ed-4c96-bc8a-bc110095a73c"
+    },
+    {
+      "title": "底层推理工程师",
+      "jobId": "7d27a262-a0fa-41f9-b3cd-765899a11b9e"
+    },
+    {
+      "title": "具身多模态大模型算法工程师（数据方向）",
+      "jobId": "b2596f48-ae97-42b9-9a9d-ff4088efb1cd"
+    },
+    {
+      "title": "具身智能数据基建项目经理（PM）",
+      "jobId": "88bbd0bd-ee6d-4af5-adb8-9b44a48127fb"
+    },
+    {
+      "title": "具身大模型算法工程师-北京",
+      "jobId": "bcb752ae-3384-4e41-ac92-d17e22e0c8f5"
+    },
+    {
+      "title": "具身智能项目经理/解决方案经理",
+      "jobId": "dfb49fb0-9160-4b18-a878-2753b6cc2745"
+    },
+    {
+      "title": "展会展览项目专员",
+      "jobId": "08faa9a2-584b-4e24-9d27-d967a8604ea3"
+    },
+    {
+      "title": "项目经理（交互/数据采集方向）",
+      "jobId": "9c957044-a640-4894-9134-e2b574d98851"
+    },
+    {
+      "title": "海外交付项目经理",
+      "jobId": "02d41c19-ac9a-4a46-8f7a-79e9442af36a"
+    },
+    {
+      "title": "深圳-硬件产品经理",
+      "jobId": "edc48034-ecd3-4cf3-ab3b-6ef6a99f3d06"
+    },
+    {
+      "title": "嵌入式应用工程师--人形机器人",
+      "jobId": "3ed782b2-5066-4e95-a4dc-1451cfb4dbde"
+    },
+    {
+      "title": "北京-硬件产品经理",
+      "jobId": "d5f86cfa-d137-4be1-99a7-28991f417292"
+    },
+    {
+      "title": "海外业务拓展总监",
+      "jobId": "86832d05-e245-43d5-9273-07a5c43d0e9c"
+    },
+    {
+      "title": "人形产品经理",
+      "jobId": "69ae4169-c8a3-4c21-8c57-0181da18f220"
+    },
+    {
+      "title": "机器人仿真与强化学习算法工程师",
+      "jobId": "5f9096d2-544b-4a3c-b402-cac7c425d6dc"
+    },
+    {
+      "title": "招聘专家",
+      "jobId": "96e96fc6-edb6-43ef-8d29-274d6e32f1bd"
+    },
+    {
+      "title": "内容策划",
+      "jobId": "ee334b58-2ea0-441d-b9a8-1aab9b06122f"
+    },
+    {
+      "title": "SSC专员",
+      "jobId": "156df7f9-bc12-4a45-ab9e-f9258aa853eb"
+    },
+    {
+      "title": "机器人规控软件测试工程师",
+      "jobId": "05d56513-c051-4928-91c6-48f7aba201cb"
+    },
+    {
+      "title": "系统性能测试工程师",
+      "jobId": "4ea2ddf1-c021-4a24-a886-1c3743332f09"
+    },
+    {
+      "title": "双足人形机器人控制算法工程师（WBC/MPC方向）",
+      "jobId": "2e3f96b0-b0b5-4a9f-8e34-41cc999dd749"
+    }
+  ],
+  "zhipu": [
+    {
+      "title": "市场商务采购经理",
+      "jobId": "1b55eae3-f818-4467-a163-d767522d57ba"
+    },
+    {
+      "title": "PMO项目管理",
+      "jobId": "f5b5d07e-436b-43f0-879d-6a9673843fe5"
+    },
+    {
+      "title": " iOS 开发工程师",
+      "jobId": "1b58598a-6df7-4828-9b88-7720214c4aa3"
+    },
+    {
+      "title": "数据资源采购与运营经理",
+      "jobId": "128ecd64-f236-43ab-8604-edf509281586"
+    },
+    {
+      "title": "多模态数据算法（音视频方向）",
+      "jobId": "a90fabd5-76a9-4486-917c-b6342598538a"
+    },
+    {
+      "title": "Agent Infra 开发工程师",
+      "jobId": "392db0f2-6542-4a5a-ad7d-451a4486576e"
+    },
+    {
+      "title": "【2027届校招/实习】多模态训练数据工程师",
+      "jobId": "cc9f61f4-efe2-4cc5-b535-3790437a8cad"
+    },
+    {
+      "title": "SEO/SEM运营实习生",
+      "jobId": "7da55821-4142-4cf5-8fdc-ad96cc310569"
+    },
+    {
+      "title": "内控经理",
+      "jobId": "bbcb7f09-a914-4767-bfa6-08a6dd1fecf6"
+    },
+    {
+      "title": "Harness 产品经理",
+      "jobId": "1cf4751d-16d1-4ff9-bc56-e3eb7617f2cc"
+    },
+    {
+      "title": "Business Development—北京",
+      "jobId": "ceb5b777-61ba-4f86-bf9e-ffd7a1a57ea3"
+    },
+    {
+      "title": "Overseas sales",
+      "jobId": "c57b299c-3a04-4108-a7d4-822987985061"
+    },
+    {
+      "title": "Business Development—北京",
+      "jobId": "e4109e4b-6877-4836-bd0a-97cd34e440c3"
+    },
+    {
+      "title": "Business Development—Singapore",
+      "jobId": "9d06cc75-6b09-48e5-a002-a103dad0279c"
+    },
+    {
+      "title": "Applied AI Architect-Southeast Asia",
+      "jobId": "5e7540b6-2f0e-4c20-b136-996f4659dee9"
+    },
+    {
+      "title": "采购经理",
+      "jobId": "c3a58540-0a16-42af-b75a-c60ec131447d"
+    },
+    {
+      "title": "财务BP",
+      "jobId": "96697dc6-07c1-49b7-9989-4985d25101fa"
+    },
+    {
+      "title": "HRIS",
+      "jobId": "34492663-728a-44ea-8c57-b2e3a380907e"
+    },
+    {
+      "title": "资深法务经理",
+      "jobId": "621c102b-8f37-465c-afb1-312c2c4bed41"
+    },
+    {
+      "title": "算力采购",
+      "jobId": "421e0aee-f1a7-4ea8-86b3-ce5aae692f31"
+    },
+    {
+      "title": "后端开发工程师（公司信息化建设）",
+      "jobId": "aab8dad6-f456-497f-92c6-35c2fe280937"
+    },
+    {
+      "title": "品牌视觉设计师",
+      "jobId": "b1e39db3-1d3a-4c2a-91f9-8e620a6f1d36"
+    },
+    {
+      "title": "法务（IPR & 合规）",
+      "jobId": "fb7409d0-2cdc-4e00-b137-3d0b40d43c96"
+    },
+    {
+      "title": "HR实习生",
+      "jobId": "bd890440-c1e8-47a1-a8da-94988a1e84f3"
+    },
+    {
+      "title": "大模型销售",
+      "jobId": "f4b5e9fd-f3fc-434a-8165-79aa68c6e34e"
+    },
+    {
+      "title": "大模型产品经理-海外",
+      "jobId": "57e5bfa0-63ef-41be-adce-6fb9c714083d"
+    },
+    {
+      "title": "27届校招GLM算法工程师（Agentic Coding）",
+      "jobId": "ee8b8622-79f8-47ac-8b4c-5f1d05537871"
+    },
+    {
+      "title": "AI解决方案实习生",
+      "jobId": "092a0f08-5343-4b70-99f5-85add76f6c9b"
+    },
+    {
+      "title": "AI应用工程师实习生",
+      "jobId": "f455eb1d-63d8-4a73-891a-bd473da5384d"
+    },
+    {
+      "title": "社交游戏化产品经理",
+      "jobId": "ca4ae25e-6c85-4f03-9099-3d90ca7c70b2"
+    },
+    {
+      "title": "大客户销售经理（数字人方向）",
+      "jobId": "4af175ca-684c-4e3f-bab6-77c329f73385"
+    },
+    {
+      "title": "海外财务主管",
+      "jobId": "f55cffdf-ca8e-43dd-a81b-193978ea7174"
+    },
+    {
+      "title": "多模态数据训练工程师",
+      "jobId": "a0dc5f47-1263-41da-be9a-630e7f73cbc0"
+    },
+    {
+      "title": "投标支持实习生",
+      "jobId": "87c6ec90-07a2-4910-b773-10eee6784512"
+    },
+    {
+      "title": "资深后端开发工程师",
+      "jobId": "cee6edc8-0edf-4fe8-8800-d446e50683da"
+    },
+    {
+      "title": "AI4Research 数据与能力工程实习生",
+      "jobId": "04f9a1e2-54ec-4dfc-81be-561179ff829c"
+    },
+    {
+      "title": "业务增长负责人",
+      "jobId": "3fee96c2-dcee-4553-bc69-260d1adbff47"
+    },
+    {
+      "title": "解决方案负责人",
+      "jobId": "d214285f-7241-4fa7-8d9f-b5e205986654"
+    },
+    {
+      "title": "Applied AI Engineer负责人",
+      "jobId": "59b31a61-b6b0-4a15-b294-979825451a38"
+    },
+    {
+      "title": "Partner Success Director",
+      "jobId": "1cd64d8d-b231-44d4-98df-08629ede7135"
+    },
+    {
+      "title": "项目管理实习生发布于 2026-05-22国际业务中心国际业务中心|实习实习|北京市北京市我们正在寻找一位具备逻辑思维与协调能力、对初创生态或创投项目有基本认知的项目管理实习生，支持跨团队的项目推进工作。你将参与从企业招募、资源协调到项目推进至落地的完整链路，推动与见证Z.ai 扶持的初创企业飞速成长。【职责】客户触达与跟进跟进有意向参与项目的初创企业，通过邮件、线上会议或社群互动等方式，主动触达并筛选高潜力、高意向的初创企业记录沟通要点，识别企业核心需求与匹配度，推动其进入项目正式流程项目管理与CRM维护维护项目管理看板及CRM系统，实时更新leads状态、沟通记录与转化阶段追踪关键转化指标，定期输出数据小结，协助团队识别转化瓶颈活动统筹与执行协助策划与执行面向内部团队的培训/工作坊，以及面向外部初创生态社区的线下/线上活动把控活动前期准备（场地、物料、嘉宾沟通、报名管理）与现场执行（签到、流程控场、突发处理），确保活动顺利落地市场调研与竞争分析参与初创生态与加速器赛道的市场调研，收集行业动态、竞品信息及潜在合作方动向整理调研结果，形成简要分析报告，为项目策略优化提供输入【要求】海内外知名院校本科及以上学历，专业不限，有海外留学或交换经历者优先 ；英文流利，能够作为工作语言进行内容撰写及商务沟通；对 AI 行业充满热情，不惧怕从 0 到 1 的挑战，沟通和团队合作能力强；AI Native：熟练使用AI工具提升内容与工作效率；实习期至少3个月，每周工作时间不少于4天。你将获得：初创孵化 + B2B + 国际市场的复合型项目实战经验参与全球的初创企业增长之旅与顶尖产品、技术及国际团队协作的机会我们正在寻找一位具备逻辑思维与协调能力、对初创生态或创投项目有基本认知的项目管理实习生，支持跨团队的项目推进工作。你将参与从企业招募、资源协调到项目推进至落地的完整链路，推动与见证Z.ai 扶持的初创企业飞速成长。【职责】客户触达与跟进跟进有意向参与项目的初创企业，通过邮件、线上会议或社群互动等方式，主动触达并筛选高潜力、高意向的初创企业记录沟通要点，识别企业核心需求与匹配度，推动其进入项目正式流程项目管理与CRM维护维护项目管理看板及CRM系统，实时更新leads状态、沟通记录与转化阶段追踪关键转化指标，定期输出数据小结，协助团队识别转化瓶颈活动统筹与执行协助策划与执行面向内部团队的培训/工作坊，以及面向外部初创生态社区的线下/线上活动把控活动前期准备（场地、物料、嘉宾沟通、报名管理）与现场执行（签到、流程控场、突发处理），确保活动顺利落地市场调研与竞争分析参与初创生态与加速器赛道的市场调研，收集行业动态、竞品信息及潜在合作方动向整理调研结果，形成简要分析报告，为项目策略优化提供输入【要求】海内外知名院校本科及以上学历，专业不限，有海外留学或交换经历者优先 ；英文流利，能够作为工作语言进行内容撰写及商务沟通；对 AI 行业充满热情，不惧怕从 0 到 1 的挑战，沟通和团队合作能力强；AI Native：熟练使用AI工具提升内容与工作效率；实习期至少3个月，每周工作时间不少于4天。你将获得：初创孵化 + B2B + 国际市场的复合型项目实战经验参与全球的初创企业增长之旅与顶尖产品、技术及国际团队协作的机会立即投递",
+      "jobId": "f8482d11-39d7-4981-aade-83130b99af56"
+    },
+    {
+      "title": "HRBP（商业化）发布于 2026-05-20人力资源部人力资源部|全职全职|职能专业职能专业|北京市北京市岗位职责：1）支持业务团队组织发展，深入了解业务状况和团队运作状况，理解业务战略，能够将业务目标转化为清晰的组织与人才战略。2）负责业务部门的人才管理与梯队建设，利用各种有效招聘途径满足招聘需求，根据现有团队情况，设计人员成长路径及人员培养方案，有效制定和实施人才发展计划并跟进实施。3）诊断并优化组织效能，能够洞察组织和团队存在的问题，并应用专业理论、方法、工具，为业务团队提供全方位解决方案，包括招聘、培训、绩效、员工关系等人力资源工作，并推动方案落地。4）协助完成组织及团队氛围建设，推动企业文化落地和业务的高速发展。任职要求：1）本科及以上学历，5年以上销售、解决方案岗位招聘工作经验，云原生或 AI 行业背景者优先。2）曾在高速增长的科技公司任职经验，如头部互联网、AI 创业公司者优先。3）在组织发展、人才管理方面有成功实践经验，执行力强，需要有极强的跨地域协同能力和优秀的沟通界面。4）具备战略思维、业务洞察力和解决问题的能力。岗位职责：1）支持业务团队组织发展，深入了解业务状况和团队运作状况，理解业务战略，能够将业务目标转化为清晰的组织与人才战略。2）负责业务部门的人才管理与梯队建设，利用各种有效招聘途径满足招聘需求，根据现有团队情况，设计人员成长路径及人员培养方案，有效制定和实施人才发展计划并跟进实施。3）诊断并优化组织效能，能够洞察组织和团队存在的问题，并应用专业理论、方法、工具，为业务团队提供全方位解决方案，包括招聘、培训、绩效、员工关系等人力资源工作，并推动方案落地。4）协助完成组织及团队氛围建设，推动企业文化落地和业务的高速发展。任职要求：1）本科及以上学历，5年以上销售、解决方案岗位招聘工作经验，云原生或 AI 行业背景者优先。2）曾在高速增长的科技公司任职经验，如头部互联网、AI 创业公司者优先。3）在组织发展、人才管理方面有成功实践经验，执行力强，需要有极强的跨地域协同能力和优秀的沟通界面。4）具备战略思维、业务洞察力和解决问题的能力。立即投递",
+      "jobId": "aa5ca42d-f47e-4ae1-977e-f303197e6d0e"
+    },
+    {
+      "title": "HRBP（算法）发布于 2026-05-20人力资源部人力资源部|全职全职|职能专业职能专业|北京市北京市岗位职责：1）支持技术团队组织发展，深入了解技术状况和团队运作状况，理解技术战略，能够将技术目标转化为清晰的组织与人才战略。2）负责技术部门的人才管理与梯队建设，利用各种有效招聘途径满足招聘需求，根据现有团队情况，设计人员成长路径及人员培养方案，有效制定和实施人才发展计划并跟进实施。3）诊断并优化组织效能，能够洞察组织和团队存在的问题，并应用专业理论、方法、工具，为业务团队提供全方位解决方案，包括招聘、培训、绩效、员工关系等人力资源工作，并推动方案落地。4）协助完成组织及团队氛围建设，推动企业文化落地和业务的高速发展。任职要求：1）本科及以上学历，2年以上大模型算法及infra岗位招聘工作经验，AI 行业背景者优先。2）曾在高速增长的科技公司任职经验，如头部互联网、AI 创业公司者优先。3）在组织发展、人才管理方面有成功实践经验，执行力强，需要有极强的跨地域协同能力和优秀的沟通界面。4）具备战略思维、业务洞察力和解决问题的能力。岗位职责：1）支持技术团队组织发展，深入了解技术状况和团队运作状况，理解技术战略，能够将技术目标转化为清晰的组织与人才战略。2）负责技术部门的人才管理与梯队建设，利用各种有效招聘途径满足招聘需求，根据现有团队情况，设计人员成长路径及人员培养方案，有效制定和实施人才发展计划并跟进实施。3）诊断并优化组织效能，能够洞察组织和团队存在的问题，并应用专业理论、方法、工具，为业务团队提供全方位解决方案，包括招聘、培训、绩效、员工关系等人力资源工作，并推动方案落地。4）协助完成组织及团队氛围建设，推动企业文化落地和业务的高速发展。任职要求：1）本科及以上学历，2年以上大模型算法及infra岗位招聘工作经验，AI 行业背景者优先。2）曾在高速增长的科技公司任职经验，如头部互联网、AI 创业公司者优先。3）在组织发展、人才管理方面有成功实践经验，执行力强，需要有极强的跨地域协同能力和优秀的沟通界面。4）具备战略思维、业务洞察力和解决问题的能力。立即投递",
+      "jobId": "dd45ea93-de1d-4639-ba1a-4777201d7ded"
+    },
+    {
+      "title": "解决方案架构师-北京发布于 2026-05-19国际业务中心国际业务中心|全职全职|北京市北京市职位描述1. 负责面向企业客户，提供智谱生成式AI解决方案和商业化落地，为企业实现生成式AI创新和转型提供技术咨询和支持。2. 对外负责与销售紧密合作，共同推进产品及解决方案拓展和销售过程，包括方案交流、需求分析、技术选型、解决方案设计和项目交付，致力于助力客户成功。3. 对内负责与产品及研发部门沟通协作，洞察行业变化，总结技术方案经验，促进解决方案落地及产品迭代。职位要求1. 本科及以上学历，计算机、通信、人工智能等相关专业。3-5年企业级应用架构、解决方案或项目技术管理经验。2. 具备基于人工智能、云计算服务的解决方案分析和架构能力，了解生成式AI的最新行业动态、应用方向、对生成式AI在各领域落地的路径和可行性有认知和判断。3. 具备团队意识、优秀的沟通技巧、文档编写、方案演讲和协调能力。能够在快节奏的环境中处理多个复杂项目支持，并以高执行力达到业绩目标。职位描述1. 负责面向企业客户，提供智谱生成式AI解决方案和商业化落地，为企业实现生成式AI创新和转型提供技术咨询和支持。2. 对外负责与销售紧密合作，共同推进产品及解决方案拓展和销售过程，包括方案交流、需求分析、技术选型、解决方案设计和项目交付，致力于助力客户成功。3. 对内负责与产品及研发部门沟通协作，洞察行业变化，总结技术方案经验，促进解决方案落地及产品迭代。职位要求1. 本科及以上学历，计算机、通信、人工智能等相关专业。3-5年企业级应用架构、解决方案或项目技术管理经验。2. 具备基于人工智能、云计算服务的解决方案分析和架构能力，了解生成式AI的最新行业动态、应用方向、对生成式AI在各领域落地的路径和可行性有认知和判断。3. 具备团队意识、优秀的沟通技巧、文档编写、方案演讲和协调能力。能够在快节奏的环境中处理多个复杂项目支持，并以高执行力达到业绩目标。立即投递",
+      "jobId": "7721ae25-a111-43f6-ba08-2af7500e28f3"
+    },
+    {
+      "title": "Applied AI Architect 发布于 2026-05-19国际业务中心国际业务中心|全职全职职位描述1. Responsible for providing generative AI solutions and commercial implementation to overseas corporate clients, offering technical consultation and support for the realization of generative AI innovation and transformation in overseas enterprises.2. Externally, collaborate closely with the sales team to jointly promote the expansion and sales process of products and solutions, including bussiness communication, demand analysis, technology selection, solution design, and project delivery, committed to helping customers succeed.3. Internally, communicate and cooperate with the product and R&D departments, understand industry changes, summarize technical solution experiences, and promote the implementation of solutions and product iteration.职位要求1. Bachelor degree or above, major in computer, communications, artificial intelligence and related majors. 3-5 years of experience in enterprise application architecture, solution or technical project management.2. Solution analysis and architecture capabilities based on artificial intelligence and cloud computing services, understand the latest industry trends and application directions of generative AI, and able to cognize and judge the delivery path and feasibility of generative AI in various industries.3. Team awareness, excellent communication, document writing, presentation and coordination skills. Ability to handle multiple complex project support in a fast-paced environment and achieve performance goals with high execution.职位描述1. Responsible for providing generative AI solutions and commercial implementation to overseas corporate clients, offering technical consultation and support for the realization of generative AI innovation and transformation in overseas enterprises.2. Externally, collaborate closely with the sales team to jointly promote the expansion and sales process of products and solutions, including bussiness communication, demand analysis, technology selection, solution design, and project delivery, committed to helping customers succeed.3. Internally, communicate and cooperate with the product and R&D departments, understand industry changes, summarize technical solution experiences, and promote the implementation of solutions and product iteration.职位要求1. Bachelor degree or above, major in computer, communications, artificial intelligence and related majors. 3-5 years of experience in enterprise application architecture, solution or technical project management.2. Solution analysis and architecture capabilities based on artificial intelligence and cloud computing services, understand the latest industry trends and application directions of generative AI, and able to cognize and judge the delivery path and feasibility of generative AI in various industries.3. Team awareness, excellent communication, document writing, presentation and coordination skills. Ability to handle multiple complex project support in a fast-paced environment and achieve performance goals with high execution.立即投递",
+      "jobId": "b81db4af-e3ea-4d9e-a1c2-0bb46aad059c"
+    },
+    {
+      "title": "Overseas sales-上海发布于 2026-05-19国际业务中心国际业务中心|全职全职职位描述1. Responsible for expanding business related to Zhipu AI LLM products targeting Fortune Global 500 multinational corporations. Accelerate the transformative journey of multinational corporations in Generative AI by providing a series of Generative AI solution consulting services. Establish long-term sustainable strategic partnerships with clients.2. Develop detailed, actionable sales strategies, collaborating with internal resources in marketing, product development, and external partners' capabilities, focusing on empowering client success. Achievement of performance targets is core.3. Research industry demand fluctuations, analyze business challenges of target clients. Identify and convey industry common needs, distill industry-typical replicable commercial scenarios. Provide effective suggestions for company's large model product iterations and Generative AI solution designs.职位要求1. Bachelor's or Master's degree in Computer Science, Engineering, Business, Marketing, or related fields (MBA preferred). Possess 3-5 years of enterprise sales experience within large global clients.2. Work experience in sales or consulting in industries such as artificial intelligence, cloud computing. Have extensive resources among multinational corporate clients and experience in customer relationship management. Priority for those who have assisted global accounts in overseas expansions and entries into the Chinese market by providing business expansion consulting and technical services.3. Possesses exceptional customer relationship management abilities, outstanding communication skills, adeptness in solution presentation, and effective resource utilization capabilities. Demonstrates the capacity to manage multiple complex projects in a fast-paced environment with strong execution skills to meet performance targets. Exhibits a skillset focused on teamwork and delivering results. Proficient in establishing mutually beneficial cooperation models and demonstrates resilience in high-pressure situations职位描述1. Responsible for expanding business related to Zhipu AI LLM products targeting Fortune Global 500 multinational corporations. Accelerate the transformative journey of multinational corporations in Generative AI by providing a series of Generative AI solution consulting services. Establish long-term sustainable strategic partnerships with clients.2. Develop detailed, actionable sales strategies, collaborating with internal resources in marketing, product development, and external partners' capabilities, focusing on empowering client success. Achievement of performance targets is core.3. Research industry demand fluctuations, analyze business challenges of target clients. Identify and convey industry common needs, distill industry-typical replicable commercial scenarios. Provide effective suggestions for company's large model product iterations and Generative AI solution designs.职位要求1. Bachelor's or Master's degree in Computer Science, Engineering, Business, Marketing, or related fields (MBA preferred). Possess 3-5 years of enterprise sales experience within large global clients.2. Work experience in sales or consulting in industries such as artificial intelligence, cloud computing. Have extensive resources among multinational corporate clients and experience in customer relationship management. Priority for those who have assisted global accounts in overseas expansions and entries into the Chinese market by providing business expansion consulting and technical services.3. Possesses exceptional customer relationship management abilities, outstanding communication skills, adeptness in solution presentation, and effective resource utilization capabilities. Demonstrates the capacity to manage multiple complex projects in a fast-paced environment with strong execution skills to meet performance targets. Exhibits a skillset focused on teamwork and delivering results. Proficient in establishing mutually beneficial cooperation models and demonstrates resilience in high-pressure situations立即投递",
+      "jobId": "b2d46700-a9aa-4166-8258-bc2a24f6e445"
+    },
+    {
+      "title": "HRBP/HRD-深圳发布于 2026-05-19南方交付中心南方交付中心|全职全职|广东·深圳市广东·深圳市职位描述1、定期开展组织诊断，分析业务部门的组织架构、人员配置、流程效率等，提出优化方案并推动实施，提升组织敏捷性与运营效率 。2、与业务部门及HR团队保持充分沟通，不断完善组织发展相关制度、流程和标准，搭建良好的员工沟通渠道，及时了解员工诉求，处理员工关系问题，营造和谐稳定的工作氛围。3、推动企业文化在业务部门的落地生根，组织文化活动，传播企业价值观，增强员工归属感与凝聚力；关注劳动法律法规的变化，确保公司人力资源政策与操作的合规性，防范劳动用工风险 。4、 数据分析与决策支持：收集、整理与分析人力资源数据，如招聘效率、员工流失率、培训效果等，定期输出人力资源分析报告，为业务决策提供数据依据；通过数据分析洞察业务团队的人力资源状况与潜在问题，提出前瞻性的解决方案，推动人力资源管理的精细化与科学化 。职位要求1. 本科及以上学历，人力资源管理、工商管理、心理学等相关专业优先 。2. 工作经验：3年以上人力资源工作经验，其中至少1年HRBP工作经验，有互联网、电商、科技等行业经验者优先 。3. 精通人力资源各模块知识，熟练运用招聘、培训、绩效管理、员工关系等工具与方法；熟悉劳动法律法规，具备处理复杂劳动纠纷的能力；掌握数据分析方法，能够运用Excel、SQL等工具进行数据处理与分析 。4.具备敏锐的业务洞察力，能够快速理解业务需求并提供有效解决方案；出色的沟通协调与人际交往能力，能够与不同层级的员工和业务部门紧密合作；较强的问题解决与决策能力，能够应对复杂多变的人力资源挑战；具备项目管理能力，能够有效推动人力资源项目的实施与落地；高度的责任心与敬业精神，良好的团队合作意识，适应快速变化的工作环境 。5. 持有相关人力资源证书者优先（如人力资源管理师、SHRM等）；熟练使用Office办公软件，具备良好的沟通表达能力 职位描述1、定期开展组织诊断，分析业务部门的组织架构、人员配置、流程效率等，提出优化方案并推动实施，提升组织敏捷性与运营效率 。2、与业务部门及HR团队保持充分沟通，不断完善组织发展相关制度、流程和标准，搭建良好的员工沟通渠道，及时了解员工诉求，处理员工关系问题，营造和谐稳定的工作氛围。3、推动企业文化在业务部门的落地生根，组织文化活动，传播企业价值观，增强员工归属感与凝聚力；关注劳动法律法规的变化，确保公司人力资源政策与操作的合规性，防范劳动用工风险 。4、 数据分析与决策支持：收集、整理与分析人力资源数据，如招聘效率、员工流失率、培训效果等，定期输出人力资源分析报告，为业务决策提供数据依据；通过数据分析洞察业务团队的人力资源状况与潜在问题，提出前瞻性的解决方案，推动人力资源管理的精细化与科学化 。职位要求1. 本科及以上学历，人力资源管理、工商管理、心理学等相关专业优先 。2. 工作经验：3年以上人力资源工作经验，其中至少1年HRBP工作经验，有互联网、电商、科技等行业经验者优先 。3. 精通人力资源各模块知识，熟练运用招聘、培训、绩效管理、员工关系等工具与方法；熟悉劳动法律法规，具备处理复杂劳动纠纷的能力；掌握数据分析方法，能够运用Excel、SQL等工具进行数据处理与分析 。4.具备敏锐的业务洞察力，能够快速理解业务需求并提供有效解决方案；出色的沟通协调与人际交往能力，能够与不同层级的员工和业务部门紧密合作；较强的问题解决与决策能力，能够应对复杂多变的人力资源挑战；具备项目管理能力，能够有效推动人力资源项目的实施与落地；高度的责任心与敬业精神，良好的团队合作意识，适应快速变化的工作环境 。5. 持有相关人力资源证书者优先（如人力资源管理师、SHRM等）；熟练使用Office办公软件，具备良好的沟通表达能力 立即投递",
+      "jobId": "9c978ac7-6121-4d22-81c3-4a8aa5a4a97c"
+    },
+    {
+      "title": "AI产品经理发布于 2026-05-19华南交付项目经理组华南交付项目经理组|全职全职|福建·厦门市福建·厦门市岗位职责：1. 负责 AI 产品（大模型/多模态方向）的规划、设计与迭代，推动从 0 到 1 落地2. 面向 B 端/G 端客户进行需求调研，输出 PRD、产品方案、演示脚本等产品文档3. 将 AI 算法能力转化为可交付的产品方案，定义效果评测标准并跟踪优化4. 协调算法、开发、设计等团队推进产品交付，管理供应商产品对接5. 参与项目可研报告、建设方案等材料编写6. 关注行业动态与竞品情况，持续挖掘产品创新点和优化方向任职要求：1. 3-5 年产品工作经验，有完整产品从 0 到 1 落地经历2. 熟悉大语言模型、多模态模型等 AI 技术的产品化应用，理解模型能力边界3. 熟练使用各类 AI 工具（Claude Code、Cursor、OpenClaw 等），能高效辅助日常工作4. 能独立搭建产品 Demo，具备一定的前端或低代码开发能力，快速验证产品想法5. 有 B 端/G 端产品经验，理解政企客户决策链路和交付节奏6. 文档能力强，能独立输出 PRD、产品方案等专业文档7. 具备数据分析能力，能通过数据驱动产品决策和效果优化8. 优秀的跨团队沟通协调能力，能管理多方资源推进项目9. 有项目管理意识，能把控需求优先级、排期节奏和交付质量10. 本科及以上学历，计算机、信息管理等相关专业优先加分项：- 政务/公安/安防行业经验- 熟悉 RAG、Agent，Harness工程 等 AI 应用技术栈- 供应商管理或集成项目经验- 了解国产化算力平台（昇腾等）生态- 有 AI 场景落地经验（视频分析、NLP、知识图谱等方向）岗位职责：1. 负责 AI 产品（大模型/多模态方向）的规划、设计与迭代，推动从 0 到 1 落地2. 面向 B 端/G 端客户进行需求调研，输出 PRD、产品方案、演示脚本等产品文档3. 将 AI 算法能力转化为可交付的产品方案，定义效果评测标准并跟踪优化4. 协调算法、开发、设计等团队推进产品交付，管理供应商产品对接5. 参与项目可研报告、建设方案等材料编写6. 关注行业动态与竞品情况，持续挖掘产品创新点和优化方向任职要求：1. 3-5 年产品工作经验，有完整产品从 0 到 1 落地经历2. 熟悉大语言模型、多模态模型等 AI 技术的产品化应用，理解模型能力边界3. 熟练使用各类 AI 工具（Claude Code、Cursor、OpenClaw 等），能高效辅助日常工作4. 能独立搭建产品 Demo，具备一定的前端或低代码开发能力，快速验证产品想法5. 有 B 端/G 端产品经验，理解政企客户决策链路和交付节奏6. 文档能力强，能独立输出 PRD、产品方案等专业文档7. 具备数据分析能力，能通过数据驱动产品决策和效果优化8. 优秀的跨团队沟通协调能力，能管理多方资源推进项目9. 有项目管理意识，能把控需求优先级、排期节奏和交付质量10. 本科及以上学历，计算机、信息管理等相关专业优先加分项：- 政务/公安/安防行业经验- 熟悉 RAG、Agent，Harness工程 等 AI 应用技术栈- 供应商管理或集成项目经验- 了解国产化算力平台（昇腾等）生态- 有 AI 场景落地经验（视频分析、NLP、知识图谱等方向）立即投递",
+      "jobId": "4bdcbf2a-508e-4292-9f09-27a167c5986f"
+    },
+    {
+      "title": "市场与内容实习生发布于 2026-05-15国际业务中心国际业务中心|实习实习|北京市北京市职位描述工作内容（你会做什么）-  LinkedIn（公司号 / 高管号）内容策划与运营- 协助撰写与优化内容：  - AI / 大模型 / 行业趋势  - 产品价值表达（非硬广）  - 活动 / 展会 / 海外市场内容- 使用 AI 工具 辅助内容创作与优化（如 ChatGPT / Claude / Midjourney / Notion AI 等）- 参与内容数据分析：  - 互动率、曝光、线索线索表现- 与业务、销售、活动团队协作，理解 “内容如何服务业务”职位要求硬性要求- 对内容有感觉，对表达有判断- 熟悉或愿意深度玩转：  - LinkedIn / Twitter / 海外内容平台（至少一个）- 英文阅读与基础写作能力良好- 必须提供作品集（不限形式）：  - 公众号 / 小红书 / LinkedIn / 博客 / 个人项目 / AI生成内容等加分项（非常欢迎）- 会用或深度尝试过 AI 内容工具- 对 AI、科技、B2B 领域有长期兴趣- 有海外社媒运营经验- 会基础设计 / 视频 / 数据分析实习 KPI数字型- 每周支持内容 ≥ 3 条（可共创）- 内容准时交付率 ≥ 95%- 内容互动数据持续优化（与历史基准对比）软性- 内容创意质量与业务相关度- 对反馈的理解与迭代能力- 主动学习 AI 工具并分享方法---你能获得什么- 真正参与 AI 公司海外市场表达- 学会如何把 内容 → 影响业务- 高密度使用 AI 工具的真实场景- 优秀者可转长期 / 推荐 / 内推职位描述工作内容（你会做什么）-  LinkedIn（公司号 / 高管号）内容策划与运营- 协助撰写与优化内容：  - AI / 大模型 / 行业趋势  - 产品价值表达（非硬广）  - 活动 / 展会 / 海外市场内容- 使用 AI 工具 辅助内容创作与优化（如 ChatGPT / Claude / Midjourney / Notion AI 等）- 参与内容数据分析：  - 互动率、曝光、线索线索表现- 与业务、销售、活动团队协作，理解 “内容如何服务业务”职位要求硬性要求- 对内容有感觉，对表达有判断- 熟悉或愿意深度玩转：  - LinkedIn / Twitter / 海外内容平台（至少一个）- 英文阅读与基础写作能力良好- 必须提供作品集（不限形式）：  - 公众号 / 小红书 / LinkedIn / 博客 / 个人项目 / AI生成内容等加分项（非常欢迎）- 会用或深度尝试过 AI 内容工具- 对 AI、科技、B2B 领域有长期兴趣- 有海外社媒运营经验- 会基础设计 / 视频 / 数据分析实习 KPI数字型- 每周支持内容 ≥ 3 条（可共创）- 内容准时交付率 ≥ 95%- 内容互动数据持续优化（与历史基准对比）软性- 内容创意质量与业务相关度- 对反馈的理解与迭代能力- 主动学习 AI 工具并分享方法---你能获得什么- 真正参与 AI 公司海外市场表达- 学会如何把 内容 → 影响业务- 高密度使用 AI 工具的真实场景- 优秀者可转长期 / 推荐 / 内推立即投递",
+      "jobId": "cd956245-63f9-4994-80d7-c96e446a26f5"
+    },
+    {
+      "title": "市场实习生（国际方向 / AI Native）发布于 2026-05-15国际业务中心国际业务中心|实习实习|北京市北京市职位描述我们正在寻找一位具备技术理解能力、对B2B业务有基本认知的市场实习生，支持国际市场的品牌与增长工作。你将参与从内容、渠道到获客转化的完整链路，不只是执行，而是对实际业务结果产生影响。⸻岗位职责1. 海外社媒运营（X & LinkedIn）•\t负责X（Twitter）和LinkedIn账号的内容策划与运营•\t结合AI与技术趋势，输出高质量内容（产品、案例、行业观点等）•\t跟踪并分析数据表现（impressions / engagement / leads），持续优化策略2. 技术与B2B内容支持•\t将产品能力、技术亮点转化为面向B2B客户的市场内容•\t支持企业客户相关内容（如解决方案、客户案例、行业应用等）•\t与产品或技术团队沟通，理解核心能力并对外表达3. 增长与转化支持•\t参与campaign、活动及增长项目执行•\t支持leads获取及转化相关工作•\t理解并优化从内容 → 用户 → 商机的B2B转化路径4. 市场与行业洞察•\t跟踪市场、AI行业及竞品动态•\t理解B2B客户需求与决策逻辑，输出洞察与优化建议职位要求1. 教育背景•\t硕士在读或毕业（优先）•\t有海外留学经历优先，QS前100院校优先考虑•\t理工科背景优先（计算机、AI、数据、工程等）2. 基础要求•\t每周可实习3天及以上，实习期3个月以上3. 能力要求•\t英文流利，可进行内容撰写及商务沟通•\t熟悉X（Twitter）和LinkedIn，有实际运营经验优先•\t对技术有基本理解（AI / SaaS / API等），能快速学习•\t对B2B业务有基础认知（企业客户、销售流程、解决方案等）4. 特质要求•\tAI Native：熟练使用AI工具提升内容与工作效率•\t结果导向，对数据和增长负责•\t具备业务思维，理解市场动作与业务结果之间的关系加分项•\t有B2B或企业服务相关实习经验•\t有技术或AI内容创作经验•\t有海外内容经验•\t有0到1做账号或增长经验你将获得•\t技术 + B2B + 国际市场的复合型实战经验•\t参与全球市场增长•\t与产品、技术及国际团队协作的机会职位描述我们正在寻找一位具备技术理解能力、对B2B业务有基本认知的市场实习生，支持国际市场的品牌与增长工作。你将参与从内容、渠道到获客转化的完整链路，不只是执行，而是对实际业务结果产生影响。⸻岗位职责1. 海外社媒运营（X & LinkedIn）•\t负责X（Twitter）和LinkedIn账号的内容策划与运营•\t结合AI与技术趋势，输出高质量内容（产品、案例、行业观点等）•\t跟踪并分析数据表现（impressions / engagement / leads），持续优化策略2. 技术与B2B内容支持•\t将产品能力、技术亮点转化为面向B2B客户的市场内容•\t支持企业客户相关内容（如解决方案、客户案例、行业应用等）•\t与产品或技术团队沟通，理解核心能力并对外表达3. 增长与转化支持•\t参与campaign、活动及增长项目执行•\t支持leads获取及转化相关工作•\t理解并优化从内容 → 用户 → 商机的B2B转化路径4. 市场与行业洞察•\t跟踪市场、AI行业及竞品动态•\t理解B2B客户需求与决策逻辑，输出洞察与优化建议职位要求1. 教育背景•\t硕士在读或毕业（优先）•\t有海外留学经历优先，QS前100院校优先考虑•\t理工科背景优先（计算机、AI、数据、工程等）2. 基础要求•\t每周可实习3天及以上，实习期3个月以上3. 能力要求•\t英文流利，可进行内容撰写及商务沟通•\t熟悉X（Twitter）和LinkedIn，有实际运营经验优先•\t对技术有基本理解（AI / SaaS / API等），能快速学习•\t对B2B业务有基础认知（企业客户、销售流程、解决方案等）4. 特质要求•\tAI Native：熟练使用AI工具提升内容与工作效率•\t结果导向，对数据和增长负责•\t具备业务思维，理解市场动作与业务结果之间的关系加分项•\t有B2B或企业服务相关实习经验•\t有技术或AI内容创作经验•\t有海外内容经验•\t有0到1做账号或增长经验你将获得•\t技术 + B2B + 国际市场的复合型实战经验•\t参与全球市场增长•\t与产品、技术及国际团队协作的机会立即投递",
+      "jobId": "3d74f837-23af-4513-ac9c-3099f64d0306"
+    },
+    {
+      "title": "用户中台 & 风控研发工程师 发布于 2026-05-14ZAH小组ZAH小组|全职全职|北京市北京市Z.ai 用户中台作为智谱核心的基础服务， 其业务范畴包含帐号、设备、鉴权、开放授权、用户资料等业务领域；同时该岗位包含了 Z.ai 产品对话链路的风控治理，  参与业务服务 和 Agent 沙盒的风控设计、效果评估并落地；职位描述1、负责用户中台的系统架构设计、能力建设和指标建立与提升；2、负责用户系统全球化架构落地，持续提升产品合规能力；3、基于产品用户数据，分析和挖掘用户行为，找出业务核心链路里安全风险， 设计并落地风控策略， 支撑用户安全；职位要求1、有较强的逻辑思维能力，具备很强的数据分析和解决问题的能力，有较好的产品意识，对产品和数据有独立的思考和洞察；2、至少具备2年风控或反欺诈/反作弊相关领域工作经验，具备丰富的风控业务知识；3、 有 AI Agent 开发经验， 了解 Claude code ， Codex 等Coding Agent 实现原理；4、有强烈的求知欲和进取心，主动及时关注学习业界最新技术，具备良好的沟通表达能力，积极乐观；加分项：熟悉常见黑产攻击方式和防御措施，包括漏洞及漏洞成因和防控方法。Z.ai 用户中台作为智谱核心的基础服务， 其业务范畴包含帐号、设备、鉴权、开放授权、用户资料等业务领域；同时该岗位包含了 Z.ai 产品对话链路的风控治理，  参与业务服务 和 Agent 沙盒的风控设计、效果评估并落地；职位描述1、负责用户中台的系统架构设计、能力建设和指标建立与提升；2、负责用户系统全球化架构落地，持续提升产品合规能力；3、基于产品用户数据，分析和挖掘用户行为，找出业务核心链路里安全风险， 设计并落地风控策略， 支撑用户安全；职位要求1、有较强的逻辑思维能力，具备很强的数据分析和解决问题的能力，有较好的产品意识，对产品和数据有独立的思考和洞察；2、至少具备2年风控或反欺诈/反作弊相关领域工作经验，具备丰富的风控业务知识；3、 有 AI Agent 开发经验， 了解 Claude code ， Codex 等Coding Agent 实现原理；4、有强烈的求知欲和进取心，主动及时关注学习业界最新技术，具备良好的沟通表达能力，积极乐观；加分项：熟悉常见黑产攻击方式和防御措施，包括漏洞及漏洞成因和防控方法。立即投递",
+      "jobId": "027aefe0-2e1e-4454-b252-acc18a018d4c"
+    },
+    {
+      "title": "AI-Native 全栈工程师（偏后端）发布于 2026-05-13AI院AI院|全职全职|工程研发工程研发|北京市北京市职位描述1、探索并创造基于大模型的工程级代码生成服务和产品，助力开发者迎接更高效的提效体验；2、关注AI领域的最新动态和趋势，结合开发者的实际需求，为我们提供高性能、适应性强的技术解决方案；3、对产品的稳定性和性能极致的追求，深入理解并致力于优化和重构，确保系统高效、稳定运作；职位要求1、本科及以上学历，计算机相关专业，有三年及以上相关工作经验；2、对前端或者后端至少精通一个方向：2.1）前端开发：熟悉 HTML、CSS、JavaScript、TypeScript 等 Web 前端技术；掌握 React/Vue 等 MDV 前端框架；熟悉基于 Next.js/Nuxt.js 等脚手架的项目开发；掌握 HTTP 协议、浏览器原理、性能优化等Web 前端核心知识；有扎实的 Node.js 基础，能解决前端工程化问题。2.2）后端开发：对 Python、Java、Go 等后端开发语言有深度的理解和实践经验，包括但不限于数据处理、服务器搭建和维护、数据库操作、API的设计和实现；对微服务架构、分布式计算，以及云服务等领域有了解或实际操作经验者优先；3、对探索大模型有极大热性，有大模型相关领域研发经验者优先。4、熟练使用 Linux，熟悉 Docker、Kubernetes 等容器技术的使用，了解其原理；熟悉云原生下的服务开发部署流程，熟悉 Prometheus + Grafana 的使用；职位描述1、探索并创造基于大模型的工程级代码生成服务和产品，助力开发者迎接更高效的提效体验；2、关注AI领域的最新动态和趋势，结合开发者的实际需求，为我们提供高性能、适应性强的技术解决方案；3、对产品的稳定性和性能极致的追求，深入理解并致力于优化和重构，确保系统高效、稳定运作；职位要求1、本科及以上学历，计算机相关专业，有三年及以上相关工作经验；2、对前端或者后端至少精通一个方向：2.1）前端开发：熟悉 HTML、CSS、JavaScript、TypeScript 等 Web 前端技术；掌握 React/Vue 等 MDV 前端框架；熟悉基于 Next.js/Nuxt.js 等脚手架的项目开发；掌握 HTTP 协议、浏览器原理、性能优化等Web 前端核心知识；有扎实的 Node.js 基础，能解决前端工程化问题。2.2）后端开发：对 Python、Java、Go 等后端开发语言有深度的理解和实践经验，包括但不限于数据处理、服务器搭建和维护、数据库操作、API的设计和实现；对微服务架构、分布式计算，以及云服务等领域有了解或实际操作经验者优先；3、对探索大模型有极大热性，有大模型相关领域研发经验者优先。4、熟练使用 Linux，熟悉 Docker、Kubernetes 等容器技术的使用，了解其原理；熟悉云原生下的服务开发部署流程，熟悉 Prometheus + Grafana 的使用；立即投递",
+      "jobId": "dba0982f-9055-4c7f-ab40-8ded775b0e78"
+    },
+    {
+      "title": "GLM团队-模型代码后训练算法工程师发布于 2026-05-12AI院AI院|全职全职|算法研究算法研究|北京市北京市职位描述1. 负责基座模型在各类代码生成 / Coding Agent 场景的效果优化；2. 分析业务需求，针对不同应用场景的设计训练方案，提高模型在不同下游应用上的的性能；3. 跟进 LLM 代码生成前沿技术，持续优化基座模型完成各类复杂代码生成任务的能力；职位要求1. 本科及以上学历，计算机、软件工程、人工智能等相关专业；2. 具有数据构建和指令微调经验（重要），具备优秀的代码能力和基础算法功底，有较为丰富的工程经验（重要）；3. 具有优秀的逻辑思维能力，关注代码生成前沿进展，对提升模型代码生成能力充满热情；4. 具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力；加分项：1. 有代码生成 / Coding Agent 项目经验者优先；2. 在大模型 / 代码生成领域有研究论文者优先；3.熟悉大模型预训练 / SFT / RL 者优先；职位描述1. 负责基座模型在各类代码生成 / Coding Agent 场景的效果优化；2. 分析业务需求，针对不同应用场景的设计训练方案，提高模型在不同下游应用上的的性能；3. 跟进 LLM 代码生成前沿技术，持续优化基座模型完成各类复杂代码生成任务的能力；职位要求1. 本科及以上学历，计算机、软件工程、人工智能等相关专业；2. 具有数据构建和指令微调经验（重要），具备优秀的代码能力和基础算法功底，有较为丰富的工程经验（重要）；3. 具有优秀的逻辑思维能力，关注代码生成前沿进展，对提升模型代码生成能力充满热情；4. 具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力；加分项：1. 有代码生成 / Coding Agent 项目经验者优先；2. 在大模型 / 代码生成领域有研究论文者优先；3.熟悉大模型预训练 / SFT / RL 者优先；立即投递",
+      "jobId": "0a60f265-05cb-431d-8e5f-4f449d7dfde3"
+    },
+    {
+      "title": "机器学习平台研发工程师发布于 2026-05-12AI院AI院|全职全职|工程研发工程研发|北京市北京市职位描述-负责机器学习平台与算力基础设施的研发与演进，为模型训练、推理、评测及数据处理等流程提供稳定、高效、可扩展的平台能力，主要包括：- 参与并主导大规模算力平台的设计与研发，覆盖资源调度、任务编排、容器与运行时管理等关键方向，持续提升集群整体资源利用率，保障训练与推理场景的稳定运行；- 基于 Kubernetes、Docker 等云原生技术，参与调度器扩展及 CRD/Controller 等核心能力建设，支撑大规模分布式训练与推理场景。- 持续推进平台的易用性与性能优化，完善工具链与开发体验，降低算法与模型团队的使用门槛，提升整体研发效率。 职位要求- 本科及以上学历，3 年及以上研发经验，有大规模容器集群或平台型系统建设经验，有千卡及以上规模集群管理或调度经验者优先；- 熟练掌握 Golang，具备扎实的数据结构与算法基础，能够独立定位和解决复杂系统问题；- 熟悉 Kubernetes 核心机制与组件（如调度、网络、存储、Controller/CRD 等），了解容器运行时及云原生相关技术体系；- 熟悉常见分布式数据处理或计算框架（如 Ray / Spark / Flink 等），理解其架构设计与运行模型；- 了解并行计算与高性能计算相关技术，具备 OpenMP / MPI / RDMA 等使用或优化经验者优先；- 熟悉至少一种主流深度学习框架及分布式训练方案，如 PyTorch、DDP、DeepSpeed、FSDP 等；- 具备良好的自驱力、责任感和团队协作意识，能够与算法、平台及业务团队高效协作。职位描述-负责机器学习平台与算力基础设施的研发与演进，为模型训练、推理、评测及数据处理等流程提供稳定、高效、可扩展的平台能力，主要包括：- 参与并主导大规模算力平台的设计与研发，覆盖资源调度、任务编排、容器与运行时管理等关键方向，持续提升集群整体资源利用率，保障训练与推理场景的稳定运行；- 基于 Kubernetes、Docker 等云原生技术，参与调度器扩展及 CRD/Controller 等核心能力建设，支撑大规模分布式训练与推理场景。- 持续推进平台的易用性与性能优化，完善工具链与开发体验，降低算法与模型团队的使用门槛，提升整体研发效率。 职位要求- 本科及以上学历，3 年及以上研发经验，有大规模容器集群或平台型系统建设经验，有千卡及以上规模集群管理或调度经验者优先；- 熟练掌握 Golang，具备扎实的数据结构与算法基础，能够独立定位和解决复杂系统问题；- 熟悉 Kubernetes 核心机制与组件（如调度、网络、存储、Controller/CRD 等），了解容器运行时及云原生相关技术体系；- 熟悉常见分布式数据处理或计算框架（如 Ray / Spark / Flink 等），理解其架构设计与运行模型；- 了解并行计算与高性能计算相关技术，具备 OpenMP / MPI / RDMA 等使用或优化经验者优先；- 熟悉至少一种主流深度学习框架及分布式训练方案，如 PyTorch、DDP、DeepSpeed、FSDP 等；- 具备良好的自驱力、责任感和团队协作意识，能够与算法、平台及业务团队高效协作。立即投递",
+      "jobId": "86d3a68f-88fd-432a-9b1a-1defb53af16f"
+    },
+    {
+      "title": "GLM团队-预训练算法工程师发布于 2026-05-12AI院AI院|全职全职|算法研究算法研究|北京市北京市职位描述1. 参与数学或代码大模型预训练的研发工作，包括模型的预训练、对齐和评测等2. 负责构建和优化数学或代码的预训练和对齐数据，提升模型在数学或代码任务上的效果3. 探索针对数学或代码任务的数据合成方法，提升模型在数学或代码任务上的泛化能力职位要求1. 自然语言处理、机器学习等相关专业，硕士及以上学历；2. 较强的算法开发能力，熟悉常用的机器学习、深度学习算法；3. 熟练使用Pytorch、Huggingface、DeepSpeed等框架；4. 对Transformer的架构有较为深入的理解，了解Transformer的各种变体，有相关的研究经验者优先；加分项：1. 在ACL，NeurIPS，ICLR，EMNLP等顶级会议或期刊上发表过论文者优先；2. 熟悉并行训练框架，有多机多卡训练经验者优先；3. 熟悉CUDA编程/Triton编程，有相关算子加速经验者优先；职位描述1. 参与数学或代码大模型预训练的研发工作，包括模型的预训练、对齐和评测等2. 负责构建和优化数学或代码的预训练和对齐数据，提升模型在数学或代码任务上的效果3. 探索针对数学或代码任务的数据合成方法，提升模型在数学或代码任务上的泛化能力职位要求1. 自然语言处理、机器学习等相关专业，硕士及以上学历；2. 较强的算法开发能力，熟悉常用的机器学习、深度学习算法；3. 熟练使用Pytorch、Huggingface、DeepSpeed等框架；4. 对Transformer的架构有较为深入的理解，了解Transformer的各种变体，有相关的研究经验者优先；加分项：1. 在ACL，NeurIPS，ICLR，EMNLP等顶级会议或期刊上发表过论文者优先；2. 熟悉并行训练框架，有多机多卡训练经验者优先；3. 熟悉CUDA编程/Triton编程，有相关算子加速经验者优先；立即投递",
+      "jobId": "ee83e8a4-4b15-483f-935d-65954b40dd34"
+    },
+    {
+      "title": "AI Native  UI设计师发布于 2026-05-12AI院AI院|全职全职|北京市北京市职位描述1、定义新一代AI产品的产品形态与视觉色风格;2、全链路参与项目,深刻洞察用户需求并提供高效、简洁、打动人心的设计解决方案;3、负责产品界面的Ul设计与品牌延展,交付高质量的视觉设计,将品牌元素与动态设计灵活应用于产品,让体验更生动;4、提炼设计原则,建立设计规范并推动在产研过程中高效应用。职位要求1、3年以上设计工作经验,设计专业背景,本科及以上学历历;2、有丰富的C端项目落地经验,有良好审美,擅长UI设计、品牌应用和动态设计，熟练使用Figma、Al等设计工具;3、具备良好的项目管理能力,能够独立推进项目进度落地,确保按时交付高质量的设计;4、对Al 模型领域有热情,对设计有主动性和好奇心。职位描述1、定义新一代AI产品的产品形态与视觉色风格;2、全链路参与项目,深刻洞察用户需求并提供高效、简洁、打动人心的设计解决方案;3、负责产品界面的Ul设计与品牌延展,交付高质量的视觉设计,将品牌元素与动态设计灵活应用于产品,让体验更生动;4、提炼设计原则,建立设计规范并推动在产研过程中高效应用。职位要求1、3年以上设计工作经验,设计专业背景,本科及以上学历历;2、有丰富的C端项目落地经验,有良好审美,擅长UI设计、品牌应用和动态设计，熟练使用Figma、Al等设计工具;3、具备良好的项目管理能力,能够独立推进项目进度落地,确保按时交付高质量的设计;4、对Al 模型领域有热情,对设计有主动性和好奇心。立即投递",
+      "jobId": "14b06162-268b-4777-99a9-2f0970180435"
+    },
+    {
+      "title": "GLM团队-模型代码预训练算法工程师发布于 2026-05-12AI院AI院|全职全职|算法研究算法研究|北京市北京市职位描述1. 负责代码预训练数据的合成、清洗、权重分配、来源扩充等一系列工作，持续提高代码预训练、中训练数据质量；2. 负责探究预训练小领域数据的配比和最终效果之间的关系；3. 开发数据筛选和合成链路，提升基座模型在下游代码任务中的能力；职位要求1. 本科及以上学历，计算机、软件工程、人工智能等相关专业；2. 具备优秀的代码能力和基础算法功底，有较为丰富的工程经验，有大规模训练经验或大规模数据处理经验；3. 关注代码生成领域前沿进展，对提升模型代码生成能力充满热情；4. 具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力；5. 在大模型 / 代码生成领域有研究论文者优先；熟悉大模型预训练 / SFT / RL 者优先；职位描述1. 负责代码预训练数据的合成、清洗、权重分配、来源扩充等一系列工作，持续提高代码预训练、中训练数据质量；2. 负责探究预训练小领域数据的配比和最终效果之间的关系；3. 开发数据筛选和合成链路，提升基座模型在下游代码任务中的能力；职位要求1. 本科及以上学历，计算机、软件工程、人工智能等相关专业；2. 具备优秀的代码能力和基础算法功底，有较为丰富的工程经验，有大规模训练经验或大规模数据处理经验；3. 关注代码生成领域前沿进展，对提升模型代码生成能力充满热情；4. 具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力；5. 在大模型 / 代码生成领域有研究论文者优先；熟悉大模型预训练 / SFT / RL 者优先；立即投递",
+      "jobId": "139c3a70-f9ca-41b8-ae4f-741b91be7017"
+    },
+    {
+      "title": "GLM团队-后训练算法工程师发布于 2026-05-12AI院AI院|全职全职|算法研究算法研究|北京市北京市职位描述我们正在寻找充满激情和创造力的你，加入我们与大模型领域领军企业合作的前沿项目！你将有机会参与到行业领先的模型研发中，共同推动大模型技术在真实的、知名的、有影响力的应用的边界。【希望你可以承担以下工作】1、数据艺术的缔造者： 针对模型特定能力进行数据构造、筛选和优化，特别是在数学、代码、复杂推理等领域的特定数据筛选和合成；并负责对齐数据的质量和多样性控制，让数据成为模型进化的沃土。2、思维链的延伸者： 探索模型如何通过更长的思维链推理，在复杂任务上取得更优的效果，并提升post-training阶段训练和推理的扩展能力，让模型拥有更强大的逻辑推理能力。3、强化学习的优化师： 提升算法的可扩展性和稳定性，优化后训练 scaling 性能；优化多目标奖励模型，并探索结合CoT和过程监督来优化奖励模型，让强化学习算法更高效、更稳定。4、对齐范式的创新者： 结合模型监督、self-improve 等进行训练优化探索；攻克交互任务复杂推理难题；让模型的理解和生成能力更上一层楼。职位要求【我们需要这样的你】1、0-5 年经验，高潜人才： 拥有自然语言处理、机器学习、计算机视觉等相关专业背景，硕士及以上学历，我们相信经验不是唯一的衡量标准，潜力同样重要。2、算法高手： 具备较强的算法开发能力，熟悉常用的机器学习、深度学习算法，能够将理论转化为实践。3、框架专家： 熟练使用Pytorch、Huggingface等框架，让技术成为你挥洒创意的工具。4、Transformer 深度理解者： 对Transformer的架构有较为深入的理解，了解Transformer的各种变体，有相关研究经验者优先，让我们一起探索Transformer的更多可能。5、翻译、多语言项目参与者：参加过大模型翻译、多语言项目加分。【我们提供】1、前沿的技术视野： 置身于大模型技术发展的最前沿，与行业顶尖团队并肩作战。2、有影响力的项目： 参与到具有挑战性并且有知名度、影响力的项目中，发挥你的最大潜力。3、完善的成长体系： 提供完善的培训体系和职业发展路径，助力你的个人成长。4、有竞争力的薪酬： 提供具有市场竞争力的薪酬和福利待遇。【我们期待你的加入！】职位描述我们正在寻找充满激情和创造力的你，加入我们与大模型领域领军企业合作的前沿项目！你将有机会参与到行业领先的模型研发中，共同推动大模型技术在真实的、知名的、有影响力的应用的边界。【希望你可以承担以下工作】1、数据艺术的缔造者： 针对模型特定能力进行数据构造、筛选和优化，特别是在数学、代码、复杂推理等领域的特定数据筛选和合成；并负责对齐数据的质量和多样性控制，让数据成为模型进化的沃土。2、思维链的延伸者： 探索模型如何通过更长的思维链推理，在复杂任务上取得更优的效果，并提升post-training阶段训练和推理的扩展能力，让模型拥有更强大的逻辑推理能力。3、强化学习的优化师： 提升算法的可扩展性和稳定性，优化后训练 scaling 性能；优化多目标奖励模型，并探索结合CoT和过程监督来优化奖励模型，让强化学习算法更高效、更稳定。4、对齐范式的创新者： 结合模型监督、self-improve 等进行训练优化探索；攻克交互任务复杂推理难题；让模型的理解和生成能力更上一层楼。职位要求【我们需要这样的你】1、0-5 年经验，高潜人才： 拥有自然语言处理、机器学习、计算机视觉等相关专业背景，硕士及以上学历，我们相信经验不是唯一的衡量标准，潜力同样重要。2、算法高手： 具备较强的算法开发能力，熟悉常用的机器学习、深度学习算法，能够将理论转化为实践。3、框架专家： 熟练使用Pytorch、Huggingface等框架，让技术成为你挥洒创意的工具。4、Transformer 深度理解者： 对Transformer的架构有较为深入的理解，了解Transformer的各种变体，有相关研究经验者优先，让我们一起探索Transformer的更多可能。5、翻译、多语言项目参与者：参加过大模型翻译、多语言项目加分。【我们提供】1、前沿的技术视野： 置身于大模型技术发展的最前沿，与行业顶尖团队并肩作战。2、有影响力的项目： 参与到具有挑战性并且有知名度、影响力的项目中，发挥你的最大潜力。3、完善的成长体系： 提供完善的培训体系和职业发展路径，助力你的个人成长。4、有竞争力的薪酬： 提供具有市场竞争力的薪酬和福利待遇。【我们期待你的加入！】立即投递",
+      "jobId": "893630a7-28a5-4aac-bbe2-3a4e2ef8a354"
+    },
+    {
+      "title": "AI Native 全栈工程师（偏前端）发布于 2026-05-12AI院AI院|全职全职|工程研发工程研发|北京市北京市职位描述1、探索并创造基于大模型的工程级代码生成服务和产品，助力开发者迎接更高效的提效体验；2、关注AI领域的最新动态和趋势，结合开发者的实际需求，为我们提供高性能、适应性强的技术解决方案；3、对产品的稳定性和性能极致的追求，深入理解并致力于优化和重构，确保系统高效、稳定运作。职位要求1、本科及以上学历，计算机相关专业，有三年及以上相关工作经验；2、熟悉 HTML、CSS、JavaScript、TypeScript 等 Web 前端技术；3、掌握或了解 React/Vue/Svelte 等前端框架；4、熟悉基于 Next.js/Nuxt.js 等脚手架的项目开发；5、掌握 HTTP 协议、浏览器原理、性能优化等Web 前端核心知识；6、有扎实的 Node.js 基础，能解决前端工程化问题。7、对探索大模型有极大热性，有大模型相关领域研发经验者优先。职位描述1、探索并创造基于大模型的工程级代码生成服务和产品，助力开发者迎接更高效的提效体验；2、关注AI领域的最新动态和趋势，结合开发者的实际需求，为我们提供高性能、适应性强的技术解决方案；3、对产品的稳定性和性能极致的追求，深入理解并致力于优化和重构，确保系统高效、稳定运作。职位要求1、本科及以上学历，计算机相关专业，有三年及以上相关工作经验；2、熟悉 HTML、CSS、JavaScript、TypeScript 等 Web 前端技术；3、掌握或了解 React/Vue/Svelte 等前端框架；4、熟悉基于 Next.js/Nuxt.js 等脚手架的项目开发；5、掌握 HTTP 协议、浏览器原理、性能优化等Web 前端核心知识；6、有扎实的 Node.js 基础，能解决前端工程化问题。7、对探索大模型有极大热性，有大模型相关领域研发经验者优先。立即投递",
+      "jobId": "df2018cf-348b-4519-bc1e-b5b3e9e1723b"
+    },
+    {
+      "title": "GLM团队-SRE运维工程师发布于 2026-05-12AI院AI院|全职全职|工程研发工程研发|北京市北京市岗位职责:负责面向全球ToC的业务稳定性建设，包括但不限于Web服务、APP后端、API网关、云基础设施、安全负责线上业务服务7x24小时运维保障，及时定位处理业务故障，快速恢复应用服务配合研发团队完成业务架构选型、应用部署、版本发布、监控接入、链路调优及日常维护负责Kubernetes集群的建设与稳定性保障，包括版本升级、故障排查、性能调优、资源利用率优化负责设计基于云平台基础设施的高可用架构，保障基础设施、中间件、业务服务的稳定性负责云平台资源生命周期管理及成本优化主导容器化架构调优（如Pod调度策略、网络插件选型、存储方案设计），优化资源请求/限制配置以减少资源争用。建立容器安全防护体系，包括漏洞扫描、运行时安全监控（如Falco）、合规审计。深度参与自动化运维工具链建设，CI/CD流水线、混沌工程测试、智能扩缩容（HPA/VPA）。负责开源监控体系建设及维护（prometheus/victoriametirc），推动AIOps落地，基于时序数据分析预测集群负载并实现自愈。解决生产环境疑难问题（如OOM、网络延迟、存储性能瓶颈），输出标准化SOP文档。协同研发团队优化微服务架构，推动ServiceMesh等新技术落地。私服、比如nexus、gitlab、harbor等工具大并发下的运维经验任职资格: 1.教育背景-统招本科及以上学历，计算机、软件工程、云计算相关专业优先。2.工作经验-5年以上容器运维经验，主导或深度参与过万级Pod规模的集群维护。-熟悉生产环境容器化全生命周期管理，包括部署、监控、扩缩容、故障恢复等场景。-有多云环境/混合云管理经验-有过安全相关工作经验优先-头部互联网/云计算大厂优先3.技术能力-精通Kubernetes架构及生态工具（如Etcd、Calico、Istio），具备集群性能调优经验（如APIServer负载均衡、节点调度优化）。-熟练使用Docker、Prometheus、Grafana、ELK、CI/CD等工具链，熟悉云原生安全体系（如镜像扫描、RBAC策略、网络策略）。-具备基于云基础设施的运维、架构经验。-具备运维开发能力，能使用Python/Go开发自动化工具（如自定义Operator、监控告警脚本）。岗位职责:负责面向全球ToC的业务稳定性建设，包括但不限于Web服务、APP后端、API网关、云基础设施、安全负责线上业务服务7x24小时运维保障，及时定位处理业务故障，快速恢复应用服务配合研发团队完成业务架构选型、应用部署、版本发布、监控接入、链路调优及日常维护负责Kubernetes集群的建设与稳定性保障，包括版本升级、故障排查、性能调优、资源利用率优化负责设计基于云平台基础设施的高可用架构，保障基础设施、中间件、业务服务的稳定性负责云平台资源生命周期管理及成本优化主导容器化架构调优（如Pod调度策略、网络插件选型、存储方案设计），优化资源请求/限制配置以减少资源争用。建立容器安全防护体系，包括漏洞扫描、运行时安全监控（如Falco）、合规审计。深度参与自动化运维工具链建设，CI/CD流水线、混沌工程测试、智能扩缩容（HPA/VPA）。负责开源监控体系建设及维护（prometheus/victoriametirc），推动AIOps落地，基于时序数据分析预测集群负载并实现自愈。解决生产环境疑难问题（如OOM、网络延迟、存储性能瓶颈），输出标准化SOP文档。协同研发团队优化微服务架构，推动ServiceMesh等新技术落地。私服、比如nexus、gitlab、harbor等工具大并发下的运维经验任职资格: 1.教育背景-统招本科及以上学历，计算机、软件工程、云计算相关专业优先。2.工作经验-5年以上容器运维经验，主导或深度参与过万级Pod规模的集群维护。-熟悉生产环境容器化全生命周期管理，包括部署、监控、扩缩容、故障恢复等场景。-有多云环境/混合云管理经验-有过安全相关工作经验优先-头部互联网/云计算大厂优先3.技术能力-精通Kubernetes架构及生态工具（如Etcd、Calico、Istio），具备集群性能调优经验（如APIServer负载均衡、节点调度优化）。-熟练使用Docker、Prometheus、Grafana、ELK、CI/CD等工具链，熟悉云原生安全体系（如镜像扫描、RBAC策略、网络策略）。-具备基于云基础设施的运维、架构经验。-具备运维开发能力，能使用Python/Go开发自动化工具（如自定义Operator、监控告警脚本）。立即投递",
+      "jobId": "2c13d8cb-d18b-4887-96fb-d8b2b97df373"
+    },
+    {
+      "title": "AI Native 产品经理发布于 2026-05-12AI院AI院|全职全职|产品项目方案产品项目方案|北京市北京市职位描述1、负责AI搜索产品设计和规划；2、与算法密切合作，充分了解算法，并能基于业务充分发挥AI能力；3、不断探索用户需求、市场空间及商业价值，抽象制定出完善的产品策略与方案；4、与技术研发团队和技术团队紧密配合，进行高质量迭代。职位要求1、有过大模型AI产品相关工作经验经验；2、对对话AI算法了解，对AI搜索了解，有搜索/广告/推荐业务经验优先；3、对AI工具类方向有热情，了解国内外行业动态 ；4、高效项目推进能力，出色的沟通能力，有较强自驱力和团队合作精神 ；5、有一定的代码能力能够独立的处理产品业务数据并主动分析；6、思维活跃，有好奇心和强责任心。职位描述1、负责AI搜索产品设计和规划；2、与算法密切合作，充分了解算法，并能基于业务充分发挥AI能力；3、不断探索用户需求、市场空间及商业价值，抽象制定出完善的产品策略与方案；4、与技术研发团队和技术团队紧密配合，进行高质量迭代。职位要求1、有过大模型AI产品相关工作经验经验；2、对对话AI算法了解，对AI搜索了解，有搜索/广告/推荐业务经验优先；3、对AI工具类方向有热情，了解国内外行业动态 ；4、高效项目推进能力，出色的沟通能力，有较强自驱力和团队合作精神 ；5、有一定的代码能力能够独立的处理产品业务数据并主动分析；6、思维活跃，有好奇心和强责任心。立即投递",
+      "jobId": "ad04dd62-915d-4ff7-a944-86ee69909084"
+    },
+    {
+      "title": "GLM团队-大模型后训练算法工程师（Coding Agent 方向） 发布于 2026-05-12AI院AI院|全职全职|算法研究算法研究|北京市北京市职位描述1、负责模型在 Coding Agent 场景的优化；2、研究大规模数据合成和强化学习方案，提升模型在各类 Coding 框架下的性能；3、设计和实现评测方案，全方位衡量模型在真实场景中的 Coding Agent 相关能力；职位要求：1、本科及以上学历，计算机、软件工程、人工智能等相关专业；2、熟悉 LLM 相关技术，具有数据构建 / 指令微调 / 强化学习经验，具备优秀的代码能力和基础算法功底，有丰富的工程经验和良好的编程习惯（重要）；3、具有优秀的逻辑思维能力，善于分析和解决问题，关注代码生成前沿进展，对提升模型代码生成能力充满热情；4、具有良好的团队合作精神，有较强的沟通能力和学习能力；加分项：1、有 Coding Agent 相关经验者优先；2、在大模型 / 代码生成领域有研究论文者优先；熟悉大模型预训练 / SFT / RL 者优先；【我们期待你】✓ 是 AI Coding 的实践者：熟练使用 Cursor、Claude Code、等工具，已将 AI 深度整合进日常开发流程✓ 用 AI 创造过真实价值：有 Vibe Coding 模式下的项目上线经验，能讲述如何用 AI 加速从想法到产品的过程✓ 【加分项】有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，了解国产大模型在编程场景的特性（https://bigmodel.cn/）【你将收获】- 与同样热爱 AI Coding 的团队共事- 第一时间体验和应用最新的 AI 编程工具- 探索 AI 原生开发模式的更多可能性职位描述1、负责模型在 Coding Agent 场景的优化；2、研究大规模数据合成和强化学习方案，提升模型在各类 Coding 框架下的性能；3、设计和实现评测方案，全方位衡量模型在真实场景中的 Coding Agent 相关能力；职位要求：1、本科及以上学历，计算机、软件工程、人工智能等相关专业；2、熟悉 LLM 相关技术，具有数据构建 / 指令微调 / 强化学习经验，具备优秀的代码能力和基础算法功底，有丰富的工程经验和良好的编程习惯（重要）；3、具有优秀的逻辑思维能力，善于分析和解决问题，关注代码生成前沿进展，对提升模型代码生成能力充满热情；4、具有良好的团队合作精神，有较强的沟通能力和学习能力；加分项：1、有 Coding Agent 相关经验者优先；2、在大模型 / 代码生成领域有研究论文者优先；熟悉大模型预训练 / SFT / RL 者优先；【我们期待你】✓ 是 AI Coding 的实践者：熟练使用 Cursor、Claude Code、等工具，已将 AI 深度整合进日常开发流程✓ 用 AI 创造过真实价值：有 Vibe Coding 模式下的项目上线经验，能讲述如何用 AI 加速从想法到产品的过程✓ 【加分项】有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，了解国产大模型在编程场景的特性（https://bigmodel.cn/）【你将收获】- 与同样热爱 AI Coding 的团队共事- 第一时间体验和应用最新的 AI 编程工具- 探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "a1f2d79e-010c-43ba-ab4e-d609c4ce7a7f"
+    },
+    {
+      "title": "Agent Infra 运维开发工程师发布于 2026-05-12AI院AI院|全职全职|工程研发工程研发|北京市北京市【背景】纵观全球 AI 发展，大模型正经历从“对话式生成”向“自主执行工具与任务”的 Agentic（智能体）范式跨越。具备复杂规划、推理和行动能力的智能体，被普遍认为是下一代 AI 的核心竞争力所在，不仅是当前学术界与工业界共同瞩目的技术焦点，更蕴含着极广阔的商业落地前景。构建和评测强大的 Agentic 能力，不仅是算法层面的突破，更是对底层基础设施的极限考验。智能体在进行代码执行、工具调用、环境交互和多轮评测时，极其依赖海量、安全、高度动态的虚拟执行环境。这意味着我们需要一个能够支撑极其庞大并发量、具备极致弹性与隔离能力的大规模容器化运行底座。我们团队正是这一关键底座的建设者。在这里，你将面对的是超大规模容器调度的真实工程挑战。你参与设计的系统将直接决定 Agent 训练与评测的迭代效率，成为支撑下一代大模型能力进化的技术基石。如果您对构建极致弹性的云原生架构充满热情，并渴望在 AI 浪潮的最前沿解决极具挑战性的系统性问题，欢迎加入我们！【岗位职责】：负责容器运行时及相关生态的运维及开发，主要包括：- 参与并主导大规模容器调度系统的设计与研发，覆盖资源调度、任务编排、容器与运行时管理等关键方向，持续提升系统整体容量，保障训练与评测场景的稳定运行；- 参与容器镜像库的迭代升级，提升镜像构建、存储、代理等场景效率；- 基于 Kubernetes、CRI 等云原生技术，参与调度器扩展及 CRD / Controller 等核心能力建设，支持大规模容器调度；- 持续推进系统可观测性与性能优化，完善工具链与开发体验，降低系统使用门槛，提升整体研发效率。【岗位要求】：- 统招本科及以上学历，3年以上平台运维经验，1年以上 Go 语言研发经验。有分布式系统建设运维经验，有大规模集群管理或调度经验者优先；- 具备扎实的数据结构与算法基础，熟悉常见的设计模式，能够独立定位和解决复杂系统问题；- 熟悉 Kubernetes 核心机制与组件（如调度、网络、存储、Controller/CRD 等），了解容器运行时及云原生相关技术体系；- 熟悉 OCI 镜像标准，了解镜像仓库实现方式，了解镜像组织结构。有镜像加速相关经验者优先；- 熟悉计算机网络，能够通过抓包解决常见网络问题。有 DNS 插件开发经验者优先；- 具备良好的自驱力、责任感和团队协作意识，能够与算法、平台及业务团队高效协作。【背景】纵观全球 AI 发展，大模型正经历从“对话式生成”向“自主执行工具与任务”的 Agentic（智能体）范式跨越。具备复杂规划、推理和行动能力的智能体，被普遍认为是下一代 AI 的核心竞争力所在，不仅是当前学术界与工业界共同瞩目的技术焦点，更蕴含着极广阔的商业落地前景。构建和评测强大的 Agentic 能力，不仅是算法层面的突破，更是对底层基础设施的极限考验。智能体在进行代码执行、工具调用、环境交互和多轮评测时，极其依赖海量、安全、高度动态的虚拟执行环境。这意味着我们需要一个能够支撑极其庞大并发量、具备极致弹性与隔离能力的大规模容器化运行底座。我们团队正是这一关键底座的建设者。在这里，你将面对的是超大规模容器调度的真实工程挑战。你参与设计的系统将直接决定 Agent 训练与评测的迭代效率，成为支撑下一代大模型能力进化的技术基石。如果您对构建极致弹性的云原生架构充满热情，并渴望在 AI 浪潮的最前沿解决极具挑战性的系统性问题，欢迎加入我们！【岗位职责】：负责容器运行时及相关生态的运维及开发，主要包括：- 参与并主导大规模容器调度系统的设计与研发，覆盖资源调度、任务编排、容器与运行时管理等关键方向，持续提升系统整体容量，保障训练与评测场景的稳定运行；- 参与容器镜像库的迭代升级，提升镜像构建、存储、代理等场景效率；- 基于 Kubernetes、CRI 等云原生技术，参与调度器扩展及 CRD / Controller 等核心能力建设，支持大规模容器调度；- 持续推进系统可观测性与性能优化，完善工具链与开发体验，降低系统使用门槛，提升整体研发效率。【岗位要求】：- 统招本科及以上学历，3年以上平台运维经验，1年以上 Go 语言研发经验。有分布式系统建设运维经验，有大规模集群管理或调度经验者优先；- 具备扎实的数据结构与算法基础，熟悉常见的设计模式，能够独立定位和解决复杂系统问题；- 熟悉 Kubernetes 核心机制与组件（如调度、网络、存储、Controller/CRD 等），了解容器运行时及云原生相关技术体系；- 熟悉 OCI 镜像标准，了解镜像仓库实现方式，了解镜像组织结构。有镜像加速相关经验者优先；- 熟悉计算机网络，能够通过抓包解决常见网络问题。有 DNS 插件开发经验者优先；- 具备良好的自驱力、责任感和团队协作意识，能够与算法、平台及业务团队高效协作。立即投递",
+      "jobId": "68061b2e-e48e-4a72-984a-6c504572c405"
+    },
+    {
+      "title": "大模型C端内容运营专家发布于 2026-05-11智谱清言部智谱清言部|全职全职大模型 C 端内容的打法还没被写死，我们不找只会执行的运营，只找懂 AI、有灵气、能造破圈声量的内容破局者。你将用内容定义产品的用户心智，把想法直接变成出圈的宣发路径，用数据证明你的打法有效。你要做的事内容增长从 0 到 1 搭建：吃透大模型产品特性与 C 端用户心智，设计拉新、种草、促活、传播全链路内容策略，对曝光、新增、留存等核心指标负责。产品亮点冷启动宣发：主导内容从 0 到 1 冷启动，打造内容矩阵与爆款池；用话题造势、用户共创、干货种草等方式，实现产品自然声量破圈。用户洞察反哺内容与产品：深挖用户 AI 使用场景与内容偏好，形成可落地洞察，迭代内容体系并反推产品优化，拉高用户粘性。全渠道内容运营与 AI 玩法创新：操盘小红书、短视频、社区等全渠道内容，探索适配大模型的 AI 原生玩法，降低用户门槛，放大传播声量。数据驱动持续迭代：基于内容与用户数据复盘，定位增长卡点，优化选题、形式与节奏，提升转化效率。我们期待你你是「AI Native」的内容人，活在 AI 浪潮里，而非只了解行业；你以结果为导向，不做自嗨内容，用可量化的声量与数据证明路径有效；你愿意投身探索，和我们一起定义大模型 C 端内容的新玩法。如果你相信 AI 内容的可能性还没被定义，而你想参与书写，欢迎带着你的作品集与宣发思路来聊。核心能力：对内容有强体感、有独立想法，能把创意落地成完整差异化宣发路径；网感在线、审美佳，擅长种草 / 干货 / 话题类内容打造。行业认知：懂大模型、AIGC 主流应用与趋势，对 AI 用户心智有精准判断，内容宣发有前瞻性。背景偏好：小红书 / 公众号 / 短视频平台实操经验优先；懂基础技术逻辑、有 vibecoding 体感优先；有 AI 公司或竞品运营经历加分，同时了解产品运营加分；特质要求：自驱力拉满、皮实抗压，低资源 / 预算也能靠创意造势，有破局冲劲；具备视频创作能力优先。加分项：有个人自媒体账号 / 爆款内容沉淀；能用 AI 高效产出内容；自带内容渠道或达人资源；重度 AI 爱好者，持续研究大模型新玩法。大模型 C 端内容的打法还没被写死，我们不找只会执行的运营，只找懂 AI、有灵气、能造破圈声量的内容破局者。你将用内容定义产品的用户心智，把想法直接变成出圈的宣发路径，用数据证明你的打法有效。你要做的事内容增长从 0 到 1 搭建：吃透大模型产品特性与 C 端用户心智，设计拉新、种草、促活、传播全链路内容策略，对曝光、新增、留存等核心指标负责。产品亮点冷启动宣发：主导内容从 0 到 1 冷启动，打造内容矩阵与爆款池；用话题造势、用户共创、干货种草等方式，实现产品自然声量破圈。用户洞察反哺内容与产品：深挖用户 AI 使用场景与内容偏好，形成可落地洞察，迭代内容体系并反推产品优化，拉高用户粘性。全渠道内容运营与 AI 玩法创新：操盘小红书、短视频、社区等全渠道内容，探索适配大模型的 AI 原生玩法，降低用户门槛，放大传播声量。数据驱动持续迭代：基于内容与用户数据复盘，定位增长卡点，优化选题、形式与节奏，提升转化效率。我们期待你你是「AI Native」的内容人，活在 AI 浪潮里，而非只了解行业；你以结果为导向，不做自嗨内容，用可量化的声量与数据证明路径有效；你愿意投身探索，和我们一起定义大模型 C 端内容的新玩法。如果你相信 AI 内容的可能性还没被定义，而你想参与书写，欢迎带着你的作品集与宣发思路来聊。核心能力：对内容有强体感、有独立想法，能把创意落地成完整差异化宣发路径；网感在线、审美佳，擅长种草 / 干货 / 话题类内容打造。行业认知：懂大模型、AIGC 主流应用与趋势，对 AI 用户心智有精准判断，内容宣发有前瞻性。背景偏好：小红书 / 公众号 / 短视频平台实操经验优先；懂基础技术逻辑、有 vibecoding 体感优先；有 AI 公司或竞品运营经历加分，同时了解产品运营加分；特质要求：自驱力拉满、皮实抗压，低资源 / 预算也能靠创意造势，有破局冲劲；具备视频创作能力优先。加分项：有个人自媒体账号 / 爆款内容沉淀；能用 AI 高效产出内容；自带内容渠道或达人资源；重度 AI 爱好者，持续研究大模型新玩法。立即投递",
+      "jobId": "543f09c8-b58f-449c-b33b-fe6c0f6e43a2"
+    },
+    {
+      "title": "科技平台运营专家发布于 2026-05-11大数据中心大数据中心|全职全职|北京市北京市科技平台运营专家工作职责：1、统筹科技学术平台自有内容矩阵的运营，聚焦AI/前沿科技领域，策划并执行高价值内容。2、关注和分析用户增长数据，寻找新的增长机会，为运营和内容研发方向提供指导，提出优化客户体验产品改进方案，对用户获取、活跃、留存等核心运营指标负责；3、制定活动宣传策略，充分利用多种渠道对活动进行预热和推广。包括但不限于平台官网、社交媒体平台（微信公众号、微博等）、行业论坛及合作伙伴渠道等，策划线上线下活动，明确拉新、促活等目标。4、基于市场和数据分析，持续优化内容策略与运营策略，提升在目标人群中的影响力。任职要求：1、本科及以上学历，理工科相关专业优先。2、5年内容相关工作经验，有学术运营工具类工作经历者优先；3、熟悉各媒体形式的运作特点，具备敏锐的市场洞察和用户洞察力；4、文字撰写能力强，能根据产品需要撰写相关文稿；5、能独挡一面，可以高效推动运营方案落地，善于解决问题，有较强的跨团队协同能力；6、具备较强的数据分析能力，较强的思考和方案输出能力，有通过数据驱动拿结果的经验；7、对人工智能学术研究具有浓厚兴趣，并愿意深入学习了解相关知识。科技平台内容运营：工作职责：1.学术数据洞察与策略制定：分析全球学术数据（学者画像、研究热点、机构合作等），监测行业动态，挖掘平台增长机会，制定用户拉新、留存、活跃度提升策略。2.数据驱动决策与优化：构建关键指标监控体系，通过AB测试、归因分析等方法持续优化策略效果。3.用户研究：通过用户反馈收集、分析用户在埋点页面的行为偏好，制定用户增长策略。4.跨部门协作与资源整合：联动产品、技术团队推动策略或平台功能落地，确保资源高效配置。5.策略迭代：建立策略效果评估方案，定期输出复盘报告，快速迭代运营策略。任职要求：1.本科及以上学历，理工科相关专业优先；2.5年内容相关工作经验，有学术运营工具类工作经历者优先；3.熟悉各媒体形式的运作特点，具备敏锐的市场洞察和用户洞察力；4.文字撰写能力强，能根据产品需要撰写相关文稿。科技平台运营专家工作职责：1、统筹科技学术平台自有内容矩阵的运营，聚焦AI/前沿科技领域，策划并执行高价值内容。2、关注和分析用户增长数据，寻找新的增长机会，为运营和内容研发方向提供指导，提出优化客户体验产品改进方案，对用户获取、活跃、留存等核心运营指标负责；3、制定活动宣传策略，充分利用多种渠道对活动进行预热和推广。包括但不限于平台官网、社交媒体平台（微信公众号、微博等）、行业论坛及合作伙伴渠道等，策划线上线下活动，明确拉新、促活等目标。4、基于市场和数据分析，持续优化内容策略与运营策略，提升在目标人群中的影响力。任职要求：1、本科及以上学历，理工科相关专业优先。2、5年内容相关工作经验，有学术运营工具类工作经历者优先；3、熟悉各媒体形式的运作特点，具备敏锐的市场洞察和用户洞察力；4、文字撰写能力强，能根据产品需要撰写相关文稿；5、能独挡一面，可以高效推动运营方案落地，善于解决问题，有较强的跨团队协同能力；6、具备较强的数据分析能力，较强的思考和方案输出能力，有通过数据驱动拿结果的经验；7、对人工智能学术研究具有浓厚兴趣，并愿意深入学习了解相关知识。科技平台内容运营：工作职责：1.学术数据洞察与策略制定：分析全球学术数据（学者画像、研究热点、机构合作等），监测行业动态，挖掘平台增长机会，制定用户拉新、留存、活跃度提升策略。2.数据驱动决策与优化：构建关键指标监控体系，通过AB测试、归因分析等方法持续优化策略效果。3.用户研究：通过用户反馈收集、分析用户在埋点页面的行为偏好，制定用户增长策略。4.跨部门协作与资源整合：联动产品、技术团队推动策略或平台功能落地，确保资源高效配置。5.策略迭代：建立策略效果评估方案，定期输出复盘报告，快速迭代运营策略。任职要求：1.本科及以上学历，理工科相关专业优先；2.5年内容相关工作经验，有学术运营工具类工作经历者优先；3.熟悉各媒体形式的运作特点，具备敏锐的市场洞察和用户洞察力；4.文字撰写能力强，能根据产品需要撰写相关文稿。立即投递",
+      "jobId": "87b108db-b0b0-475c-80fa-e004fcb69650"
+    },
+    {
+      "title": "内容运营实习生W2601发布于 2026-05-11大数据中心大数据中心|实习实习岗位职责：1.社交媒体运营：协助官方内容矩阵（小红书、公众号、知乎、CSDN、抖音等）的日常内容产出与维护，追踪科研及AI前沿热点，借助AI生成工具生产长文、图文、视频等多形式内容。2。活动策划：参与面向用户的创意选题与活动策划，协助产品运营完成内容分发、用户调研等工作，持续优化内容策略，提升用户参与度与平台影响力。3.数据洞察：运用数据分析工具对内容矩阵运营效果进行跟踪分析，基于数据洞察撰写运营报告，为用户增长策略提供数据支持。任职要求：1.本科大四或研究生在读，计算机、人工智能、大数据、统计学、应用数学等相关专业优先。2.对AI领域有浓厚兴趣，善于捕捉科研与学术领域热点趋势。3.了解或熟练使用至少一种生成式AI工具，审美良好，能使用AI工具辅助图片及视频制作，文案功底扎实，逻辑清晰。每周至少到岗4天，实习不少于半年。加分项：有AIGC相关作品集或案例小红书、抖音、知乎、B站、CSDN等平台深度用户有个人自媒体运营或相关运营实习经验岗位职责：1.社交媒体运营：协助官方内容矩阵（小红书、公众号、知乎、CSDN、抖音等）的日常内容产出与维护，追踪科研及AI前沿热点，借助AI生成工具生产长文、图文、视频等多形式内容。2。活动策划：参与面向用户的创意选题与活动策划，协助产品运营完成内容分发、用户调研等工作，持续优化内容策略，提升用户参与度与平台影响力。3.数据洞察：运用数据分析工具对内容矩阵运营效果进行跟踪分析，基于数据洞察撰写运营报告，为用户增长策略提供数据支持。任职要求：1.本科大四或研究生在读，计算机、人工智能、大数据、统计学、应用数学等相关专业优先。2.对AI领域有浓厚兴趣，善于捕捉科研与学术领域热点趋势。3.了解或熟练使用至少一种生成式AI工具，审美良好，能使用AI工具辅助图片及视频制作，文案功底扎实，逻辑清晰。每周至少到岗4天，实习不少于半年。加分项：有AIGC相关作品集或案例小红书、抖音、知乎、B站、CSDN等平台深度用户有个人自媒体运营或相关运营实习经验立即投递",
+      "jobId": "e92065bf-c41b-49ad-80cd-19d5148608ad"
+    },
+    {
+      "title": "大模型算法博后（清华联培）发布于 2026-05-09AMiner业务中心AMiner业务中心|全职全职大模型算法博后（清华联培） 一、应聘条件1、品学兼优，身体健康，无不良记录；2、获得博士学位不超过3年，或已满足颁发博士学位要求；以及从其他博士后科研流动站（工作站）出站的博士后研究人员，年龄35周岁以下；3、具备全日制进站工作条件，不招收在职研究人员。二、通用任职要求1、统招全日制博士学历，计算机、软件、信息、人工智能、计算生物学、教育技术等相关专业，计算机科学与技术背景优先；2、研究领域可涵盖机器学习、深度学习、强化学习、机器人、大语言模型、AI Agent、知识图谱、图神经网络等，以第一作者发表高水平学术论文不少于5篇，有ACL、EMNLP、NeurlPS、ICML、ICLR、AAAI、RSS、KDD等CCF A/B/C类顶会/期刊论文者优先；3、具备浓厚的前沿科技探索兴趣，拥有出色的独立科研能力，可独立完成科研工作；熟悉Transformer、预训练、微调、提示学习等技术，有大规模模型训练或推理优化经验者优先；4、熟练掌握Python及PyTorch/TensorFlow等主流深度学习框架，代码实现与调试能力扎实；5、具备优秀的英文文献阅读、书面及口头沟通能力；6、恪守学术道德，拥有强烈责任心、上进心与团队协作精神，热爱科研、工作积极主动。三、福利待遇&平台优势1、聚焦业界最前沿科研课题，涵盖大规模预训练模型、数字人、科技情报挖掘、AI4Science等多个研究方向；2、中国顶级高校教授&行业领军人才双导师团队，可深度参与清华大学等顶级研究机构课题；3、职业发展支持学术、产业双向路径，兼顾学术成果积累与产业落地能力提升，未来可选择学术界或工业界发展；4、研究资源丰厚，配备充足算力、硬件、工程化基础设施与真实行业数据、应用场景，突破纯学术研究局限；5、享有智谱正式员工福利，薪酬极具市场竞争力，50万年薪起，同时提供完善的学习成长机会。 四、研究方向及招收要求方向一：AI Infra核心技术研究1、在AI基础设施（算力优化、框架研发、算子开发）领域有扎实积累，深入理解GPU/TPU/NPU等硬件架构及并行计算原理，精通LLM/VLM分布式训练（数据并行/模型并行/MoE）与推理优化技术，熟悉Megatron、DeepSpeed等训练框架；2、掌握PTQ/QAT、低比特量化（INT4/INT8/FP4/FP8）、算子融合、FlashAttention等性能优化技术，了解GPTQ、AWQ等主流量化算法；3、具备CUDA/Triton编程经验，有高性能算子开发优化、GPU性能调优（Nsight工具）相关经历，熟悉深度学习主流框架。方向二：AI4Science方向1、从事大语言模型(LLM)与智能体(AI Agent)前沿研究，探索自主学习、复杂推理、自我进化等新理论、新方法；2、参与构建下一代大规模预训练模型，优化模型在多任务、多模态场景下的推理效率与泛化能力；3、推动LLM与生物医药、知识图谱、学术数据挖掘等垂直领域深度融合，攻克实际应用关键技术难题；4、在NeurlPS、ICML、ICLR、ACL等顶级会议/期刊发表高质量论文，提升团队学术影响力。大模型算法博后（清华联培） 一、应聘条件1、品学兼优，身体健康，无不良记录；2、获得博士学位不超过3年，或已满足颁发博士学位要求；以及从其他博士后科研流动站（工作站）出站的博士后研究人员，年龄35周岁以下；3、具备全日制进站工作条件，不招收在职研究人员。二、通用任职要求1、统招全日制博士学历，计算机、软件、信息、人工智能、计算生物学、教育技术等相关专业，计算机科学与技术背景优先；2、研究领域可涵盖机器学习、深度学习、强化学习、机器人、大语言模型、AI Agent、知识图谱、图神经网络等，以第一作者发表高水平学术论文不少于5篇，有ACL、EMNLP、NeurlPS、ICML、ICLR、AAAI、RSS、KDD等CCF A/B/C类顶会/期刊论文者优先；3、具备浓厚的前沿科技探索兴趣，拥有出色的独立科研能力，可独立完成科研工作；熟悉Transformer、预训练、微调、提示学习等技术，有大规模模型训练或推理优化经验者优先；4、熟练掌握Python及PyTorch/TensorFlow等主流深度学习框架，代码实现与调试能力扎实；5、具备优秀的英文文献阅读、书面及口头沟通能力；6、恪守学术道德，拥有强烈责任心、上进心与团队协作精神，热爱科研、工作积极主动。三、福利待遇&平台优势1、聚焦业界最前沿科研课题，涵盖大规模预训练模型、数字人、科技情报挖掘、AI4Science等多个研究方向；2、中国顶级高校教授&行业领军人才双导师团队，可深度参与清华大学等顶级研究机构课题；3、职业发展支持学术、产业双向路径，兼顾学术成果积累与产业落地能力提升，未来可选择学术界或工业界发展；4、研究资源丰厚，配备充足算力、硬件、工程化基础设施与真实行业数据、应用场景，突破纯学术研究局限；5、享有智谱正式员工福利，薪酬极具市场竞争力，50万年薪起，同时提供完善的学习成长机会。 四、研究方向及招收要求方向一：AI Infra核心技术研究1、在AI基础设施（算力优化、框架研发、算子开发）领域有扎实积累，深入理解GPU/TPU/NPU等硬件架构及并行计算原理，精通LLM/VLM分布式训练（数据并行/模型并行/MoE）与推理优化技术，熟悉Megatron、DeepSpeed等训练框架；2、掌握PTQ/QAT、低比特量化（INT4/INT8/FP4/FP8）、算子融合、FlashAttention等性能优化技术，了解GPTQ、AWQ等主流量化算法；3、具备CUDA/Triton编程经验，有高性能算子开发优化、GPU性能调优（Nsight工具）相关经历，熟悉深度学习主流框架。方向二：AI4Science方向1、从事大语言模型(LLM)与智能体(AI Agent)前沿研究，探索自主学习、复杂推理、自我进化等新理论、新方法；2、参与构建下一代大规模预训练模型，优化模型在多任务、多模态场景下的推理效率与泛化能力；3、推动LLM与生物医药、知识图谱、学术数据挖掘等垂直领域深度融合，攻克实际应用关键技术难题；4、在NeurlPS、ICML、ICLR、ACL等顶级会议/期刊发表高质量论文，提升团队学术影响力。立即投递",
+      "jobId": "ee3ad93a-c4d8-4638-84f2-876eed5f2e2f"
+    },
+    {
+      "title": "大模型 Agent 研发实习生（Auto Research 方向）发布于 2026-05-09大数据中心大数据中心|实习实习唯专唯坚，方能致远。AI 赛道技术框架复杂、项目周期完整，如果只是短期实习，很难真正吃透业务、拿到能沉淀下来的实战成果。我们希望给每位实习生完整的带教培养，让你从头到尾跟进真实项目，因此岗位统一要求可稳定实习 12 个月以上。期待踏实专注、愿意长期深耕的你，和我们一起积累实打实的专业经验。岗位职责1、参与基于大模型（LLM）的 Agent 系统设计与研发，协助构建面向复杂任务的智能体基础能力2、协助实现通用 Agent 工具体系，包括 Tool/Skill 抽象管理、多工具协同调用、Agent 执行流程开发等3、参与自动化科研、智能实验与评估、知识检索分析等 Auto Research 相关系统的开发与落地4、协助进行 Prompt 优化、Tool Calling 能力迭代、大模型效果评估等工程化工作5、跟踪前沿大模型与 Agent 技术，配合团队完成技术调研与方案落地任职要求1、985、211院校优先，专业不限，鼓励跨专业投递2、学习能力极强，对大模型、AI Agent、自动化科研有浓厚兴趣3、具备基本编程基础，熟悉 Python 或任意一门主流编程语言即可4、尽快到岗，实习5个月及以上，一周5天5、实习时长要求：唯专唯坚，方能致远，期待可以携手实习12个月的你加分项1、接触使用过 OpenClaw/AtuoresearchClaw/Claude Code 等工具2、有 Python 项目、GitHub 开源项目、技术博客或科研项目经验3、有 NLP、机器学习、AI for Science、自动化实验相关背景4、具备论文阅读、复现或技术调研经验我们提供1、一线大模型与 Agent 前沿技术实战机会，深度参与 Auto Research 系统建设2、团队一对一指导，完整的技术成长路径与工程化培养3、接触顶尖 AI 技术团队，积累硬核 AI 研发与科研自动化项目经验唯专唯坚，方能致远。AI 赛道技术框架复杂、项目周期完整，如果只是短期实习，很难真正吃透业务、拿到能沉淀下来的实战成果。我们希望给每位实习生完整的带教培养，让你从头到尾跟进真实项目，因此岗位统一要求可稳定实习 12 个月以上。期待踏实专注、愿意长期深耕的你，和我们一起积累实打实的专业经验。岗位职责1、参与基于大模型（LLM）的 Agent 系统设计与研发，协助构建面向复杂任务的智能体基础能力2、协助实现通用 Agent 工具体系，包括 Tool/Skill 抽象管理、多工具协同调用、Agent 执行流程开发等3、参与自动化科研、智能实验与评估、知识检索分析等 Auto Research 相关系统的开发与落地4、协助进行 Prompt 优化、Tool Calling 能力迭代、大模型效果评估等工程化工作5、跟踪前沿大模型与 Agent 技术，配合团队完成技术调研与方案落地任职要求1、985、211院校优先，专业不限，鼓励跨专业投递2、学习能力极强，对大模型、AI Agent、自动化科研有浓厚兴趣3、具备基本编程基础，熟悉 Python 或任意一门主流编程语言即可4、尽快到岗，实习5个月及以上，一周5天5、实习时长要求：唯专唯坚，方能致远，期待可以携手实习12个月的你加分项1、接触使用过 OpenClaw/AtuoresearchClaw/Claude Code 等工具2、有 Python 项目、GitHub 开源项目、技术博客或科研项目经验3、有 NLP、机器学习、AI for Science、自动化实验相关背景4、具备论文阅读、复现或技术调研经验我们提供1、一线大模型与 Agent 前沿技术实战机会，深度参与 Auto Research 系统建设2、团队一对一指导，完整的技术成长路径与工程化培养3、接触顶尖 AI 技术团队，积累硬核 AI 研发与科研自动化项目经验立即投递",
+      "jobId": "a9ab8204-e81c-48b8-8c3e-7943d1bf6105"
+    },
+    {
+      "title": "AI产品经理实习生（偏教育方向）发布于 2026-05-09天津子公司天津子公司|实习实习一、工作职责：1、参与客户沟通，深入挖掘场景需求，结合大模型的优势完成产品方案的设计；2、系统性的掌握AI coding的相关技术，能够基于用户场景完成产品及demo的设计和评测工作；3、参与客户大模型技术选型评估、产品方案设计等工作，确保解决方案的质量和性能；4、参与大模型应用领域相关产品技术方案的研究和创新，竞品的调研和分析，支持业务的快速迭代；二、任职要求：1、本科及以上学历，有AI产品经理、AI项目经验者优先；2、良好的逻辑思维，优秀的语言表达能力和文档编写能力；3、熟练使用 Dify、Coze、n8n 等 Workflow 平台；4、了解AIGC的前沿应用，在生活中、学习中有使用大模型想关产品者；5、能使用Coding工具如 Claude Code、Codex、Openclaw独立搭建产品demo者优先；6、熟悉AI 相关开源项目，有独立部署能力者优先。学历：本科以上薪资范围 150-250实习要求：3个月以上，每周4天以上一、工作职责：1、参与客户沟通，深入挖掘场景需求，结合大模型的优势完成产品方案的设计；2、系统性的掌握AI coding的相关技术，能够基于用户场景完成产品及demo的设计和评测工作；3、参与客户大模型技术选型评估、产品方案设计等工作，确保解决方案的质量和性能；4、参与大模型应用领域相关产品技术方案的研究和创新，竞品的调研和分析，支持业务的快速迭代；二、任职要求：1、本科及以上学历，有AI产品经理、AI项目经验者优先；2、良好的逻辑思维，优秀的语言表达能力和文档编写能力；3、熟练使用 Dify、Coze、n8n 等 Workflow 平台；4、了解AIGC的前沿应用，在生活中、学习中有使用大模型想关产品者；5、能使用Coding工具如 Claude Code、Codex、Openclaw独立搭建产品demo者优先；6、熟悉AI 相关开源项目，有独立部署能力者优先。学历：本科以上薪资范围 150-250实习要求：3个月以上，每周4天以上立即投递",
+      "jobId": "5eb8b0a7-b9bd-4fbb-9ec2-6f4737367a4c"
+    },
+    {
+      "title": "内容运营实习生发布于 2026-05-09智谱清言部智谱清言部|实习实习1.负责官方账号（小红书/微信）的日常内容生产，包括但不限：活动推文、专栏内容2.用AI工具辅助内容初稿生产，自己负责审核、改写和风格统一3.撰写付费转化文案，关注转化率数据并迭代4.协助整理内容素材，参与报告框架搭建我们希望你1.周到岗 4天以上，可实习至少4个月2.文字功底扎实，写过公众号/小红书/知乎等任一平台的内容，有作品可展示3.熟练使用AI写作工具提效，能使用AI辅助创作，有审美判断力4.可根据阅读量/转化率数据迭代内容方向1.负责官方账号（小红书/微信）的日常内容生产，包括但不限：活动推文、专栏内容2.用AI工具辅助内容初稿生产，自己负责审核、改写和风格统一3.撰写付费转化文案，关注转化率数据并迭代4.协助整理内容素材，参与报告框架搭建我们希望你1.周到岗 4天以上，可实习至少4个月2.文字功底扎实，写过公众号/小红书/知乎等任一平台的内容，有作品可展示3.熟练使用AI写作工具提效，能使用AI辅助创作，有审美判断力4.可根据阅读量/转化率数据迭代内容方向立即投递",
+      "jobId": "2323b0f5-22aa-4d92-8499-a0519a1b69aa"
+    },
+    {
+      "title": "MaaS-HRBP发布于 2026-05-08MaaSMaaS|全职全职|北京市北京市我们是谁我们是一支处于全球 AI 浪潮的中心，通过打造行业领先的 Model as a Service (MaaS) 产品赋能千行百业，让tokens应用触手可及的团队。在这里，HRBP 不仅仅是组织协调者，更是业务的“副驾驶”。我们需要你不仅懂人，更要懂 Token、懂 Agent、懂 Inference。你的核心使命人才发现与评估： 能够识别出真正的“AI原生”人才。你需要像寻找技术合伙人一样去寻找工程师和架构师，能够通过对方的 GitHub 仓库或 Demo 评估其潜力。组织进化驱动： 深入理解 MaaS 业务逻辑，参与设计基于数据驱动的 HC (Headcount) 计算模型及激励机制。文化布道（AI Native）： 在团队内部推动“AI First”的工作方式，让组织保持高度的朝气和对技术的纯粹追求。 我们寻找的“你”硬核背景： 理工科专业优先。我们希望你对AI底层相关的算法逻辑、算力分布或产品架构有天然的理解力，能与顶尖工程师同频沟通。AI 痴迷者： * 你是 AI 工具的重度用户（不仅仅是 ChatGPT，可能还包括 AutoGLM、OpenClaw 等自动化工具）。加分项： 曾“手搓”过 AI 相关产品（哪怕是一个简单的 Agent、一段自动化脚本或一个精调模型）。极致聪明且敏捷： 学习能力是你的底层操作系统。面对 MaaS 行业日新月异的技术迭代，你能迅速拆解其背后的组织需求。人正、有朝气： 我们拒绝油腻与圆滑。我们需要你底色正直，有极强的自驱动力，像初创团队成员一样拥有改变世界的激情。年轻视角： 具有开阔的国际化视野，对 AI 行业的未来充满好奇心和想象力。 你将获得前沿视角： 第一时间接触最顶尖的 MaaS 战略布局与技术演进。硬核成长： 与极具目标感的团队并肩作战，学习如何用严密的公式和逻辑驱动大型组织。极客氛围： 这里没有繁文缛节，只有对技术和效率的极致尊重。我们提倡大声说话，对事不对人。 投递说明：如果你在简历中附上一段你对 “AI 如何重塑未来人力资源组织形态” 的思考，或者展示一个你近期最得意的 AI 使用/开发案例，我们将优先与你沟通。我们是谁我们是一支处于全球 AI 浪潮的中心，通过打造行业领先的 Model as a Service (MaaS) 产品赋能千行百业，让tokens应用触手可及的团队。在这里，HRBP 不仅仅是组织协调者，更是业务的“副驾驶”。我们需要你不仅懂人，更要懂 Token、懂 Agent、懂 Inference。你的核心使命人才发现与评估： 能够识别出真正的“AI原生”人才。你需要像寻找技术合伙人一样去寻找工程师和架构师，能够通过对方的 GitHub 仓库或 Demo 评估其潜力。组织进化驱动： 深入理解 MaaS 业务逻辑，参与设计基于数据驱动的 HC (Headcount) 计算模型及激励机制。文化布道（AI Native）： 在团队内部推动“AI First”的工作方式，让组织保持高度的朝气和对技术的纯粹追求。 我们寻找的“你”硬核背景： 理工科专业优先。我们希望你对AI底层相关的算法逻辑、算力分布或产品架构有天然的理解力，能与顶尖工程师同频沟通。AI 痴迷者： * 你是 AI 工具的重度用户（不仅仅是 ChatGPT，可能还包括 AutoGLM、OpenClaw 等自动化工具）。加分项： 曾“手搓”过 AI 相关产品（哪怕是一个简单的 Agent、一段自动化脚本或一个精调模型）。极致聪明且敏捷： 学习能力是你的底层操作系统。面对 MaaS 行业日新月异的技术迭代，你能迅速拆解其背后的组织需求。人正、有朝气： 我们拒绝油腻与圆滑。我们需要你底色正直，有极强的自驱动力，像初创团队成员一样拥有改变世界的激情。年轻视角： 具有开阔的国际化视野，对 AI 行业的未来充满好奇心和想象力。 你将获得前沿视角： 第一时间接触最顶尖的 MaaS 战略布局与技术演进。硬核成长： 与极具目标感的团队并肩作战，学习如何用严密的公式和逻辑驱动大型组织。极客氛围： 这里没有繁文缛节，只有对技术和效率的极致尊重。我们提倡大声说话，对事不对人。 投递说明：如果你在简历中附上一段你对 “AI 如何重塑未来人力资源组织形态” 的思考，或者展示一个你近期最得意的 AI 使用/开发案例，我们将优先与你沟通。立即投递",
+      "jobId": "00d46c38-38fd-48c0-b21d-2a1c54c720f3"
+    },
+    {
+      "title": "GLM Coding Agent 数据与自动化迭代体系专家 / 工程师发布于 2026-05-07AI院AI院|全职全职|北京市北京市岗位职责负责 Coding 领域数据基建：采集、清洗、治理、样本库建设搭建数据回流闭环：线上日志挖掘、坏案例自动化生产负责训练 Coding 结合 RL 训练的 infra 等部分维护，保障 Coding Agent 持续迭代、能力稳态提升任职要求本科及以上学历，2-5 年大模型相关经验，做过代码大模型 /coding agent / 研发大模型数据治理或自动化评测工作优先；熟悉代码数据 curation、清洗去重、脱敏质检、样本结构化与版本管理；熟悉代码自动化评测思路，接触过SWEBench / Terminal Bench，懂代码沙箱执行、单元测试自动化评测优先；Python 工程能力扎实，能独立撰写数据处理、回流挖掘、评测自动化流水线脚本，工程落地能力强；懂 Agent 多轮规划、工具调用、代码编译运行链路优先，有大厂研发效能 AI、代码智能体团队经验优先。加分项有大厂 Code LLM、Copilot 类产品、代码 Agent 创业公司数据闭环 + 自动化评测一手搭建经验直接优先定级高薪。岗位职责负责 Coding 领域数据基建：采集、清洗、治理、样本库建设搭建数据回流闭环：线上日志挖掘、坏案例自动化生产负责训练 Coding 结合 RL 训练的 infra 等部分维护，保障 Coding Agent 持续迭代、能力稳态提升任职要求本科及以上学历，2-5 年大模型相关经验，做过代码大模型 /coding agent / 研发大模型数据治理或自动化评测工作优先；熟悉代码数据 curation、清洗去重、脱敏质检、样本结构化与版本管理；熟悉代码自动化评测思路，接触过SWEBench / Terminal Bench，懂代码沙箱执行、单元测试自动化评测优先；Python 工程能力扎实，能独立撰写数据处理、回流挖掘、评测自动化流水线脚本，工程落地能力强；懂 Agent 多轮规划、工具调用、代码编译运行链路优先，有大厂研发效能 AI、代码智能体团队经验优先。加分项有大厂 Code LLM、Copilot 类产品、代码 Agent 创业公司数据闭环 + 自动化评测一手搭建经验直接优先定级高薪。立即投递",
+      "jobId": "eb6e44ae-8d5e-4122-965d-b72f3922d08c"
+    },
+    {
+      "title": "HRSSC发布于 2026-04-29人力资源部人力资源部|全职全职岗位职责：1.负责员工主数据全生命周期管理及IM管理，保障HR系统数据准确性与时效性，并对数据问题进行制度、流程等反哺；2.统筹考勤数字化运营，完成数据核验、异常处理及报表输出；3.负责入离调转等手续的高效办理，提升员工体验；4.管理社保公积金增减员及账单精细化核对，确保合规零差错；5.承接人才引进/落户等专项事务，跟进政策落地执行；6.推进员工档案管理及电子化建设，实现纸质档案向合规化/数字化转型；任职要求：1.具备标准化能力，能输出SOP并推动流程持续优化；2.解决问题能力强，学习敏锐度高；3.有系统信息化sense，能协同推进自动化提效，拥抱并热爱人工智能领域，具有vibe coding技能；4.机灵，主动，结果导向。岗位职责：1.负责员工主数据全生命周期管理及IM管理，保障HR系统数据准确性与时效性，并对数据问题进行制度、流程等反哺；2.统筹考勤数字化运营，完成数据核验、异常处理及报表输出；3.负责入离调转等手续的高效办理，提升员工体验；4.管理社保公积金增减员及账单精细化核对，确保合规零差错；5.承接人才引进/落户等专项事务，跟进政策落地执行；6.推进员工档案管理及电子化建设，实现纸质档案向合规化/数字化转型；任职要求：1.具备标准化能力，能输出SOP并推动流程持续优化；2.解决问题能力强，学习敏锐度高；3.有系统信息化sense，能协同推进自动化提效，拥抱并热爱人工智能领域，具有vibe coding技能；4.机灵，主动，结果导向。立即投递",
+      "jobId": "d8426aa3-1ac5-45fd-bd57-36f9ddecc04d"
+    },
+    {
+      "title": "AI动画设计师发布于 2026-04-22多模态应用创新lab多模态应用创新lab|全职全职【职位描述】寻找兼具丰富想象力、极高审美及大量动画电影阅片量的AIGC内容创作者，配合内容团队，负责产品内剧情动画编导和生产制作、角色IP及场景道具设计，沉淀创作经验并结合AI新技术优化生产流程，用优质内容吸引用户、提升产品竞争力，建立用户情感连接。配合内容团队进行产品内剧情向动画全流程制作，配合版本更新，把控剧情与视觉表达。创作产品内角色IP、场景道具等视觉资产，适配产品功能与玩法需求。跟进AI新技术与工具，配合技术团队搭建产品内图片与视频自动化生产流程，提升创作效率。【职位需求】（一）核心要求想象力丰富，审美出众，有原创力，具备大量动画电影阅片量，能精准把控视觉与剧情质感，拒绝同质化。熟练掌握各种主流AIGC工具，精通提示词编写，能独立完成动画全流程制作。具备扎实影视/美术基础，熟悉动画运动规律，能独立完成剧情编导与视觉资产设计。本科及以上，戏剧影视与动画专业优先，半年以上AIGC动画创作经验，需提供个人作品集（含AI创作项目）。具备良好沟通协作能力、执行力，主动学习新技术。（二）加分项有3D软件使用经验者优先。有IP孵化或内容自动化工作流搭建经验者优先【职位描述】寻找兼具丰富想象力、极高审美及大量动画电影阅片量的AIGC内容创作者，配合内容团队，负责产品内剧情动画编导和生产制作、角色IP及场景道具设计，沉淀创作经验并结合AI新技术优化生产流程，用优质内容吸引用户、提升产品竞争力，建立用户情感连接。配合内容团队进行产品内剧情向动画全流程制作，配合版本更新，把控剧情与视觉表达。创作产品内角色IP、场景道具等视觉资产，适配产品功能与玩法需求。跟进AI新技术与工具，配合技术团队搭建产品内图片与视频自动化生产流程，提升创作效率。【职位需求】（一）核心要求想象力丰富，审美出众，有原创力，具备大量动画电影阅片量，能精准把控视觉与剧情质感，拒绝同质化。熟练掌握各种主流AIGC工具，精通提示词编写，能独立完成动画全流程制作。具备扎实影视/美术基础，熟悉动画运动规律，能独立完成剧情编导与视觉资产设计。本科及以上，戏剧影视与动画专业优先，半年以上AIGC动画创作经验，需提供个人作品集（含AI创作项目）。具备良好沟通协作能力、执行力，主动学习新技术。（二）加分项有3D软件使用经验者优先。有IP孵化或内容自动化工作流搭建经验者优先立即投递",
+      "jobId": "66b203dc-bea3-4da1-bfa2-e5dc43975437"
+    },
+    {
+      "title": "MaaS-AI产品经理发布于 2026-04-15MaaS平台部MaaS平台部|全职全职职位描述：1、主导大模型开放平台核心功能迭代，包括模型推理服务、推理增强工具、模型精调工具及平台基础设施等关键模块的产品规划与实施2、深度挖掘客户与开发者需求，制定平台产品战略与路线图，通过创新产品设计加速大模型技术的规模化落地3、基于用户调研和数据分析，持续优化平台一站式开发体验，提升开发效率，降低AI应用开发门槛4、深入分析行业场景需求，针对大模型应用场景进行创新思考，主导AI场景化平台产品的规划与设计 职位要求：1、本科及以上学历，具备AI、云计算等领域产品经验；拥有AI平台、开发者工具或B端企业服务产品经验者优先2、卓越的数据分析能力和客户沟通技巧，精通API调用、SDK集成等开发者工具设计原理与最佳实践3、自驱力强，对AI前沿技术趋势保持高度敏感，善于探索创新应用场景，能积极推动产品与业务的创新升级4、出色的逻辑思维和业务抽象能力，能迅速抓住问题本质，思维敏捷，具备卓越的理解力和学习能力我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性职位描述：1、主导大模型开放平台核心功能迭代，包括模型推理服务、推理增强工具、模型精调工具及平台基础设施等关键模块的产品规划与实施2、深度挖掘客户与开发者需求，制定平台产品战略与路线图，通过创新产品设计加速大模型技术的规模化落地3、基于用户调研和数据分析，持续优化平台一站式开发体验，提升开发效率，降低AI应用开发门槛4、深入分析行业场景需求，针对大模型应用场景进行创新思考，主导AI场景化平台产品的规划与设计 职位要求：1、本科及以上学历，具备AI、云计算等领域产品经验；拥有AI平台、开发者工具或B端企业服务产品经验者优先2、卓越的数据分析能力和客户沟通技巧，精通API调用、SDK集成等开发者工具设计原理与最佳实践3、自驱力强，对AI前沿技术趋势保持高度敏感，善于探索创新应用场景，能积极推动产品与业务的创新升级4、出色的逻辑思维和业务抽象能力，能迅速抓住问题本质，思维敏捷，具备卓越的理解力和学习能力我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "7415a43a-86f7-4933-8135-efbea1d24484"
+    },
+    {
+      "title": "MaaS-平台产品运营发布于 2026-04-15MaaS平台部MaaS平台部|全职全职|北京市北京市职位描述：1、担任智谱 AI 开放平台产品运营岗位，负责制定并执行关键产品的运营策略和计划。通过实施用户运营、活动运营、内容运营、渠道推广和产品优化等措施，致力于提升产品的核心数据和用户满意度。2、利用用户画像分析，梳理用户转化路径，构建用户转化模型，以优化用户体验并提高用户留存率和转化率。3、推动跨部门协作，包括产品、运营和开发等方面，确保增长项目的实施落地，并迅速验证结果并进行迭代。4、跟踪网络推广、渠道运营等情况，收集市场和竞争信息，提出推广运营建议，并为产品优化和市场拓展提供分析报告。职位要求：1、具有本科及以上学历，5年以上运营工作经验，AI 公司/项目经验者优先考虑。2、熟悉各种产品营销手段，对市场趋势有较高的敏感度，深入理解用户需求，能够从用户角度出发思考问题。3、具有强烈的责任心和内驱力，优秀的沟通协调能力，能够有效地驱动团队产出。4、具备扎实的数据分析能力，较强的逻辑思维，能够快速分析问题并提出解决方案。5、用户增长、用户运营、B端业务运营经验者优先。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性职位描述：1、担任智谱 AI 开放平台产品运营岗位，负责制定并执行关键产品的运营策略和计划。通过实施用户运营、活动运营、内容运营、渠道推广和产品优化等措施，致力于提升产品的核心数据和用户满意度。2、利用用户画像分析，梳理用户转化路径，构建用户转化模型，以优化用户体验并提高用户留存率和转化率。3、推动跨部门协作，包括产品、运营和开发等方面，确保增长项目的实施落地，并迅速验证结果并进行迭代。4、跟踪网络推广、渠道运营等情况，收集市场和竞争信息，提出推广运营建议，并为产品优化和市场拓展提供分析报告。职位要求：1、具有本科及以上学历，5年以上运营工作经验，AI 公司/项目经验者优先考虑。2、熟悉各种产品营销手段，对市场趋势有较高的敏感度，深入理解用户需求，能够从用户角度出发思考问题。3、具有强烈的责任心和内驱力，优秀的沟通协调能力，能够有效地驱动团队产出。4、具备扎实的数据分析能力，较强的逻辑思维，能够快速分析问题并提出解决方案。5、用户增长、用户运营、B端业务运营经验者优先。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "7d15dfd3-2f2b-4a93-9032-c18937c59ccc"
+    },
+    {
+      "title": "财务BP-杭州发布于 2026-04-13南方交付中心南方交付中心|全职全职关于我们我们是一家大模型技术服务公司，愿景是让机器像人一样工作——成为全球最大的数字员工供应商。我们相信 AI 不仅是工具，更是生产力革命。如果你对财务数字化转型有热情，想参与重新定义智能时代的企业财务管理，欢迎加入。岗位职责负责公司日常财务核算、账务处理、资金管理，确保财务数据准确、合规编制月度、季度、年度财务报表，为公司决策提供数据支撑负责税务申报、社保公积金等合规性工作管理公司银行账户、现金流，优化资金使用效率参与制定公司财务制度、流程，建立内控体系与产品、研发团队协作，优化财务系统与业务系统的数据打通探索 AI 辅助财务工作流程：智能记账、自动对账、异常检测、风险预警等负责财务文档管理、合同归档，确保可追溯性配合审计、融资等工作，提供财务数据支持任职要求3年以上 财务工作经验，有科技公司/初创公司经验优先本科及以上学历，财务、会计、金融等相关专业熟悉中国会计准则、税务法规精通 Excel、财务软件（如金蝶、用友、QuickBooks 等）有财务系统搭建或ERP实施经验优先对新技术、AI 工具有开放态度，愿意学习和使用智能财务工具良好的数据敏感度，严格遵守财务保密原则细心严谨，有较强的逻辑思维和问题解决能力加分项有 CPA/ACCA 等专业资格证书有 SaaS 财务系统使用经验（如飞书、钉钉、企业微信财务模块）有跨境业务、海外公司财务处理经验熟悉大模型产品，愿意探索 AI 赋能财务工作关于我们我们是一家大模型技术服务公司，愿景是让机器像人一样工作——成为全球最大的数字员工供应商。我们相信 AI 不仅是工具，更是生产力革命。如果你对财务数字化转型有热情，想参与重新定义智能时代的企业财务管理，欢迎加入。岗位职责负责公司日常财务核算、账务处理、资金管理，确保财务数据准确、合规编制月度、季度、年度财务报表，为公司决策提供数据支撑负责税务申报、社保公积金等合规性工作管理公司银行账户、现金流，优化资金使用效率参与制定公司财务制度、流程，建立内控体系与产品、研发团队协作，优化财务系统与业务系统的数据打通探索 AI 辅助财务工作流程：智能记账、自动对账、异常检测、风险预警等负责财务文档管理、合同归档，确保可追溯性配合审计、融资等工作，提供财务数据支持任职要求3年以上 财务工作经验，有科技公司/初创公司经验优先本科及以上学历，财务、会计、金融等相关专业熟悉中国会计准则、税务法规精通 Excel、财务软件（如金蝶、用友、QuickBooks 等）有财务系统搭建或ERP实施经验优先对新技术、AI 工具有开放态度，愿意学习和使用智能财务工具良好的数据敏感度，严格遵守财务保密原则细心严谨，有较强的逻辑思维和问题解决能力加分项有 CPA/ACCA 等专业资格证书有 SaaS 财务系统使用经验（如飞书、钉钉、企业微信财务模块）有跨境业务、海外公司财务处理经验熟悉大模型产品，愿意探索 AI 赋能财务工作立即投递",
+      "jobId": "76378c27-f133-466e-abeb-c5e0b1bf3b45"
+    },
+    {
+      "title": "AI产品实习生（toB）发布于 2026-04-10研发组研发组|实习实习职位描述：1、参与Agent/智能体开发平台的产品工作，例如：智能体平台需求设计、场景化智能体设计和搭建、评测。2、与平台内外部用户沟通，了解他们的需求和反馈，并将其转化为产品需求和功能。3、定期进行市场研究和竞争对手分析，以了解市场趋势和产品差异化。职位要求：1、本科及以上学历，计算机、产品设计、心理学等相关专业优先。2、对2B领域应用系统和 AI大模型项目感兴趣或有经验，如智能对话、搜索推荐等等。3、了解大模型、智能体、Agent等相关AI技术，参与过效果迭代中的问题分析、数据评测、策略制定等工作。4、擅长逻辑思考和逻辑表达，能够对用户需求、技术能力做很好的抽象。5、有良好的沟通能力，能够清晰地表达自己的想法，工作主动高效，目标清晰，可以很好的与上下游团队协作完成工作目标。职位描述：1、参与Agent/智能体开发平台的产品工作，例如：智能体平台需求设计、场景化智能体设计和搭建、评测。2、与平台内外部用户沟通，了解他们的需求和反馈，并将其转化为产品需求和功能。3、定期进行市场研究和竞争对手分析，以了解市场趋势和产品差异化。职位要求：1、本科及以上学历，计算机、产品设计、心理学等相关专业优先。2、对2B领域应用系统和 AI大模型项目感兴趣或有经验，如智能对话、搜索推荐等等。3、了解大模型、智能体、Agent等相关AI技术，参与过效果迭代中的问题分析、数据评测、策略制定等工作。4、擅长逻辑思考和逻辑表达，能够对用户需求、技术能力做很好的抽象。5、有良好的沟通能力，能够清晰地表达自己的想法，工作主动高效，目标清晰，可以很好的与上下游团队协作完成工作目标。立即投递",
+      "jobId": "0f8175ae-0c65-430d-9145-3df1d7049a58"
+    },
+    {
+      "title": "数据专家发布于 2026-04-10南方交付中心南方交付中心|全职全职关于我们我们是一家大模型技术服务公司，愿景是让机器像人一样工作——成为全球最大的数字员工供应商。我们相信 AI 不仅是工具，更是生产力革命。如果你对\"AI 辅助工作\"充满热情，想参与重新定义人类与机器的协作方式，欢迎加入。岗位职责负责公司分布式数据库集群（TiDB / CockroachDB / OceanBase 等新一代分布式数据库）的架构设计、部署、运维与调优负责图数据库引擎（Neo4j / NebulaGraph / TigerGraph 等主流图数据库）的选型、搭建、性能调优及日常运维制定数据库高可用、容灾备份、弹性扩缩容方案，保障全球多区域数据服务 SLA参与数字员工平台的数据架构设计，对复杂业务场景进行建模，给出最优存储与查询方案建立数据库监控与告警体系，快速定位并解决线上性能瓶颈深度参与大模型工程化落地，探索 LLM 与数据库协同的智能化运维方案（AI 辅助索引推荐、智能查询优化、异常检测、向量检索集成等）与大模型工程团队协作，设计支持 Agent、RAG、工具调用等 AI 架构的数据基础设施编写运维文档，制定规范流程，推动团队自动化运维能力提升任职要求5年以上 DBA 经验，其中至少 2年以上 分布式数据库实战经验深入理解至少一种分布式数据库（TiDB / CockroachDB / OceanBase），有大规模集群（百节点级以上）运维经验优先熟悉图数据库原理与应用，有 Neo4j / NebulaGraph / TigerGraph 中至少一种的生产环境经验精通 Linux 操作系统，熟练掌握 Shell / Python / Go 中至少一种脚本语言熟悉 Prometheus、Grafana 等监控体系，有自动化运维经验对大模型工程有基本认知，熟悉 Agent、RAG、向量数据库、工具调用等 AI 基础架构了解大模型 Harness 工程实践，包括模型编排、多 Agent 协作、工具链路设计、知识库集成等对 AI 赋能工作方式有热情，愿意拥抱新技术加分项有数据库内核开发或源码级调优经验参与/贡献过开源数据库项目有向量数据库（Milvus / Qdrant 等新兴向量库）或 RAG 系统经验有知识图谱 + 大模型融合应用的实战经验有大数据生态（Kafka / Flink / Spark）与数据库集成经验有大模型工程平台（LangChain / LlamaIndex / OpenAI Assistants API 等主流框架）落地经验关于我们我们是一家大模型技术服务公司，愿景是让机器像人一样工作——成为全球最大的数字员工供应商。我们相信 AI 不仅是工具，更是生产力革命。如果你对\"AI 辅助工作\"充满热情，想参与重新定义人类与机器的协作方式，欢迎加入。岗位职责负责公司分布式数据库集群（TiDB / CockroachDB / OceanBase 等新一代分布式数据库）的架构设计、部署、运维与调优负责图数据库引擎（Neo4j / NebulaGraph / TigerGraph 等主流图数据库）的选型、搭建、性能调优及日常运维制定数据库高可用、容灾备份、弹性扩缩容方案，保障全球多区域数据服务 SLA参与数字员工平台的数据架构设计，对复杂业务场景进行建模，给出最优存储与查询方案建立数据库监控与告警体系，快速定位并解决线上性能瓶颈深度参与大模型工程化落地，探索 LLM 与数据库协同的智能化运维方案（AI 辅助索引推荐、智能查询优化、异常检测、向量检索集成等）与大模型工程团队协作，设计支持 Agent、RAG、工具调用等 AI 架构的数据基础设施编写运维文档，制定规范流程，推动团队自动化运维能力提升任职要求5年以上 DBA 经验，其中至少 2年以上 分布式数据库实战经验深入理解至少一种分布式数据库（TiDB / CockroachDB / OceanBase），有大规模集群（百节点级以上）运维经验优先熟悉图数据库原理与应用，有 Neo4j / NebulaGraph / TigerGraph 中至少一种的生产环境经验精通 Linux 操作系统，熟练掌握 Shell / Python / Go 中至少一种脚本语言熟悉 Prometheus、Grafana 等监控体系，有自动化运维经验对大模型工程有基本认知，熟悉 Agent、RAG、向量数据库、工具调用等 AI 基础架构了解大模型 Harness 工程实践，包括模型编排、多 Agent 协作、工具链路设计、知识库集成等对 AI 赋能工作方式有热情，愿意拥抱新技术加分项有数据库内核开发或源码级调优经验参与/贡献过开源数据库项目有向量数据库（Milvus / Qdrant 等新兴向量库）或 RAG 系统经验有知识图谱 + 大模型融合应用的实战经验有大数据生态（Kafka / Flink / Spark）与数据库集成经验有大模型工程平台（LangChain / LlamaIndex / OpenAI Assistants API 等主流框架）落地经验立即投递",
+      "jobId": "f87a098c-77e9-4dc0-8fb2-838959a8306a"
+    },
+    {
+      "title": "算法工程师发布于 2026-04-09数据工程团队数据工程团队|全职全职【职位亮点】1. 与全球顶级开源项目（如Transformers、vLLM、SGLang）并肩贡献，你的代码将影响千万开发者2. 深度参与GLM系列开源模型的生态建设与技术落地，推动前沿模型走进真实场景3. 在开源社区代表公司发声，参与技术布道、代码共建，加强公司技术影响力4. 与算法、产品、宣发等多团队紧密协作，跨越技术到影响力的全链条【岗位职责】1. 主导并参与 transformers、vLLM、SGLang 等核心开源项目的代码贡献与生态建设，包括但不限于提交关键 Pull Request、参与新版本模型功能开发、复现与修复重要 Issue，推动 GLM 系列模型在这些框架中的高效支持与性能优化。2. 协同算法团队、模型提供方及海内外社区，系统化梳理与完善开源技术文档，解决模型部署与推理中的工程及算法难题，通过技术分享、社区互动持续提升公司在开源领域的影响力与领导力。【岗位要求】1. 具备优秀的工程实现能力，熟练掌握 Python，熟悉 GitHub / Hugging Face 等开源协作平台及相关工具链，代码风格清晰，具备良好的系统设计和调试能力。2. 深入理解 SGLang、vLLM、Transformers 等框架的源码设计与实现机制，请在简历中附上您在这些或相关开源项目中具有代表性的 Pull Request 链接（如模型实现、算子优化、性能提升等）。3. 熟悉 GLM 系列开源模型（如 GLM-4.7、GLM-4.6V）的架构细节，掌握 MLA、DSA、MTP 等关键技术的原理与应用，具备独立实现及优化模型推理 pipeline 的能力。【职位亮点】1. 与全球顶级开源项目（如Transformers、vLLM、SGLang）并肩贡献，你的代码将影响千万开发者2. 深度参与GLM系列开源模型的生态建设与技术落地，推动前沿模型走进真实场景3. 在开源社区代表公司发声，参与技术布道、代码共建，加强公司技术影响力4. 与算法、产品、宣发等多团队紧密协作，跨越技术到影响力的全链条【岗位职责】1. 主导并参与 transformers、vLLM、SGLang 等核心开源项目的代码贡献与生态建设，包括但不限于提交关键 Pull Request、参与新版本模型功能开发、复现与修复重要 Issue，推动 GLM 系列模型在这些框架中的高效支持与性能优化。2. 协同算法团队、模型提供方及海内外社区，系统化梳理与完善开源技术文档，解决模型部署与推理中的工程及算法难题，通过技术分享、社区互动持续提升公司在开源领域的影响力与领导力。【岗位要求】1. 具备优秀的工程实现能力，熟练掌握 Python，熟悉 GitHub / Hugging Face 等开源协作平台及相关工具链，代码风格清晰，具备良好的系统设计和调试能力。2. 深入理解 SGLang、vLLM、Transformers 等框架的源码设计与实现机制，请在简历中附上您在这些或相关开源项目中具有代表性的 Pull Request 链接（如模型实现、算子优化、性能提升等）。3. 熟悉 GLM 系列开源模型（如 GLM-4.7、GLM-4.6V）的架构细节，掌握 MLA、DSA、MTP 等关键技术的原理与应用，具备独立实现及优化模型推理 pipeline 的能力。立即投递",
+      "jobId": "a07037d3-dc0d-4aa4-a182-58aef18eef4f"
+    },
+    {
+      "title": "大模型应用算法工程师发布于 2026-04-09算法组一算法组一|全职全职一、工作职责：负责 LLM微调（SFT/LoRA 等）、对齐优化（DPO/RLHF 等）全流程，优化模型性能、效率及鲁棒性，攻克训练与推理核心技术难点；独立设计并落地大模型在对话系统、内容生成、agent应用、端侧多模态大模型等业务场景的算法方案，优化准确率、生成质量等核心指标；跟踪 NLP/LLM 领域顶会及开源进展，主导 Transformer 改进、多模态融合、Agent 等技术预研，推动产品创新；协同产品、工程等团队，输出技术方案与计划，推动大模型产品从原型到规模化落地；二、任职要求：精通 Python，熟练掌握 PyTorch/TensorFlow，具备框架底层调优（算子 / 分布式配置）经验；扎实 NLP 基础，深入理解 Transformer 及 LLM（GPT/BERT 等）原理，具备模型设计与优化能力；3 年以上大模型研发经验，主导过至少 1 个完整落地项目具备复杂技术问题拆解能力，可快速定位并解决模型训练、调优或落地瓶颈；优秀跨团队沟通能力，能清晰输出方案与进展，推动协同落地。一、工作职责：负责 LLM微调（SFT/LoRA 等）、对齐优化（DPO/RLHF 等）全流程，优化模型性能、效率及鲁棒性，攻克训练与推理核心技术难点；独立设计并落地大模型在对话系统、内容生成、agent应用、端侧多模态大模型等业务场景的算法方案，优化准确率、生成质量等核心指标；跟踪 NLP/LLM 领域顶会及开源进展，主导 Transformer 改进、多模态融合、Agent 等技术预研，推动产品创新；协同产品、工程等团队，输出技术方案与计划，推动大模型产品从原型到规模化落地；二、任职要求：精通 Python，熟练掌握 PyTorch/TensorFlow，具备框架底层调优（算子 / 分布式配置）经验；扎实 NLP 基础，深入理解 Transformer 及 LLM（GPT/BERT 等）原理，具备模型设计与优化能力；3 年以上大模型研发经验，主导过至少 1 个完整落地项目具备复杂技术问题拆解能力，可快速定位并解决模型训练、调优或落地瓶颈；优秀跨团队沟通能力，能清晰输出方案与进展，推动协同落地。立即投递",
+      "jobId": "268791e1-d889-4d19-a3d8-fe8f998fa6e1"
+    },
+    {
+      "title": "AI 院--大模型评测算法研究员(实习)发布于 2026-04-09评测团队评测团队|实习实习【团队介绍】我们是致力于GLM大模型评测和优化的核心团队加入我们，你将：1. 有机会参与智谱所有大模型（包括纯文本、代码与多模态等）的评测与优化2. 探索大模型时代最前沿的评测、对齐和安全相关技术，打造世界影响力3. 与拥有多位海内外名校博士、数位引用上千成员的团队一起共事4. 能够使用公司内部充足的计算资源如果你热衷于大模型技术，渴望在大模型时代做出重要贡献，欢迎加入我们！【希望你可以承担以下工作】1. 设计并运行评估以测量模型的能力2. 编写高效且清晰的代码构建评估流程3. 构建对大模型的不同能力的评估环境：文本、多模态、推理、Agent、Coding4. 参与模型自动评测的整体架构设计和规划5. 持续优化现有系统的性能和稳定性6. 编写清晰、可维护的代码7、进行学术研究并撰写论文【我们需要这样的你】1. 本科及以上学历，计算机科学或相关专业2. 在大模型训练、评测领域有一定的研究经验3. 对新技术和趋势保持热情和好奇心，愿意不断学习和适应4. 良好的团队合作能力和沟通技巧【加分项】1. 能够跳出常规思维，为范围不明确的问题找到解决方案2. 能够总结结果，在日常工作过程中发现问题，总结、改进模型能力3. 有评估大模型的经验，或者搭建过大模型系统经验【团队介绍】我们是致力于GLM大模型评测和优化的核心团队加入我们，你将：1. 有机会参与智谱所有大模型（包括纯文本、代码与多模态等）的评测与优化2. 探索大模型时代最前沿的评测、对齐和安全相关技术，打造世界影响力3. 与拥有多位海内外名校博士、数位引用上千成员的团队一起共事4. 能够使用公司内部充足的计算资源如果你热衷于大模型技术，渴望在大模型时代做出重要贡献，欢迎加入我们！【希望你可以承担以下工作】1. 设计并运行评估以测量模型的能力2. 编写高效且清晰的代码构建评估流程3. 构建对大模型的不同能力的评估环境：文本、多模态、推理、Agent、Coding4. 参与模型自动评测的整体架构设计和规划5. 持续优化现有系统的性能和稳定性6. 编写清晰、可维护的代码7、进行学术研究并撰写论文【我们需要这样的你】1. 本科及以上学历，计算机科学或相关专业2. 在大模型训练、评测领域有一定的研究经验3. 对新技术和趋势保持热情和好奇心，愿意不断学习和适应4. 良好的团队合作能力和沟通技巧【加分项】1. 能够跳出常规思维，为范围不明确的问题找到解决方案2. 能够总结结果，在日常工作过程中发现问题，总结、改进模型能力3. 有评估大模型的经验，或者搭建过大模型系统经验立即投递",
+      "jobId": "f78c43e1-65a5-4f0f-82f2-050cbbb05c98"
+    },
+    {
+      "title": "高性能推理优化算法工程师发布于 2026-04-09推理Infra团队推理Infra团队|全职全职【职位描述】1、高性能算子开发与优化：负责AI模型（尤其是大语言模型及多模态模型）在GPU上的核心算子（Kernel）的设计、开发与极致性能优化，支撑训练和推理场景的高效运行。2、性能分析与调优：深入分析GPU应用程序的性能瓶颈，通过优化内存访问模式、线程调度、执行效率等手段，显著提升计算密集型任务的吞吐量和降低延迟。3、技术集成与应用：研究并应用业界前沿的优化技术（如模型量化QAT/PTQ、算子融合、动态形状支持、FlashAttention等），并将其集成至推理/训练引擎。【职位要求】1、编程能力：具备3年及以上GPU编程与高性能计算优化经验，深入理解GPU架构、并行计算原理、计算机体系结构，具备高性能计算内核的开发与优化经验。2、精通C/C++，具备扎实的编程基础、良好的编程风格和丰富的调试经验；熟练掌握Python；熟悉Linux开发环境。3、性能优化经验：能够熟练使用Nsight Compute、Nsight Systems等GPU性能分析工具，有实际的性能优化案例和成果，能独立定位和解决复杂的性能问题。4、算法基础：熟悉基础数学函数、线性代数、矩阵运算、数值计算等数学库相关算法，了解深度学习常见算子的计算方式。【职位描述】1、高性能算子开发与优化：负责AI模型（尤其是大语言模型及多模态模型）在GPU上的核心算子（Kernel）的设计、开发与极致性能优化，支撑训练和推理场景的高效运行。2、性能分析与调优：深入分析GPU应用程序的性能瓶颈，通过优化内存访问模式、线程调度、执行效率等手段，显著提升计算密集型任务的吞吐量和降低延迟。3、技术集成与应用：研究并应用业界前沿的优化技术（如模型量化QAT/PTQ、算子融合、动态形状支持、FlashAttention等），并将其集成至推理/训练引擎。【职位要求】1、编程能力：具备3年及以上GPU编程与高性能计算优化经验，深入理解GPU架构、并行计算原理、计算机体系结构，具备高性能计算内核的开发与优化经验。2、精通C/C++，具备扎实的编程基础、良好的编程风格和丰富的调试经验；熟练掌握Python；熟悉Linux开发环境。3、性能优化经验：能够熟练使用Nsight Compute、Nsight Systems等GPU性能分析工具，有实际的性能优化案例和成果，能独立定位和解决复杂的性能问题。4、算法基础：熟悉基础数学函数、线性代数、矩阵运算、数值计算等数学库相关算法，了解深度学习常见算子的计算方式。立即投递",
+      "jobId": "1dfb456f-286f-4077-9816-764b4184586f"
+    },
+    {
+      "title": "AI院--算法工程师-基模Agentic评测发布于 2026-04-08评测团队评测团队|全职全职【岗位职责】1.跟进 LLM Agent前沿技术，持续探索和实现 General Agent / Coding Agent / Long-running Agent等各类复杂Agentic场景的基模设计评测和优化方案，最终提高基模在各类Agentic场景上的的性能； 2.分析真实业务需求，针对性构建基座模型在各类复杂Agentic任务上的评测和优化方法；3.持续优化内部评测平台对各类复杂Agentic任务评测的支持能力。【职位要求】1. 本科及以上学历，计算机、软件工程、人工智能、数学等相关专业；2.具有一定数据构建和大模型评测和优化经验；3.具备优秀的代码能力和基础算法功底，有丰富的工程经验；4.具有优秀的逻辑思维能力，关注Agentic任务前沿进展，对提升模型Agentic能力充满热情；5.具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力；6.熟练使用Claude Code、CodeX等Coding Agents。【加分项】1. 有 Coding Agent / General Agent / Long-running Agent 高影响力项目经验者优先；2. 在大模型 / Agent 领域有高水平研究论文者优先；3.熟悉大模型预训练 / SFT / RL / 评测者优先。【岗位职责】1.跟进 LLM Agent前沿技术，持续探索和实现 General Agent / Coding Agent / Long-running Agent等各类复杂Agentic场景的基模设计评测和优化方案，最终提高基模在各类Agentic场景上的的性能； 2.分析真实业务需求，针对性构建基座模型在各类复杂Agentic任务上的评测和优化方法；3.持续优化内部评测平台对各类复杂Agentic任务评测的支持能力。【职位要求】1. 本科及以上学历，计算机、软件工程、人工智能、数学等相关专业；2.具有一定数据构建和大模型评测和优化经验；3.具备优秀的代码能力和基础算法功底，有丰富的工程经验；4.具有优秀的逻辑思维能力，关注Agentic任务前沿进展，对提升模型Agentic能力充满热情；5.具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力；6.熟练使用Claude Code、CodeX等Coding Agents。【加分项】1. 有 Coding Agent / General Agent / Long-running Agent 高影响力项目经验者优先；2. 在大模型 / Agent 领域有高水平研究论文者优先；3.熟悉大模型预训练 / SFT / RL / 评测者优先。立即投递",
+      "jobId": "b1f13f41-22cf-4cc3-b6e1-14dcf67d8496"
+    },
+    {
+      "title": "架构师（稳定性方向）发布于 2026-04-08智谱清言部智谱清言部|全职全职职位描述1.参与核心业务系统(推理api链路、用户体系、营销活动等)的架构设计与优化，保障系统的可扩展性、高可用性及稳定性。2.主导微服务架构的设计与治理，推动服务的性能优化、稳定性提升与标准化建设。3.深度参与系统瓶颈分析、性能调优、故障演练，构建全链路稳定性治理体系(限流、熔断、降级等)。4.主导关键业务在高并发、大流量场景下的系统架构方案评审，提供技术选型与可行性分析支持。5.支持大型运营活动的技术保障,包括流量预估、应急预案制定与实施，协同制定完整的活动SOP。6.为团队引入先进的技术架构理念、研发流程与工程实践，推动技术创新与平台化能力建设。7.参与业务开发的技术方案讨论与评审，从架构角度推动技术与业务的深度融合。8.培养团队的技术能力，帮助构建学习型团队文化。职位要求1.计算机或相关专业，6年以上系统架构经验，精通Java技术栈，具备丰富的微服务架构设计与实战经验;熟悉掌握Golang。2.对高并发、高可用、高性能系统有深刻理解，熟悉系统性能调优与架构演进路径。3.熟练使用Linux,以及Docker、K8s等容器技术。4.熟悉主流中间件，如:Redis、MysQL、Kafka、MQ，具备故障分析与调优能力。5.熟悉L4/L7网络协议及链路原理，具备跨层网络排障与优化能力者优先。6.有丰富的大型互联网平台系统建设经验。7.深刻理解并能主导限流、降级、熔断等稳定性策略实施，具备系统性思维与实践。8.具备运营活动等突发大流量场景下的技术应对能力，能推动形成完善的事件响应机制与流程。9.能从架构角度辅助业务做性能分析、方案评估、成本评估等，具备强沟通协同能力。10.有推动团队技术规范、工具链、CI/CD流程改进的经验和意愿。职位描述1.参与核心业务系统(推理api链路、用户体系、营销活动等)的架构设计与优化，保障系统的可扩展性、高可用性及稳定性。2.主导微服务架构的设计与治理，推动服务的性能优化、稳定性提升与标准化建设。3.深度参与系统瓶颈分析、性能调优、故障演练，构建全链路稳定性治理体系(限流、熔断、降级等)。4.主导关键业务在高并发、大流量场景下的系统架构方案评审，提供技术选型与可行性分析支持。5.支持大型运营活动的技术保障,包括流量预估、应急预案制定与实施，协同制定完整的活动SOP。6.为团队引入先进的技术架构理念、研发流程与工程实践，推动技术创新与平台化能力建设。7.参与业务开发的技术方案讨论与评审，从架构角度推动技术与业务的深度融合。8.培养团队的技术能力，帮助构建学习型团队文化。职位要求1.计算机或相关专业，6年以上系统架构经验，精通Java技术栈，具备丰富的微服务架构设计与实战经验;熟悉掌握Golang。2.对高并发、高可用、高性能系统有深刻理解，熟悉系统性能调优与架构演进路径。3.熟练使用Linux,以及Docker、K8s等容器技术。4.熟悉主流中间件，如:Redis、MysQL、Kafka、MQ，具备故障分析与调优能力。5.熟悉L4/L7网络协议及链路原理，具备跨层网络排障与优化能力者优先。6.有丰富的大型互联网平台系统建设经验。7.深刻理解并能主导限流、降级、熔断等稳定性策略实施，具备系统性思维与实践。8.具备运营活动等突发大流量场景下的技术应对能力，能推动形成完善的事件响应机制与流程。9.能从架构角度辅助业务做性能分析、方案评估、成本评估等，具备强沟通协同能力。10.有推动团队技术规范、工具链、CI/CD流程改进的经验和意愿。立即投递",
+      "jobId": "4829c479-0ecd-4bfb-8318-c0adb9fdb43a"
+    },
+    {
+      "title": "测试开发工程师（稳定性方向）发布于 2026-04-08智谱清言部智谱清言部|全职全职岗位职责1. 负责核心业务系统的稳定性与可靠性保障，围绕系统可用性、连续性和风险控制，构建并持续演进稳定性保障体系2. 深度参与业务需求、技术方案和架构设计评审，从可靠性与稳定性视角提前识别系统性风险3. 建立并持续完善稳定性测试与保障机制，包括风险评估、关键链路识别、稳定性测试与回归策略等4. 主导线上业务故障演练，设计贴近真实生产环境的故障场景（依赖异常、资源瓶颈、流量冲击等），验证系统容灾与自愈能力5. 组织并推进红蓝军对抗式稳定性演练：· 红军视角：通过工具或脚本主动制造故障、注入风险、暴露系统薄弱点· 蓝军视角：协同研发、运维进行监控发现、应急响应和故障恢复6. 参与并推动线上故障处理与应急响应，在关键事故中提供稳定性与质量保障支持7. 主导事故与演练复盘，从技术、流程和协作多个层面分析根因，输出可执行的改进项和长期治理方案8. 跟进并推动稳定性优化项的落地，通过数据和进度跟踪确保问题有效闭环9. 通过编码和工程化手段建设或优化稳定性相关工具与能力，如：· 稳定性测试、故障注入、演练自动化工具· 测试框架、公共测试能力或质量平台· 稳定性风险识别、演练结果分析等辅助工具10. 与研发、运维、产品等角色协作，推动限流、熔断、降级、隔离、容灾等稳定性设计落地任职要求1. 本科及以上学历，计算机相关专业，3–8 年测试 / 稳定性 / SRE / 运维相关经验2. 具备扎实的系统测试与质量保障基础，对线上稳定性与可靠性有强烈责任意识3. 熟悉分布式系统常见故障模式与风险场景，如高并发、依赖异常、级联故障等4. 具备良好的编码能力和工程意识，至少熟练掌握一门编程语言（如 Python / Java / Go），能独立编写稳定性相关工具或脚本5. 具备基础的软件工程能力，理解代码结构、可维护性、日志与异常处理等基本要求6. 具备较强的故障场景设计、演练组织与跨团队推动能力加分项· 有稳定性测试、故障注入或混沌工程工具开发经验· 有自动化测试框架、测试平台或质量平台建设经验· 熟悉 CI/CD、自动化发布或发布风险控制机制· 熟悉监控、日志、链路追踪体系，具备通过代码进行问题定位和分析的能力· 有金融、计费、交易、平台类等高可用、高复杂度系统经验我们希望你具备的特质· 把稳定性问题当作工程问题，而不仅是流程问题· 习惯用代码提升稳定性保障效率和确定性·  能通过工具和机制，让“稳定性保障”成为系统能力的一部分岗位职责1. 负责核心业务系统的稳定性与可靠性保障，围绕系统可用性、连续性和风险控制，构建并持续演进稳定性保障体系2. 深度参与业务需求、技术方案和架构设计评审，从可靠性与稳定性视角提前识别系统性风险3. 建立并持续完善稳定性测试与保障机制，包括风险评估、关键链路识别、稳定性测试与回归策略等4. 主导线上业务故障演练，设计贴近真实生产环境的故障场景（依赖异常、资源瓶颈、流量冲击等），验证系统容灾与自愈能力5. 组织并推进红蓝军对抗式稳定性演练：· 红军视角：通过工具或脚本主动制造故障、注入风险、暴露系统薄弱点· 蓝军视角：协同研发、运维进行监控发现、应急响应和故障恢复6. 参与并推动线上故障处理与应急响应，在关键事故中提供稳定性与质量保障支持7. 主导事故与演练复盘，从技术、流程和协作多个层面分析根因，输出可执行的改进项和长期治理方案8. 跟进并推动稳定性优化项的落地，通过数据和进度跟踪确保问题有效闭环9. 通过编码和工程化手段建设或优化稳定性相关工具与能力，如：· 稳定性测试、故障注入、演练自动化工具· 测试框架、公共测试能力或质量平台· 稳定性风险识别、演练结果分析等辅助工具10. 与研发、运维、产品等角色协作，推动限流、熔断、降级、隔离、容灾等稳定性设计落地任职要求1. 本科及以上学历，计算机相关专业，3–8 年测试 / 稳定性 / SRE / 运维相关经验2. 具备扎实的系统测试与质量保障基础，对线上稳定性与可靠性有强烈责任意识3. 熟悉分布式系统常见故障模式与风险场景，如高并发、依赖异常、级联故障等4. 具备良好的编码能力和工程意识，至少熟练掌握一门编程语言（如 Python / Java / Go），能独立编写稳定性相关工具或脚本5. 具备基础的软件工程能力，理解代码结构、可维护性、日志与异常处理等基本要求6. 具备较强的故障场景设计、演练组织与跨团队推动能力加分项· 有稳定性测试、故障注入或混沌工程工具开发经验· 有自动化测试框架、测试平台或质量平台建设经验· 熟悉 CI/CD、自动化发布或发布风险控制机制· 熟悉监控、日志、链路追踪体系，具备通过代码进行问题定位和分析的能力· 有金融、计费、交易、平台类等高可用、高复杂度系统经验我们希望你具备的特质· 把稳定性问题当作工程问题，而不仅是流程问题· 习惯用代码提升稳定性保障效率和确定性·  能通过工具和机制，让“稳定性保障”成为系统能力的一部分立即投递",
+      "jobId": "0e61c6e1-f739-4178-9889-06cf8b1b4c00"
+    },
+    {
+      "title": "数据开发工程师（风控相关）发布于 2026-04-08智谱清言部智谱清言部|全职全职职位描述：1. 负责大模型业务风控数据体系建设，支撑反作弊、反欺诈攻防策略场景，构建高质量、可复用的数据资产，保障数据时效性与准确性。2. 参与实时数仓与特征工程架构设计，覆盖日志接入、非结构化数据处理、特征计算、策略引擎等关键链路，快速响应黑产变化。3. 使用Java/Python开发高效数据处理模块，优化流式计算资源利用率，推动数据治理与工程化实践（CI/CD、单元测试、性能调优）。4. 与算法、安全团队紧密协作，深入理解攻防逻辑，从数据视角主动发现风险并推动策略迭代。任职要求：1. 本科及以上学历，3年以上数据开发经验，有风控/反作弊/反欺诈领域实战经验，对异常数据敏感。2. 熟练掌握Java或Python，精通大数据技术栈，具备扎实的编码能力与工程能力（代码规范、测试、调优、CI/CD），能独立维护高质量数据处理模块。3. 精通离线&实时计算技术栈（Spark/Flink/Kafka），有海量数据实时处理及调优经验；熟悉OLAP引擎（ClickHouse/Doris），能进行数据建模与查询优化。4. 具备非结构化/半结构化数据解析经验（文本、JSON、XML、日志），熟练使用正则表达式、UDF等技术处理脏数据、乱码等问题。加分项：1. 有爬虫数据处理经验，熟悉爬虫数据的清洗、解析、结构化流程。2. 有AI风控实战经验：如用户行为序列建模、图算法、NLP文本风险识别、智能体辅助策略分析等。3. 了解图数据库（Neo4j/HugeGraph）或向量数据库（Milvus/FAISS）。4. 有从0到1搭建风控数据体系经验，具备架构思维和快速响应能力。职位描述：1. 负责大模型业务风控数据体系建设，支撑反作弊、反欺诈攻防策略场景，构建高质量、可复用的数据资产，保障数据时效性与准确性。2. 参与实时数仓与特征工程架构设计，覆盖日志接入、非结构化数据处理、特征计算、策略引擎等关键链路，快速响应黑产变化。3. 使用Java/Python开发高效数据处理模块，优化流式计算资源利用率，推动数据治理与工程化实践（CI/CD、单元测试、性能调优）。4. 与算法、安全团队紧密协作，深入理解攻防逻辑，从数据视角主动发现风险并推动策略迭代。任职要求：1. 本科及以上学历，3年以上数据开发经验，有风控/反作弊/反欺诈领域实战经验，对异常数据敏感。2. 熟练掌握Java或Python，精通大数据技术栈，具备扎实的编码能力与工程能力（代码规范、测试、调优、CI/CD），能独立维护高质量数据处理模块。3. 精通离线&实时计算技术栈（Spark/Flink/Kafka），有海量数据实时处理及调优经验；熟悉OLAP引擎（ClickHouse/Doris），能进行数据建模与查询优化。4. 具备非结构化/半结构化数据解析经验（文本、JSON、XML、日志），熟练使用正则表达式、UDF等技术处理脏数据、乱码等问题。加分项：1. 有爬虫数据处理经验，熟悉爬虫数据的清洗、解析、结构化流程。2. 有AI风控实战经验：如用户行为序列建模、图算法、NLP文本风险识别、智能体辅助策略分析等。3. 了解图数据库（Neo4j/HugeGraph）或向量数据库（Milvus/FAISS）。4. 有从0到1搭建风控数据体系经验，具备架构思维和快速响应能力。立即投递",
+      "jobId": "ba18e71b-b668-4aa6-bd7b-81a08a87fa31"
+    },
+    {
+      "title": "推理Infra工程师（量化算法研究/推理框架优化/GPU优化）发布于 2026-04-08智谱清言部智谱清言部|全职全职立即投递",
+      "jobId": "eda216b9-a566-481a-80f4-0901c60dc053"
+    },
+    {
+      "title": "训练Infra工程师发布于 2026-04-08智谱清言部智谱清言部|全职全职立即投递",
+      "jobId": "1a532483-e333-4bb8-b8f7-d91a03c5b715"
+    },
+    {
+      "title": "数据分析师发布于 2026-04-08智谱清言部智谱清言部|全职全职职位详情：运用数据分析与特征挖掘技术深度诊断业务流程，精准识别风险点与业务机会，输出可执行的优化策略以支持风控决策，全面赋能业务的数字化运营与风险管理闭环。负责业务数据的深度挖掘与分析，敏锐洞察业务趋势与异动原因；定期产出高质量的分析报告，为业务策略制定、资源分配及管理层决策提供客观的数据支撑与建议。聚焦用户全生命周期价值（LTV），针对用户注册、转化、付费及留存等关键节点建立漏斗分析模型。通过可视化看板持续监控核心经营指标，敏锐洞察转化瓶颈与增长杠杆，为提升核心经营结果（如GMV、营收、利润）提供可落地的优化方案。 任职要求：经验要求： 本科及以上学历，2年及以上数据分析相关工作经验。技能要求：精通 SQL，熟悉 Python进行数据清洗与统计建模，熟悉可视化工具。软性素质： 对数据敏感，具备良好的逻辑思维与业务建模能力，工作细致耐心，具备良好的沟通协作意识。职位详情：运用数据分析与特征挖掘技术深度诊断业务流程，精准识别风险点与业务机会，输出可执行的优化策略以支持风控决策，全面赋能业务的数字化运营与风险管理闭环。负责业务数据的深度挖掘与分析，敏锐洞察业务趋势与异动原因；定期产出高质量的分析报告，为业务策略制定、资源分配及管理层决策提供客观的数据支撑与建议。聚焦用户全生命周期价值（LTV），针对用户注册、转化、付费及留存等关键节点建立漏斗分析模型。通过可视化看板持续监控核心经营指标，敏锐洞察转化瓶颈与增长杠杆，为提升核心经营结果（如GMV、营收、利润）提供可落地的优化方案。 任职要求：经验要求： 本科及以上学历，2年及以上数据分析相关工作经验。技能要求：精通 SQL，熟悉 Python进行数据清洗与统计建模，熟悉可视化工具。软性素质： 对数据敏感，具备良好的逻辑思维与业务建模能力，工作细致耐心，具备良好的沟通协作意识。立即投递",
+      "jobId": "543a79f4-fca4-42b4-b0b0-a3b16951769a"
+    },
+    {
+      "title": "项目经理发布于 2026-04-08智谱清言部智谱清言部|全职全职岗位职责- 负责智谱 MaaS 平台的产研项目管理，统筹多个方向需求从规划、研发到上线交付的全流程推进- 建立并维护平台级项目视图：需求池、版本节奏、里程碑、关键路径与跨团队依赖管理- 推动产研设测等多角色协同，保障项目按期高质量交付，并做好资源协调与优先级管理- 主动识别与跟踪风险/问题（依赖卡点、范围变更、质量与稳定性风险等），推动闭环解决- 优化项目机制与流程（评审/排期/上线/复盘等），沉淀可复用的方法论与度量指标，提升整体交付效率任职要求- 3 年及以上项目管理/TPM/研发管理经验，有平台型产品（云服务/SaaS/中台）项目统筹经验优先- 熟悉研发全流程与敏捷/迭代交付方式，能驾驭多项目并行与复杂依赖- 具备优秀的跨团队沟通与推动能力，能在高不确定性环境下把项目推进到结果落地- 逻辑清晰、强责任心、执行力强，具备良好的风险意识与问题闭环能力- 熟练使用 Jira/飞书/Confluence/看板等协作工具加分项- 有 MaaS / AI 平台 / 模型服务 / Agent 应用 / Agent infra 等相关背景- 理解常见互联网应用研发与工程化实践（需求拆解、联调测试、发布管理、灰度与回滚、监控与告警等）- 有线上稳定性保障与发布风险控制经验（容量评估、压测验证、应急预案、故障定位协同等）我们能提供- 平台核心建设：参与 MaaS 平台关键能力建设与规模化交付，推动核心链路持续提效- 平台级的全局视角：对齐多条业务线与产研团队，推动关键项目按节奏落地- 高成长、高挑战的业务场景：在快速迭代与持续演进中承担关键协调与推进角色，对业务结果产生直接影响岗位职责- 负责智谱 MaaS 平台的产研项目管理，统筹多个方向需求从规划、研发到上线交付的全流程推进- 建立并维护平台级项目视图：需求池、版本节奏、里程碑、关键路径与跨团队依赖管理- 推动产研设测等多角色协同，保障项目按期高质量交付，并做好资源协调与优先级管理- 主动识别与跟踪风险/问题（依赖卡点、范围变更、质量与稳定性风险等），推动闭环解决- 优化项目机制与流程（评审/排期/上线/复盘等），沉淀可复用的方法论与度量指标，提升整体交付效率任职要求- 3 年及以上项目管理/TPM/研发管理经验，有平台型产品（云服务/SaaS/中台）项目统筹经验优先- 熟悉研发全流程与敏捷/迭代交付方式，能驾驭多项目并行与复杂依赖- 具备优秀的跨团队沟通与推动能力，能在高不确定性环境下把项目推进到结果落地- 逻辑清晰、强责任心、执行力强，具备良好的风险意识与问题闭环能力- 熟练使用 Jira/飞书/Confluence/看板等协作工具加分项- 有 MaaS / AI 平台 / 模型服务 / Agent 应用 / Agent infra 等相关背景- 理解常见互联网应用研发与工程化实践（需求拆解、联调测试、发布管理、灰度与回滚、监控与告警等）- 有线上稳定性保障与发布风险控制经验（容量评估、压测验证、应急预案、故障定位协同等）我们能提供- 平台核心建设：参与 MaaS 平台关键能力建设与规模化交付，推动核心链路持续提效- 平台级的全局视角：对齐多条业务线与产研团队，推动关键项目按节奏落地- 高成长、高挑战的业务场景：在快速迭代与持续演进中承担关键协调与推进角色，对业务结果产生直接影响立即投递",
+      "jobId": "201e79c1-a89b-49dc-b7e1-103261754bf4"
+    },
+    {
+      "title": "SRE工程师发布于 2026-04-08智谱清言部智谱清言部|全职全职职位描述核心业务稳定性保障： 负责 MaaS 平台业务的高可用架构设计与落地，保障全链路系统正常运行。通过异地多活、多层容灾架构、服务降级与限流等技术手段，持续提升业务稳定性；负责跨境及复杂网络环境下的架构设计与运维保障: 包括但不限于多地域/多云网络互联、跨境专线与加速链路的规划管理、网络质量监控与调优，保障全球化业务的网络可达性与低延迟体验；可观测性与风险防范： 建设并完善全链路监控与可观测性体系（指标、日志、链路追踪），提升系统可见性，推动故障的快速发现、精准定位与高效恢复；自动化运维平台建设： 结合软件与系统工程理念，设计并落地基于 Kubernetes 的自动化运维与交付平台（CI/CD、基础设施即代码），支撑大规模集群与服务的快速、稳定迭代；应急响应与问题攻坚： 参与 OnCall 值班，能第一时间响应并处理各类线上突发事件。主导复杂业务问题的根因排查（特别是跨地域网络或链路性能瓶颈分析），并落地长期修复与预防方案。 职位要求教育与经验背景： 全日制统招本科及以上学历，计算机或相关专业，具备 3 年以上 SRE、基础架构或大规模分布式系统运维经验；扎实的底层基础： 深入理解 Linux 操作系统原理，熟悉底层网络协议栈（TCP/IP、HTTP/HTTPS、DNS等）、存储、网络 I/O 及内核调优；跨境/复杂网络实战经验（重点）： 具备丰富的跨境网络、混合云网络或多中心数据网络的运维经验。有全球流量调度、跨国专线优化、CDN 质量调优经验者优先；业务高可用经验（重点）： 对分布式系统的高可用治理有深刻理解。在大型复杂系统（如电商、社交、搜索推荐等）中负责过稳定性保障，熟悉微服务架构下的限流、熔断、降级、容灾等服务治理手段；编程与工程化能力： 熟练掌握至少一种编程语言（Go/Python/Java）以及 Shell 脚本，具备系统化的工程开发能力，而非纯手工运维；云原生与工具链： 深入理解 Kubernetes 核心原理与生态；拥有主流公有云（阿里云、腾讯云等）的使用与运维经验；职位描述核心业务稳定性保障： 负责 MaaS 平台业务的高可用架构设计与落地，保障全链路系统正常运行。通过异地多活、多层容灾架构、服务降级与限流等技术手段，持续提升业务稳定性；负责跨境及复杂网络环境下的架构设计与运维保障: 包括但不限于多地域/多云网络互联、跨境专线与加速链路的规划管理、网络质量监控与调优，保障全球化业务的网络可达性与低延迟体验；可观测性与风险防范： 建设并完善全链路监控与可观测性体系（指标、日志、链路追踪），提升系统可见性，推动故障的快速发现、精准定位与高效恢复；自动化运维平台建设： 结合软件与系统工程理念，设计并落地基于 Kubernetes 的自动化运维与交付平台（CI/CD、基础设施即代码），支撑大规模集群与服务的快速、稳定迭代；应急响应与问题攻坚： 参与 OnCall 值班，能第一时间响应并处理各类线上突发事件。主导复杂业务问题的根因排查（特别是跨地域网络或链路性能瓶颈分析），并落地长期修复与预防方案。 职位要求教育与经验背景： 全日制统招本科及以上学历，计算机或相关专业，具备 3 年以上 SRE、基础架构或大规模分布式系统运维经验；扎实的底层基础： 深入理解 Linux 操作系统原理，熟悉底层网络协议栈（TCP/IP、HTTP/HTTPS、DNS等）、存储、网络 I/O 及内核调优；跨境/复杂网络实战经验（重点）： 具备丰富的跨境网络、混合云网络或多中心数据网络的运维经验。有全球流量调度、跨国专线优化、CDN 质量调优经验者优先；业务高可用经验（重点）： 对分布式系统的高可用治理有深刻理解。在大型复杂系统（如电商、社交、搜索推荐等）中负责过稳定性保障，熟悉微服务架构下的限流、熔断、降级、容灾等服务治理手段；编程与工程化能力： 熟练掌握至少一种编程语言（Go/Python/Java）以及 Shell 脚本，具备系统化的工程开发能力，而非纯手工运维；云原生与工具链： 深入理解 Kubernetes 核心原理与生态；拥有主流公有云（阿里云、腾讯云等）的使用与运维经验；立即投递",
+      "jobId": "f325a077-5fba-4d99-8a0c-5af91e27adaf"
+    },
+    {
+      "title": "UI/UX 设计师（AI/大模型方向）发布于 2026-04-08智谱清言部智谱清言部|全职全职岗位职责【产品体验设计】：作为产品体验核心负责人，深入挖掘用户需求与业务场景，从需求分析、交互逻辑设计到视觉细节落地，输出全链路设计方案，对产品体验与业务目标负责。【AI 交互探索】：结合大模型、AIGC、多模态等 AI 技术特性，优化传统 GUI 交互逻辑，探索适配 AI 产品的交互形式，将 AI 技术能力转化为简洁、易用的用户体验。【全案设计落地】：独立完成复杂产品的设计工作，包括高保真 UI 设计、业务流程梳理及关键场景动效设计，通过多元设计形式提升产品界面的表达力与用户体验感。【数据驱动迭代】：基于用户行为数据与技术实现边界，推进产品设计迭代优化；输出标准化设计标注，跟进研发落地全流程，对最终上线效果进行验收把关。【体验持续优化】：从用户视角出发，关注 AI 模型能力落地的实际体验，建立产品体验评估指标，定期复盘线上效果，挖掘体验痛点并推动持续优化。职位要求【基础要求】：本科及以上学历，设计相关专业背景，3 年及以上 UI/UX 设计实战经验，具备扎实的视觉设计功底与交互逻辑思维。【项目经验】：有成熟的产品设计落地经验，熟悉主流 GUI 设计框架；有 AI 大模型、AIGC、Agent 或工具类产品设计经验者优先。【技术理解力】：逻辑清晰，具备优秀的问题分析能力，能快速理解 AI 大模型相关技术边界与产品核心逻辑，针对模糊需求输出贴合实际的设计解决方案。【创新与审美】：具备前沿设计视野，对 AIGC 等新技术的交互趋势有一定敏感度；拥有良好的视觉审美与创新思维，能结合技术特性打造优质设计体验。【落地与抗压】：结果导向，具备较强的执行力，能跟进设计落地全流程，面对研发落地中的问题积极协调解决；适配产品快速迭代节奏，具备良好的抗压能力与责任心。【协作与自驱】：主动性强，善于跨部门沟通总结，能与产品、研发团队高效配合；具备优秀的方案输出与文档撰写能力，可独立推进设计项目从概念到落地。岗位职责【产品体验设计】：作为产品体验核心负责人，深入挖掘用户需求与业务场景，从需求分析、交互逻辑设计到视觉细节落地，输出全链路设计方案，对产品体验与业务目标负责。【AI 交互探索】：结合大模型、AIGC、多模态等 AI 技术特性，优化传统 GUI 交互逻辑，探索适配 AI 产品的交互形式，将 AI 技术能力转化为简洁、易用的用户体验。【全案设计落地】：独立完成复杂产品的设计工作，包括高保真 UI 设计、业务流程梳理及关键场景动效设计，通过多元设计形式提升产品界面的表达力与用户体验感。【数据驱动迭代】：基于用户行为数据与技术实现边界，推进产品设计迭代优化；输出标准化设计标注，跟进研发落地全流程，对最终上线效果进行验收把关。【体验持续优化】：从用户视角出发，关注 AI 模型能力落地的实际体验，建立产品体验评估指标，定期复盘线上效果，挖掘体验痛点并推动持续优化。职位要求【基础要求】：本科及以上学历，设计相关专业背景，3 年及以上 UI/UX 设计实战经验，具备扎实的视觉设计功底与交互逻辑思维。【项目经验】：有成熟的产品设计落地经验，熟悉主流 GUI 设计框架；有 AI 大模型、AIGC、Agent 或工具类产品设计经验者优先。【技术理解力】：逻辑清晰，具备优秀的问题分析能力，能快速理解 AI 大模型相关技术边界与产品核心逻辑，针对模糊需求输出贴合实际的设计解决方案。【创新与审美】：具备前沿设计视野，对 AIGC 等新技术的交互趋势有一定敏感度；拥有良好的视觉审美与创新思维，能结合技术特性打造优质设计体验。【落地与抗压】：结果导向，具备较强的执行力，能跟进设计落地全流程，面对研发落地中的问题积极协调解决；适配产品快速迭代节奏，具备良好的抗压能力与责任心。【协作与自驱】：主动性强，善于跨部门沟通总结，能与产品、研发团队高效配合；具备优秀的方案输出与文档撰写能力，可独立推进设计项目从概念到落地。立即投递",
+      "jobId": "c061a348-694d-4e5b-bf37-4a2da9e48335"
+    },
+    {
+      "title": "X-lab-机器人导航规划算法工程师发布于 2026-04-07智谱清言部智谱清言部|全职全职职位描述1、负责具身机器人导航算法的开发和实机部署，包括传感器布置、标定、障碍物构建、定位、路径规划、轨迹跟踪。2、构建传统导航规划和具身导航规划相结合的算法框架，在实际场景中部署落地，并进行系统性能评估和优化。3、与团队成员紧密协作，共同解决复杂的跨领域技术难题。职位要求正在攻读或已获得自动化、计算机或相关领域的硕士或博士学位。具有ROS2 nav2的实机部署经验，了解其底层机制。部署过fast-lio2等基础建图、定位算法。1、熟悉python, C++编程语言，具备良好的编程习惯。2、优秀的自学能力和自我驱动力，责任心强，工作认真细致，具有良好的团队沟通与协作能力。3、可以接受短期出差。4、有RSS, ICRA, IROS等顶会论文者优先。职位描述1、负责具身机器人导航算法的开发和实机部署，包括传感器布置、标定、障碍物构建、定位、路径规划、轨迹跟踪。2、构建传统导航规划和具身导航规划相结合的算法框架，在实际场景中部署落地，并进行系统性能评估和优化。3、与团队成员紧密协作，共同解决复杂的跨领域技术难题。职位要求正在攻读或已获得自动化、计算机或相关领域的硕士或博士学位。具有ROS2 nav2的实机部署经验，了解其底层机制。部署过fast-lio2等基础建图、定位算法。1、熟悉python, C++编程语言，具备良好的编程习惯。2、优秀的自学能力和自我驱动力，责任心强，工作认真细致，具有良好的团队沟通与协作能力。3、可以接受短期出差。4、有RSS, ICRA, IROS等顶会论文者优先。立即投递",
+      "jobId": "28481e33-59fe-4610-9cb4-3f2b0681e2ac"
+    },
+    {
+      "title": "Business Development发布于 2026-04-07国际业务中心国际业务中心|全职全职职位描述1. Responsible for expanding business related to Zhipu AI LLM products targeting Fortune Global 500 multinational corporations. Accelerate the transformative journey of multinational corporations in Generative AI by providing a series of Generative AI solution consulting services. Establish long-term sustainable strategic partnerships with clients.2. Develop detailed, actionable sales strategies, collaborating with internal resources in marketing, product development, and external partners' capabilities, focusing on empowering client success. Achievement of performance targets is core.3. Research industry demand fluctuations, analyze business challenges of target clients. Identify and convey industry common needs, distill industry-typical replicable commercial scenarios. Provide effective suggestions for company's large model product iterations and Generative AI solution designs.职位要求1. Bachelor's or Master's degree in Computer Science, Engineering, Business, Marketing, or related fields (MBA preferred). Possess 3-5 years of enterprise sales experience within large global clients.2. Work experience in sales or consulting in industries such as artificial intelligence, cloud computing. Have extensive resources among multinational corporate clients and experience in customer relationship management. Priority for those who have assisted global accounts in overseas expansions and entries into the Chinese market by providing business expansion consulting and technical services.3. Possesses exceptional customer relationship management abilities, outstanding communication skills, adeptness in solution presentation, and effective resource utilization capabilities. Demonstrates the capacity to manage multiple complex projects in a fast-paced environment with strong execution skills to meet performance targets. Exhibits a skillset focused on teamwork and delivering results. Proficient in establishing mutually beneficial cooperation models and demonstrates resilience in high-pressure situations职位描述1. Responsible for expanding business related to Zhipu AI LLM products targeting Fortune Global 500 multinational corporations. Accelerate the transformative journey of multinational corporations in Generative AI by providing a series of Generative AI solution consulting services. Establish long-term sustainable strategic partnerships with clients.2. Develop detailed, actionable sales strategies, collaborating with internal resources in marketing, product development, and external partners' capabilities, focusing on empowering client success. Achievement of performance targets is core.3. Research industry demand fluctuations, analyze business challenges of target clients. Identify and convey industry common needs, distill industry-typical replicable commercial scenarios. Provide effective suggestions for company's large model product iterations and Generative AI solution designs.职位要求1. Bachelor's or Master's degree in Computer Science, Engineering, Business, Marketing, or related fields (MBA preferred). Possess 3-5 years of enterprise sales experience within large global clients.2. Work experience in sales or consulting in industries such as artificial intelligence, cloud computing. Have extensive resources among multinational corporate clients and experience in customer relationship management. Priority for those who have assisted global accounts in overseas expansions and entries into the Chinese market by providing business expansion consulting and technical services.3. Possesses exceptional customer relationship management abilities, outstanding communication skills, adeptness in solution presentation, and effective resource utilization capabilities. Demonstrates the capacity to manage multiple complex projects in a fast-paced environment with strong execution skills to meet performance targets. Exhibits a skillset focused on teamwork and delivering results. Proficient in establishing mutually beneficial cooperation models and demonstrates resilience in high-pressure situations立即投递",
+      "jobId": "24e066c7-8268-4d0b-8739-4d86b5c03215"
+    },
+    {
+      "title": "API销售-深圳发布于 2026-04-07国际业务中心国际业务中心|全职全职职位描述1. 负责智谱AI 海外MaaS API的销售与市场推广工作。2. 制定销售策略，与内外部合作伙伴协作以达成业绩目标。3. 研究行业趋势，分析客户需求，并提炼可复制的业务场景。职位要求1. 本科及以上学历，至少2年相关工作经验。2. 有大型云公司背景、API销售经验、SaaS软件业务开发经验、平台技术公司运营/产品经验，或具备技术专业背景且有海外留学经历者优先。3. 对通用人工智能（AGI）抱有热情，具备出色的中英文沟通能力。职位描述1. 负责智谱AI 海外MaaS API的销售与市场推广工作。2. 制定销售策略，与内外部合作伙伴协作以达成业绩目标。3. 研究行业趋势，分析客户需求，并提炼可复制的业务场景。职位要求1. 本科及以上学历，至少2年相关工作经验。2. 有大型云公司背景、API销售经验、SaaS软件业务开发经验、平台技术公司运营/产品经验，或具备技术专业背景且有海外留学经历者优先。3. 对通用人工智能（AGI）抱有热情，具备出色的中英文沟通能力。立即投递",
+      "jobId": "e757149a-8567-4eb0-accc-e44f0158db04"
+    },
+    {
+      "title": "大模型训练优化算法实习生发布于 2026-04-03AMiner业务中心AMiner业务中心|实习实习【岗位职责】1、大模型全流程落地： 负责大语言模型（LLM）及多模态大模型在科研场景下的全生命周期落地，包括但不限于数据构建、后训练、推理部署及效果评测。2、场景方案设计： 深入理解数学、物理、化学、生物、电气电子工程等科研领域需求，设计并实现基于LLM的解决方案，解决科研过程中的复杂问题。3、数据挖掘与建模： 利用机器学习算法（回归、分类、聚类等）对各领域科研数据进行挖掘分析，构建并优化基线模型，为LLM应用提供坚实的数据与算法支撑。4、数据工程与维护： 独立完成科研数据的清洗、存储与维护工作，熟练使用SQL、Hive等工具进行大数据处理，构建高质量的训练数据集。5、前沿调研与协作： 跟踪学术界与工业界最新前沿技术，调研相关领域的SOTA（State-of-the-art）方案，并与科研人员紧密协作，推动算法模型在实际项目中的落地与迭代。【任职要求】1. 大模型技术能力：深刻理解Transformer架构，熟悉主流大语言模型（如Llama, Qwen, Deepseek, GLM等）及多模态模型架构。具备扎实的后训练落地经验，精通SFT（有监督微调）、PEFT（参数高效微调，如LoRA/P-Tuning）及RL（强化学习，如DPO/PPO/GRPO）的技术细节与工程实现。熟悉大模型推理优化技术及自动化评测体系，能独立搭建从数据处理、多机多卡训练到模型评测的完整闭环流程。2. 机器学习与数据挖掘：具备扎实的机器学习理论基础，熟练掌握回归、分类、聚类、关联分析等经典算法。具备独立完成数据挖掘任务的能力，能够针对特定领域数据特征进行特征工程与基线建模，有Kaggle/天池等竞赛获奖经历者优先。3. 数据工程能力：熟练掌握常用数据库及大数据处理工具，包括但不限于 SQL、Redis、Hadoop、Hive、Spark 等。具备处理大规模科研数据的能力，能够独立完成数据的ETL流程、数据仓库维护及高性能数据读取管道的搭建。4. 跨学科学习与科研素养：具备优秀的数理基础（线性代数、概率统计、微积分等），逻辑思维严密。拥有极强的快速学习能力与好奇心，能够快速理解并掌握数学、物理、化学、生物、电气电子工程等跨学科领域的专业知识。具备优秀的中英文文献阅读与调研能力，能独立完成相关领域前沿技术方案的调研与复现。5. 综合素质：具备优秀的沟通协作能力与项目管理意识，能够作为技术接口人，独立推进项目进度，协调资源并确保项目高质量交付。编程基础扎实，熟练掌握 Python等编程语言，代码风格良好。【加分项】1、在顶会发表过LLM或AI for Science相关论文。2、有知名开源项目贡献者或维护者经验。3、具有跨学科背景（如：计算机+物理/生物/化学等双学位或科研经历）。4、有完整的科研智能化项目（如文献辅助阅读、科学计算预测、实验设计助手等）落地经验。【岗位职责】1、大模型全流程落地： 负责大语言模型（LLM）及多模态大模型在科研场景下的全生命周期落地，包括但不限于数据构建、后训练、推理部署及效果评测。2、场景方案设计： 深入理解数学、物理、化学、生物、电气电子工程等科研领域需求，设计并实现基于LLM的解决方案，解决科研过程中的复杂问题。3、数据挖掘与建模： 利用机器学习算法（回归、分类、聚类等）对各领域科研数据进行挖掘分析，构建并优化基线模型，为LLM应用提供坚实的数据与算法支撑。4、数据工程与维护： 独立完成科研数据的清洗、存储与维护工作，熟练使用SQL、Hive等工具进行大数据处理，构建高质量的训练数据集。5、前沿调研与协作： 跟踪学术界与工业界最新前沿技术，调研相关领域的SOTA（State-of-the-art）方案，并与科研人员紧密协作，推动算法模型在实际项目中的落地与迭代。【任职要求】1. 大模型技术能力：深刻理解Transformer架构，熟悉主流大语言模型（如Llama, Qwen, Deepseek, GLM等）及多模态模型架构。具备扎实的后训练落地经验，精通SFT（有监督微调）、PEFT（参数高效微调，如LoRA/P-Tuning）及RL（强化学习，如DPO/PPO/GRPO）的技术细节与工程实现。熟悉大模型推理优化技术及自动化评测体系，能独立搭建从数据处理、多机多卡训练到模型评测的完整闭环流程。2. 机器学习与数据挖掘：具备扎实的机器学习理论基础，熟练掌握回归、分类、聚类、关联分析等经典算法。具备独立完成数据挖掘任务的能力，能够针对特定领域数据特征进行特征工程与基线建模，有Kaggle/天池等竞赛获奖经历者优先。3. 数据工程能力：熟练掌握常用数据库及大数据处理工具，包括但不限于 SQL、Redis、Hadoop、Hive、Spark 等。具备处理大规模科研数据的能力，能够独立完成数据的ETL流程、数据仓库维护及高性能数据读取管道的搭建。4. 跨学科学习与科研素养：具备优秀的数理基础（线性代数、概率统计、微积分等），逻辑思维严密。拥有极强的快速学习能力与好奇心，能够快速理解并掌握数学、物理、化学、生物、电气电子工程等跨学科领域的专业知识。具备优秀的中英文文献阅读与调研能力，能独立完成相关领域前沿技术方案的调研与复现。5. 综合素质：具备优秀的沟通协作能力与项目管理意识，能够作为技术接口人，独立推进项目进度，协调资源并确保项目高质量交付。编程基础扎实，熟练掌握 Python等编程语言，代码风格良好。【加分项】1、在顶会发表过LLM或AI for Science相关论文。2、有知名开源项目贡献者或维护者经验。3、具有跨学科背景（如：计算机+物理/生物/化学等双学位或科研经历）。4、有完整的科研智能化项目（如文献辅助阅读、科学计算预测、实验设计助手等）落地经验。立即投递",
+      "jobId": "a73bf2b8-501d-4883-972f-e4dc02773b42"
+    },
+    {
+      "title": "AI产品海外游戏运营（AI+模拟经营方向）发布于 2026-04-03多模态应用创新lab多模态应用创新lab|全职全职【工作职责】一、 品牌策略与全球叙事（Give Strategy）1. 品牌定调： 基于 Zoooo 的 AI 原生属性与“情绪陪伴”核心，定义产品在海外市场的 Brand Identity（品牌身份）与全球叙述逻辑。2. 整合营销规划： 制定各阶段（冷启动、爆发期、长线运营）的海外营销蓝图。你需要清晰地判断在什么阶段、用什么渠道、触达哪群人。3. 创意命题人： 为内部内容团队提供精准的“创意 Brief”。你不需要自己画图，但你需要告诉团队：什么样的视觉能击中欧美独立游戏玩家的心？什么样的短视频能在 TikTok 形成模因（Meme）？二、 极致冷启动与增长执行（Execution）1. 全渠道冷启动： 亲自操刀在 Reddit、X、Discord、Product Hunt 等平台的发布策略，通过极具洞察力的营销“钩子”实现低成本引爆。2. KOL 与媒体关系： 制定海外达人与媒体的深度合作策略。不只是采买，而是通过战略合作让 Zoooo 深度切入 AI 与 Gaming 圈层的核心视野。3. 数据驱动优化： 负责海外投放与传播的效果闭环，通过数据反馈不断修正策略方向，对最终的品牌声量与用户质量负责。三、 深度社区构建与亲历执行（Community Building & Hands-on）1. 社区架构设计： 从 0 到 1 搭建 Discord、Facebook等社区体系，设计一套符合 Zoooo 气质的社区文化、等级制度与互动玩法。2. 亲自下场（Hands-on）： 你是社区的领袖而非旁观者。你需要亲自在 Discord 里与核心玩家互动，挖掘种子用户，将他们转化为 Zoooo 的品牌大使。3. UGC 生态策动： 利用 Zoooo 的 AIGC 特性，策划并执行能激发用户参与感的活动，让社区自发产出内容，形成品牌护城河。【职位要求】一、 核心背景1. 资深出海经验： 3-5 年海外游戏发行或 AI 社交产品营销经验，经历过产品从 0 到 1 的完整出海周期。2. 策略能力者： 具备极强的市场洞察与品牌策划功底，能独立产出具有前瞻性的营销方案。3. Indie Game/AI 爱好者： 骨子里认同“动物森友会”式的温情世界观，对 AI 陪伴赛道有超乎常人的热情。二、 核心素质1. 跨文化“梗王”： 深度浸淫海外互联网文化，能敏锐捕捉 Reddit、X 上的流行趋势，懂得如何用当地人的方式“讲好故事”。2. 极强的执行韧性： 能做战略，也能弯下腰去回每一条玩家评论。我们不需要指挥官，我们需要带头冲锋的队长。3. 审美与品味： 具备极高的视觉与叙事审美。你能判断内容的优劣，并能引导内容团队产出符合产品“科幻美学+治愈感”的作品。三、 语言与沟通1. 母语级英语： 具备极强的英文书写能力，能亲自撰写具有煽动性、品牌感的官方推文与社区公告。【加分项】1. 有品牌和营销0-1做出有效声量的案例2. 曾在海外知名社区（如 Reddit 某大版块、大型 Discord 频道）担任过管理角色或拥有核心影响力。3. 有过硬件产品（如潮流电子、潮玩）与软件协同营销的成功案例。4. 心理学、社会学或人类学背景，对“人机情感链接”有独到见解。【工作职责】一、 品牌策略与全球叙事（Give Strategy）1. 品牌定调： 基于 Zoooo 的 AI 原生属性与“情绪陪伴”核心，定义产品在海外市场的 Brand Identity（品牌身份）与全球叙述逻辑。2. 整合营销规划： 制定各阶段（冷启动、爆发期、长线运营）的海外营销蓝图。你需要清晰地判断在什么阶段、用什么渠道、触达哪群人。3. 创意命题人： 为内部内容团队提供精准的“创意 Brief”。你不需要自己画图，但你需要告诉团队：什么样的视觉能击中欧美独立游戏玩家的心？什么样的短视频能在 TikTok 形成模因（Meme）？二、 极致冷启动与增长执行（Execution）1. 全渠道冷启动： 亲自操刀在 Reddit、X、Discord、Product Hunt 等平台的发布策略，通过极具洞察力的营销“钩子”实现低成本引爆。2. KOL 与媒体关系： 制定海外达人与媒体的深度合作策略。不只是采买，而是通过战略合作让 Zoooo 深度切入 AI 与 Gaming 圈层的核心视野。3. 数据驱动优化： 负责海外投放与传播的效果闭环，通过数据反馈不断修正策略方向，对最终的品牌声量与用户质量负责。三、 深度社区构建与亲历执行（Community Building & Hands-on）1. 社区架构设计： 从 0 到 1 搭建 Discord、Facebook等社区体系，设计一套符合 Zoooo 气质的社区文化、等级制度与互动玩法。2. 亲自下场（Hands-on）： 你是社区的领袖而非旁观者。你需要亲自在 Discord 里与核心玩家互动，挖掘种子用户，将他们转化为 Zoooo 的品牌大使。3. UGC 生态策动： 利用 Zoooo 的 AIGC 特性，策划并执行能激发用户参与感的活动，让社区自发产出内容，形成品牌护城河。【职位要求】一、 核心背景1. 资深出海经验： 3-5 年海外游戏发行或 AI 社交产品营销经验，经历过产品从 0 到 1 的完整出海周期。2. 策略能力者： 具备极强的市场洞察与品牌策划功底，能独立产出具有前瞻性的营销方案。3. Indie Game/AI 爱好者： 骨子里认同“动物森友会”式的温情世界观，对 AI 陪伴赛道有超乎常人的热情。二、 核心素质1. 跨文化“梗王”： 深度浸淫海外互联网文化，能敏锐捕捉 Reddit、X 上的流行趋势，懂得如何用当地人的方式“讲好故事”。2. 极强的执行韧性： 能做战略，也能弯下腰去回每一条玩家评论。我们不需要指挥官，我们需要带头冲锋的队长。3. 审美与品味： 具备极高的视觉与叙事审美。你能判断内容的优劣，并能引导内容团队产出符合产品“科幻美学+治愈感”的作品。三、 语言与沟通1. 母语级英语： 具备极强的英文书写能力，能亲自撰写具有煽动性、品牌感的官方推文与社区公告。【加分项】1. 有品牌和营销0-1做出有效声量的案例2. 曾在海外知名社区（如 Reddit 某大版块、大型 Discord 频道）担任过管理角色或拥有核心影响力。3. 有过硬件产品（如潮流电子、潮玩）与软件协同营销的成功案例。4. 心理学、社会学或人类学背景，对“人机情感链接”有独到见解。立即投递",
+      "jobId": "4aea2eaf-2c0e-4e2e-bd03-69a9576d1c84"
+    },
+    {
+      "title": "AI院-GLM后训练-算法工程师（Agent RL方向）发布于 2026-04-03O项目组O项目组|全职全职【团队介绍】  当前语言模型在通用对话、基础推理和短程任务处理中已经取得了显著进展，但在 Agent 场景下的复杂任务求解中，模型距离真正稳定、泛化、可扩展地完成真实世界任务仍有明显差距。尤其是在 Deep Research、Code Agent、开放环境决策、多步工具使用、长程任务分解与执行 等问题上，模型常常面临规划深度不足、长期奖励稀疏、探索效率低、任务迁移能力弱等挑战。我们关注如何让模型具备更强的 长程推理、持续探索、自主规划与多阶段决策能力，使其能够在复杂环境中围绕目标进行多轮思考、行动、反馈和修正，逐步完成具有真实价值的 long-horizon tasks。团队重点研究：面向 Agent 的推理、规划与执行一体化建模；基于强化学习（RL）的复杂任务能力提升；长程任务中的探索、信用分配与奖励建模；面向真实环境的工具使用、代码执行与交互式学习；在后训练阶段实现接近预训练 scaling 的能力增长，让模型具备持续自我改进和跨任务泛化的潜力；我们希望构建能够在真实任务中进行 长期思考、主动探索、持续学习和可靠执行 的下一代智能体系统。【工作职责】1.Agent 长程任务能力研究： 面向 Deep Research、Code Agent、Web Agent、软件工程、多工具调用等场景，研究模型在 long-horizon tasks 中的任务分解、阶段规划、子目标管理，提升复杂任务完成率与鲁棒性；2.基于强化学习的 Agent 能力提升： 研究适用于 Agent 场景的强化学习方法，包括但不限于 rollout scaling、在线/离线 RL、过程奖励建模、探索策略优化、信用分配、轨迹筛选与策略迭代，提升模型在开放环境中的自主决策与持续改进能力；3.Agent 训练数据与环境构建： 围绕代码、搜索、工具使用、软件工程等方向，构建和优化适用于 Agent/RL 训练的数据、任务环境；设计高质量轨迹合成、过程监督与自动化反馈机制，提升训练信号密度与多样性；4.合成数据构造与优化：针对特定能力领域（代码、通用agent等）进行数据构造、筛选和优化；设计数据合成策略，控制对齐数据的质量和多样性。【职位要求】1.985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)；2.深入理解常用的大模型算法；有相关方向业界实习经验者优先；3.在CCF-A类会议发表过相关论文者优先考虑；4.熟练运用Pytorch、transformers、megatron等主流框架；5.工作态度认真负责,具备良好的团队协作能力。【加分项】1.参与过影响力较大开源项目；2.在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先；3.熟悉并行训练框架，有多机多卡训练经验者优先。【简历投递】智谱官网直接投递邮箱投递：he.li@aminer.cn；邮件标题：职位名称+姓名+毕业时间【团队介绍】  当前语言模型在通用对话、基础推理和短程任务处理中已经取得了显著进展，但在 Agent 场景下的复杂任务求解中，模型距离真正稳定、泛化、可扩展地完成真实世界任务仍有明显差距。尤其是在 Deep Research、Code Agent、开放环境决策、多步工具使用、长程任务分解与执行 等问题上，模型常常面临规划深度不足、长期奖励稀疏、探索效率低、任务迁移能力弱等挑战。我们关注如何让模型具备更强的 长程推理、持续探索、自主规划与多阶段决策能力，使其能够在复杂环境中围绕目标进行多轮思考、行动、反馈和修正，逐步完成具有真实价值的 long-horizon tasks。团队重点研究：面向 Agent 的推理、规划与执行一体化建模；基于强化学习（RL）的复杂任务能力提升；长程任务中的探索、信用分配与奖励建模；面向真实环境的工具使用、代码执行与交互式学习；在后训练阶段实现接近预训练 scaling 的能力增长，让模型具备持续自我改进和跨任务泛化的潜力；我们希望构建能够在真实任务中进行 长期思考、主动探索、持续学习和可靠执行 的下一代智能体系统。【工作职责】1.Agent 长程任务能力研究： 面向 Deep Research、Code Agent、Web Agent、软件工程、多工具调用等场景，研究模型在 long-horizon tasks 中的任务分解、阶段规划、子目标管理，提升复杂任务完成率与鲁棒性；2.基于强化学习的 Agent 能力提升： 研究适用于 Agent 场景的强化学习方法，包括但不限于 rollout scaling、在线/离线 RL、过程奖励建模、探索策略优化、信用分配、轨迹筛选与策略迭代，提升模型在开放环境中的自主决策与持续改进能力；3.Agent 训练数据与环境构建： 围绕代码、搜索、工具使用、软件工程等方向，构建和优化适用于 Agent/RL 训练的数据、任务环境；设计高质量轨迹合成、过程监督与自动化反馈机制，提升训练信号密度与多样性；4.合成数据构造与优化：针对特定能力领域（代码、通用agent等）进行数据构造、筛选和优化；设计数据合成策略，控制对齐数据的质量和多样性。【职位要求】1.985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)；2.深入理解常用的大模型算法；有相关方向业界实习经验者优先；3.在CCF-A类会议发表过相关论文者优先考虑；4.熟练运用Pytorch、transformers、megatron等主流框架；5.工作态度认真负责,具备良好的团队协作能力。【加分项】1.参与过影响力较大开源项目；2.在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先；3.熟悉并行训练框架，有多机多卡训练经验者优先。【简历投递】智谱官网直接投递邮箱投递：he.li@aminer.cn；邮件标题：职位名称+姓名+毕业时间立即投递",
+      "jobId": "2b25f42f-f5f2-42f2-a7d9-939f472fe9a6"
+    },
+    {
+      "title": "AI院--多模态团队--多模态生成算法研究员发布于 2026-04-03MM项目组MM项目组|全职全职【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】负责图像/视频生成模型训练及数据优化【职位要求】1、985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)；2、深入理解常用多模态算法；具备多模态大模型和视频理解相关项目经验者优先；3、在CCF-A类会议发表过多模态相关论文者优先考虑；4、熟练运用Pytorch、transformers、megatron等主流框架；5、工作态度认真负责,具备良好的团队协作能力。 【加分项】 - 在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先； - 熟悉并行训练框架，有多机多卡训练经验者优先。【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】负责图像/视频生成模型训练及数据优化【职位要求】1、985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)；2、深入理解常用多模态算法；具备多模态大模型和视频理解相关项目经验者优先；3、在CCF-A类会议发表过多模态相关论文者优先考虑；4、熟练运用Pytorch、transformers、megatron等主流框架；5、工作态度认真负责,具备良好的团队协作能力。 【加分项】 - 在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先； - 熟悉并行训练框架，有多机多卡训练经验者优先。立即投递",
+      "jobId": "a3d8c830-fadc-4b70-aa11-8ea0215da4d9"
+    },
+    {
+      "title": "AI院-多模态生成-算法实习生发布于 2026-04-02MM项目组MM项目组|实习实习【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【职位要求】 1. 机器学习、人工智能、软件工程等相关专业，硕士及以上学历； 2. 较强的算法开发能力，熟悉常用的机器学习、深度学习算法； 3. 熟练运用Pytorch、Deepspeed、Megatron等主流框架； 4. 熟悉diffusion算法，有较强代码工程能力。【 加分项】1. 在NeurIPS，ICLR，CVPR，ICML等顶级会议或期刊上发表过论文者优先； 2. 熟悉并行训练框架，有多机多卡训练经验者优先。 【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【职位要求】 1. 机器学习、人工智能、软件工程等相关专业，硕士及以上学历； 2. 较强的算法开发能力，熟悉常用的机器学习、深度学习算法； 3. 熟练运用Pytorch、Deepspeed、Megatron等主流框架； 4. 熟悉diffusion算法，有较强代码工程能力。【 加分项】1. 在NeurIPS，ICLR，CVPR，ICML等顶级会议或期刊上发表过论文者优先； 2. 熟悉并行训练框架，有多机多卡训练经验者优先。 立即投递",
+      "jobId": "4b688a0c-e779-42a8-99be-e85c81c82654"
+    },
+    {
+      "title": "AI院-大模型算法实习生（Coding Agent应用）发布于 2026-04-02评测团队评测团队|实习实习职位描述1. 分析真实业务需求，针对不同Coding Agent应用场景的设计评测和优化方案，最终提高模型在不同场景上的的性能；2. 跟进 LLM 代码生成前沿技术，持续探索基座模型在各类复杂代码生成任务上的评测和优化方法。职位要求1. 本科及以上学历，计算机、软件工程、人工智能等相关专业；2. 具有数据构建和大模型评测和优化经验，具备优秀的代码能力和基础算法功底，有较为丰富的工程经验；3. 具有优秀的逻辑思维能力，关注代码生成前沿进展，对提升模型代码生成能力充满热情；4. 具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力。加分项：1. 有代码生成 / Coding Agent 项目经验者优先；2. 在大模型 / 代码生成领域有研究论文者优先；3.熟悉大模型预训练 / SFT / RL / 评测者优先。职位描述1. 分析真实业务需求，针对不同Coding Agent应用场景的设计评测和优化方案，最终提高模型在不同场景上的的性能；2. 跟进 LLM 代码生成前沿技术，持续探索基座模型在各类复杂代码生成任务上的评测和优化方法。职位要求1. 本科及以上学历，计算机、软件工程、人工智能等相关专业；2. 具有数据构建和大模型评测和优化经验，具备优秀的代码能力和基础算法功底，有较为丰富的工程经验；3. 具有优秀的逻辑思维能力，关注代码生成前沿进展，对提升模型代码生成能力充满热情；4. 具有良好的团队合作精神，善于分析和解决问题，有较强的沟通能力和学习能力。加分项：1. 有代码生成 / Coding Agent 项目经验者优先；2. 在大模型 / 代码生成领域有研究论文者优先；3.熟悉大模型预训练 / SFT / RL / 评测者优先。立即投递",
+      "jobId": "9e11a7bc-2cfe-4ae1-a0e7-d8603e703350"
+    },
+    {
+      "title": "AI院-多模态理解-算法实习生发布于 2026-04-02MM项目组MM项目组|实习实习【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】 - 设计和训练先进的多模态大模型，包括图像、视频的理解与生成。 - 搭建与优化多模态大模型的自动化数据通路，提升模型的多模态基础能力及下游任务上的效果。 - 优化模型训练，包括包括模型的预训练、微调、偏好对齐等 - 探索前沿算法，多模态理解的数据合成、模型自我迭代等。 - 加速多模态大模型的推理过程并部署到实际应用中。 【岗位要求】 - 985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑) - 深入理解常用多模态算法；具备多模态大模型和视频理解相关项目经验者优先 - 在CCF-A类会议发表过多模态相关论文者优先考虑 - 熟练运用Pytorch、transformers、megatron等主流框架 - 工作态度认真负责,具备良好的团队协作能力 【加入我们，你将有机会】 - 参与突破性的多模态AI研究 - 与顶尖专家共事，快速提升技能 - 在充满活力的环境中实现自我价值 我们期待你的加入，一同推动AI技术的前沿发展！【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】 - 设计和训练先进的多模态大模型，包括图像、视频的理解与生成。 - 搭建与优化多模态大模型的自动化数据通路，提升模型的多模态基础能力及下游任务上的效果。 - 优化模型训练，包括包括模型的预训练、微调、偏好对齐等 - 探索前沿算法，多模态理解的数据合成、模型自我迭代等。 - 加速多模态大模型的推理过程并部署到实际应用中。 【岗位要求】 - 985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑) - 深入理解常用多模态算法；具备多模态大模型和视频理解相关项目经验者优先 - 在CCF-A类会议发表过多模态相关论文者优先考虑 - 熟练运用Pytorch、transformers、megatron等主流框架 - 工作态度认真负责,具备良好的团队协作能力 【加入我们，你将有机会】 - 参与突破性的多模态AI研究 - 与顶尖专家共事，快速提升技能 - 在充满活力的环境中实现自我价值 我们期待你的加入，一同推动AI技术的前沿发展！立即投递",
+      "jobId": "1cfb19a0-c02a-4006-9c60-b17eee442a32"
+    },
+    {
+      "title": "AI院-多模态音频-算法实习生发布于 2026-04-02MM项目组MM项目组|实习实习职位描述【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】1. 从事音频算法研究、训练、应用，具体业务包括Omni-音频理解、同声传译、video-audio联合生成等 2. 探索语音/音频技术前沿技术，探索音频理解、音频表征、音视频联合生成的新范式 3. 负责模型的多机多卡训练、高性能推理、数据集构建、评测系统搭建等【职位要求】 1. 自然语言处理、机器学习、人工智能、软件工程等相关专业，硕士及以上学历； 2. 较强的算法开发能力，熟悉常用的机器学习、深度学习算法； 3. 熟练使用Python和Pytorch/Tensorflow深度学习框架； 4. 熟悉以下至少一种，且有相应研发经验优先，大模型的框架&理论（如Diffusion、Vall-E/SpearTTS/AudioLM、MusicLM等）； 5. 具备优秀的代码能力和基础算法功底，有较为丰富的工程经验，有大规模训练经验或大规模数据处理经验。 【加分项】1. 在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先； 2. 熟悉并行训练框架，有多机多卡训练经验者优先。职位描述【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】1. 从事音频算法研究、训练、应用，具体业务包括Omni-音频理解、同声传译、video-audio联合生成等 2. 探索语音/音频技术前沿技术，探索音频理解、音频表征、音视频联合生成的新范式 3. 负责模型的多机多卡训练、高性能推理、数据集构建、评测系统搭建等【职位要求】 1. 自然语言处理、机器学习、人工智能、软件工程等相关专业，硕士及以上学历； 2. 较强的算法开发能力，熟悉常用的机器学习、深度学习算法； 3. 熟练使用Python和Pytorch/Tensorflow深度学习框架； 4. 熟悉以下至少一种，且有相应研发经验优先，大模型的框架&理论（如Diffusion、Vall-E/SpearTTS/AudioLM、MusicLM等）； 5. 具备优秀的代码能力和基础算法功底，有较为丰富的工程经验，有大规模训练经验或大规模数据处理经验。 【加分项】1. 在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先； 2. 熟悉并行训练框架，有多机多卡训练经验者优先。立即投递",
+      "jobId": "80cfcac5-da5e-483f-8540-9355a5b67a64"
+    },
+    {
+      "title": "26届校招-推理Infra工程师发布于 2026-04-02推理Infra团队推理Infra团队|全职全职职位描述1. 参与大模型推理框架的设计与开发​：协助团队进行支撑大语言模型、图像生成等复杂模型推理的高性能框架研发，推动算法到产品落地的全链路优化，确保推理的高效性、稳定性和低延迟。 2. 性能优化与调优​：在资深工程师指导下，参与优化内存管理、计算资源分配与调度策略，提升模型推理速度和资源利用率。学习并使用性能分析工具（如Nvidia Nsight）进行瓶颈定位和优化。 3. 模型推理加速技术探索​：学习并应用业界前沿的推理优化技术，KV Cache优化、模型量化（Quantization）、剪枝（Pruning），跨机分布式推理优化等。职位要求1. 基础技能​： - 熟练掌握 C++ 和 Python 编程语言，具备扎实的数据结构、算法和操作系统基础。 - 熟悉至少一种主流的深度学习框架（如 PyTorch、TensorFlow），了解其基本实现原理。 - 了解GPU编程​（如 CUDA）或并行计算，有相关的课程项目或实验经验。 2. 专业知识​： - 对 Transformer 架构及主流大模型（如GPT、Llama、Qwen等）的推理特性有基本理解。 - 了解大模型推理的基本流程和常见挑战（如延迟、吞吐、内存占用）。 3. 加分之项（满足以下任一即可）​​： - 有大模型推理框架​（如 vLLM、TensorRT-LLM、SGLang、llama.cpp等）的使用或初步研究经验。 - 对AI编译器技术​（如 TVM、MLIR、Triton）有初步接触或浓厚兴趣。 - 了解大模型推理相关的优化技术，如FlashAttention、PageAttention、量化、LoRA微调等。 - 在相关领域的顶会（MLSys, ASPLOS等）或开源项目中有贡献或论文者优先。职位描述1. 参与大模型推理框架的设计与开发​：协助团队进行支撑大语言模型、图像生成等复杂模型推理的高性能框架研发，推动算法到产品落地的全链路优化，确保推理的高效性、稳定性和低延迟。 2. 性能优化与调优​：在资深工程师指导下，参与优化内存管理、计算资源分配与调度策略，提升模型推理速度和资源利用率。学习并使用性能分析工具（如Nvidia Nsight）进行瓶颈定位和优化。 3. 模型推理加速技术探索​：学习并应用业界前沿的推理优化技术，KV Cache优化、模型量化（Quantization）、剪枝（Pruning），跨机分布式推理优化等。职位要求1. 基础技能​： - 熟练掌握 C++ 和 Python 编程语言，具备扎实的数据结构、算法和操作系统基础。 - 熟悉至少一种主流的深度学习框架（如 PyTorch、TensorFlow），了解其基本实现原理。 - 了解GPU编程​（如 CUDA）或并行计算，有相关的课程项目或实验经验。 2. 专业知识​： - 对 Transformer 架构及主流大模型（如GPT、Llama、Qwen等）的推理特性有基本理解。 - 了解大模型推理的基本流程和常见挑战（如延迟、吞吐、内存占用）。 3. 加分之项（满足以下任一即可）​​： - 有大模型推理框架​（如 vLLM、TensorRT-LLM、SGLang、llama.cpp等）的使用或初步研究经验。 - 对AI编译器技术​（如 TVM、MLIR、Triton）有初步接触或浓厚兴趣。 - 了解大模型推理相关的优化技术，如FlashAttention、PageAttention、量化、LoRA微调等。 - 在相关领域的顶会（MLSys, ASPLOS等）或开源项目中有贡献或论文者优先。立即投递",
+      "jobId": "31ff36f8-932e-4f2c-b165-1a1fb5d906bb"
+    },
+    {
+      "title": "具身智能算法工程师发布于 2026-04-02Z-labZ-lab|实习实习职位描述1、基于多模态大模型设计和开发驱动机器人运动的大模型； 2、在真机环境中部署模型，并评价其性能； 3、与硬件工程师密切合作，确保大模型与控制系统协调运作；职位要求1、已获得计算机领域的学位； 2、具有大模型训练和推理经验； 3、熟悉Python与深度学习编程框架，具有良好的编程习惯； 4、优秀的自学能力和自我驱动力，责任心强，工作认真细致，具有良好的团队沟通与写作能力； 5、发表过大模型相关的国际顶级学术会议/期刊论文者优先；职位描述1、基于多模态大模型设计和开发驱动机器人运动的大模型； 2、在真机环境中部署模型，并评价其性能； 3、与硬件工程师密切合作，确保大模型与控制系统协调运作；职位要求1、已获得计算机领域的学位； 2、具有大模型训练和推理经验； 3、熟悉Python与深度学习编程框架，具有良好的编程习惯； 4、优秀的自学能力和自我驱动力，责任心强，工作认真细致，具有良好的团队沟通与写作能力； 5、发表过大模型相关的国际顶级学术会议/期刊论文者优先；立即投递",
+      "jobId": "386b9057-c37e-4c5e-835c-8ab0f2ed1c2f"
+    },
+    {
+      "title": "AI 院--多模态团队--多模态理解算法研究员发布于 2026-04-02MM项目组MM项目组|全职全职【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责 】1、 设计和训练先进的多模态大模型，包括图像、视频的理解与生成； 2、 搭建与优化多模态大模型的自动化数据通路，提升模型的多模态基础能力及下游任务上的效果； 3、优化模型训练，包括包括模型的预训练、微调、偏好对齐等； 4、探索前沿算法，多模态理解的数据合成、模型自我迭代等； 5、加速多模态大模型的推理过程并部署到实际应用中。【职位要求】1、985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)； 2、深入理解常用多模态算法；具备多模态大模型和视频理解相关项目经验者优先； 3、在CCF-A类会议发表过多模态相关论文者优先考虑； 4、熟练运用Pytorch、transformers、megatron等主流框架； 5、工作态度认真负责,具备良好的团队协作能力。 加入我们，您将有机会: 1、参与突破性的多模态AI研究； 2、与顶尖专家共事,快速提升技能； 3、在充满活力的环境中实现自我价值； 我们期待您的加入,一同推动AI技术的前沿发展!【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责 】1、 设计和训练先进的多模态大模型，包括图像、视频的理解与生成； 2、 搭建与优化多模态大模型的自动化数据通路，提升模型的多模态基础能力及下游任务上的效果； 3、优化模型训练，包括包括模型的预训练、微调、偏好对齐等； 4、探索前沿算法，多模态理解的数据合成、模型自我迭代等； 5、加速多模态大模型的推理过程并部署到实际应用中。【职位要求】1、985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)； 2、深入理解常用多模态算法；具备多模态大模型和视频理解相关项目经验者优先； 3、在CCF-A类会议发表过多模态相关论文者优先考虑； 4、熟练运用Pytorch、transformers、megatron等主流框架； 5、工作态度认真负责,具备良好的团队协作能力。 加入我们，您将有机会: 1、参与突破性的多模态AI研究； 2、与顶尖专家共事,快速提升技能； 3、在充满活力的环境中实现自我价值； 我们期待您的加入,一同推动AI技术的前沿发展!立即投递",
+      "jobId": "7d1f35f3-9b43-47d6-8749-ba0c1ef68f96"
+    },
+    {
+      "title": "AI 院--多模态音频团队--音频生成算法工程师（社招）发布于 2026-04-02MM项目组MM项目组|全职全职【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【职位描述】1. 负责agent场景下的多模态理解、生成算法研究、训练、应用，包括但不限于context-aware ASR、指令控制TTS、omni understanding等。2. 负责模型的多机多卡训练、高性能推理等；【职位要求】1. 硕士及以上学历，计算机、数学、通信等相关专业；具备良好的学习能力、逻辑思维能力、沟通协作能力；2. 有三年及以上语音合成、语音识别算法经验，或三篇及以上顶会论文（各类CCF-A会、ICASSP/INTERSPEECH等）；3. 熟练使用Python和Pytorch/Tensorflow深度学习框架；4. 对以下至少一种熟悉并有相关经验：1）语音大模型的框架&理论，包括但不限于Diffusion、Vall-E/SpearTTS/AudioLM、MusicLM；2）音频理解大模型/ASR大模型，包括但不限于qwen-audio、sensevoice、whisper等；3）熟悉omni多模态大模型，包括但不限于qwen-omni、mimo-omni、Step‑Audio、Covo‑Audio等；4）有业务落地工程经验优先。【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【职位描述】1. 负责agent场景下的多模态理解、生成算法研究、训练、应用，包括但不限于context-aware ASR、指令控制TTS、omni understanding等。2. 负责模型的多机多卡训练、高性能推理等；【职位要求】1. 硕士及以上学历，计算机、数学、通信等相关专业；具备良好的学习能力、逻辑思维能力、沟通协作能力；2. 有三年及以上语音合成、语音识别算法经验，或三篇及以上顶会论文（各类CCF-A会、ICASSP/INTERSPEECH等）；3. 熟练使用Python和Pytorch/Tensorflow深度学习框架；4. 对以下至少一种熟悉并有相关经验：1）语音大模型的框架&理论，包括但不限于Diffusion、Vall-E/SpearTTS/AudioLM、MusicLM；2）音频理解大模型/ASR大模型，包括但不限于qwen-audio、sensevoice、whisper等；3）熟悉omni多模态大模型，包括但不限于qwen-omni、mimo-omni、Step‑Audio、Covo‑Audio等；4）有业务落地工程经验优先。立即投递",
+      "jobId": "438aee4b-46f9-4d15-9f68-95d0a65d6cf1"
+    },
+    {
+      "title": "多模态大模型系统研发实习生发布于 2026-04-02MM项目组MM项目组|实习实习【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】 你将参与下一代多模态大模型（Vision-Language Model, VLM）的系统研发工作，与团队共同探索大模型从训练到推理部署的完整技术链路。具体工作包括但不限于： 1.多模态大模型训练系统研发 参与 Vision-Language Model（VLM）的训练系统研发与优化，基于 PyTorch / Megatron 等框架构建大规模分布式训练系统。你将深入理解并优化 TP / PP / CP / SP / EP / MoE 等并行训练策略，并参与多模态数据 pipeline（image / video / text）的构建与优化。 2.大模型推理系统开发与优化 参与设计与实现大模型推理系统，基于 vLLM / SGLang 等推理框架构建高性能推理服务。探索 KV Cache、batching、scheduling 等关键推理技术，并支持多模态模型的推理部署。同时探索大模型量化推理（FP8 / INT8 / AWQ / GPTQ 等）与推理性能优化。 3.RL 与模型对齐系统开发 参与 RLHF / RLAIF / GRPO 等大模型对齐算法的工程实现，构建训推分离（training-serving separation）的 RL 训练系统。参照 slime、verl 等优秀开源 RL 框架构建 RL pipeline，并优化 rollout、sampling、reward 与 trainer 等核心模块。 4.大模型系统工程与性能优化 参与大模型系统工程研发，进行 CUDA / NCCL / GPU 计算性能优化。通过 profiling 与性能分析工具定位系统瓶颈，提升大规模训练与推理系统的稳定性与性能。【岗位要求】 基础要求 1.熟练使用 Python，具备良好的代码习惯与工程能力 2.熟悉 PyTorch 或深度学习基础 3.熟悉 Linux 开发环境 4.对大模型系统技术有浓厚兴趣 加分项（满足任意一条） 1.熟悉 Megatron / DeepSpeed / FSDP 等大模型训练框架 2.熟悉 vLLM / SGLang / TensorRT-LLM 等推理框架 3.熟悉 RLHF / PPO / GRPO 等强化学习算法 4.使用过 slime、verl 或类似 RL 框架 5.有大模型训练或推理系统开发经验 6.熟悉 CUDA / GPU 编程或性能优化 7.熟悉分布式系统或分布式训练 8.有开源项目经验（GitHub / 技术博客等） 【我们希望你是这样的人】 1.对大模型系统技术充满热情 2.喜欢研究系统底层原理与性能优化 3.有较强的自驱力与工程能力 4.能稳定实习 3-6 个月及以上 【你将获得】 1.深度参与 智谱 AI 多模态大模型（GLM 系列 / VLM） 的系统研发 2.接触 大规模训练系统、RL 对齐系统与推理系统 的核心工程实践 3.使用 A100 / H100 等大规模 GPU 集群 进行模型训练与实验 4.与顶尖 AI 研究员与系统工程师协作，快速提升系统研发能力 5.表现优秀的同学将获得 长期实习 / 转正机会【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】 你将参与下一代多模态大模型（Vision-Language Model, VLM）的系统研发工作，与团队共同探索大模型从训练到推理部署的完整技术链路。具体工作包括但不限于： 1.多模态大模型训练系统研发 参与 Vision-Language Model（VLM）的训练系统研发与优化，基于 PyTorch / Megatron 等框架构建大规模分布式训练系统。你将深入理解并优化 TP / PP / CP / SP / EP / MoE 等并行训练策略，并参与多模态数据 pipeline（image / video / text）的构建与优化。 2.大模型推理系统开发与优化 参与设计与实现大模型推理系统，基于 vLLM / SGLang 等推理框架构建高性能推理服务。探索 KV Cache、batching、scheduling 等关键推理技术，并支持多模态模型的推理部署。同时探索大模型量化推理（FP8 / INT8 / AWQ / GPTQ 等）与推理性能优化。 3.RL 与模型对齐系统开发 参与 RLHF / RLAIF / GRPO 等大模型对齐算法的工程实现，构建训推分离（training-serving separation）的 RL 训练系统。参照 slime、verl 等优秀开源 RL 框架构建 RL pipeline，并优化 rollout、sampling、reward 与 trainer 等核心模块。 4.大模型系统工程与性能优化 参与大模型系统工程研发，进行 CUDA / NCCL / GPU 计算性能优化。通过 profiling 与性能分析工具定位系统瓶颈，提升大规模训练与推理系统的稳定性与性能。【岗位要求】 基础要求 1.熟练使用 Python，具备良好的代码习惯与工程能力 2.熟悉 PyTorch 或深度学习基础 3.熟悉 Linux 开发环境 4.对大模型系统技术有浓厚兴趣 加分项（满足任意一条） 1.熟悉 Megatron / DeepSpeed / FSDP 等大模型训练框架 2.熟悉 vLLM / SGLang / TensorRT-LLM 等推理框架 3.熟悉 RLHF / PPO / GRPO 等强化学习算法 4.使用过 slime、verl 或类似 RL 框架 5.有大模型训练或推理系统开发经验 6.熟悉 CUDA / GPU 编程或性能优化 7.熟悉分布式系统或分布式训练 8.有开源项目经验（GitHub / 技术博客等） 【我们希望你是这样的人】 1.对大模型系统技术充满热情 2.喜欢研究系统底层原理与性能优化 3.有较强的自驱力与工程能力 4.能稳定实习 3-6 个月及以上 【你将获得】 1.深度参与 智谱 AI 多模态大模型（GLM 系列 / VLM） 的系统研发 2.接触 大规模训练系统、RL 对齐系统与推理系统 的核心工程实践 3.使用 A100 / H100 等大规模 GPU 集群 进行模型训练与实验 4.与顶尖 AI 研究员与系统工程师协作，快速提升系统研发能力 5.表现优秀的同学将获得 长期实习 / 转正机会立即投递",
+      "jobId": "a843b074-e444-475f-aba4-66b3ec1e3843"
+    },
+    {
+      "title": "AI 院--多模态理解--训练框架算法工程师发布于 2026-04-02MM项目组MM项目组|全职全职【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】 参与GLM系列多模态大模型，CogVLM、CogView、CogVideo系列多模态理解生成模型训练框架 【职位要求】1、统招硕士及以上学历，计算机或相关专业； 2、熟练掌握Pytorch，具有模型训练经验； 3、熟悉Transformer结构，对常见模型的训练方法有所了解，例如BERT、GPT、ViT、CLIP； 4、有模型迁移、精度对齐经验，能够在新框架中适配新的模型； 5、对常见的大模型训练优化有所了解，能够迅速熟悉掌握，根据需求进行修改； 6、对Megatron框架有一定的了解，能够借鉴其他框架，完善优化已有的框架。【团队介绍】智谱多模态大模型团队是全球领先的多模态研究团队之一，专注于推动视觉语言大模型的认知与推理能力的突破。团队拥有从多模态理解到生成的全栈自研技术体系，依托强大的计算资源和全链路研发能力，持续引领行业创新。团队负责多模态基座模型研发（视觉语言模型+多模态生成模型），先后推出GLM-V系列多模态基座模型，以及GLM-Image、CogView、CogVideo等前沿生成模型。2025年连续发布GLM-4.1V-Thinking、GLM4.5V和GLM-4.6V系列模型，其中GLM-4.1V-Thinking创新性地引入思维链推理机制，采用课程采样强化学习策略，系统性提升模型跨模态因果推理能力与稳定性，在28项业界权威评测中有23项达成10B级模型的最佳成绩(SOTA)；而GLM-4.5V采用MoE架构(总参数106B、激活参数12B)，在100B级视觉推理模型中树立起新的标准，在41个业界主流benchmark上达到同级别SOTA，且OCR、视频理解、AI解题、长文档解读、前端复刻、空间定位与推理等核心能力获得显著提升；GLM-4.6V则在多模态感知和深度推理方面进一步增强，且支持128k long-context、多模态工具调用和图文交错输出，为执行复杂、长程、多模态Agentic任务奠定坚实基础；9B版本的GLM-4.6V-Flash整体表现超过 Qwen3-VL-8B，106B参数12B激活的GLM-4.6V表现比肩2倍参数量的Qwen3-VL-235B。顺应技术发展趋势和业界需求，2026年初团队研发和开源GLM-Image和GLM-OCR。前者是智谱新旗舰图像生成模型，全程基于国产芯片完成训练，采用独创的「自回归+扩散解码器」混合架构，兼顾全局指令理解与局部细节刻画，克服了海报、PPT、科普图等知识密集型场景生成难题，是面向以Nano Banana Pro为代表的新一代「认知型生成」技术范式的一次重要探索。GLM-OCR则是轻量级OCR和文档解析专用模型，以“小尺寸、高精度”树立新标杆，其性能登顶 OmniDocBench，擅长公式、手写体、表格等高难场景，仅 0.9B 参数，推理高效易部署，在HuggingFace上获得超过360万下载量。【岗位职责】 参与GLM系列多模态大模型，CogVLM、CogView、CogVideo系列多模态理解生成模型训练框架 【职位要求】1、统招硕士及以上学历，计算机或相关专业； 2、熟练掌握Pytorch，具有模型训练经验； 3、熟悉Transformer结构，对常见模型的训练方法有所了解，例如BERT、GPT、ViT、CLIP； 4、有模型迁移、精度对齐经验，能够在新框架中适配新的模型； 5、对常见的大模型训练优化有所了解，能够迅速熟悉掌握，根据需求进行修改； 6、对Megatron框架有一定的了解，能够借鉴其他框架，完善优化已有的框架。立即投递",
+      "jobId": "e31fafab-05a3-4a37-bd20-b0137d2101c4"
+    },
+    {
+      "title": "HR 实习生发布于 2026-04-02MM项目组MM项目组|实习实习【职位描述】我们正在寻找一位积极主动、充满热情的 HR 实习生加入智谱的人力资源团队。该实习生将有机会深入了解人力资源各个模块的工作，并参与实际的招聘运营、面试协调、入职指引以及员工体验感提升等项目。此岗位非常适合对人力资源领域充满热情并希望积累实践经验的同学。招聘运营 ：协助维护和运营小红书、微信公众号等社交媒体平台，发布招聘信息，提升公司品牌雇主形象。研究并分析目标候选人群体在小红书、微信公众号等平台的行为习惯，优化招聘内容和策略。协助策划和执行线上/线下招聘活动，例如空中宣讲会、校园招聘会等。数据统计与分析，定期汇报招聘数据，例如各渠道简历投递量、面试通过率等。面试协调：协助安排候选人的面试日程，包括电话面试、视频面试和现场面试与候选人及面试官保持良好沟通，确保面试流程顺利进行面试资料的准备、整理和归档入职指引：协助新员工办理入职手续，包括准备入职材料、办理工卡、安排办公座位等向新员工介绍公司文化、规章制度以及相关流程回答新员工关于入职相关的问题，帮助他们快速融入公司员工体验感提升：协助组织和实施员工活动，例如团建、生日会等，增强员工归属感收集员工反馈，了解员工需求，并提出改进建议协助维护员工关系，营造积极向上的工作氛围【职位要求】教育背景： 人力资源管理、心理学、管理学等相关专业本科或研究生在校生实习时长： 保证 6 个月及以上实习时间，每周至4 天技能要求：熟练使用办公软件，例如 Excel、Word、PowerPoint 等熟悉小红书、微信公众号等社交媒体平台的运营规则具备良好的沟通能力、协调能力和团队合作精神学习能力强，能够快速适应新环境和新任务工作认真负责，细致耐心，具备较强的执行力加分项：有 HR 相关实习经验者优先熟悉招聘流程，有校招经验者优先具备良好的文字功底和内容创作能力【职位描述】我们正在寻找一位积极主动、充满热情的 HR 实习生加入智谱的人力资源团队。该实习生将有机会深入了解人力资源各个模块的工作，并参与实际的招聘运营、面试协调、入职指引以及员工体验感提升等项目。此岗位非常适合对人力资源领域充满热情并希望积累实践经验的同学。招聘运营 ：协助维护和运营小红书、微信公众号等社交媒体平台，发布招聘信息，提升公司品牌雇主形象。研究并分析目标候选人群体在小红书、微信公众号等平台的行为习惯，优化招聘内容和策略。协助策划和执行线上/线下招聘活动，例如空中宣讲会、校园招聘会等。数据统计与分析，定期汇报招聘数据，例如各渠道简历投递量、面试通过率等。面试协调：协助安排候选人的面试日程，包括电话面试、视频面试和现场面试与候选人及面试官保持良好沟通，确保面试流程顺利进行面试资料的准备、整理和归档入职指引：协助新员工办理入职手续，包括准备入职材料、办理工卡、安排办公座位等向新员工介绍公司文化、规章制度以及相关流程回答新员工关于入职相关的问题，帮助他们快速融入公司员工体验感提升：协助组织和实施员工活动，例如团建、生日会等，增强员工归属感收集员工反馈，了解员工需求，并提出改进建议协助维护员工关系，营造积极向上的工作氛围【职位要求】教育背景： 人力资源管理、心理学、管理学等相关专业本科或研究生在校生实习时长： 保证 6 个月及以上实习时间，每周至4 天技能要求：熟练使用办公软件，例如 Excel、Word、PowerPoint 等熟悉小红书、微信公众号等社交媒体平台的运营规则具备良好的沟通能力、协调能力和团队合作精神学习能力强，能够快速适应新环境和新任务工作认真负责，细致耐心，具备较强的执行力加分项：有 HR 相关实习经验者优先熟悉招聘流程，有校招经验者优先具备良好的文字功底和内容创作能力立即投递",
+      "jobId": "e170c7cd-2227-455d-8110-43bebc608026"
+    },
+    {
+      "title": "X-lab-机器人导航规划算法工程师发布于 2026-04-02Z-labZ-lab|全职全职【职位描述】1、负责具身机器人导航算法的开发和实机部署，包括传感器布置、标定、障碍物构建、定位、路径规划、轨迹跟踪；2、构建传统导航规划和具身导航规划相结合的算法框架，在实际场景中部署落地，并进行系统性能评估和优化；3、与团队成员紧密协作，共同解决复杂的跨领域技术难题。【职位要求】1.正在攻读或已获得自动化、计算机或相关领域的硕士或博士学位。 具有ROS2 nav2的实机部署经验，了解其底层机制。部署过fast-lio2等基础建图、定位算法；2、熟悉python, C++编程语言，具备良好的编程习惯；3、优秀的自学能力和自我驱动力，责任心强，工作认真细致，具有良好的团队沟通与协作能力；4、可以接受短期出差；5、有RSS, ICRA, IROS等顶会论文者优先。【职位描述】1、负责具身机器人导航算法的开发和实机部署，包括传感器布置、标定、障碍物构建、定位、路径规划、轨迹跟踪；2、构建传统导航规划和具身导航规划相结合的算法框架，在实际场景中部署落地，并进行系统性能评估和优化；3、与团队成员紧密协作，共同解决复杂的跨领域技术难题。【职位要求】1.正在攻读或已获得自动化、计算机或相关领域的硕士或博士学位。 具有ROS2 nav2的实机部署经验，了解其底层机制。部署过fast-lio2等基础建图、定位算法；2、熟悉python, C++编程语言，具备良好的编程习惯；3、优秀的自学能力和自我驱动力，责任心强，工作认真细致，具有良好的团队沟通与协作能力；4、可以接受短期出差；5、有RSS, ICRA, IROS等顶会论文者优先。立即投递",
+      "jobId": "a0fcfab3-bde4-498c-99be-246280d07d10"
+    },
+    {
+      "title": "AI 院--AIGC内容创意实习生（图片/视频方向）发布于 2026-04-02多模态应用创新lab多模态应用创新lab|实习实习【职位描述】我们正在寻找热爱潮玩文化、IP内容且对AI多模态创作充满好奇的实习生，加入我们的多模态创意团队。你将参与以潮玩、影视、游戏、ACG 等 IP 为核心的 AI 视觉内容制作与产品共创，包括 AI 短片、视觉模板、Showcase 内容的策划与制作，同时协助推动 AI 模型优化与产品体验提升。你将参与的工作包括：1. 围绕潮玩与热门 IP 主题，参与 AI 短片与视觉内容（图片/视频）的创意策划与制作；2. 灵活使用各类AI工具，制作高质量内容模板与创意展示；3. 协助产品运营工作，包括产出 Goodcase/Badcase 分析、内容复盘、行业应用知识沉淀；4. 收集用户反馈，协助撰写产品使用手册及内容制作相关文档；5. 参与模型与产品体验优化，包括内容数据标注、Agent 任务测试等支持性工作；【职位要求】1. 本科或研究生在读（大二及以上），影视制作、数字媒体艺术、动画、编导、设计等专业优先；2. 熟悉并愿意深入使用生成式 AI 工具（如 Midjourney、Stable Diffusion、ComfyUI、各类视频生成平台等），有实际创作经验者优先；3. 对潮玩、ACG、影视、游戏等 IP 内容有浓厚兴趣，具备良好的视觉审美与创作热情；4. 有影视、广告、短视频、动画或内容相关项目经验者优先考虑；5. 具备内容理解力与用户同理心，善于总结复盘，有较强的协作与沟通能力；6. 请附带作品集（图片、视频或 Demo 等，文件不超过 200MB）随简历投递；7. 能保证每周4天以上线下出勤，实习期不少于 3 个月者优先；【职位描述】我们正在寻找热爱潮玩文化、IP内容且对AI多模态创作充满好奇的实习生，加入我们的多模态创意团队。你将参与以潮玩、影视、游戏、ACG 等 IP 为核心的 AI 视觉内容制作与产品共创，包括 AI 短片、视觉模板、Showcase 内容的策划与制作，同时协助推动 AI 模型优化与产品体验提升。你将参与的工作包括：1. 围绕潮玩与热门 IP 主题，参与 AI 短片与视觉内容（图片/视频）的创意策划与制作；2. 灵活使用各类AI工具，制作高质量内容模板与创意展示；3. 协助产品运营工作，包括产出 Goodcase/Badcase 分析、内容复盘、行业应用知识沉淀；4. 收集用户反馈，协助撰写产品使用手册及内容制作相关文档；5. 参与模型与产品体验优化，包括内容数据标注、Agent 任务测试等支持性工作；【职位要求】1. 本科或研究生在读（大二及以上），影视制作、数字媒体艺术、动画、编导、设计等专业优先；2. 熟悉并愿意深入使用生成式 AI 工具（如 Midjourney、Stable Diffusion、ComfyUI、各类视频生成平台等），有实际创作经验者优先；3. 对潮玩、ACG、影视、游戏等 IP 内容有浓厚兴趣，具备良好的视觉审美与创作热情；4. 有影视、广告、短视频、动画或内容相关项目经验者优先考虑；5. 具备内容理解力与用户同理心，善于总结复盘，有较强的协作与沟通能力；6. 请附带作品集（图片、视频或 Demo 等，文件不超过 200MB）随简历投递；7. 能保证每周4天以上线下出勤，实习期不少于 3 个月者优先；立即投递",
+      "jobId": "642ca030-4c47-45aa-9414-fdf2319e2839"
+    },
+    {
+      "title": "大模型C端产品运营专家发布于 2026-03-31智谱清言部智谱清言部|全职全职大模型 C 端增长的玩法还未定型，我们不找只会执行的运营，只找懂产品、能破局、善落地的增长者 —— 用专业能力让大模型产品走进更多用户，用结果证明价值。你要做的事1. 搭建增长体系：吃透大模型特性与 C 端用户需求，搭建全链路增长运营体系，制定拉新、激活、留存、转化完整策略，对用户规模、活跃度负责。2. 冷启动与破圈增长：主导产品 0→1 冷启动，用低成本玩法（内容、活动、口碑）实现破圈，无需高额预算也能自主造势、获取用户。3. 用户与产品联动：深挖用户使用场景与需求，输出可落地的用户洞察，反推产品优化，让产品能力贴合用户真实需求。4. 数据驱动迭代：复盘用户与业务数据，定位增长卡点，优化运营策略，稳步扩大用户规模、提升用户粘性。我们期待你你懂大模型产品逻辑，能以结果为导向，不做无用功；能跳出传统运营思维，用创新玩法推动增长，把 “让大模型走进更多用户” 这件事做到极致，用数据和案例证明自己的价值。1. 核心能力：有 C 端增长运营实战经验，懂增长逻辑，能独立落地冷启动、破圈增长策略，用数据证明效果。2. 行业认知：懂大模型、AIGC 趋势，能和产研高效沟通，精准把握用户需求。3. 核心特质：自驱力强、皮实抗压，低资源 / 预算也能靠思路破局，有冲劲。4. 加分项：懂短视频 / 内容运营、会用 AI 提效、有完整增长案例、自带渠道资源者优先。大模型 C 端增长的玩法还未定型，我们不找只会执行的运营，只找懂产品、能破局、善落地的增长者 —— 用专业能力让大模型产品走进更多用户，用结果证明价值。你要做的事1. 搭建增长体系：吃透大模型特性与 C 端用户需求，搭建全链路增长运营体系，制定拉新、激活、留存、转化完整策略，对用户规模、活跃度负责。2. 冷启动与破圈增长：主导产品 0→1 冷启动，用低成本玩法（内容、活动、口碑）实现破圈，无需高额预算也能自主造势、获取用户。3. 用户与产品联动：深挖用户使用场景与需求，输出可落地的用户洞察，反推产品优化，让产品能力贴合用户真实需求。4. 数据驱动迭代：复盘用户与业务数据，定位增长卡点，优化运营策略，稳步扩大用户规模、提升用户粘性。我们期待你你懂大模型产品逻辑，能以结果为导向，不做无用功；能跳出传统运营思维，用创新玩法推动增长，把 “让大模型走进更多用户” 这件事做到极致，用数据和案例证明自己的价值。1. 核心能力：有 C 端增长运营实战经验，懂增长逻辑，能独立落地冷启动、破圈增长策略，用数据证明效果。2. 行业认知：懂大模型、AIGC 趋势，能和产研高效沟通，精准把握用户需求。3. 核心特质：自驱力强、皮实抗压，低资源 / 预算也能靠思路破局，有冲劲。4. 加分项：懂短视频 / 内容运营、会用 AI 提效、有完整增长案例、自带渠道资源者优先。立即投递",
+      "jobId": "03c70cfe-f92d-4546-a4d9-329f640638e6"
+    },
+    {
+      "title": "海外产品运营专家发布于 2026-03-31大数据中心大数据中心|全职全职工作职责： 1. 负责科技平台在海外市场的整体运营，统筹内容矩阵建设和市场推广，聚焦海外科研社区，策划并执行本地化运营方案。 2. 关注和分析海外用户增长数据，寻找新的增长机会，为产品迭代和市场策略提供指导，提出优化海外用户体验的产品改进方案，对海外用户获取、活跃、留存等核心运营指标负责。 3. 制定海外活动宣传策略，充分利用多种渠道对活动进行预热和推广。包括但不限于平台官网、海外社交媒体平台（Twitter、LinkedIn、Facebook等）、学术会议、行业论坛及合作伙伴渠道等，策划线上线下活动，明确拉新、促活等目标。 4. 负责产品的英文本地化运营，包括UI、文档、营销材料等，建立海外用户社群，维护核心用户关系，拓展高校、科研机构等海外合作伙伴，提升品牌在海外学术圈的影响力。 5. 基于海外市场调研和数据分析，持续优化内容策略与运营策略，提升在目标科研人群中的影响力和产品渗透率，推动AMiner在海外学术生态的广泛应用。 任职要求： 1. 本科及以上学历，市场营销、工商管理、计算机等相关专业优先，有海外留学或工作经历者优先。 2. 3年以上海外产品运营或国际市场推广经验，有科研工具、SaaS产品、教育科技等相关行业经验者优先。 3. 熟悉海外主流社交媒体平台的运营机制，具备敏锐的海外市场洞察力和用户洞察力，了解科研社区文化和学术圈运作模式者优先。 4. 优秀的中英文听说读写能力，英语可作为工作语言，文字撰写能力强，能根据产品需要撰写英文营销文案和推广材料。 5. 能独挡一面，可以高效推动海外运营方案落地，善于解决问题，有较强的跨团队协同能力和跨文化沟通能力，能承受快节奏工作环境。工作职责： 1. 负责科技平台在海外市场的整体运营，统筹内容矩阵建设和市场推广，聚焦海外科研社区，策划并执行本地化运营方案。 2. 关注和分析海外用户增长数据，寻找新的增长机会，为产品迭代和市场策略提供指导，提出优化海外用户体验的产品改进方案，对海外用户获取、活跃、留存等核心运营指标负责。 3. 制定海外活动宣传策略，充分利用多种渠道对活动进行预热和推广。包括但不限于平台官网、海外社交媒体平台（Twitter、LinkedIn、Facebook等）、学术会议、行业论坛及合作伙伴渠道等，策划线上线下活动，明确拉新、促活等目标。 4. 负责产品的英文本地化运营，包括UI、文档、营销材料等，建立海外用户社群，维护核心用户关系，拓展高校、科研机构等海外合作伙伴，提升品牌在海外学术圈的影响力。 5. 基于海外市场调研和数据分析，持续优化内容策略与运营策略，提升在目标科研人群中的影响力和产品渗透率，推动AMiner在海外学术生态的广泛应用。 任职要求： 1. 本科及以上学历，市场营销、工商管理、计算机等相关专业优先，有海外留学或工作经历者优先。 2. 3年以上海外产品运营或国际市场推广经验，有科研工具、SaaS产品、教育科技等相关行业经验者优先。 3. 熟悉海外主流社交媒体平台的运营机制，具备敏锐的海外市场洞察力和用户洞察力，了解科研社区文化和学术圈运作模式者优先。 4. 优秀的中英文听说读写能力，英语可作为工作语言，文字撰写能力强，能根据产品需要撰写英文营销文案和推广材料。 5. 能独挡一面，可以高效推动海外运营方案落地，善于解决问题，有较强的跨团队协同能力和跨文化沟通能力，能承受快节奏工作环境。立即投递",
+      "jobId": "14e29409-d54a-424f-8f39-560bca47e81d"
+    },
+    {
+      "title": "GLM大模型算法研究员（推理/规划/Agent方向）发布于 2026-03-31AI院AI院|全职全职【团队介绍】  当前语言模型在通用对话、基础推理和短程任务处理中已经取得了显著进展，但在 Agent 场景下的复杂任务求解 中，模型距离真正稳定、泛化、可扩展地完成真实世界任务仍有明显差距。尤其是在 Deep Research、Code Agent、开放环境决策、多步工具使用、长程任务分解与执行 等问题上，模型常常面临规划深度不足、长期奖励稀疏、探索效率低、任务迁移能力弱等挑战。我们关注如何让模型具备更强的 长程推理、持续探索、自主规划与多阶段决策能力，使其能够在复杂环境中围绕目标进行多轮思考、行动、反馈和修正，逐步完成具有真实价值的 long-horizon tasks。团队重点研究：面向 Agent 的推理、规划与执行一体化建模基于强化学习（RL）的复杂任务能力提升长程任务中的探索、信用分配与奖励建模面向真实环境的工具使用、代码执行与交互式学习在后训练阶段实现接近预训练 scaling 的能力增长，让模型具备持续自我改进和跨任务泛化的潜力我们希望构建能够在真实任务中进行 长期思考、主动探索、持续学习和可靠执行 的下一代智能体系统。【工作职责】Agent 长程任务能力研究： 面向 Deep Research、Code Agent、Web Agent、软件工程、多工具调用等场景，研究模型在 long-horizon tasks 中的任务分解、阶段规划、子目标管理，提升复杂任务完成率与鲁棒性。基于强化学习的 Agent 能力提升： 研究适用于 Agent 场景的强化学习方法，包括但不限于 rollout scaling、在线/离线 RL、过程奖励建模、探索策略优化、信用分配、轨迹筛选与策略迭代，提升模型在开放环境中的自主决策与持续改进能力。Agent 训练数据与环境构建： 围绕代码、搜索、工具使用、软件工程等方向，构建和优化适用于 Agent/RL 训练的数据、任务环境；设计高质量轨迹合成、过程监督与自动化反馈机制，提升训练信号密度与多样性。对齐数据构造与优化：针对特定能力领域（数学、代码、复杂推理等）进行数据构造、筛选和优化；设计数据合成策略，控制对齐数据的质量和多样性【职位要求】985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)深入理解常用的大模型算法；有相关方向业界实习经验者优先在CCF-A类会议发表过相关论文者优先考虑熟练运用Pytorch、transformers、megatron等主流框架工作态度认真负责,具备良好的团队协作能力【加分项】参与过影响力较大开源项目在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先；熟悉并行训练框架，有多机多卡训练经验者优先。【团队介绍】  当前语言模型在通用对话、基础推理和短程任务处理中已经取得了显著进展，但在 Agent 场景下的复杂任务求解 中，模型距离真正稳定、泛化、可扩展地完成真实世界任务仍有明显差距。尤其是在 Deep Research、Code Agent、开放环境决策、多步工具使用、长程任务分解与执行 等问题上，模型常常面临规划深度不足、长期奖励稀疏、探索效率低、任务迁移能力弱等挑战。我们关注如何让模型具备更强的 长程推理、持续探索、自主规划与多阶段决策能力，使其能够在复杂环境中围绕目标进行多轮思考、行动、反馈和修正，逐步完成具有真实价值的 long-horizon tasks。团队重点研究：面向 Agent 的推理、规划与执行一体化建模基于强化学习（RL）的复杂任务能力提升长程任务中的探索、信用分配与奖励建模面向真实环境的工具使用、代码执行与交互式学习在后训练阶段实现接近预训练 scaling 的能力增长，让模型具备持续自我改进和跨任务泛化的潜力我们希望构建能够在真实任务中进行 长期思考、主动探索、持续学习和可靠执行 的下一代智能体系统。【工作职责】Agent 长程任务能力研究： 面向 Deep Research、Code Agent、Web Agent、软件工程、多工具调用等场景，研究模型在 long-horizon tasks 中的任务分解、阶段规划、子目标管理，提升复杂任务完成率与鲁棒性。基于强化学习的 Agent 能力提升： 研究适用于 Agent 场景的强化学习方法，包括但不限于 rollout scaling、在线/离线 RL、过程奖励建模、探索策略优化、信用分配、轨迹筛选与策略迭代，提升模型在开放环境中的自主决策与持续改进能力。Agent 训练数据与环境构建： 围绕代码、搜索、工具使用、软件工程等方向，构建和优化适用于 Agent/RL 训练的数据、任务环境；设计高质量轨迹合成、过程监督与自动化反馈机制，提升训练信号密度与多样性。对齐数据构造与优化：针对特定能力领域（数学、代码、复杂推理等）进行数据构造、筛选和优化；设计数据合成策略，控制对齐数据的质量和多样性【职位要求】985高校计算机、电子、自动化等相关专业硕士或博士学位(优秀本科生亦可考虑)深入理解常用的大模型算法；有相关方向业界实习经验者优先在CCF-A类会议发表过相关论文者优先考虑熟练运用Pytorch、transformers、megatron等主流框架工作态度认真负责,具备良好的团队协作能力【加分项】参与过影响力较大开源项目在ACL，NeurIPS，ICLR，EMNLP，ICML等顶级会议或期刊上发表过论文者优先；熟悉并行训练框架，有多机多卡训练经验者优先。立即投递",
+      "jobId": "c81e6344-1f11-411f-84ac-966da51e2df4"
+    },
+    {
+      "title": "AI产品实习生C2604发布于 2026-03-31大数据中心大数据中心|实习实习岗位要求：1.负责AI产品的用户体验设计和优化，与设计、研发团队合作，提升产品易用性和用户满意度。2.跟踪行业趋势和技术发展，分析用户反馈和数据，制定并推动实施改进计划。3.负责规划方向并撰写需求文档，并确保功能落地上线以及后续迭代。4.根据用户数据不断优化智能体效果，制定评测标准。5.协调跨部门资源，确保产品开发进度和质量。任职资格：1.计算机科学、人机交互、产品设计或相关领域的本科及以上学历。2.有AI产品经验者优先。3.具备良好的数据分析能力，能够通过用户数据指导产品决策。4.出色的沟通和协调能力，能够与多个团队紧密合作。5.工作日均可以到岗者优先。岗位要求：1.负责AI产品的用户体验设计和优化，与设计、研发团队合作，提升产品易用性和用户满意度。2.跟踪行业趋势和技术发展，分析用户反馈和数据，制定并推动实施改进计划。3.负责规划方向并撰写需求文档，并确保功能落地上线以及后续迭代。4.根据用户数据不断优化智能体效果，制定评测标准。5.协调跨部门资源，确保产品开发进度和质量。任职资格：1.计算机科学、人机交互、产品设计或相关领域的本科及以上学历。2.有AI产品经验者优先。3.具备良好的数据分析能力，能够通过用户数据指导产品决策。4.出色的沟通和协调能力，能够与多个团队紧密合作。5.工作日均可以到岗者优先。立即投递",
+      "jobId": "6d094c63-5104-4a08-9fb3-f78c64a60b71"
+    },
+    {
+      "title": "MaaS-DBA/SRE发布于 2026-03-27MaaS平台部MaaS平台部|全职全职【岗位职责】1. 稳定性保障（核心）：负责MySQL、Redis等核心存储组件的稳定性，建设全方位的监控告警体系（Prometheus/Grafana），实现故障的早发现、快止损，保障MaaS平台在高并发场景下的99.99%可用性。2. 架构治理与演进： 主导数据库架构升级，包括读写分离、冷热分离、分库分表及异地多活（双活）容灾体系的建设。3. 深度调优与质量管控： 建立标准化的SQL审核与发布流程，负责慢 SQL 治理、大表治理及数据库参数深度调优，解决数据库性能瓶颈。4. 自动化平台建设： 基于SRE理念，开发数据库自动化运维平台（Python/Go），实现备份恢复、高可用切换、自动扩缩容及账号权限管理的自动化。5. 应急响应与预案： 负责突发故障（如宕机、带宽拥塞）的应急响应，制定并定期演练标准化恢复预案（SOP），降低故障平均恢复时间（MTTR）。6. 容量规划与成本管理： 结合业务增长模型进行容量预测与压测，优化资源利用率，制定降本增效策略。【岗位要求】1. 学历与经验： 本科及以上学历，计算机相关专业；3 年以上大规模互联网数据库管理（DBA）或 SRE 经验，有高并发、大流量系统保障经验者极佳。2. 数据库精通： 精通 MySQL 原理（InnoDB 引擎、事务锁机制、索引优化、主从复制），精通 Redis（集群模式、缓存一致性、热 Key/大 Key 处理）；熟悉其高可用架构（MHA/Orchestrator/Sentinel/Cluster）。3. SRE 与编程能力： 具备良好的编码能力，熟练掌握 Go/Python/Java 中至少一种语言（不仅仅是 Shell），有数据库中间件开发或自动化运维平台开发经验。4. 系统与网络： 深入理解 Linux 操作系统原理（IO、内存管理、网络协议栈），具备极强的线上故障排查能力（熟练使用 perf, tcpdump, strace 等工具）。5. 云原生与架构： 熟悉主流公有云（腾讯云/阿里云/AWS）数据库产品特性；了解 Kubernetes (K8s) 生态及数据库容器化技术者优先。6. 软素质： 具备极强的责任心和抗压能力（能接受 On-call），良好的沟通协作能力；具备“数据安全红线”意识。【加分项】1. 有TiDB等分布式数据库（NewSQL）大规模生产环境落地经验。2. 参与过跨地域双活/多活数据库架构设计与实施。【岗位职责】1. 稳定性保障（核心）：负责MySQL、Redis等核心存储组件的稳定性，建设全方位的监控告警体系（Prometheus/Grafana），实现故障的早发现、快止损，保障MaaS平台在高并发场景下的99.99%可用性。2. 架构治理与演进： 主导数据库架构升级，包括读写分离、冷热分离、分库分表及异地多活（双活）容灾体系的建设。3. 深度调优与质量管控： 建立标准化的SQL审核与发布流程，负责慢 SQL 治理、大表治理及数据库参数深度调优，解决数据库性能瓶颈。4. 自动化平台建设： 基于SRE理念，开发数据库自动化运维平台（Python/Go），实现备份恢复、高可用切换、自动扩缩容及账号权限管理的自动化。5. 应急响应与预案： 负责突发故障（如宕机、带宽拥塞）的应急响应，制定并定期演练标准化恢复预案（SOP），降低故障平均恢复时间（MTTR）。6. 容量规划与成本管理： 结合业务增长模型进行容量预测与压测，优化资源利用率，制定降本增效策略。【岗位要求】1. 学历与经验： 本科及以上学历，计算机相关专业；3 年以上大规模互联网数据库管理（DBA）或 SRE 经验，有高并发、大流量系统保障经验者极佳。2. 数据库精通： 精通 MySQL 原理（InnoDB 引擎、事务锁机制、索引优化、主从复制），精通 Redis（集群模式、缓存一致性、热 Key/大 Key 处理）；熟悉其高可用架构（MHA/Orchestrator/Sentinel/Cluster）。3. SRE 与编程能力： 具备良好的编码能力，熟练掌握 Go/Python/Java 中至少一种语言（不仅仅是 Shell），有数据库中间件开发或自动化运维平台开发经验。4. 系统与网络： 深入理解 Linux 操作系统原理（IO、内存管理、网络协议栈），具备极强的线上故障排查能力（熟练使用 perf, tcpdump, strace 等工具）。5. 云原生与架构： 熟悉主流公有云（腾讯云/阿里云/AWS）数据库产品特性；了解 Kubernetes (K8s) 生态及数据库容器化技术者优先。6. 软素质： 具备极强的责任心和抗压能力（能接受 On-call），良好的沟通协作能力；具备“数据安全红线”意识。【加分项】1. 有TiDB等分布式数据库（NewSQL）大规模生产环境落地经验。2. 参与过跨地域双活/多活数据库架构设计与实施。立即投递",
+      "jobId": "86760e9d-0049-4ad2-9ecd-1af3f08b2841"
+    },
+    {
+      "title": "MaaS-AI Native 研发工程师（后端 / 全栈 / 平台）发布于 2026-03-27MaaS平台部MaaS平台部|全职全职我们相信，AI 正在重构软件研发的生产方式，也会重塑下一代工程师的能力边界。如果你已经高频使用 Claude Code、Codex、Trae 这类工具做日常研发，不给自己设边界，也有产品 sense，这个岗位会很适合你。你会做的事用 AI 编程工具覆盖日常开发流程，完成需求实现、调试、测试、重构和上线负责业务系统、平台能力或核心模块的持续迭代把 AI 用法沉淀成可复用的 rules、skills、脚本、模板或工作流和产品、设计、测试一起把需求更快做出来、做上线我们会优先聊这样的人在真实项目里长期高频使用 AI coding 工具，并且已经形成自己的工作流能具体讲清楚自己平时怎么用 AI 做开发，包括怎么给上下文、怎么拆任务、怎么验证结果能在面试里直接展示自己的日常 AI 工作台，比如常用工具链、rules、prompt 模板、skills 目录、自动化脚本等有可展示的相关作品，比如开源项目、Agent Demo、效率工具、自动化流程、技术博客、公开分享不只会“让 AI 出代码”，也会自己做验证，能用测试、日志、运行结果、代码审查去确认东西真的可用熟悉至少一种主流开发语言，比如 Python、Go、Java、TypeScript、Rust如果你愿意，投递时欢迎直接附上：GitHub / 个人主页代表性 AI 项目你常用的 AI Agent 工作流或工具链说明你自己的 rules、skills、脚本或工作台截图我们相信，AI 正在重构软件研发的生产方式，也会重塑下一代工程师的能力边界。如果你已经高频使用 Claude Code、Codex、Trae 这类工具做日常研发，不给自己设边界，也有产品 sense，这个岗位会很适合你。你会做的事用 AI 编程工具覆盖日常开发流程，完成需求实现、调试、测试、重构和上线负责业务系统、平台能力或核心模块的持续迭代把 AI 用法沉淀成可复用的 rules、skills、脚本、模板或工作流和产品、设计、测试一起把需求更快做出来、做上线我们会优先聊这样的人在真实项目里长期高频使用 AI coding 工具，并且已经形成自己的工作流能具体讲清楚自己平时怎么用 AI 做开发，包括怎么给上下文、怎么拆任务、怎么验证结果能在面试里直接展示自己的日常 AI 工作台，比如常用工具链、rules、prompt 模板、skills 目录、自动化脚本等有可展示的相关作品，比如开源项目、Agent Demo、效率工具、自动化流程、技术博客、公开分享不只会“让 AI 出代码”，也会自己做验证，能用测试、日志、运行结果、代码审查去确认东西真的可用熟悉至少一种主流开发语言，比如 Python、Go、Java、TypeScript、Rust如果你愿意，投递时欢迎直接附上：GitHub / 个人主页代表性 AI 项目你常用的 AI Agent 工作流或工具链说明你自己的 rules、skills、脚本或工作台截图立即投递",
+      "jobId": "cbeaf677-5a40-4a9e-8dd9-bcfd3a7abacf"
+    },
+    {
+      "title": "MaaS-平台产品专家发布于 2026-03-27MaaS平台部MaaS平台部|全职全职岗位方向一（平台风控策略方向）【岗位描述】1.根据业务发展及风控能力提升的需要，规划风控系统策略管理的框架并进行持续优化，推动系统策略管理工具的升级；2.负责风控域的对抗（包括但不限于薅羊毛、算力保护、账号安全等），对用户数据进行深度挖掘分析，生产对抗策略，保护公司资产安全；3.探索并制定风险指标，进行日常监控、输出分析报告供业务侧深度了解业务风险，推动业务流程优化；4.有大模型相关风控经验加分。【职位要求】1.计算机（机器学习、人工智能等方向）、数学、统计、信息技术等专业本科以上学历；2.三年或以上互联网、电商、零售或金融等行业，从事风控、数据分析等工作经验优先；3.熟练使用 SQL、Python 进行数据分析建模；4.思维敏捷，能快速理解业务方意图，有丰富的数据分析、挖掘的经验，可快速响应业务、政策、产品迭代需求。方向二：平台产品经理【岗位描述】1、主导大模型开放平台核心功能迭代，包括模型推理服务、推理增强工具、模型精调工具及平台基础设施等关键模块的产品规划与实施2、深度挖掘客户与开发者需求，制定平台产品战略与路线图，通过创新产品设计加速大模型技术的规模化落地3、基于用户调研和数据分析，持续优化平台一站式开发体验，提升开发效率，降低AI应用开发门槛4、深入分析行业场景需求，针对大模型应用场景进行创新思考，主导AI场景化平台产品的规划与设计【职位要求】1、本科及以上学历，具备AI、云计算等领域产品经验；拥有AI平台、开发者工具或B端企业服务产品经验者优先2、卓越的数据分析能力和客户沟通技巧，精通API调用、SDK集成等开发者工具设计原理与最佳实践3、自驱力强，对AI前沿技术趋势保持高度敏感，善于探索创新应用场景，能积极推动产品与业务的创新升级4、出色的逻辑思维和业务抽象能力，能迅速抓住问题本质，思维敏捷，具备卓越的理解力和学习能力我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性岗位方向一（平台风控策略方向）【岗位描述】1.根据业务发展及风控能力提升的需要，规划风控系统策略管理的框架并进行持续优化，推动系统策略管理工具的升级；2.负责风控域的对抗（包括但不限于薅羊毛、算力保护、账号安全等），对用户数据进行深度挖掘分析，生产对抗策略，保护公司资产安全；3.探索并制定风险指标，进行日常监控、输出分析报告供业务侧深度了解业务风险，推动业务流程优化；4.有大模型相关风控经验加分。【职位要求】1.计算机（机器学习、人工智能等方向）、数学、统计、信息技术等专业本科以上学历；2.三年或以上互联网、电商、零售或金融等行业，从事风控、数据分析等工作经验优先；3.熟练使用 SQL、Python 进行数据分析建模；4.思维敏捷，能快速理解业务方意图，有丰富的数据分析、挖掘的经验，可快速响应业务、政策、产品迭代需求。方向二：平台产品经理【岗位描述】1、主导大模型开放平台核心功能迭代，包括模型推理服务、推理增强工具、模型精调工具及平台基础设施等关键模块的产品规划与实施2、深度挖掘客户与开发者需求，制定平台产品战略与路线图，通过创新产品设计加速大模型技术的规模化落地3、基于用户调研和数据分析，持续优化平台一站式开发体验，提升开发效率，降低AI应用开发门槛4、深入分析行业场景需求，针对大模型应用场景进行创新思考，主导AI场景化平台产品的规划与设计【职位要求】1、本科及以上学历，具备AI、云计算等领域产品经验；拥有AI平台、开发者工具或B端企业服务产品经验者优先2、卓越的数据分析能力和客户沟通技巧，精通API调用、SDK集成等开发者工具设计原理与最佳实践3、自驱力强，对AI前沿技术趋势保持高度敏感，善于探索创新应用场景，能积极推动产品与业务的创新升级4、出色的逻辑思维和业务抽象能力，能迅速抓住问题本质，思维敏捷，具备卓越的理解力和学习能力我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "64d509a8-7b0b-4b96-b17a-33fa138dc3ef"
+    },
+    {
+      "title": "MaaS-生态运营/BD发布于 2026-03-27MaaS生态部MaaS生态部|全职全职职位描述职位定位：本岗位主要负责构建围绕MaaS平台的全产业链生态。通过打通算力、硬件、云平台及行业解决方案，实现模型能力的无缝集成与规模化营销，持续扩大模型在 AI 原生时代的市场影响力。一、核心职责1、云服务商战略协同-负责与国内主流 云计算平台（Public Cloud） 建立战略合作伙伴关系，推动MaaS产品在各云生态位（Model Hub/计算巢等）的标准化上架与深度集成。-设计并执行基于云端的 MaaS API 分销机制，协调跨平台的流量导入与商业分成模式。2、软硬一体化生态打通-联动算力及芯片厂商，推动大模型在多元异构算力环境下的底层适配与性能优化。-联合开发“算力+模型”的深度融合方案，确保模型在复杂基础设施环境下的卓越表现。3、行业方案与分销体系-拓展并管理高质量集成商（SI）及行业软件服务商（ISV），将模型能力植入垂直行业场景。-构建可持续发展的代理与分销体系，通过生态力量加速 MaaS 服务的市场渗透。4、项目全生命周期管理负责从潜在伙伴筛选、商务谈判、技术对接协调到最终落地运营的全流程闭环。二、 任职要求1、行业经验： 2年以上 ICT、云计算或人工智能领域从业背景，对 MaaS (模型即服务) 商业模式有深刻理解。2、资源整合力： 具备跨行业合作的敏锐度，能够精准识别各方利益诉求，并将其转化为可落地、可闭环的商业方案。3、应用场景洞察：具备丰富大模型API应用经验，能够识别TOP API应用场景和范式。4、技术敏锐度： 熟悉大模型产业链上下游逻辑，对算力调度、API 调用规范及云原生架构有基本认知，能与技术团队高效对齐。5、沟通影响力： 具备卓越的商务谈判与提案能力，能够代表公司参与高规格行业对话。职位描述职位定位：本岗位主要负责构建围绕MaaS平台的全产业链生态。通过打通算力、硬件、云平台及行业解决方案，实现模型能力的无缝集成与规模化营销，持续扩大模型在 AI 原生时代的市场影响力。一、核心职责1、云服务商战略协同-负责与国内主流 云计算平台（Public Cloud） 建立战略合作伙伴关系，推动MaaS产品在各云生态位（Model Hub/计算巢等）的标准化上架与深度集成。-设计并执行基于云端的 MaaS API 分销机制，协调跨平台的流量导入与商业分成模式。2、软硬一体化生态打通-联动算力及芯片厂商，推动大模型在多元异构算力环境下的底层适配与性能优化。-联合开发“算力+模型”的深度融合方案，确保模型在复杂基础设施环境下的卓越表现。3、行业方案与分销体系-拓展并管理高质量集成商（SI）及行业软件服务商（ISV），将模型能力植入垂直行业场景。-构建可持续发展的代理与分销体系，通过生态力量加速 MaaS 服务的市场渗透。4、项目全生命周期管理负责从潜在伙伴筛选、商务谈判、技术对接协调到最终落地运营的全流程闭环。二、 任职要求1、行业经验： 2年以上 ICT、云计算或人工智能领域从业背景，对 MaaS (模型即服务) 商业模式有深刻理解。2、资源整合力： 具备跨行业合作的敏锐度，能够精准识别各方利益诉求，并将其转化为可落地、可闭环的商业方案。3、应用场景洞察：具备丰富大模型API应用经验，能够识别TOP API应用场景和范式。4、技术敏锐度： 熟悉大模型产业链上下游逻辑，对算力调度、API 调用规范及云原生架构有基本认知，能与技术团队高效对齐。5、沟通影响力： 具备卓越的商务谈判与提案能力，能够代表公司参与高规格行业对话。立即投递",
+      "jobId": "f0033301-abbe-4d71-980c-53422f1c61b1"
+    },
+    {
+      "title": "MaaS-资深UI设计师发布于 2026-03-27MaaS平台部MaaS平台部|全职全职职位描述：1、负责b端大模型产品的设计工作，根据产品业务目标，完成高质量的设计方案；2、主导公司产品ui和ux设计，有较高的审美能力，重视设计细节；设计并输出产品相关的页面、图标、动画等；3、理解业务需求，对产品进行持续优化，提升产品的可用性、易用性和美观度；4、与产品开发团队紧密配合，跟进设计开发实现效果，确保设计还原度。职位要求：1、本科及以上学历，美术、设计相关专业优先，3年以上工作经历，熟练掌握UI设计软件，了解设计规范和用户体验原则；2、设计基本功扎实，优秀的设计审美能力，注重细节，对色彩、布局、字体等有一定见解，能够把握流行趋势；3、具备良好的项目管理和沟通能力，能在快节奏的工作环境中独立推进项目进度，同时能承受一定的工作压力；5、具备三维和动效能力者优先。职位描述：1、负责b端大模型产品的设计工作，根据产品业务目标，完成高质量的设计方案；2、主导公司产品ui和ux设计，有较高的审美能力，重视设计细节；设计并输出产品相关的页面、图标、动画等；3、理解业务需求，对产品进行持续优化，提升产品的可用性、易用性和美观度；4、与产品开发团队紧密配合，跟进设计开发实现效果，确保设计还原度。职位要求：1、本科及以上学历，美术、设计相关专业优先，3年以上工作经历，熟练掌握UI设计软件，了解设计规范和用户体验原则；2、设计基本功扎实，优秀的设计审美能力，注重细节，对色彩、布局、字体等有一定见解，能够把握流行趋势；3、具备良好的项目管理和沟通能力，能在快节奏的工作环境中独立推进项目进度，同时能承受一定的工作压力；5、具备三维和动效能力者优先。立即投递",
+      "jobId": "910bb657-6af5-427c-b5e5-5979ef9bf93f"
+    },
+    {
+      "title": "MaaS-数据开发工程师（风控）发布于 2026-03-27MaaS平台部MaaS平台部|全职全职职位描述：1. 负责大模型业务风控数据体系建设，支撑反作弊、反欺诈攻防策略场景，构建高质量、可复用的数据资产，保障数据时效性与准确性。2. 参与实时数仓与特征工程架构设计，覆盖日志接入、非结构化数据处理、特征计算、策略引擎等关键链路，快速响应黑产变化。3. 使用Java/Python开发高效数据处理模块，优化流式计算资源利用率，推动数据治理与工程化实践（CI/CD、单元测试、性能调优）。4. 与算法、安全团队紧密协作，深入理解攻防逻辑，从数据视角主动发现风险并推动策略迭代。任职要求：1. 本科及以上学历，3年以上数据开发经验，有风控/反作弊/反欺诈领域实战经验，对异常数据敏感。2. 熟练掌握Java或Python，精通大数据技术栈，具备扎实的编码能力与工程能力（代码规范、测试、调优、CI/CD），能独立维护高质量数据处理模块。3. 精通离线&实时计算技术栈（Spark/Flink/Kafka），有海量数据实时处理及调优经验；熟悉OLAP引擎（ClickHouse/Doris），能进行数据建模与查询优化。4. 具备非结构化/半结构化数据解析经验（文本、JSON、XML、日志），熟练使用正则表达式、UDF等技术处理脏数据、乱码等问题。加分项：1. 有爬虫数据处理经验，熟悉爬虫数据的清洗、解析、结构化流程。2. 有AI风控实战经验：如用户行为序列建模、图算法、NLP文本风险识别、智能体辅助策略分析等。3. 了解图数据库（Neo4j/HugeGraph）或向量数据库（Milvus/FAISS）。4. 有从0到1搭建风控数据体系经验，具备架构思维和快速响应能力。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性职位描述：1. 负责大模型业务风控数据体系建设，支撑反作弊、反欺诈攻防策略场景，构建高质量、可复用的数据资产，保障数据时效性与准确性。2. 参与实时数仓与特征工程架构设计，覆盖日志接入、非结构化数据处理、特征计算、策略引擎等关键链路，快速响应黑产变化。3. 使用Java/Python开发高效数据处理模块，优化流式计算资源利用率，推动数据治理与工程化实践（CI/CD、单元测试、性能调优）。4. 与算法、安全团队紧密协作，深入理解攻防逻辑，从数据视角主动发现风险并推动策略迭代。任职要求：1. 本科及以上学历，3年以上数据开发经验，有风控/反作弊/反欺诈领域实战经验，对异常数据敏感。2. 熟练掌握Java或Python，精通大数据技术栈，具备扎实的编码能力与工程能力（代码规范、测试、调优、CI/CD），能独立维护高质量数据处理模块。3. 精通离线&实时计算技术栈（Spark/Flink/Kafka），有海量数据实时处理及调优经验；熟悉OLAP引擎（ClickHouse/Doris），能进行数据建模与查询优化。4. 具备非结构化/半结构化数据解析经验（文本、JSON、XML、日志），熟练使用正则表达式、UDF等技术处理脏数据、乱码等问题。加分项：1. 有爬虫数据处理经验，熟悉爬虫数据的清洗、解析、结构化流程。2. 有AI风控实战经验：如用户行为序列建模、图算法、NLP文本风险识别、智能体辅助策略分析等。3. 了解图数据库（Neo4j/HugeGraph）或向量数据库（Milvus/FAISS）。4. 有从0到1搭建风控数据体系经验，具备架构思维和快速响应能力。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "b5c02df3-a633-43bc-98b0-697b6f9df17a"
+    },
+    {
+      "title": "MaaS-产品解决方案架构师（PDSA）发布于 2026-03-27MaaS平台部MaaS平台部|全职全职职位描述：1、负责开发者Maas平台的产品解决方案的开发和标准化工作，提供从售前到交付全流程解决方案支撑；2、对接Maas平台头部客户，快速捕捉客户需求，科举客户需求制定针对性的解决方案，发挥Maas平台在竞争中的优势；3、沉淀面向细分领域/场景的LLM架构模板、最佳实践、细分领域案例等知识文档，包括不限于场景应用、模型微调等材料；并提炼行业典型场景，总结并推广行业打法和解决方案4、将客户对于产品相关业务共性需求，适时准确的反馈到产品研发团队，并负责最终所提改进需求在产品中的实现效果，推动Maas平台产品能力提升；5、策划面向商业解决方案团队的培训，开发培训课程，担任讲师，提升商业解决方案加爵方案在垂直领域的架构设计和解决方案编制能力。职位要求：1、大学本科及以上学历，计算机或者相关专业，5年以上工作经验；2、具备4 年以上AI相关领域的解决方案架构设计/工程开发/交付实施经验，具备良好的客户调研把握能力、业务模型分析能力；3、有强烈的创新意愿和快速的学习适应能力，愿意从事前瞻性的工作；4、优秀的沟通协调能力、文档编写能力、演讲能力、逻辑思维能力和人际关系能力；5、有Ownership，良好的客户服务意识，善于团队协作，项目管理，主动思考，自我驱动力量。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性职位描述：1、负责开发者Maas平台的产品解决方案的开发和标准化工作，提供从售前到交付全流程解决方案支撑；2、对接Maas平台头部客户，快速捕捉客户需求，科举客户需求制定针对性的解决方案，发挥Maas平台在竞争中的优势；3、沉淀面向细分领域/场景的LLM架构模板、最佳实践、细分领域案例等知识文档，包括不限于场景应用、模型微调等材料；并提炼行业典型场景，总结并推广行业打法和解决方案4、将客户对于产品相关业务共性需求，适时准确的反馈到产品研发团队，并负责最终所提改进需求在产品中的实现效果，推动Maas平台产品能力提升；5、策划面向商业解决方案团队的培训，开发培训课程，担任讲师，提升商业解决方案加爵方案在垂直领域的架构设计和解决方案编制能力。职位要求：1、大学本科及以上学历，计算机或者相关专业，5年以上工作经验；2、具备4 年以上AI相关领域的解决方案架构设计/工程开发/交付实施经验，具备良好的客户调研把握能力、业务模型分析能力；3、有强烈的创新意愿和快速的学习适应能力，愿意从事前瞻性的工作；4、优秀的沟通协调能力、文档编写能力、演讲能力、逻辑思维能力和人际关系能力；5、有Ownership，良好的客户服务意识，善于团队协作，项目管理，主动思考，自我驱动力量。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "651cc020-4402-463c-81b1-83c2bdf5b4c8"
+    },
+    {
+      "title": "MaaS-服务体验运营专家发布于 2026-03-27MaaS平台部MaaS平台部|全职全职职位描述岗位职责1、客服流程体系搭建-梳理并优化现有服务流程和SOP，提升服务效率-搭建多渠道服务体系（工单系统/在线客服/企业微信/400电话等），确保服务标准和体验统一-建立服务SLA标准和监控预警机制，持续提升响应时效、首次解决率、满意度等核心指标2、客服团队建设与管理-负责现有客服团队的管理和优化，提升团队整体服务能力-制定客服人员的培养计划和晋升路径，关注团队成员成长-建立绩效考核体系，平衡效率指标（响应时长、接单量）和质量指标（满意度、解决率）-控制团队流失率，打造高服务标准、高凝聚力的专业团队3、用户体验研究与分析-负责智谱开放平台开发者用户的全链路体验研究，搭建用户洞察体系-通过用户访谈、问卷调查等方式，深度挖掘开发者在使用过程中的痛点和需求-输出用户画像、用户体验地图、服务触点分析等报告，为产品优化提供决策依据-建立用户反馈的闭环管理机制，确保问题可追溯、可落地、有回访4、产品体验优化驱动-将客服数据和用户反馈转化为产品需求，与产品/技术团队协同推动优化落地-建立客服数据与产品体验的关联分析框架，识别高频问题、瓶颈环节、体验断点-参与产品评审和体验验收，从用户视角对API文档、SDK、控制台等提供优化建议-主导跨部门体验优化项目，确保开发者的声音有效传递到产品迭代职位要求任职要求1、本科及以上学历，5年以上服务运营/用户体验/客服管理经验2、有开发者服务、To B SaaS、云服务经验者优先3、掌握用户研究方法论，有独立开展用研项目的经验4、具备服务蓝图设计、业务流程梳理、SOP编写能力5、能从客服数据中提炼问题、分析根因、量化改进效果（熟练使用Excel/SQL等）6、具备优秀的跨部门沟通协调能力，能有效推动产品和技术团队解决问题职位描述岗位职责1、客服流程体系搭建-梳理并优化现有服务流程和SOP，提升服务效率-搭建多渠道服务体系（工单系统/在线客服/企业微信/400电话等），确保服务标准和体验统一-建立服务SLA标准和监控预警机制，持续提升响应时效、首次解决率、满意度等核心指标2、客服团队建设与管理-负责现有客服团队的管理和优化，提升团队整体服务能力-制定客服人员的培养计划和晋升路径，关注团队成员成长-建立绩效考核体系，平衡效率指标（响应时长、接单量）和质量指标（满意度、解决率）-控制团队流失率，打造高服务标准、高凝聚力的专业团队3、用户体验研究与分析-负责智谱开放平台开发者用户的全链路体验研究，搭建用户洞察体系-通过用户访谈、问卷调查等方式，深度挖掘开发者在使用过程中的痛点和需求-输出用户画像、用户体验地图、服务触点分析等报告，为产品优化提供决策依据-建立用户反馈的闭环管理机制，确保问题可追溯、可落地、有回访4、产品体验优化驱动-将客服数据和用户反馈转化为产品需求，与产品/技术团队协同推动优化落地-建立客服数据与产品体验的关联分析框架，识别高频问题、瓶颈环节、体验断点-参与产品评审和体验验收，从用户视角对API文档、SDK、控制台等提供优化建议-主导跨部门体验优化项目，确保开发者的声音有效传递到产品迭代职位要求任职要求1、本科及以上学历，5年以上服务运营/用户体验/客服管理经验2、有开发者服务、To B SaaS、云服务经验者优先3、掌握用户研究方法论，有独立开展用研项目的经验4、具备服务蓝图设计、业务流程梳理、SOP编写能力5、能从客服数据中提炼问题、分析根因、量化改进效果（熟练使用Excel/SQL等）6、具备优秀的跨部门沟通协调能力，能有效推动产品和技术团队解决问题立即投递",
+      "jobId": "89406218-f09a-441e-b4b7-2b6a15e441bc"
+    },
+    {
+      "title": "MaaS-大客户技术服务经理发布于 2026-03-27MaaS平台部MaaS平台部|全职全职职位描述【岗位职责】1. 售后服务管理：作为智谱MaaS战略客户售后第一责任人，全面负责客户售后技术服务与关系维护，深入理解客户AI业务场景，与技术支持团队配合落地项目交付、主动运维、质量管控与风险治理；总结智谱AI产品（大模型API、AI推理服务、AI工具链等）在客户实际场景中的最佳实践，沉淀可复用的行业AI服务案例，助力客户实现AI应用价值最大化，夯实客户留存基础，推动老客户续约与转介绍。2. 问题闭环与客户满意度提升：主动对接大客户KP，建立常态化沟通机制，及时响应客户在AI产品及服务使用过程中的核心问题（如模型效果优化、推理性能、AI安全合规等），快速协调内部技术团队（AI算法、产品、研发）协作解决，形成问题闭环；深度挖掘客户在AI驱动复杂业务场景（如AI Agent部署、大模型微调落地等）下的核心诉求与潜在需求，结合客户业务痛点输出针对性技术服务建议；追踪客户关键业务稳定性问题，协助客户完成治理优化，持续提升客户产品使用体验与满意度，规避客户流失风险，超越客户服务预期；负责设计应急预案，推动故障快速修复和复盘。3. AI创新落地与增购商机挖掘：充分了解客户AI应用场景需求和AI发展规划，运用AI大模型与平台工具，挖掘客户长期技术服务需求与增购商机，助力客户价值升级与公司业绩增长。4. 跨团队协作与交付保障：联动销售、售前、运维、研发等跨部门团队，高效推进大模型落地，确保交付质量与进度符合客户预期；从客户架构与价值视角出发，开展问题处置、护航保障与风险治理，沉淀输出行业最佳实践及工具产品，主动为大客户提供专项高阶技术服务，强化客户合作粘性。5. 抽象客户需求到模型能力：深度了解、挖掘并沉淀客户场景业务需求，精准解读其AI数字化转型诉求，为模型迭代提供有效输入。职位要求【职位要求】1. 学历与专业：本科及以上学历，计算机、人工智能、数据科学、信息技术、工程等相关专业优先；具备客户成功、大客户服务相关意识，理解B端大客户服务逻辑。2. 技术能力与经验：5年以上企业开发、运维、方案架构设计经验，其中至少1-2年AI相关项目（如大模型应用、AI Agent开发、机器学习）经验；熟悉JAVA、Python、GO中至少一门开发语言，熟悉常见中间件（如Redis、Nacos、Kafka等），有2年以上软件开发经验优先，能快速处理客户技术相关问题。3. 其他技术要求：对业务场景容灾、高可用系统架构及AI算力集群架构有深入理解，能快速响应客户技术需求。具备公有云、多云管理、容器、微服务、数据库、分布式存储等多方向交付运维经验；熟悉云计算产品（计算、存储、网络、数据库等）与技术原理，并有实操经验，能为客户提供专业技术支撑。了解AI infra、AI Agent等前沿技术应用者优先，能助力客户AI创新落地。4. 项目管理和团队协作经验：善于推动跨部门复杂AI项目实施（如跨算法、研发、产品团队的大模型落地项目），具备较强的资源整合能力；能够独立承担大客户项目，为客户提供全流程技术解决方案，保障项目落地与客户价值实现。5. 客户服务与沟通能力：具备优秀的客户成功思维，能够对话客户关键决策；擅长持续深度服务大客户，敏锐把控客户AI相关需求与新商机，协助销售拓展业务、推动续约增购；具备优秀的沟通表达、呈现与逻辑思维能力，有极强的服务意识和协作意识，责任心强；具备优秀的文档编写、演讲及技术培训能力，能输出专业的客户汇报材料，传递产品与服务价值。6. 其他要求：能够适应定期客户拜访或长期驻场，具备较强的抗压能力和执行力，高效响应客户需求。三、【加分项】1. 熟悉大模型开发框架（LangChain、Spring AI等），有提示词调优、大模型微调、RAG应用构建、大模型Agent开发等经验；有基于智谱相关平台构建大模型应用经验者优先，能更好适配公司产品服务客户2. 有客户成功经理、大客户技术服务、售前售后支撑相关工作经验者优先，熟悉B端大客户全生命周期管理流程。3. 有ACP（阿里云认证工程师）、ACE（阿里云认证专家）、RHCE & RHCSA、华为云HCIP&HCIE、ITIL、PMP等相关认证和实战经验者优先，能更好为客户提供专业技术服务。4. 有2年以上泛娱乐、零售、金融、教育等行业大型互联网或集团型企业应用的解决方案、架构设计、DevOps、AIOps、高可用改造经验者优先，能快速适配行业客户需求。5. 具备优秀的客户需求挖掘、续约谈判技巧，有成功推动大客户续约、增购的案例者优先。职位描述【岗位职责】1. 售后服务管理：作为智谱MaaS战略客户售后第一责任人，全面负责客户售后技术服务与关系维护，深入理解客户AI业务场景，与技术支持团队配合落地项目交付、主动运维、质量管控与风险治理；总结智谱AI产品（大模型API、AI推理服务、AI工具链等）在客户实际场景中的最佳实践，沉淀可复用的行业AI服务案例，助力客户实现AI应用价值最大化，夯实客户留存基础，推动老客户续约与转介绍。2. 问题闭环与客户满意度提升：主动对接大客户KP，建立常态化沟通机制，及时响应客户在AI产品及服务使用过程中的核心问题（如模型效果优化、推理性能、AI安全合规等），快速协调内部技术团队（AI算法、产品、研发）协作解决，形成问题闭环；深度挖掘客户在AI驱动复杂业务场景（如AI Agent部署、大模型微调落地等）下的核心诉求与潜在需求，结合客户业务痛点输出针对性技术服务建议；追踪客户关键业务稳定性问题，协助客户完成治理优化，持续提升客户产品使用体验与满意度，规避客户流失风险，超越客户服务预期；负责设计应急预案，推动故障快速修复和复盘。3. AI创新落地与增购商机挖掘：充分了解客户AI应用场景需求和AI发展规划，运用AI大模型与平台工具，挖掘客户长期技术服务需求与增购商机，助力客户价值升级与公司业绩增长。4. 跨团队协作与交付保障：联动销售、售前、运维、研发等跨部门团队，高效推进大模型落地，确保交付质量与进度符合客户预期；从客户架构与价值视角出发，开展问题处置、护航保障与风险治理，沉淀输出行业最佳实践及工具产品，主动为大客户提供专项高阶技术服务，强化客户合作粘性。5. 抽象客户需求到模型能力：深度了解、挖掘并沉淀客户场景业务需求，精准解读其AI数字化转型诉求，为模型迭代提供有效输入。职位要求【职位要求】1. 学历与专业：本科及以上学历，计算机、人工智能、数据科学、信息技术、工程等相关专业优先；具备客户成功、大客户服务相关意识，理解B端大客户服务逻辑。2. 技术能力与经验：5年以上企业开发、运维、方案架构设计经验，其中至少1-2年AI相关项目（如大模型应用、AI Agent开发、机器学习）经验；熟悉JAVA、Python、GO中至少一门开发语言，熟悉常见中间件（如Redis、Nacos、Kafka等），有2年以上软件开发经验优先，能快速处理客户技术相关问题。3. 其他技术要求：对业务场景容灾、高可用系统架构及AI算力集群架构有深入理解，能快速响应客户技术需求。具备公有云、多云管理、容器、微服务、数据库、分布式存储等多方向交付运维经验；熟悉云计算产品（计算、存储、网络、数据库等）与技术原理，并有实操经验，能为客户提供专业技术支撑。了解AI infra、AI Agent等前沿技术应用者优先，能助力客户AI创新落地。4. 项目管理和团队协作经验：善于推动跨部门复杂AI项目实施（如跨算法、研发、产品团队的大模型落地项目），具备较强的资源整合能力；能够独立承担大客户项目，为客户提供全流程技术解决方案，保障项目落地与客户价值实现。5. 客户服务与沟通能力：具备优秀的客户成功思维，能够对话客户关键决策；擅长持续深度服务大客户，敏锐把控客户AI相关需求与新商机，协助销售拓展业务、推动续约增购；具备优秀的沟通表达、呈现与逻辑思维能力，有极强的服务意识和协作意识，责任心强；具备优秀的文档编写、演讲及技术培训能力，能输出专业的客户汇报材料，传递产品与服务价值。6. 其他要求：能够适应定期客户拜访或长期驻场，具备较强的抗压能力和执行力，高效响应客户需求。三、【加分项】1. 熟悉大模型开发框架（LangChain、Spring AI等），有提示词调优、大模型微调、RAG应用构建、大模型Agent开发等经验；有基于智谱相关平台构建大模型应用经验者优先，能更好适配公司产品服务客户2. 有客户成功经理、大客户技术服务、售前售后支撑相关工作经验者优先，熟悉B端大客户全生命周期管理流程。3. 有ACP（阿里云认证工程师）、ACE（阿里云认证专家）、RHCE & RHCSA、华为云HCIP&HCIE、ITIL、PMP等相关认证和实战经验者优先，能更好为客户提供专业技术服务。4. 有2年以上泛娱乐、零售、金融、教育等行业大型互联网或集团型企业应用的解决方案、架构设计、DevOps、AIOps、高可用改造经验者优先，能快速适配行业客户需求。5. 具备优秀的客户需求挖掘、续约谈判技巧，有成功推动大客户续约、增购的案例者优先。立即投递",
+      "jobId": "52f80efa-ed3d-4742-8716-1ddb97a1762a"
+    },
+    {
+      "title": "MaaS-测试开发工程师发布于 2026-03-27MaaS平台部MaaS平台部|全职全职|算法研究算法研究|北京市北京市职位描述：1、主要负责maas相关业务质量保障和质效建设工作;2、根据产品设计或需求，进行需求分析，制定测试计划、风险评估、设计测试数据和测试用例，执行测试用例，准确定位并追踪问题等;3、对线上问题进行持续追踪，并从中得出一些优化监控、提升测试方案等的改进措施;4、对产品提出改进建议以建立极致的用户感受，对项目提出改进建议以提高项目整体效率;5、在项目中保持和产品经理、开发工程师、用户等积极有效沟通，推动问题及时合理地解决，并保持总结问题;6、对现有测试方案进行改进，提升测试质量和效率。包括但不限于测试流程改进、测试创新、新的测试方式引入等。加分要求:1、对测试对象有比较深刻的理解，能针对性的给出测试方案，并识别重难点，有测试主见，2、有安全性、稳定性、资金安全等领域质量保障经验;3、熟悉并掌握Kafka、redis、MQ、k8s、容器等工作原理;4、有测试工具或平台开发经验任职要求1、本科以上(包含本科)学历;2、熟悉Java/Python中至少一种语言及其相关技术栈，熟悉jetbrains，vscode等开发工具，有独立完成脚本开发的能力，熟悉Linux常用命令，熟悉Linux、Shell编程，熟悉MySQL相关操作，3、精通功能测试方法和设计，掌握接口及自动化测试、性能测试、持续集成等测试保障手段;4、具有良好的沟通能力和团队合作精神、快速的学习能力、思维敏捷、逻辑清晰、执行力强、工作责任心强、抗压能力强、踏实进取。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性职位描述：1、主要负责maas相关业务质量保障和质效建设工作;2、根据产品设计或需求，进行需求分析，制定测试计划、风险评估、设计测试数据和测试用例，执行测试用例，准确定位并追踪问题等;3、对线上问题进行持续追踪，并从中得出一些优化监控、提升测试方案等的改进措施;4、对产品提出改进建议以建立极致的用户感受，对项目提出改进建议以提高项目整体效率;5、在项目中保持和产品经理、开发工程师、用户等积极有效沟通，推动问题及时合理地解决，并保持总结问题;6、对现有测试方案进行改进，提升测试质量和效率。包括但不限于测试流程改进、测试创新、新的测试方式引入等。加分要求:1、对测试对象有比较深刻的理解，能针对性的给出测试方案，并识别重难点，有测试主见，2、有安全性、稳定性、资金安全等领域质量保障经验;3、熟悉并掌握Kafka、redis、MQ、k8s、容器等工作原理;4、有测试工具或平台开发经验任职要求1、本科以上(包含本科)学历;2、熟悉Java/Python中至少一种语言及其相关技术栈，熟悉jetbrains，vscode等开发工具，有独立完成脚本开发的能力，熟悉Linux常用命令，熟悉Linux、Shell编程，熟悉MySQL相关操作，3、精通功能测试方法和设计，掌握接口及自动化测试、性能测试、持续集成等测试保障手段;4、具有良好的沟通能力和团队合作精神、快速的学习能力、思维敏捷、逻辑清晰、执行力强、工作责任心强、抗压能力强、踏实进取。我们期待你：-AI 编程实践者 — 你不仅仅是了解 AI 工具；你已经将它们融入工作日常。精通 Cursor、Claude Code 等平台是必备条件，AI 需深度整合进你的日常开发工作流。-经过验证的价值创造者 — 你已使用 Vibe Coding 方法论交付过真实产品。你能够清晰阐述 AI 如何加速你从概念到生产的过程，并展示可衡量的影响。-加分项 — 拥有 GLM 系列模型（ChatGLM/CodeGeeX）的实战经验，深入理解国产大语言模型在编程场景中的特性。(https://bigmodel.cn/)你将收获：-与同样热爱 AI Coding 的团队共事-第一时间体验和应用最新的 AI 编程工具-探索 AI 原生开发模式的更多可能性立即投递",
+      "jobId": "55350977-266f-4481-bac5-9ed2bb4d9eb1"
+    },
+    {
+      "title": "MaaS-技术支持工程师发布于 2026-03-19MaaS平台部MaaS平台部|全职全职|北京市北京市【岗位职责】一、深度技术支持与专家级问题解决快速响应并协助客户解决在使用大型模型API服务过程中的各类技术问题作为技术专家，处理复杂的模型相关技术难题，提供专家级解决方案二、模型技术深度支持与研发团队紧密对接，深入处理客户关于模型效果优化的问题负责BadCase的深度排查与分析，提供根因分析和改进建议处理模型性能异常（如降智、输出不稳定等）的深入问题定位与解决为客户提供模型调优、Prompt工程等高级技术指导三、AI编码工具专家支持精通Claude Code，作为核心能力，深入理解其架构、功能特性及最佳实践熟悉多种主流AI编码工具（如Cursor、Copilot、Cody等），为客户提供全面的编码辅助工具技术支持掌握各类AI编码工具与不同IDE（VSCode、JetBrains系列、vim/neovim等）的集成机制及时跟踪AI编码工具的版本迭代和功能更新，帮助客户平滑迁移并充分利用新特性收集客户对AI编码工具的使用反馈，推动工具能力优化和最佳实践沉淀四、紧急事件响应与危机处理在关键业务时段，作为专家级支持，及时响应并处理客户的紧急复杂问题主导重大技术问题的攻关，保障客户业务稳定运行五、知识库建设与最佳实践沉淀系统性记录复杂技术问题与解决方案，构建专家级知识库输出模型优化、AI编码工具使用等技术白皮书和最佳实践文档六、支持流程优化与技术赋能持续优化技术支持流程，提升专家问题处理效率对初级技术支持人员进行技术培训和赋能为客户提供MaaS平台及大模型API服务的高级技术培训【职位要求】一、学历与经验本科及以上学历，计算机科学、软件工程、信息技术或相关理工科领域专业5年以上技术支持或相关技术岗位经验，有大模型/AI领域经验者优先二、模型技术功底（核心要求）深入理解大语言模型原理，具备模型效果优化的实战经验熟悉常见模型问题定位方法，能够独立进行BadCase排查和根因分析了解模型训练、微调、RLHF等基本流程，能够与研发团队进行有效技术对话具备Prompt Engineering、RAG、Fine-tuning等模型应用优化经验三、AI编码工具能力（核心要求）精通Claude Code，深入理解其工作原理、配置方式及高级用法熟悉Cursor、GitHub Copilot、Sourcegraph Cody等主流AI编码工具了解vim/neovim编辑器及AI插件生态者优先能够为客户提供AI编码工具的选型建议和最佳实践指导四、技术能力具备卓越的问题诊断和故障排查能力熟悉RESTful API架构及调试工具具备数据库使用、日志排查、网络分析等技能熟悉Python/Java等至少一种编程语言，有实际项目经验五、综合素质出色的客户服务意识，能够处理复杂客户关系优秀的跨团队协作能力，能够与研发、产品等团队高效对接具备在高压环境下保持专业和解决问题的能力对前沿AI技术有强烈兴趣，具备快速学习能力【加分项】熟悉大模型开发框架（LangChain、Spring AI等），有提示词调优、大模型微调、RAG应用构建、大模型Agent开发等经验；有基于智谱相关平台构建大模型应用经验者优先，能更好适配公司产品服务客户。参与过大模型相关项目的开发、测试或技术支持工作。有ACP（阿里云认证工程师）、ACE（阿里云认证专家）、RHCE & RHCSA、华为云HCIP&HCIE、ITIL、PMP等相关认证和实战经验者优先，能更好为客户提供专业技术服务。【岗位职责】一、深度技术支持与专家级问题解决快速响应并协助客户解决在使用大型模型API服务过程中的各类技术问题作为技术专家，处理复杂的模型相关技术难题，提供专家级解决方案二、模型技术深度支持与研发团队紧密对接，深入处理客户关于模型效果优化的问题负责BadCase的深度排查与分析，提供根因分析和改进建议处理模型性能异常（如降智、输出不稳定等）的深入问题定位与解决为客户提供模型调优、Prompt工程等高级技术指导三、AI编码工具专家支持精通Claude Code，作为核心能力，深入理解其架构、功能特性及最佳实践熟悉多种主流AI编码工具（如Cursor、Copilot、Cody等），为客户提供全面的编码辅助工具技术支持掌握各类AI编码工具与不同IDE（VSCode、JetBrains系列、vim/neovim等）的集成机制及时跟踪AI编码工具的版本迭代和功能更新，帮助客户平滑迁移并充分利用新特性收集客户对AI编码工具的使用反馈，推动工具能力优化和最佳实践沉淀四、紧急事件响应与危机处理在关键业务时段，作为专家级支持，及时响应并处理客户的紧急复杂问题主导重大技术问题的攻关，保障客户业务稳定运行五、知识库建设与最佳实践沉淀系统性记录复杂技术问题与解决方案，构建专家级知识库输出模型优化、AI编码工具使用等技术白皮书和最佳实践文档六、支持流程优化与技术赋能持续优化技术支持流程，提升专家问题处理效率对初级技术支持人员进行技术培训和赋能为客户提供MaaS平台及大模型API服务的高级技术培训【职位要求】一、学历与经验本科及以上学历，计算机科学、软件工程、信息技术或相关理工科领域专业5年以上技术支持或相关技术岗位经验，有大模型/AI领域经验者优先二、模型技术功底（核心要求）深入理解大语言模型原理，具备模型效果优化的实战经验熟悉常见模型问题定位方法，能够独立进行BadCase排查和根因分析了解模型训练、微调、RLHF等基本流程，能够与研发团队进行有效技术对话具备Prompt Engineering、RAG、Fine-tuning等模型应用优化经验三、AI编码工具能力（核心要求）精通Claude Code，深入理解其工作原理、配置方式及高级用法熟悉Cursor、GitHub Copilot、Sourcegraph Cody等主流AI编码工具了解vim/neovim编辑器及AI插件生态者优先能够为客户提供AI编码工具的选型建议和最佳实践指导四、技术能力具备卓越的问题诊断和故障排查能力熟悉RESTful API架构及调试工具具备数据库使用、日志排查、网络分析等技能熟悉Python/Java等至少一种编程语言，有实际项目经验五、综合素质出色的客户服务意识，能够处理复杂客户关系优秀的跨团队协作能力，能够与研发、产品等团队高效对接具备在高压环境下保持专业和解决问题的能力对前沿AI技术有强烈兴趣，具备快速学习能力【加分项】熟悉大模型开发框架（LangChain、Spring AI等），有提示词调优、大模型微调、RAG应用构建、大模型Agent开发等经验；有基于智谱相关平台构建大模型应用经验者优先，能更好适配公司产品服务客户。参与过大模型相关项目的开发、测试或技术支持工作。有ACP（阿里云认证工程师）、ACE（阿里云认证专家）、RHCE & RHCSA、华为云HCIP&HCIE、ITIL、PMP等相关认证和实战经验者优先，能更好为客户提供专业技术服务。立即投递",
+      "jobId": "2948b809-89fc-4f86-9195-7469dae421aa"
+    },
+    {
+      "title": "AI院-训练Infra工程师发布于 2026-03-19训练Infra团队训练Infra团队|全职全职|上海市 北京市上海市 北京市职位描述1、负责大规模预训练框架的研发、优化和维护，根据业务需求持续改进训练框架和策略，提升模型训练效率2、分析和定位训练中的性能瓶颈，实施针对性优化措施，提升训练效率和稳定性3、跟进业界技术进展，不断同步与集成最新训练优化策略职位要求1、对自然语言处理、计算机视觉和多模态算法有深入理解，熟悉主流的 LLM 和 VLM 模型架构，有分布式训练经验2、精通 Python 编程语言，熟悉 PyTorch 深度学习框架和 Megatron 分布式训练框架3、有大规模预训练优化 / MoE 训练优化经验的优先考虑加分项：1、在ACM、NOI、IOI、超算比赛中有获奖经历者优先2、具有 cuda 算子优化/profiling 能力者优先职位描述1、负责大规模预训练框架的研发、优化和维护，根据业务需求持续改进训练框架和策略，提升模型训练效率2、分析和定位训练中的性能瓶颈，实施针对性优化措施，提升训练效率和稳定性3、跟进业界技术进展，不断同步与集成最新训练优化策略职位要求1、对自然语言处理、计算机视觉和多模态算法有深入理解，熟悉主流的 LLM 和 VLM 模型架构，有分布式训练经验2、精通 Python 编程语言，熟悉 PyTorch 深度学习框架和 Megatron 分布式训练框架3、有大规模预训练优化 / MoE 训练优化经验的优先考虑加分项：1、在ACM、NOI、IOI、超算比赛中有获奖经历者优先2、具有 cuda 算子优化/profiling 能力者优先立即投递",
+      "jobId": "702b0b15-e17a-4ce9-8713-a1abcf516f0d"
+    },
+    {
+      "title": "AI院-推理Infra工程师（量化算法研究/推理框架优化/GPU优化）发布于 2026-03-19推理Infra团队推理Infra团队|全职全职|上海市 北京市上海市 北京市【方向一】量化算法研究员-职位描述通过前沿的模型量化、压缩与推理加速技术，显著降低大语言模型及多模态模型的存储占用与计算成本，推动 LLM 的大规模部署。-工作内容1、研发及改进 PTQ（训练后量化）、QAT（量化感知训练）、混合精度量化等核心算法，针对LLM/VLM（大语言模型/视觉语言模型）设计定制化量化方案，持续优化模型精度与推理效率的平衡；2、探索并实践低比特量化（如INT8/INT4/FP8/FP4）、权重稀疏化、知识蒸馏等协同压缩技术，提升压缩率同时控制精度损失；3、开发及优化量化工具链，完成对 GLM 系列模型的转换、量化校准及部署集成；4、 跟踪学术界与工业界前沿量化技术，通过论文复现、实验对比推动技术迭代。-职位要求1、计算机科学、电子工程、数学等相关专业硕士及以上学历，3 年以上模型量化或推理加速经验；或优秀本科生具备扎实项目履历；2、深入理解 Transformer 架构及 LLM 推理流程，精通 Python，熟悉常见的开源 LLM 推理框架（sglang/vllm/trtllm 等）；3、掌握量化原理（校准策略、量化粒度、误差分析）及主流算法（如GPTQ、AWQ）；4、具有 CUDA/Triton 编程经验，能自主实现高性能算子或优化内核计算加分。【方向二】推理框架优化工程师-职位描述1、高性能算子开发与优化：负责AI模型（尤其是大语言模型及多模态模型）在GPU上的核心算子（Kernel）的设计、开发与极致性能优化，支撑训练和推理场景的高效运行。2、性能分析与调优：深入分析GPU应用程序的性能瓶颈，通过优化内存访问模式、线程调度、执行效率等手段，显著提升计算密集型任务的吞吐量和降低延迟。3、技术集成与应用：研究并应用业界前沿的优化技术（如模型量化QAT/PTQ、算子融合、动态形状支持、FlashAttention等），并将其集成至推理/训练引擎。-职位要求1、编程能力：具备3年及以上GPU编程与高性能计算优化经验，深入理解GPU架构、并行计算原理、计算机体系结构，具备高性能计算内核的开发与优化经验。2、精通C/C++，具备扎实的编程基础、良好的编程风格和丰富的调试经验；熟练掌握Python；熟悉Linux开发环境。3、性能优化经验：能够熟练使用Nsight Compute、Nsight Systems等GPU性能分析工具，有实际的性能优化案例和成果，能独立定位和解决复杂的性能问题。4、算法基础：熟悉基础数学函数、线性代数、矩阵运算、数值计算等数学库相关算法，了解深度学习常见算子的计算方式。【方向三】GPU优化工程师-职位描述利用对 cuda 生态软件和底层体系结构的了解，帮助团队优化训练和推理的计算效率。-工作内容1、高性能算子开发与优化：负责AI模型（尤其是大语言模型及多模态模型）在GPU上的核心算子（Kernel）的设计、开发与极致性能优化，支撑训练和推理场景的高效运行。2、性能分析与调优：深入分析GPU应用程序的性能瓶颈，通过优化内存访问模式、线程调度、执行效率、多流并行协同等手段，显著提升计算密集型任务的吞吐量和降低延迟。3、技术选型：对 GPU 领域相关的 DSL/编译器（例如 triton/cuteDSL/tilelang）等进行尝试和了解，确定团队内的 DSL/编译器的技术选型，为未来的迭代做好技术储备。-职位要求1、编程能力：具备3年及以上GPU编程与高性能计算优化经验，深入理解GPU架构、并行计算原理、计算机体系结构，具备高性能计算内核的开发与优化经验。2、精通C/C++，具备扎实的编程基础、良好的编程风格和丰富的调试经验；熟练掌握Python；熟悉Linux开发环境。3、性能优化经验：能够熟练使用Nsight Compute、Nsight Systems等GPU性能分析工具，有实际的性能优化案例和成果，能独立定位和解决复杂的性能问题。4、算法基础：熟悉基础数学函数、线性代数、矩阵运算、数值计算等数学库相关算法，了解深度学习常见算子的计算方式。【方向一】量化算法研究员-职位描述通过前沿的模型量化、压缩与推理加速技术，显著降低大语言模型及多模态模型的存储占用与计算成本，推动 LLM 的大规模部署。-工作内容1、研发及改进 PTQ（训练后量化）、QAT（量化感知训练）、混合精度量化等核心算法，针对LLM/VLM（大语言模型/视觉语言模型）设计定制化量化方案，持续优化模型精度与推理效率的平衡；2、探索并实践低比特量化（如INT8/INT4/FP8/FP4）、权重稀疏化、知识蒸馏等协同压缩技术，提升压缩率同时控制精度损失；3、开发及优化量化工具链，完成对 GLM 系列模型的转换、量化校准及部署集成；4、 跟踪学术界与工业界前沿量化技术，通过论文复现、实验对比推动技术迭代。-职位要求1、计算机科学、电子工程、数学等相关专业硕士及以上学历，3 年以上模型量化或推理加速经验；或优秀本科生具备扎实项目履历；2、深入理解 Transformer 架构及 LLM 推理流程，精通 Python，熟悉常见的开源 LLM 推理框架（sglang/vllm/trtllm 等）；3、掌握量化原理（校准策略、量化粒度、误差分析）及主流算法（如GPTQ、AWQ）；4、具有 CUDA/Triton 编程经验，能自主实现高性能算子或优化内核计算加分。【方向二】推理框架优化工程师-职位描述1、高性能算子开发与优化：负责AI模型（尤其是大语言模型及多模态模型）在GPU上的核心算子（Kernel）的设计、开发与极致性能优化，支撑训练和推理场景的高效运行。2、性能分析与调优：深入分析GPU应用程序的性能瓶颈，通过优化内存访问模式、线程调度、执行效率等手段，显著提升计算密集型任务的吞吐量和降低延迟。3、技术集成与应用：研究并应用业界前沿的优化技术（如模型量化QAT/PTQ、算子融合、动态形状支持、FlashAttention等），并将其集成至推理/训练引擎。-职位要求1、编程能力：具备3年及以上GPU编程与高性能计算优化经验，深入理解GPU架构、并行计算原理、计算机体系结构，具备高性能计算内核的开发与优化经验。2、精通C/C++，具备扎实的编程基础、良好的编程风格和丰富的调试经验；熟练掌握Python；熟悉Linux开发环境。3、性能优化经验：能够熟练使用Nsight Compute、Nsight Systems等GPU性能分析工具，有实际的性能优化案例和成果，能独立定位和解决复杂的性能问题。4、算法基础：熟悉基础数学函数、线性代数、矩阵运算、数值计算等数学库相关算法，了解深度学习常见算子的计算方式。【方向三】GPU优化工程师-职位描述利用对 cuda 生态软件和底层体系结构的了解，帮助团队优化训练和推理的计算效率。-工作内容1、高性能算子开发与优化：负责AI模型（尤其是大语言模型及多模态模型）在GPU上的核心算子（Kernel）的设计、开发与极致性能优化，支撑训练和推理场景的高效运行。2、性能分析与调优：深入分析GPU应用程序的性能瓶颈，通过优化内存访问模式、线程调度、执行效率、多流并行协同等手段，显著提升计算密集型任务的吞吐量和降低延迟。3、技术选型：对 GPU 领域相关的 DSL/编译器（例如 triton/cuteDSL/tilelang）等进行尝试和了解，确定团队内的 DSL/编译器的技术选型，为未来的迭代做好技术储备。-职位要求1、编程能力：具备3年及以上GPU编程与高性能计算优化经验，深入理解GPU架构、并行计算原理、计算机体系结构，具备高性能计算内核的开发与优化经验。2、精通C/C++，具备扎实的编程基础、良好的编程风格和丰富的调试经验；熟练掌握Python；熟悉Linux开发环境。3、性能优化经验：能够熟练使用Nsight Compute、Nsight Systems等GPU性能分析工具，有实际的性能优化案例和成果，能独立定位和解决复杂的性能问题。4、算法基础：熟悉基础数学函数、线性代数、矩阵运算、数值计算等数学库相关算法，了解深度学习常见算子的计算方式。立即投递",
+      "jobId": "962ddd2b-90d2-4460-8110-9431a5dd587c"
+    },
+    {
+      "title": "交付项目经理发布于 2026-03-13北方交付中心北方交付中心|全职全职职位描述1、负责大模型项目的整体交付管理工作，包括项目计划制定、进度推进、质量控制、风险管理与客户协调，确保交付目标达成；2、作为交付负责人，协同解决方案、售前、算法、工程等团队，保障大模型及其应用/智能体在训练、微调、部署、集成、上线和业务落地等各阶段的顺利推进；3、建立并维护交付流程与标准文档，推动大模型项目从 PoC 到规模化上线的高效落地；4、管理并拓展外部 ISV 和生态合作伙伴资源，协助招募、技术对接与管理，提升生态交付能力；5、负责与客户对接交付过程中的需求落地、问题协调、阶段验收等，提升客户满意度；6、跟踪交付项目运行状态，识别问题并推动闭环，定期向内部及客户汇报项目进展。职位要求1、计算机相关专业背景，了解大语言模型（LLM）工作原理，有大模型训练、微调、部署经验者优先；2、有工程或开发背景者优先，能理解并协调模型训练及推理过程中的技术问题；3、三年以上项目管理或交付管理经验，有 ToB 技术项目、AI 类项目完整交付经验；4、有较强的组织协调能力、跨团队协作能力和抗压能力；5、逻辑清晰、责任心强，具备强烈的主人翁意识和客户成功导向。职位描述1、负责大模型项目的整体交付管理工作，包括项目计划制定、进度推进、质量控制、风险管理与客户协调，确保交付目标达成；2、作为交付负责人，协同解决方案、售前、算法、工程等团队，保障大模型及其应用/智能体在训练、微调、部署、集成、上线和业务落地等各阶段的顺利推进；3、建立并维护交付流程与标准文档，推动大模型项目从 PoC 到规模化上线的高效落地；4、管理并拓展外部 ISV 和生态合作伙伴资源，协助招募、技术对接与管理，提升生态交付能力；5、负责与客户对接交付过程中的需求落地、问题协调、阶段验收等，提升客户满意度；6、跟踪交付项目运行状态，识别问题并推动闭环，定期向内部及客户汇报项目进展。职位要求1、计算机相关专业背景，了解大语言模型（LLM）工作原理，有大模型训练、微调、部署经验者优先；2、有工程或开发背景者优先，能理解并协调模型训练及推理过程中的技术问题；3、三年以上项目管理或交付管理经验，有 ToB 技术项目、AI 类项目完整交付经验；4、有较强的组织协调能力、跨团队协作能力和抗压能力；5、逻辑清晰、责任心强，具备强烈的主人翁意识和客户成功导向。立即投递",
+      "jobId": "8a7fadb7-14aa-4242-ada5-e2ab2858ed8b"
+    },
+    {
+      "title": "业务拓展实习生-深圳发布于 2026-01-30国际业务中心国际业务中心|实习实习职位描述1. 协助销售团队完成销售目标，为客户提供优质服务；2. 跟进潜在客户，了解客户需求，挖掘客户潜力；3. 负责销售数据的收集、整理和分析；4. 参与市场调研，了解行业动态及竞争对手信息；5. 协助完成销售团队的日常事务。职位要求1. 本科及以上学历，市场营销、商务管理等相关专业优先；2. 具有良好的沟通能力、团队协作精神和客户服务意识；3. 熟练使用办公软件，具备一定的数据分析能力；4. 工作认真负责，具有较强的学习能力和执行力；5.英语能够作为工作语言。6. 实习期至少3个月，每周工作时间不少于4天。职位描述1. 协助销售团队完成销售目标，为客户提供优质服务；2. 跟进潜在客户，了解客户需求，挖掘客户潜力；3. 负责销售数据的收集、整理和分析；4. 参与市场调研，了解行业动态及竞争对手信息；5. 协助完成销售团队的日常事务。职位要求1. 本科及以上学历，市场营销、商务管理等相关专业优先；2. 具有良好的沟通能力、团队协作精神和客户服务意识；3. 熟练使用办公软件，具备一定的数据分析能力；4. 工作认真负责，具有较强的学习能力和执行力；5.英语能够作为工作语言。6. 实习期至少3个月，每周工作时间不少于4天。立即投递",
+      "jobId": "dcfe9378-8185-4bff-b649-71512e501a44"
+    },
+    {
+      "title": "大模型技术实习生-深圳发布于 2026-01-30华南交付实习生组华南交付实习生组|实习实习职位描述1.提示工程： 设计、测试和优化高质量的Prompt，引导模型生成稳定、准确、符合预期的结果，探索最佳的交互范式。2.模型后训练与评估： 协助收集和清洗数据，参与大模型的后训练工作，并对模型效果进行评估和分析，持续迭代优化。3.RAG/AGENT技术实践： 参与利用检索增强生成（RAG）技术构建企业级知识库问答系统，或探索和实践基于大模型的Agent技术，赋予模型规划、调用工具和解决复杂任务的能力。4.技术调研与学习： 跟踪大模型领域的最新技术动态和学术论文，将前沿的算法和技术应用到实际项目中。5.文档撰写： 撰写清晰的技术文档，记录实验过程和结果，分享你的发现和见解。职位要求1.教育背景： 计算机科学、软件工程、人工智能、数据科学、数学等相关专业的在校本科生、硕士研究生或博士研究生。2.编程基础： 扎实的Python编程能力，熟悉常用的数据结构和算法。3.理论基础： 熟悉机器学习/深度学习的基本概念，了解自然语言处理（NLP）的常用技术和模型（如Transformer）。4. 热情与自驱力： 对大模型和AIGC技术有强烈的兴趣和热情，具备优秀的自我学习能力和解决问题的能力。5.沟通协作： 良好的沟通能力和团队协作精神，能够清晰表达自己的想法。6.实习时间： 保证每周至少实习5天，能持续实习3个月以上者优先。【加分项】1.有使用LangChain、LlamaIndex、Transformers等大模型相关框架或库的经验。2.了解或实践过大模型的Fine-tuning、Prompt Engineering、RAG等技术。3.有个人技术博客、活跃的GitHub账号，或参加过Kaggle、天池等数据科学竞赛并取得优异成绩。4.在GitHub上有与AIGC、LLM相关的个人项目或贡献。5.对Agent、多模态等前沿方向有深入了解。职位描述1.提示工程： 设计、测试和优化高质量的Prompt，引导模型生成稳定、准确、符合预期的结果，探索最佳的交互范式。2.模型后训练与评估： 协助收集和清洗数据，参与大模型的后训练工作，并对模型效果进行评估和分析，持续迭代优化。3.RAG/AGENT技术实践： 参与利用检索增强生成（RAG）技术构建企业级知识库问答系统，或探索和实践基于大模型的Agent技术，赋予模型规划、调用工具和解决复杂任务的能力。4.技术调研与学习： 跟踪大模型领域的最新技术动态和学术论文，将前沿的算法和技术应用到实际项目中。5.文档撰写： 撰写清晰的技术文档，记录实验过程和结果，分享你的发现和见解。职位要求1.教育背景： 计算机科学、软件工程、人工智能、数据科学、数学等相关专业的在校本科生、硕士研究生或博士研究生。2.编程基础： 扎实的Python编程能力，熟悉常用的数据结构和算法。3.理论基础： 熟悉机器学习/深度学习的基本概念，了解自然语言处理（NLP）的常用技术和模型（如Transformer）。4. 热情与自驱力： 对大模型和AIGC技术有强烈的兴趣和热情，具备优秀的自我学习能力和解决问题的能力。5.沟通协作： 良好的沟通能力和团队协作精神，能够清晰表达自己的想法。6.实习时间： 保证每周至少实习5天，能持续实习3个月以上者优先。【加分项】1.有使用LangChain、LlamaIndex、Transformers等大模型相关框架或库的经验。2.了解或实践过大模型的Fine-tuning、Prompt Engineering、RAG等技术。3.有个人技术博客、活跃的GitHub账号，或参加过Kaggle、天池等数据科学竞赛并取得优异成绩。4.在GitHub上有与AIGC、LLM相关的个人项目或贡献。5.对Agent、多模态等前沿方向有深入了解。立即投递",
+      "jobId": "a422b81a-f918-47d7-81a8-0244637ff6c1"
+    },
+    {
+      "title": "AI产品经理发布于 2026-01-30南方交付中心南方交付中心|全职全职职位描述\n工作职责：\n1. 负责AI产品的版本规划、功能设计和PRD撰写，对数据敏感，能够将数据产品化，与研发配合完成产品开发与交付。\n2. 联动算法与工程同学，支持ToB\\toG项目需求澄清、原型设计、验收标准与上线流程。\n3. 深入研究、分析行业相关产品及方案的调研及竞品分析；\n4. 负责用户需求调研、产品研发实施跟踪、产品相关文档的编写等支持。\n职位要求\n任职要求：\n1.统招本科及以上学历，2年及以上ToB\\toG相关产品工作经验；\n2.具备良好的逻辑思维与系统设计能力，能够基于数据、事实和逻辑分析做出产品设计与运营的方向判断；\n3.优秀的跨部门沟通和团队协作能力，能够承受快速发展企业带来的工作压力；\n4.良好的需求拆解与文档能力，善于与业务/研发沟通协作；自驱学习，责任心强。\n其他加分项：\n具备教育行业经验、面向政府交付产品经验、知识图谱、大模型训推一体平台等任一产品经验者可优先考虑。职位描述\n工作职责：\n1. 负责AI产品的版本规划、功能设计和PRD撰写，对数据敏感，能够将数据产品化，与研发配合完成产品开发与交付。\n2. 联动算法与工程同学，支持ToB\\toG项目需求澄清、原型设计、验收标准与上线流程。\n3. 深入研究、分析行业相关产品及方案的调研及竞品分析；\n4. 负责用户需求调研、产品研发实施跟踪、产品相关文档的编写等支持。\n职位要求\n任职要求：\n1.统招本科及以上学历，2年及以上ToB\\toG相关产品工作经验；\n2.具备良好的逻辑思维与系统设计能力，能够基于数据、事实和逻辑分析做出产品设计与运营的方向判断；\n3.优秀的跨部门沟通和团队协作能力，能够承受快速发展企业带来的工作压力；\n4.良好的需求拆解与文档能力，善于与业务/研发沟通协作；自驱学习，责任心强。\n其他加分项：\n具备教育行业经验、面向政府交付产品经验、知识图谱、大模型训推一体平台等任一产品经验者可优先考虑。立即投递",
+      "jobId": "3551243f-b133-4b38-8543-beef8bff4f5c"
+    },
+    {
+      "title": "UX设计实习生发布于 2026-01-30南方交付中心南方交付中心|实习实习职位描述岗位职责1.辅助产品体验设计- 协助设计师完成AI工具（如智能助手、知识管理平台）的界面原型、交互流程设计；- 参与设计稿优化，处理基础视觉标注与资源输出。2.用户研究与测试支持- 协助整理用户反馈，参与可用性测试执行与结果记录；3.设计文档维护- 整理AI产品设计规范组件库；- 更新案例文档。4.跨团队协作支持- 与产品、开发团队沟通基础需求，传递设计交付物。职位要求任职要求核心能力：1.基础技能- 设计类/人机交互/心理学等相关专业在读；- 熟练使用Figma/Sketch等至少1项设计工具，能制作基础交互原型；- 了解用户体验设计流程（用户画像、线框图、可用性测试等）。ai兴趣与潜力- 对AI大模型应用（如ChatGPT、Copilot）有使用经验，愿意学习技术逻辑；- 能理解基础AI术语（如LLM、Prompt）。3.软素质- 逻辑清晰，具备主动学习和问题拆解能力；- 良好的沟通协作意识，责任心强。加分项- 有课程项目/实习经历涉及B端工具、数据可视化设计；- 个人作品集展示设计思维过程（如用户调研、方案迭代）。职位描述岗位职责1.辅助产品体验设计- 协助设计师完成AI工具（如智能助手、知识管理平台）的界面原型、交互流程设计；- 参与设计稿优化，处理基础视觉标注与资源输出。2.用户研究与测试支持- 协助整理用户反馈，参与可用性测试执行与结果记录；3.设计文档维护- 整理AI产品设计规范组件库；- 更新案例文档。4.跨团队协作支持- 与产品、开发团队沟通基础需求，传递设计交付物。职位要求任职要求核心能力：1.基础技能- 设计类/人机交互/心理学等相关专业在读；- 熟练使用Figma/Sketch等至少1项设计工具，能制作基础交互原型；- 了解用户体验设计流程（用户画像、线框图、可用性测试等）。ai兴趣与潜力- 对AI大模型应用（如ChatGPT、Copilot）有使用经验，愿意学习技术逻辑；- 能理解基础AI术语（如LLM、Prompt）。3.软素质- 逻辑清晰，具备主动学习和问题拆解能力；- 良好的沟通协作意识，责任心强。加分项- 有课程项目/实习经历涉及B端工具、数据可视化设计；- 个人作品集展示设计思维过程（如用户调研、方案迭代）。立即投递",
+      "jobId": "38e764a9-08bb-4f3a-8e08-5978b6336532"
+    },
+    {
+      "title": "公共事务与国际活动实习生发布于 2026-01-30国际业务中心国际业务中心|实习实习|北京市北京市岗位性质 业务部门下的公共事务与市场支持岗位 方向：国际会议 / 高端活动 / 对外合作 实习周期：3–6 个月---工作内容- 协助国际会议 / 高端活动 / 闭门沙龙的：  - 策划支持  - 嘉宾与议程信息整理  - 对外沟通材料准备- 协助对接：  - 海外合作方  - 国际组织 / 行业机构  - 企业高层或专家嘉宾- 撰写或协助撰写：  - 英文活动介绍  - 背景 Brief / Talking Points  - 会后总结与影响评估职位要求我们希望你具备硬性要求- 英文流利（读写 + 基础口语）- 有活动策划 / 国际会议 / 公共事务相关经验（校园或实习均可）- 逻辑清晰，沟通能力强- 能理解商业目标，而不仅是流程加分项- 国际关系 / 公共政策 / 商科 / 传播背景- 有海外学习或交流经历- 对 AI / 科技 / 国际合作有长期兴趣- 有大型活动或高规格会议经验---实习 KPI数字型- 活动支持任务完成率：100%- 对外材料按时交付率：100%- 会议信息准确率 ≥ 98%软性- 对业务背景的理解深度- 对外沟通的专业度- 活动复盘与总结能力---你能获得什么- 真实参与 AI 企业国际公共事务与高端活动- 提升国际化沟通与专业表达能力- 建立对 “业务 + 公共事务” 的系统认知- 优秀者可获得长期合作或推荐机会岗位性质 业务部门下的公共事务与市场支持岗位 方向：国际会议 / 高端活动 / 对外合作 实习周期：3–6 个月---工作内容- 协助国际会议 / 高端活动 / 闭门沙龙的：  - 策划支持  - 嘉宾与议程信息整理  - 对外沟通材料准备- 协助对接：  - 海外合作方  - 国际组织 / 行业机构  - 企业高层或专家嘉宾- 撰写或协助撰写：  - 英文活动介绍  - 背景 Brief / Talking Points  - 会后总结与影响评估职位要求我们希望你具备硬性要求- 英文流利（读写 + 基础口语）- 有活动策划 / 国际会议 / 公共事务相关经验（校园或实习均可）- 逻辑清晰，沟通能力强- 能理解商业目标，而不仅是流程加分项- 国际关系 / 公共政策 / 商科 / 传播背景- 有海外学习或交流经历- 对 AI / 科技 / 国际合作有长期兴趣- 有大型活动或高规格会议经验---实习 KPI数字型- 活动支持任务完成率：100%- 对外材料按时交付率：100%- 会议信息准确率 ≥ 98%软性- 对业务背景的理解深度- 对外沟通的专业度- 活动复盘与总结能力---你能获得什么- 真实参与 AI 企业国际公共事务与高端活动- 提升国际化沟通与专业表达能力- 建立对 “业务 + 公共事务” 的系统认知- 优秀者可获得长期合作或推荐机会立即投递",
+      "jobId": "75dc017b-e5e5-44c9-86f3-85ea00a24028"
+    },
+    {
+      "title": "业务拓展实习生-国际业务发布于 2026-01-30国际业务中心国际业务中心|实习实习职位描述1. 协助销售团队完成销售目标，为客户提供优质服务；2. 跟进潜在客户，了解客户需求，挖掘客户潜力；3. 负责销售数据的收集、整理和分析；4. 参与市场调研，了解行业动态及竞争对手信息；5. 协助完成销售团队的日常事务。职位要求1. 本科及以上学历，市场营销、商务管理等相关专业优先；2. 具有良好的沟通能力、团队协作精神和客户服务意识；3. 熟练使用办公软件，具备一定的数据分析能力；4. 工作认真负责，具有较强的学习能力和执行力；5.英语能够作为工作语言。6. 实习期至少6个月，每周工作时间不少于4天。职位描述1. 协助销售团队完成销售目标，为客户提供优质服务；2. 跟进潜在客户，了解客户需求，挖掘客户潜力；3. 负责销售数据的收集、整理和分析；4. 参与市场调研，了解行业动态及竞争对手信息；5. 协助完成销售团队的日常事务。职位要求1. 本科及以上学历，市场营销、商务管理等相关专业优先；2. 具有良好的沟通能力、团队协作精神和客户服务意识；3. 熟练使用办公软件，具备一定的数据分析能力；4. 工作认真负责，具有较强的学习能力和执行力；5.英语能够作为工作语言。6. 实习期至少6个月，每周工作时间不少于4天。立即投递",
+      "jobId": "162daf6a-b71f-4bcd-8ca4-2722516c1642"
+    },
+    {
+      "title": "AI产品经理/解决方案实习生-厦门发布于 2026-01-30南方交付中心南方交付中心|全职全职职位描述\n1、需求分析与方案设计：深入客户现场，配合团队挖掘业务需求，基于语言大模型（LLM）及视觉理解大模型的技术特性，设计符合客户场景的AI解决方案与应用落地路径。\n2、技术方案落地：熟悉Prompt工程、RAG（检索增强生成）及Agent等主流大模型应用技术，能够与算法团队紧密协作，进行技术可行性验证、效果评估及产品调优。\n3、文档撰写与汇报：负责撰写产品需求文档（PRD）、技术解决方案及项目汇报材料；具备优秀的PPT制作与演示能力，能够清晰地向客户及内部团队展示产品价值与项目进展。\n4、项目交付与支持：在客户现场驻场办公，负责项目的日常沟通、进度跟踪及问题反馈，确保项目按时高质量交付，提升客户满意度。\n5、行业动态跟踪：跟踪业界前沿的多模态大模型技术动态，分析竞品与行业案例，为产品迭代提供创新思路。\n职位要求\n1、学历背景：在读硕士及以上学历，计算机科学、人工智能、软件工程、等相关专业优先，有AI产品相关实习或科研项目经验者加分。\n2、技术认知：\n熟悉语言大模型（LLM）及视觉理解大模型的相关技术原理与主流模型；\n深入理解Prompt Engineering、RAG、Fine-tuning等大模型应用范式，了解模型落地过程中的局限性及解决方案。\n3、产品与表达能力：\n具备优秀的对客沟通能力，能够准确理解客户需求并转化为产品语言；\n具备出色的方案撰写能力与PPT制作汇报能力，逻辑思维清晰，善于总结与呈现。\n4、工作态度与稳定性：\n能够适应客户现场办公模式，具备良好的抗压能力与应变能力；\n实习时间长期稳定者优先（建议实习期3个月以上）。\n5、通用素质：具备良好的跨部门协作意识，对AI技术落地有浓厚兴趣，学习能力强，责任心强。\n\n工作地：福建省厦门市翔安区新莲路 266 号-厦门市公安局翔安分局职位描述\n1、需求分析与方案设计：深入客户现场，配合团队挖掘业务需求，基于语言大模型（LLM）及视觉理解大模型的技术特性，设计符合客户场景的AI解决方案与应用落地路径。\n2、技术方案落地：熟悉Prompt工程、RAG（检索增强生成）及Agent等主流大模型应用技术，能够与算法团队紧密协作，进行技术可行性验证、效果评估及产品调优。\n3、文档撰写与汇报：负责撰写产品需求文档（PRD）、技术解决方案及项目汇报材料；具备优秀的PPT制作与演示能力，能够清晰地向客户及内部团队展示产品价值与项目进展。\n4、项目交付与支持：在客户现场驻场办公，负责项目的日常沟通、进度跟踪及问题反馈，确保项目按时高质量交付，提升客户满意度。\n5、行业动态跟踪：跟踪业界前沿的多模态大模型技术动态，分析竞品与行业案例，为产品迭代提供创新思路。\n职位要求\n1、学历背景：在读硕士及以上学历，计算机科学、人工智能、软件工程、等相关专业优先，有AI产品相关实习或科研项目经验者加分。\n2、技术认知：\n熟悉语言大模型（LLM）及视觉理解大模型的相关技术原理与主流模型；\n深入理解Prompt Engineering、RAG、Fine-tuning等大模型应用范式，了解模型落地过程中的局限性及解决方案。\n3、产品与表达能力：\n具备优秀的对客沟通能力，能够准确理解客户需求并转化为产品语言；\n具备出色的方案撰写能力与PPT制作汇报能力，逻辑思维清晰，善于总结与呈现。\n4、工作态度与稳定性：\n能够适应客户现场办公模式，具备良好的抗压能力与应变能力；\n实习时间长期稳定者优先（建议实习期3个月以上）。\n5、通用素质：具备良好的跨部门协作意识，对AI技术落地有浓厚兴趣，学习能力强，责任心强。\n\n工作地：福建省厦门市翔安区新莲路 266 号-厦门市公安局翔安分局立即投递",
+      "jobId": "fc982535-8672-41e6-a2da-b273101898de"
+    },
+    {
+      "title": "海外社媒内容运营实习生发布于 2026-01-30国际业务中心国际业务中心|实习实习职位描述1. 负责X、领英等海外平台的日常内容更新，结合公司业务与热点产出吸引目标用户的原创内容。2. 收集并分析竞品海外社媒内容策略，为团队提供可参考的优化方案。3.协助完成海外内容营销活动的策划与执行，跟进活动数据并整理复盘材料。职位要求1. 海外高校在读学生，本科及以上学历2. 个人X、领英账号粉丝量均达到 1000+，账号内容风格清晰，互动数据良好。3. 英文读写能力突出，可独立完成英文文案创作，了解海外职场、科技领域用户偏好。4. 具备较强的学习能力和创新意识，擅长挖掘新鲜玩法，对内容运营有浓厚兴趣。职位描述1. 负责X、领英等海外平台的日常内容更新，结合公司业务与热点产出吸引目标用户的原创内容。2. 收集并分析竞品海外社媒内容策略，为团队提供可参考的优化方案。3.协助完成海外内容营销活动的策划与执行，跟进活动数据并整理复盘材料。职位要求1. 海外高校在读学生，本科及以上学历2. 个人X、领英账号粉丝量均达到 1000+，账号内容风格清晰，互动数据良好。3. 英文读写能力突出，可独立完成英文文案创作，了解海外职场、科技领域用户偏好。4. 具备较强的学习能力和创新意识，擅长挖掘新鲜玩法，对内容运营有浓厚兴趣。立即投递",
+      "jobId": "5a82b391-7f9e-4e98-b636-59a4a195ed4f"
+    },
+    {
+      "title": "实习生发布于 2026-01-30商业智能事业部商业智能事业部|全职全职立即投递",
+      "jobId": "4076030b-d5a1-4980-905f-337f09648c5b"
+    },
+    {
+      "title": "运营助理实习生（国际化团队）发布于 2026-01-30国际业务中心国际业务中心|实习实习职位描述\n1. 协助国际团队日常运营事务，跟踪各区域业务目标达成情况，整理进度台账。\n2. 负责团队各类会议的组织协调、议程梳理及会议记录，跟进会议决议的执行落地，及时预警风险。\n3. 协助撰写国际业务相关的运营报告。\n职位要求\n1. 海内外知名院校本科及以上学历，专业不限，有海外留学或交换经历者优先。\n2. 具备出色的文字功底，能够独立完成高质量的会议纪要、工作报告等书面材料。\n3. 具备较强的执行力和跟进能力，善于拆解任务、协调资源，推动事项闭环。\n4. 性格沉稳、细心负责，有良好的信息保密意识。职位描述\n1. 协助国际团队日常运营事务，跟踪各区域业务目标达成情况，整理进度台账。\n2. 负责团队各类会议的组织协调、议程梳理及会议记录，跟进会议决议的执行落地，及时预警风险。\n3. 协助撰写国际业务相关的运营报告。\n职位要求\n1. 海内外知名院校本科及以上学历，专业不限，有海外留学或交换经历者优先。\n2. 具备出色的文字功底，能够独立完成高质量的会议纪要、工作报告等书面材料。\n3. 具备较强的执行力和跟进能力，善于拆解任务、协调资源，推动事项闭环。\n4. 性格沉稳、细心负责，有良好的信息保密意识。立即投递",
+      "jobId": "c87909a3-7e7e-4bfe-bc19-e1590a367e4f"
+    },
+    {
+      "title": "算法实习生-厦门发布于 2026-01-30南方交付中心南方交付中心|实习实习职位描述\n1.参与视觉大模型在业务场景的落地项目，包括但不限于图像理解、多模态内容生成、视觉 - 语言跨模态交互等方向的算法调研与原型开发；\n2.协助团队完成大模型微调（Fine-tuning）、提示工程（Prompt Engineering）、模型压缩与部署适配等工作，结合业务数据优化模型效果；\n3.负责 CV 相关数据处理与标注方案设计，参与数据集构建、清洗及质量评估，支撑模型训练与迭代；\n4.跟踪业界前沿 CV 大模型（如 ViT、CLIP、SAM 等）与多模态技术动态，输出技术调研报告，为业务创新提供思路；\n5.协助完成算法效果验证、性能测试及业务指标对齐，参与项目文档撰写与成果沉淀。\n职位要求\n1.在读硕士及以上学历，计算机视觉（CV）、计算机科学、人工智能、机器学习等相关专业，有 CV 领域科研或项目经验者优先；\n2.熟悉深度学习基础理论，掌握 CNN、Transformer 等核心网络结构，了解至少一种主流 CV 任务（图像分类、目标检测、语义分割、图像生成等）；\n3.具备大模型相关基础，了解视觉大模型或多模态大模型（如 CLIP、BLIP、Florence 等）的原理与应用，有大模型微调、部署或业务适配经验者加分；\n4.具备良好的逻辑思维、问题解决能力和沟通协作意识，对业务场景中算法落地有浓厚兴趣，能快速学习新技术。\n5.配合完成相关调研文档和项目材料。\n\n\n工作地：福建省厦门市翔安区新莲路 266 号-厦门市公安局翔安分局职位描述\n1.参与视觉大模型在业务场景的落地项目，包括但不限于图像理解、多模态内容生成、视觉 - 语言跨模态交互等方向的算法调研与原型开发；\n2.协助团队完成大模型微调（Fine-tuning）、提示工程（Prompt Engineering）、模型压缩与部署适配等工作，结合业务数据优化模型效果；\n3.负责 CV 相关数据处理与标注方案设计，参与数据集构建、清洗及质量评估，支撑模型训练与迭代；\n4.跟踪业界前沿 CV 大模型（如 ViT、CLIP、SAM 等）与多模态技术动态，输出技术调研报告，为业务创新提供思路；\n5.协助完成算法效果验证、性能测试及业务指标对齐，参与项目文档撰写与成果沉淀。\n职位要求\n1.在读硕士及以上学历，计算机视觉（CV）、计算机科学、人工智能、机器学习等相关专业，有 CV 领域科研或项目经验者优先；\n2.熟悉深度学习基础理论，掌握 CNN、Transformer 等核心网络结构，了解至少一种主流 CV 任务（图像分类、目标检测、语义分割、图像生成等）；\n3.具备大模型相关基础，了解视觉大模型或多模态大模型（如 CLIP、BLIP、Florence 等）的原理与应用，有大模型微调、部署或业务适配经验者加分；\n4.具备良好的逻辑思维、问题解决能力和沟通协作意识，对业务场景中算法落地有浓厚兴趣，能快速学习新技术。\n5.配合完成相关调研文档和项目材料。\n\n\n工作地：福建省厦门市翔安区新莲路 266 号-厦门市公安局翔安分局立即投递",
+      "jobId": "efbb3ae7-d5a5-4107-9fc5-e002284afb8a"
+    },
+    {
+      "title": "产品实习生发布于 2026-01-30南方交付中心南方交付中心|实习实习职位描述1.负责AI产品的版本规划、功能设计和PRD撰写，对数据敏感，能够将数据产品化，与研发配合完成产品开发与交付。2.联动算法与工程同学，支持ToB\\toG项目需求澄清、原型设计、验收标准与上线流程。3.参与产品迭代优化，数据监控、效果分析、发现和解决产品中的问题，提高产品质量和用户体验。4.深入研究、分析行业相关产品及方案的调研及竞品分析。职位要求1. 在读本科/硕士，理工/经管/统计/计算机等相关专业优先；每周可到岗4天以上，连续实习6个月及以上优先。2. 具备基础的数据分析能力，熟悉 SQL/数据可视化工具；了解基本的实验设计与指标分析方法。3. 对 LLM/AIGC 有浓厚兴趣，了解基本原理与常见应用流程（RAG、Function Calling、Agent 工具编排等）；有课程/项目/竞赛中相关作品加分。4. 良好的需求拆解与文档能力，逻辑清晰，善于与业务/研发沟通协作；自驱学习，责任心强。职位描述1.负责AI产品的版本规划、功能设计和PRD撰写，对数据敏感，能够将数据产品化，与研发配合完成产品开发与交付。2.联动算法与工程同学，支持ToB\\toG项目需求澄清、原型设计、验收标准与上线流程。3.参与产品迭代优化，数据监控、效果分析、发现和解决产品中的问题，提高产品质量和用户体验。4.深入研究、分析行业相关产品及方案的调研及竞品分析。职位要求1. 在读本科/硕士，理工/经管/统计/计算机等相关专业优先；每周可到岗4天以上，连续实习6个月及以上优先。2. 具备基础的数据分析能力，熟悉 SQL/数据可视化工具；了解基本的实验设计与指标分析方法。3. 对 LLM/AIGC 有浓厚兴趣，了解基本原理与常见应用流程（RAG、Function Calling、Agent 工具编排等）；有课程/项目/竞赛中相关作品加分。4. 良好的需求拆解与文档能力，逻辑清晰，善于与业务/研发沟通协作；自驱学习，责任心强。立即投递",
+      "jobId": "ca3b0d4a-7778-40e6-8a2e-494448029fdb"
+    }
+  ]
+}

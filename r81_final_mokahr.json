@@ -1,0 +1,326 @@
+{
+  "moonshot": [
+    {
+      "title": "全栈极客工程师（AI-Native 方向）",
+      "jobId": "750e5cb2-e24c-4338-a087-ea5c9c37bf6d"
+    },
+    {
+      "title": "国际化综合运营（合规方向）",
+      "jobId": "53cb4b45-f8f4-4fdf-ae47-05489bb1f5de"
+    },
+    {
+      "title": "线下活动策划（海外）",
+      "jobId": "93e45c79-3fe7-4231-89fa-8ef46ba83c22"
+    },
+    {
+      "title": " 营销媒介（商务）",
+      "jobId": "627842a2-157a-42ce-9b0c-9b2214a397eb"
+    },
+    {
+      "title": "海外商务合作专家",
+      "jobId": "71bebf06-f606-4bb9-9ec1-50b5fe6b39c0"
+    },
+    {
+      "title": "用户增长专家- SEO与内容策略",
+      "jobId": "e76a1776-9f98-4d0a-961c-26f18d003efb"
+    },
+    {
+      "title": "Kimi 品牌设计师（Brand Designer）",
+      "jobId": "5f21607d-cbef-4423-920e-35ce16c09cbc"
+    },
+    {
+      "title": "用户增长运营（达人营销方向）",
+      "jobId": "569ddd44-5514-46fa-9068-1682489e4c60"
+    },
+    {
+      "title": "国内PR专家",
+      "jobId": "c766bf8a-c9b8-4731-8996-192db824623e"
+    },
+    {
+      "title": "国内用户增长专家（投放方向）",
+      "jobId": "318d3a0b-ef39-4361-a27b-9c086933b7fe"
+    },
+    {
+      "title": "海外用户增长专家（投放方向）",
+      "jobId": "cd42cf26-518a-4dd6-bbd0-1cdfa1ece6f9"
+    },
+    {
+      "title": "资深后端工程师-商业化",
+      "jobId": "0079d23b-912d-4033-b9a4-22d7d970ba08"
+    },
+    {
+      "title": "AI 数据资源运营/采购经理",
+      "jobId": "0651d956-1b9f-47a3-9568-03afb140f3d9"
+    },
+    {
+      "title": "Post-Training Algorithm Researcher/Engineer",
+      "jobId": "faf002c6-3b8b-4154-912d-ec109001c28b"
+    },
+    {
+      "title": "Research Scientist / Engineer – Agentic RL/Infra",
+      "jobId": "d4a6a175-6506-4746-a6f4-2b736c0ce339"
+    },
+    {
+      "title": "RL Infra 研究工程师",
+      "jobId": "6a3ff164-ebcc-4b2f-97ac-0f21ed8327d4"
+    },
+    {
+      "title": "Coding 系统工程师",
+      "jobId": "5802f8af-f3f3-42bb-b9e6-0bf281017ff4"
+    },
+    {
+      "title": "大规模推理系统工程师",
+      "jobId": "3844381e-116a-46a5-a76c-c607c131ff39"
+    },
+    {
+      "title": "Infra 系统应用工程师",
+      "jobId": "ab9bb466-4f4e-4562-86f3-8306531b1481"
+    },
+    {
+      "title": "Partnership Development Manager",
+      "jobId": "ae51b1ff-b717-4f83-9405-1e58fe4a4245"
+    },
+    {
+      "title": "高性能分布式存储工程师",
+      "jobId": "4f904813-b256-4e0e-b14d-22b77e1cd47e"
+    },
+    {
+      "title": "数据安全专家",
+      "jobId": "5e739454-1a64-4023-91ec-655ec627b82f"
+    },
+    {
+      "title": "GPU算力采购经理",
+      "jobId": "b148c59d-c393-41e4-b6ca-c2bb190bceaa"
+    },
+    {
+      "title": "客服运营（境内外）",
+      "jobId": "a2a633e5-2e48-4b55-9664-cb18b52cf159"
+    },
+    {
+      "title": "Agentic Growth Engineer",
+      "jobId": "d8c3cd02-15c3-434c-9305-d8fdda83df0e"
+    },
+    {
+      "title": "Coding Agent  研发工程师｜Kimi Code",
+      "jobId": "82f07bb3-8bdc-4714-805f-43b1a22c238f"
+    },
+    {
+      "title": "开放平台产品经理",
+      "jobId": "17fe105b-470b-4a3b-949c-b783df163898"
+    },
+    {
+      "title": "AI数据平台工程师",
+      "jobId": "9e476b2f-fa31-4afc-b4c2-c4ab4d082ecd"
+    },
+    {
+      "title": "Business Builder & Ecosystem",
+      "jobId": "7e79b93b-25ec-4545-88b4-09754ec9bb79"
+    },
+    {
+      "title": "Solution Architect",
+      "jobId": "5d13f42e-8c37-4d25-a27e-b6c12d8c6f34"
+    },
+    {
+      "title": "资深资金专家 / Treasury Manager",
+      "jobId": "264fc83f-bc0c-4685-a2cc-a03e83f81d71"
+    },
+    {
+      "title": "Harness 研发工程师",
+      "jobId": "00c1cb89-07b3-4002-a04c-9e12f291f2a7"
+    },
+    {
+      "title": "Harness 研究工程师",
+      "jobId": "5ea32a28-6fa7-4572-9c98-5ea7584211df"
+    },
+    {
+      "title": "预训练数据工程师",
+      "jobId": "2810d77f-2de1-4e4c-bde6-a8cef249b5f2"
+    },
+    {
+      "title": "数据安全研发工程师",
+      "jobId": "a662d672-c6a4-44a4-b546-3c79f70dc290"
+    },
+    {
+      "title": "Agent Engineer / Agent 工程师",
+      "jobId": "958da220-11e5-49d9-9514-649ed40a84da"
+    },
+    {
+      "title": "评估系统工程师（Eval Engineer）",
+      "jobId": "9ee5017f-8124-4104-b9cc-e7bfb20921cf"
+    },
+    {
+      "title": "业务攻防技术专家",
+      "jobId": "40c3f46d-b802-430a-bf9c-b919192a82ef"
+    },
+    {
+      "title": "机器学习平台 SRE 工程师",
+      "jobId": "41901441-ace5-4297-9275-e2d93fae645e"
+    },
+    {
+      "title": "高级网络工程师 Senior Network Engineer",
+      "jobId": "2684c357-22fb-463d-85a4-9501f4cd9d2f"
+    }
+  ],
+  "yinhe": [
+    {
+      "title": "具身智能硬件 & Infra 项目经理",
+      "jobId": "1ebed796-a23a-4300-b30b-10f868e67d34"
+    },
+    {
+      "title": "机械臂规划控制资深工程师",
+      "jobId": "3cda561c-dc9d-44b2-bf90-7262e4fcda28"
+    },
+    {
+      "title": "具身智能仿真平台研发工程师",
+      "jobId": "87b113dd-bcec-4be2-a27b-0fa2d4632a09"
+    },
+    {
+      "title": "校园招聘专家",
+      "jobId": "d153736a-bb38-4c78-bf03-2a55c39fc78c"
+    },
+    {
+      "title": "机器人数据质量工程师",
+      "jobId": "d8e926a4-b126-4c72-87af-0a4185c8c6a3"
+    },
+    {
+      "title": "具身大模型算法工程师-工业预训练",
+      "jobId": "0d87a670-9932-40f0-b42f-838e85b6140f"
+    },
+    {
+      "title": "机器人规控软件工程师",
+      "jobId": "a8b071ec-7941-4076-b2f6-4861a9cc783a"
+    },
+    {
+      "title": "项目经理（人形算法方向）",
+      "jobId": "cb87c5b1-ce95-4f33-b06d-36bc929f6bf2"
+    },
+    {
+      "title": "项目经理（交互/数据采集方向）",
+      "jobId": "6e2144eb-7e45-40d3-bc48-d051ea0b6362"
+    },
+    {
+      "title": " VR-XR 设备标定专家",
+      "jobId": "ed682c59-8407-4cc9-bf65-f371b4512c6b"
+    },
+    {
+      "title": "机械工程师",
+      "jobId": "185fefb0-9ec8-4d65-9b74-ae28957e405c"
+    },
+    {
+      "title": "架构师（具身智能数据平台）",
+      "jobId": "cad86e85-09cc-43ef-989a-8412e857d40c"
+    },
+    {
+      "title": "具身数据工程师 · SDK / 工具链方向",
+      "jobId": "f2b57e98-3d15-4f91-b7ee-4d88cc5ed3e9"
+    },
+    {
+      "title": "人形机器人系统开发工程师",
+      "jobId": "106afaad-a17d-47cb-9a8b-f764d3746190"
+    },
+    {
+      "title": "具身数据算法工程师",
+      "jobId": "2d6d699c-d89e-4aa4-8b10-303be3127ce7"
+    },
+    {
+      "title": "SLAM算法工程师",
+      "jobId": "60b66ee9-2830-4d48-a751-76b866875d2f"
+    },
+    {
+      "title": "具身大模型算法工程师-工业后训练",
+      "jobId": "d31fddcb-437f-4374-a73b-39f84851805a"
+    },
+    {
+      "title": "机器人学习算法工程师-工业操作策略",
+      "jobId": "26d5a23d-d941-4863-a931-3d0b77e840ad"
+    },
+    {
+      "title": "算子开发工程师",
+      "jobId": "c4f09105-11b3-40d5-9a68-ef70c1749937"
+    },
+    {
+      "title": "训练基础设施工程师",
+      "jobId": "1dd0773a-16ed-4c96-bc8a-bc110095a73c"
+    },
+    {
+      "title": "底层推理工程师",
+      "jobId": "7d27a262-a0fa-41f9-b3cd-765899a11b9e"
+    },
+    {
+      "title": "具身多模态大模型算法工程师（数据方向）",
+      "jobId": "b2596f48-ae97-42b9-9a9d-ff4088efb1cd"
+    },
+    {
+      "title": "具身智能数据基建项目经理（PM）",
+      "jobId": "88bbd0bd-ee6d-4af5-adb8-9b44a48127fb"
+    },
+    {
+      "title": "具身大模型算法工程师-北京",
+      "jobId": "bcb752ae-3384-4e41-ac92-d17e22e0c8f5"
+    },
+    {
+      "title": "具身智能项目经理/解决方案经理",
+      "jobId": "dfb49fb0-9160-4b18-a878-2753b6cc2745"
+    },
+    {
+      "title": "展会展览项目专员",
+      "jobId": "08faa9a2-584b-4e24-9d27-d967a8604ea3"
+    },
+    {
+      "title": "项目经理（交互/数据采集方向）",
+      "jobId": "9c957044-a640-4894-9134-e2b574d98851"
+    },
+    {
+      "title": "海外交付项目经理",
+      "jobId": "02d41c19-ac9a-4a46-8f7a-79e9442af36a"
+    },
+    {
+      "title": "深圳-硬件产品经理",
+      "jobId": "edc48034-ecd3-4cf3-ab3b-6ef6a99f3d06"
+    },
+    {
+      "title": "嵌入式应用工程师--人形机器人",
+      "jobId": "3ed782b2-5066-4e95-a4dc-1451cfb4dbde"
+    },
+    {
+      "title": "北京-硬件产品经理",
+      "jobId": "d5f86cfa-d137-4be1-99a7-28991f417292"
+    },
+    {
+      "title": "海外业务拓展总监",
+      "jobId": "86832d05-e245-43d5-9273-07a5c43d0e9c"
+    },
+    {
+      "title": "人形产品经理",
+      "jobId": "69ae4169-c8a3-4c21-8c57-0181da18f220"
+    },
+    {
+      "title": "机器人仿真与强化学习算法工程师",
+      "jobId": "5f9096d2-544b-4a3c-b402-cac7c425d6dc"
+    },
+    {
+      "title": "招聘专家",
+      "jobId": "96e96fc6-edb6-43ef-8d29-274d6e32f1bd"
+    },
+    {
+      "title": "内容策划",
+      "jobId": "ee334b58-2ea0-441d-b9a8-1aab9b06122f"
+    },
+    {
+      "title": "SSC专员",
+      "jobId": "156df7f9-bc12-4a45-ab9e-f9258aa853eb"
+    },
+    {
+      "title": "机器人规控软件测试工程师",
+      "jobId": "05d56513-c051-4928-91c6-48f7aba201cb"
+    },
+    {
+      "title": "系统性能测试工程师",
+      "jobId": "4ea2ddf1-c021-4a24-a886-1c3743332f09"
+    },
+    {
+      "title": "双足人形机器人控制算法工程师（WBC/MPC方向）",
+      "jobId": "2e3f96b0-b0b5-4a9f-8e34-41cc999dd749"
+    }
+  ]
+}
